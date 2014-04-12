@@ -19,7 +19,6 @@ TARGETS_COMMON = \
      $(PREFIX2).autolex.bin \
      $(PREFIX1).rlx.bin \
      $(PREFIX2).rlx.bin \
-     $(PREFIX1).autobil.bin \
      $(PREFIX1).autobil.bin $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
      $(PREFIX2).autobil.bin $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
      $(PREFIX2).autogen.bin \
@@ -35,8 +34,17 @@ TARGETS_COMMON = \
 ## Transducers, disambiguation rules, transfer
 ###############################################################################
 
+$(PREFIX2).rlx.bin: $(BASENAME).$(PREFIX2).rlx 
+	cg-comp $^ $@
+
 $(PREFIX1).rlx.bin: $(AP_LIB1)/apertium-$(LANG1).$(LANG1).rlx 
 	cg-comp $^ $@
+
+.deps/$(LANG2).automorf.bin: $(BASENAME).$(LANG2).dix .deps/.d
+	lt-comp lr $(BASENAME).$(LANG2).dix $@
+
+$(PREFIX2).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
+	lt-trim $^ $@
 
 $(PREFIX1).automorf.bin: $(AP_LIB1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
 	lt-trim $^ $@
@@ -51,9 +59,9 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@
 
-$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX2).dix
+$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
-	lt-comp lr $< $@
+	lt-comp rl $< $@
 
 $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 	apertium-validate-transfer $<
@@ -87,11 +95,11 @@ $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@
 
-$(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).dix
+$(PREFIX2).autogen.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).dix
 	apertium-validate-dictionary $<
 	lt-comp rl $< $@
 
-$(PREFIX2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
+$(PREFIX2).autopgen.bin: $(AP_SRC1)/apertium-$(LANG1).post-$(LANG1).dix
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@
 

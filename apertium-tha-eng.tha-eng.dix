@@ -8,8 +8,12 @@
     <sdef n="tv"      c="Transitive"/>
 
     <sdef n="pers"    c="Personal"/>
+    <sdef n="ind"     c="Indefinite"/>
+
     <sdef n="p1"      c="First person"/>
+
     <sdef n="mf"      c="Masculine/feminine"/>
+
     <sdef n="sg"      c="Singular"/>
   </sdefs>
   <section id="main" type="standard">
