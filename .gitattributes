@@ -1,0 +1,17 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-tha-eng.eng-tha.lrx -text
+/apertium-tha-eng.eng.dix -text
+/apertium-tha-eng.tha-eng.dix -text
+/apertium-tha-eng.tha-eng.lrx -text
+/apertium-tha-eng.tha-eng.t1x -text
+/apertium-tha-eng.tha-eng.t2x -text
+/apertium-tha-eng.tha-eng.t3x -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text

@@ -1,0 +1,33 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="n"       c="Noun"/>
+    <sdef n="prn"     c="Pronoun"/>
+    <sdef n="det"     c="Determiner"/>
+    <sdef n="vblex"   c="Verb"/>
+    <sdef n="tv"      c="Transitive"/>
+
+    <sdef n="pers"    c="Personal"/>
+    <sdef n="p1"      c="First person"/>
+    <sdef n="mf"      c="Masculine/feminine"/>
+    <sdef n="sg"      c="Singular"/>
+  </sdefs>
+  <section id="main" type="standard">
+    <!-- SECTION: Pronouns -->
+
+    <e><p><l>ฉัน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+
+    <!-- SECTION: Determiners -->
+
+    <e><p><l>หนึ่ง<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
+
+    <!-- SECTION: Nouns -->
+
+    <e><p><l>แมว<s n="n"/></l><r>cat<s n="n"/></r></p></e>
+
+    <!-- SECTION: Verbs -->
+
+    <e><p><l>กิน<s n="vblex"/><s n="tv"/></l><r>eat<s n="vblex"/></r></p></e>
+
+  </section>
+</dictionary>
