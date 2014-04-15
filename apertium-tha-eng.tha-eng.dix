@@ -30,18 +30,17 @@
     <!-- SECTION: Nouns -->
     <e><p><l>การงดออกเสียง<s n="n"/></l><r>abstention<s n="n"/></r></p></e>
     <e><p><l>ระเบียบวาระการประชุม<s n="n"/></l><r>agenda<s n="n"/></r></p></e>
-    <e><p><l>เอเชีย<s n="n"/></l><r>Asia<s n="n"/></r></p></e>
+    <e r="RL"><p><l>เอเชีย<s n="n"/></l><r>Asia<s n="n"/></r></p></e>
     <e><p><l>คำรับสารภาพ<s n="n"/></l><r>confession<s n="n"/></r></p></e>
     <e><p><l>รถจักรยานยนต์<s n="n"/></l><r>motorcycle<s n="n"/></r></p></e>
     <e><p><l>รากศัพท์<s n="n"/></l><r>root<s n="n"/></r></p></e>
-    <e><p><l>ความเข้มแข็ง<s n="n"/></l><r>strength<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ความเข้มแข็ง<s n="n"/></l><r>strength<s n="n"/></r></p></e>
     <e><p><l>ความเด่นดัง<s n="n"/></l><r>fame<s n="n"/></r></p></e>
     <e><p><l>ความนัย<s n="n"/></l><r>implication<s n="n"/></r></p></e>
     <e><p><l>ความสำคัญ<s n="n"/></l><r>importance<s n="n"/></r></p></e>
     <e><p><l>ความเห็นแก่ได้<s n="n"/></l><r>exploitation<s n="n"/></r></p></e>
     <e><p><l>ความเห็นแก่ตัว<s n="n"/></l><r>selfishness<s n="n"/></r></p></e>
     <e><p><l>ความเหลื่อมล้ำ<s n="n"/></l><r>difference<s n="n"/></r></p></e>
-    <e><p><l>ความอ่อนแอ<s n="n"/></l><r>weakness<s n="n"/></r></p></e>
     <e><p><l>ความอ่อนแอ<s n="n"/></l><r>weakness<s n="n"/></r></p></e>
     <e><p><l>คำขอโทษ<s n="n"/></l><r>excuse<s n="n"/></r></p></e>
     <e><p><l>คำขอบคุณ<s n="n"/></l><r>thank<s n="n"/></r></p></e>
@@ -55,8 +54,6 @@
     <e><p><l>ภุมริน<s n="n"/></l><r>bee<s n="n"/></r></p></e>
     <e><p><l>ภุมรี<s n="n"/></l><r>bee<s n="n"/></r></p></e>
     <e><p><l>ภุมเรศ<s n="n"/></l><r>bee<s n="n"/></r></p></e>
-    <e><p><l>ภูเขาน้ำแข็ง<s n="n"/></l><r>iceberg<s n="n"/></r></p></e>
-    <e><p><l>ภูเขาไฟ<s n="n"/></l><r>volcano<s n="n"/></r></p></e>
     <e><p><l>ภูดล<s n="n"/></l><r>earth<s n="n"/></r></p></e>
     <e><p><l>ภูต<s n="n"/></l><r>spirit<s n="n"/></r></p></e>
     <e><p><l>ภูตผีปิศาจ<s n="n"/></l><r>ghost<s n="n"/></r></p></e>
@@ -101,7 +98,7 @@
     <e><p><l>ผู้ประสานงาน<s n="n"/></l><r>coordinator<s n="n"/></r></p></e>
     <e><p><l>ผู้ปรับปรุง<s n="n"/></l><r>reformer<s n="n"/></r></p></e>
     <e><p><l>ผู้พ่ายแพ้<s n="n"/></l><r>loser<s n="n"/></r></p></e>
-    <e><p><l>ผู้รอดชีวิต<s n="n"/></l><r>survivor<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ผู้รอดชีวิต<s n="n"/></l><r>survivor<s n="n"/></r></p></e>
     <e><p><l>ผู้รับ<s n="n"/></l><r>receiver<s n="n"/></r></p></e>
     <e><p><l>ผู้รับใช้<s n="n"/></l><r>servant<s n="n"/></r></p></e>
     <e><p><l>ผู้รายงาน<s n="n"/></l><r>reporter<s n="n"/></r></p></e>
@@ -118,7 +115,7 @@
     <e><p><l>ผู้นำเข้า<s n="n"/></l><r>importer<s n="n"/></r></p></e>
     <e><p><l>ฟากฟ้า<s n="n"/></l><r>sky<s n="n"/></r></p></e>
     <e><p><l>ภาพพจน์<s n="n"/></l><r>image<s n="n"/></r></p></e>
-    <e><p><l>มลพิษ<s n="n"/></l><r>pollution<s n="n"/></r></p></e>
+    <e r="RL"><p><l>มลพิษ<s n="n"/></l><r>pollution<s n="n"/></r></p></e>
     <e><p><l>มลภาวะ<s n="n"/></l><r>contamination<s n="n"/></r></p></e>
     <e><p><l>มิ่งขวัญ<s n="n"/></l><r>idol<s n="n"/></r></p></e>
     <e><p><l>มิลลิกรัม<s n="n"/></l><r>milligram<s n="n"/></r></p></e>
@@ -545,7 +542,7 @@
     <e><p><l>โรงพยาบาล<s n="n"/></l><r>hospital<s n="n"/></r></p></e>
     <e><p><l>โรงพิมพ์<s n="n"/></l><r>press<s n="n"/></r></p></e>
     <e><p><l>โรงเรียน<s n="n"/></l><r>school<s n="n"/></r></p></e>
-    <e><p><l>โรงแรม<s n="n"/></l><r>hotel<s n="n"/></r></p></e>
+    <e r="RL"><p><l>โรงแรม<s n="n"/></l><r>hotel<s n="n"/></r></p></e>
     <e><p><l>โรงสี<s n="n"/></l><r>mill<s n="n"/></r></p></e>
     <e><p><l>โรงหนัง<s n="n"/></l><r>theatre<s n="n"/></r></p></e>
     <e><p><l>ไร่นา<s n="n"/></l><r>field<s n="n"/></r></p></e>
@@ -1480,7 +1477,7 @@
     <e><p><l>ลูกทีม<s n="n"/></l><r>staff<s n="n"/></r></p></e>
     <e><p><l>โลหะผสม<s n="n"/></l><r>alloy<s n="n"/></r></p></e>
     <e><p><l>โล่<s n="n"/></l><r>shield<s n="n"/></r></p></e>
-    <e><p><l>โลก<s n="n"/></l><r>earth<s n="n"/></r></p></e>
+    <e r="RL"><p><l>โลก<s n="n"/></l><r>earth<s n="n"/></r></p></e>
     <e><p><l>วรรณกรรม<s n="n"/></l><r>literature<s n="n"/></r></p></e>
     <e><p><l>วงกลม<s n="n"/></l><r>circle<s n="n"/></r></p></e>
     <e><p><l>วงดนตรี<s n="n"/></l><r>band<s n="n"/></r></p></e>
@@ -1754,7 +1751,7 @@
     <e><p><l>เทียน<s n="n"/></l><r>candle<s n="n"/></r></p></e>
     <e><p><l>โทสะ<s n="n"/></l><r>rage<s n="n"/></r></p></e>
     <e><p><l>เที่ยว<s n="n"/></l><r>time<s n="n"/></r></p></e>
-    <e><p><l>เทพเจ้า<s n="n"/></l><r>god<s n="n"/></r></p></e>
+    <e r="RL"><p><l>เทพเจ้า<s n="n"/></l><r>god<s n="n"/></r></p></e>
     <e><p><l>เท้า<s n="n"/></l><r>foot<s n="n"/></r></p></e>
     <e><p><l>น้ำเชื้อ<s n="n"/></l><r>semen<s n="n"/></r></p></e>
     <e><p><l>น้ำหมึก<s n="n"/></l><r>ink<s n="n"/></r></p></e>
@@ -1903,7 +1900,7 @@
     <e><p><l>คอร์รัปชั่น<s n="n"/></l><r>corruption<s n="n"/></r></p></e>
     <e><p><l>จอมบงการ<s n="n"/></l><r>dictator<s n="n"/></r></p></e>
     <e><p><l>ความเหงา<s n="n"/></l><r>loneliness<s n="n"/></r></p></e>
-    <e><p><l>ความแตกต่าง<s n="n"/></l><r>difference<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ความแตกต่าง<s n="n"/></l><r>difference<s n="n"/></r></p></e>
     <e><p><l>ความทระนง<s n="n"/></l><r>pride<s n="n"/></r></p></e>
     <e><p><l>ความร่ำรวย<s n="n"/></l><r>wealth<s n="n"/></r></p></e>
     <e><p><l>ความมั่งคั่ง<s n="n"/></l><r>wealth<s n="n"/></r></p></e>
@@ -3440,7 +3437,7 @@
     <e><p><l>ฟันดาบ<s n="n"/></l><r>fence<s n="n"/></r></p></e>
     <e><p><l>ฟันเฟือง<s n="n"/></l><r>cog<s n="n"/></r></p></e>
     <e><p><l>ฟ้า<s n="n"/></l><r>blue<s n="n"/></r></p></e>
-    <e><p><l>ฟ้า<s n="n"/></l><r>sky<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ฟ้า<s n="n"/></l><r>sky<s n="n"/></r></p></e>
     <e><p><l>ฟ้า<s n="n"/></l><r>heaven<s n="n"/></r></p></e>
     <e><p><l>ฟาก<s n="n"/></l><r>bank<s n="n"/></r></p></e>
     <e><p><l>ฟ้าคะนอง<s n="n"/></l><r>thunder<s n="n"/></r></p></e>
@@ -6602,7 +6599,7 @@
     <e><p><l>คนรถ<s n="n"/></l><r>driver<s n="n"/></r></p></e>
     <e><p><l>คนรัก<s n="n"/></l><r>lover<s n="n"/></r></p></e>
     <e><p><l>คนรับ<s n="n"/></l><r>receiver<s n="n"/></r></p></e>
-    <e><p><l>คนรับใช้<s n="n"/></l><r>servant<s n="n"/></r></p></e>
+    <e r="RL"><p><l>คนรับใช้<s n="n"/></l><r>servant<s n="n"/></r></p></e>
     <e><p><l>คนร้าย<s n="n"/></l><r>outlaw<s n="n"/></r></p></e>
     <e><p><l>คนรุ่นเดียวกัน<s n="n"/></l><r>contemporary<s n="n"/></r></p></e>
     <e><p><l>คนเรา<s n="n"/></l><r>human<s n="n"/></r></p></e>
@@ -8878,7 +8875,7 @@
     <e><p><l>รุ่น<s n="n"/></l><r>age<s n="n"/></r></p></e>
     <e><p><l>สมัย<s n="n"/></l><r>age<s n="n"/></r></p></e>
     <e><p><l>อายุ<s n="n"/></l><r>age<s n="n"/></r></p></e>
-    <e><p><l>กำหนดการ<s n="n"/></l><r>agenda<s n="n"/></r></p></e>
+    <e r="RL"><p><l>กำหนดการ<s n="n"/></l><r>agenda<s n="n"/></r></p></e>
     <e><p><l>ตัวกระทำ<s n="n"/></l><r>agent<s n="n"/></r></p></e>
     <e><p><l>ตัวแทน<s n="n"/></l><r>agent<s n="n"/></r></p></e>
     <e><p><l>ผู้กระทำ<s n="n"/></l><r>agent<s n="n"/></r></p></e>
@@ -9602,7 +9599,7 @@
     <e><p><l>ฐานของถนนหรือรางรถไฟ<s n="n"/></l><r>bed<s n="n"/></r></p></e>
     <e><p><l>ชั้นหิน<s n="n"/></l><r>bed<s n="n"/></r></p></e>
     <e><p><l>ห้องนอน<s n="n"/></l><r>bedroom<s n="n"/></r></p></e>
-    <e><p><l>ผึ้ง<s n="n"/></l><r>bee<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ผึ้ง<s n="n"/></l><r>bee<s n="n"/></r></p></e>
     <e><p><l>การรวมตัวเพื่อทำกิจกรรมร่วมกัน<s n="n"/></l><r>bee<s n="n"/></r></p></e>
     <e><p><l>เนื้อวัว<s n="n"/></l><r>beef<s n="n"/></r></p></e>
     <e><p><l>การบ่น<s n="n"/></l><r>beef<s n="n"/></r></p></e>
@@ -12542,7 +12539,7 @@
     <e><p><l>การอธิบาย, การชี้แจง, การขยายความ<s n="n"/></l><r>explanation<s n="n"/></r></p></e>
     <e><p><l>คำชี้แจง<s n="n"/></l><r>explanation<s n="n"/></r></p></e>
     <e><p><l>การกระทำที่กล้าหาญ<s n="n"/></l><r>exploit<s n="n"/></r></p></e>
-    <e><p><l>การใช้หาประโยชน์อย่างไม่ถูกต้อง<s n="n"/></l><r>exploitation<s n="n"/></r></p></e>
+    <e r="RL"><p><l>การใช้หาประโยชน์อย่างไม่ถูกต้อง<s n="n"/></l><r>exploitation<s n="n"/></r></p></e>
     <e><p><l>การสำรวจ<s n="n"/></l><r>exploration<s n="n"/></r></p></e>
     <e><p><l>การระเบิด<s n="n"/></l><r>explosion<s n="n"/></r></p></e>
     <e><p><l>สิ่งที่ระเบิดได้<s n="n"/></l><r>explosive<s n="n"/></r></p></e>
@@ -13207,7 +13204,7 @@
     <e><p><l>ตำรวจลับนาซ<s n="n"/></l><r>Gestapo<s n="n"/></r></p></e>
     <e><p><l>การตั้งครรภ์<s n="n"/></l><r>gestation<s n="n"/></r></p></e>
     <e><p><l>การแสดงท่าทาง<s n="n"/></l><r>gesture<s n="n"/></r></p></e>
-    <e><p><l>ผี<s n="n"/></l><r>ghost<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ผี<s n="n"/></l><r>ghost<s n="n"/></r></p></e>
     <e><p><l>ยักษ์<s n="n"/></l><r>giant<s n="n"/></r></p></e>
     <e><p><l>ยักษิณี<s n="n"/></l><r>giantess<s n="n"/></r></p></e>
     <e><p><l>ลิ่ม<s n="n"/></l><r>gib<s n="n"/></r></p></e>
@@ -13844,7 +13841,7 @@
     <e><p><l>กระบวนการฝังตัวของไข่ที่ผสมแล้วในผนังมดลูก<s n="n"/></l><r>implantation<s n="n"/></r></p></e>
     <e><p><l>การปลูกฝัง<s n="n"/></l><r>implantation<s n="n"/></r></p></e>
     <e><p><l>อุปกรณ์เครื่องใช้<s n="n"/></l><r>implement<s n="n"/></r></p></e>
-    <e><p><l>ความหมายโดยนัย<s n="n"/></l><r>implication<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ความหมายโดยนัย<s n="n"/></l><r>implication<s n="n"/></r></p></e>
     <e><p><l>การนำเข้า<s n="n"/></l><r>import<s n="n"/></r></p></e>
     <e><p><l>ความสำคัญ<s n="n"/></l><r>import<s n="n"/></r></p></e>
     <e><p><l>ความสำคัญ<s n="n"/></l><r>importance<s n="n"/></r></p></e>
@@ -15562,7 +15559,7 @@
     <e><p><l>เครื่องยนต์<s n="n"/></l><r>motor<s n="n"/></r></p></e>
     <e><p><l>รถยนต์<s n="n"/></l><r>motor<s n="n"/></r></p></e>
     <e><p><l>รถจักรยานยนต์<s n="n"/></l><r>motorbike<s n="n"/></r></p></e>
-    <e><p><l>รถจักรยานยนต์<s n="n"/></l><r>motorcycle<s n="n"/></r></p></e>
+    <e r="RL"><p><l>รถจักรยานยนต์<s n="n"/></l><r>motorcycle<s n="n"/></r></p></e>
     <e><p><l>การเดินทาง<s n="n"/></l><r>motoring<s n="n"/></r></p></e>
     <e><p><l>คนขับรถยนต์<s n="n"/></l><r>motorist<s n="n"/></r></p></e>
     <e><p><l>ภาษิต<s n="n"/></l><r>motto<s n="n"/></r></p></e>
@@ -18149,7 +18146,7 @@
     <e><p><l>ห้อง<s n="n"/></l><r>room<s n="n"/></r></p></e>
     <e><p><l>คนที่อยู่ในห้อง<s n="n"/></l><r>room<s n="n"/></r></p></e>
     <e><p><l>โอกาส<s n="n"/></l><r>room<s n="n"/></r></p></e>
-    <e><p><l>ราก<s n="n"/></l><r>root<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ราก<s n="n"/></l><r>root<s n="n"/></r></p></e>
     <e><p><l>รากฟัน<s n="n"/></l><r>root<s n="n"/></r></p></e>
     <e><p><l>รากเหง้า<s n="n"/></l><r>root<s n="n"/></r></p></e>
     <e><p><l>รากในคณิตศาสตร์<s n="n"/></l><r>root<s n="n"/></r></p></e>
@@ -18558,7 +18555,7 @@
     <e><p><l>การคัดเลือก<s n="n"/></l><r>selection<s n="n"/></r></p></e>
     <e><p><l>ผู้ที่ได้รับการคัดเลือก<s n="n"/></l><r>selection<s n="n"/></r></p></e>
     <e><p><l>ตัวเลือก<s n="n"/></l><r>selection<s n="n"/></r></p></e>
-    <e><p><l>ความเห็นแก่ตัว<s n="n"/></l><r>selfishness<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ความเห็นแก่ตัว<s n="n"/></l><r>selfishness<s n="n"/></r></p></e>
     <e><p><l>ผู้ขาย<s n="n"/></l><r>seller<s n="n"/></r></p></e>
     <e><p><l>สินค้า<s n="n"/></l><r>seller<s n="n"/></r></p></e>
     <e><p><l>น้ำอสุจิ<s n="n"/></l><r>semen<s n="n"/></r></p></e>
@@ -18972,7 +18969,6 @@
     <e><p><l>คำพูดใส่ร้าย<s n="n"/></l><r>smear<s n="n"/></r></p></e>
     <e><p><l>คราบอสุจิบริเวณอวัยวะเพศผู้หญิง<s n="n"/></l><r>smegma<s n="n"/></r></p></e>
     <e><p><l>กลิ่น<s n="n"/></l><r>smell<s n="n"/></r></p></e>
-    <e><p><l>รอยยิ้ม<s n="n"/></l><r>smile<s n="n"/></r></p></e>
     <e><p><l>ช่างเหล็ก<s n="n"/></l><r>smith<s n="n"/></r></p></e>
     <e><p><l>หมอกควัน<s n="n"/></l><r>smog<s n="n"/></r></p></e>
     <e><p><l>ควัน<s n="n"/></l><r>smoke<s n="n"/></r></p></e>
@@ -26244,7 +26240,7 @@
     <e><p><l>ไปในทางที่คดเคี้ยว<s n="vblex"/></l><r>wander<s n="vblex"/></r></p></e>
     <e><p><l>เดินเล่น<s n="vblex"/></l><r>wander<s n="vblex"/></r></p></e>
     <e><p><l>พูดหรือเขียนไม่ชัดเจน<s n="vblex"/></l><r>wander<s n="vblex"/></r></p></e>
-    <e><p><l>ต้องการ<s n="vblex"/></l><r>want<s n="vblex"/><s n="tv"/></r></p></e>
+    <e r="RL"><p><l>ต้องการ<s n="vblex"/></l><r>want<s n="vblex"/><s n="tv"/></r></p></e>
     <e><p><l>รู้สึกขาดไป<s n="vblex"/></l><r>want<s n="vblex"/><s n="tv"/></r></p></e>
     <e><p><l>ล่าตัว<s n="vblex"/></l><r>want<s n="vblex"/><s n="tv"/></r></p></e>
     <e><p><l>ต้องการมีความสัมพันธ์ทางเพศกับ<s n="vblex"/></l><r>want<s n="vblex"/><s n="tv"/></r></p></e>
@@ -26418,6 +26414,7 @@
     <e><p><l>้เกิดเสียงดังหวือผ่านไป<s n="vblex"/></l><r>zing<s n="vblex"/></r></p></e>
     <e><p><l>ทำให้เป็นเขต แนว แถบ โซนหรือภาค<s n="vblex"/></l><r>zone<s n="vblex"/><s n="tv"/></r></p></e>
     <e><p><l>แบ่งเป็นเขต แนว แถบ โซนหรือภาค<s n="vblex"/></l><r>zone<s n="vblex"/></r></p></e>
+    <e><p><l>เห็น<s n="vblex"/></l><r>see<s n="vblex"/><s n="tv"/></r></p></e>
 
     <!-- SECTION: Prepositions -->
     <e><p><l>สำหรับ<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
