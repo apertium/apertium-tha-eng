@@ -27,6 +27,11 @@
     <sdef n="obj"      c="Object"/>
 
     <sdef n="pr"      c="Preposition"/>
+
+    <sdef n="cnjcoo"      c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub"      c="Sub-ordinating conjunction"/>
+    <sdef n="cnjadv"      c="Conjunctive adverb"/>
+
   </sdefs>
   <section id="main" type="standard">
     <!-- SECTION: Pronouns -->
@@ -51,6 +56,79 @@
     <e><p><l>นี้<s n="det"/></l><r>this<s n="det"/></r></p></e>
     <e><p><l>หนึ่ง<s n="det"/></l><r>a<s n="det"/></r></p></e>
     <e><p><l>มากมาย<s n="det"/></l><r>many<s n="det"/></r></p></e>
+
+
+    <!-- SECTION: Conjuctions -->
+    <e><p><l>และ<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ทั้ง<s n="cnjcoo"/></l><r>both<s n="cnjcoo"/></r></p></e>
+    <e><p><l>แต่<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e><p><l>แต่<s n="cnjcoo"/></l><r>but<b/>rather<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ถ้าไม่<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ไม่<s n="cnjcoo"/></l><r>neither<s n="cnjcoo"/></r></p></e>
+    <e><p><l>หลังจาก<s n="cnjadv"/></l><r>after<s n="cnjadv"/></r></p></e>
+    <e><p><l>ถึงแม้ว่า<s n="cnjadv"/></l><r>although<s n="cnjadv"/></r></p></e>
+    <e><p><l>ถึงแม้ว่า<s n="cnjsub"/></l><r>although<s n="cnjsub"/></r></p></e>
+    <e><p><l>และ<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e><p><l>เนื่องจาก<s n="cnjadv"/></l><r>as<s n="cnjadv"/></r></p></e>
+    <e><p><l>เนื่องจาก<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
+    <e><p><l>ราวกับ<s n="cnjadv"/></l><r>as if<s n="cnjadv"/></r></p></e>
+    <e><p><l>ราวกับ<s n="cnjsub"/></l><r>as if<s n="cnjsub"/></r></p></e>
+    <e><p><l>ราวกับ<s n="cnjsub"/></l><r>as if<s n="cnjsub"/></r></p></e>
+    <e><p><l>ตราบเท่าที่<s n="cnjadv"/></l><r>as long as<s n="cnjadv"/></r></p></e>
+    <e><p><l>ทันทีที่<s n="cnjadv"/></l><r>as soon as<s n="cnjadv"/></r></p></e>
+    <e><p><l>ทันทีที่<s n="cnjsub"/></l><r>as soon as<s n="cnjsub"/></r></p></e>
+    <e><p><l>ราวกับ<s n="cnjadv"/></l><r>as though<s n="cnjadv"/></r></p></e>
+    <e><p><l>ราวกับ<s n="cnjsub"/></l><r>as though<s n="cnjsub"/></r></p></e>
+    <e><p><l>ราวกับ<s n="cnjadv"/></l><r>as though<s n="cnjadv"/></r></p></e>
+    <e><p><l>ราวกับ<s n="cnjsub"/></l><r>as though<s n="cnjsub"/></r></p></e>
+    <e><p><l>เพราะว่า<s n="cnjadv"/></l><r>because<s n="cnjadv"/></r></p></e>
+    <e><p><l>เพราะว่า<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
+    <e><p><l>ก่อนหน้านี้เมื่อ<s n="cnjsub"/></l><r>before<s n="cnjsub"/></r></p></e>
+    <e><p><l>เหมือนๆ กัน<s n="cnjcoo"/></l><r>both<s n="cnjcoo"/></r></p></e>
+    <e><p><l>แต่<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ถ้าไม่<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
+    <e><p><l>เพราะว่า<s n="cnjadv"/></l><r>for<s n="cnjadv"/></r></p></e>
+    <e><p><l>ตัวอย่างเช่น<s n="cnjadv"/></l><r>for instance<s n="cnjadv"/></r></p></e>
+    <e><p><l>ถ้า<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e><p><l>ถ้าอย่างนั้น<s n="cnjsub"/></l><r>in case that<s n="cnjsub"/></r></p></e>
+    <e><p><l>เพื่อว่า<s n="cnjsub"/></l><r>in order that<s n="cnjsub"/></r></p></e>
+    <e><p><l>เพราะฉะนั้น<s n="cnjadv"/></l><r>inasmuch as<s n="cnjadv"/></r></p></e>
+    <e><p><l>เพราะฉะนั้น<s n="cnjsub"/></l><r>inasmuch as<s n="cnjsub"/></r></p></e>
+    <e><p><l>ตราบเท่าที่<s n="cnjadv"/></l><r>insofar as<s n="cnjadv"/></r></p></e>
+    <e><p><l>ตราบเท่าที่<s n="cnjsub"/></l><r>insofar as<s n="cnjsub"/></r></p></e>
+    <e><p><l>ต่างก็ไม่<s n="cnjcoo"/></l><r>neither<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ไม่<s n="cnjcoo"/></l><r>nor<s n="cnjcoo"/></r></p></e>
+    <e><p><l>เพราะว่า<s n="cnjsub"/></l><r>now that<s n="cnjsub"/></r></p></e>
+    <e><p><l>หรือ<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e><p><l>โดยมีเงื่อนไขว่า<s n="cnjadv"/></l><r>provided<s n="cnjadv"/></r></p></e>
+    <e><p><l>ตั้งแต่<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
+    <e><p><l>เนื่องจาก<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
+    <e><p><l>เพื่อว่า<s n="cnjadv"/></l><r>so<s n="cnjadv"/></r></p></e>
+    <e><p><l>กว่า<s n="cnjcoo"/></l><r>than<s n="cnjcoo"/></r></p></e>
+    <e><p><l>เพราะว่า<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>ถึงแม้ว่า<s n="cnjadv"/></l><r>though<s n="cnjadv"/></r></p></e>
+    <e><p><l>ถึงแม้ว่า<s n="cnjsub"/></l><r>though<s n="cnjsub"/></r></p></e>
+    <e><p><l>ถ้าไม่<s n="cnjadv"/></l><r>unless<s n="cnjadv"/></r></p></e>
+    <e><p><l>ถ้าไม่<s n="cnjsub"/></l><r>unless<s n="cnjsub"/></r></p></e>
+    <e><p><l>จนกระทั่ง<s n="cnjadv"/></l><r>until<s n="cnjadv"/></r></p></e>
+    <e><p><l>จนกระทั่ง<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
+    <e><p><l>ก่อนที่จะ<s n="cnjadv"/></l><r>until<s n="cnjadv"/></r></p></e>
+    <e><p><l>ก่อนที่จะ<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
+    <e><p><l>มากเท่าที่<s n="cnjsub"/></l><r>what<s n="cnjsub"/></r></p></e>
+    <e><p><l>เมื่อหรือขณะที่<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
+    <e><p><l>เมื่อหรือขณะที่<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
+    <e><p><l>ถ้า<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
+    <e><p><l>ถ้า<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
+    <e><p><l>แม้ว่า<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
+    <e><p><l>แม้ว่า<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
+    <e><p><l>ในทางตรงกันข้าม<s n="cnjadv"/></l><r>whereas<s n="cnjadv"/></r></p></e>
+    <e><p><l>ไม่ว่าจะ<s n="cnjadv"/></l><r>whether<s n="cnjadv"/></r></p></e>
+    <e><p><l>ไม่ว่าจะ<s n="cnjsub"/></l><r>whether<s n="cnjsub"/></r></p></e>
+    <e><p><l>ขณะที่<s n="cnjadv"/></l><r>while<s n="cnjadv"/></r></p></e>
+    <e><p><l>ขณะที่<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
+    <e><p><l>ถึงอย่างนั้น<s n="cnjadv"/></l><r>yet<s n="cnjadv"/></r></p></e>
+ 
+
 
     <!-- SECTION: Nouns -->
     <e><p><l>การงดออกเสียง<s n="n"/></l><r>abstention<s n="n"/></r></p></e>
