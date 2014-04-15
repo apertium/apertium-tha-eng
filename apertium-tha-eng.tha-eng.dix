@@ -12,12 +12,17 @@
     <sdef n="ind"     c="Indefinite"/>
 
     <sdef n="p1"      c="First person"/>
+    <sdef n="p2"      c="Second person"/>
     <sdef n="p3"      c="Third person"/>
 
     <sdef n="mf"      c="Masculine/feminine"/>
+    <sdef n="m"      c="Masculine"/>
     <sdef n="f"      c="Feminine"/>
 
     <sdef n="sg"      c="Singular"/>
+    <sdef n="pl"      c="Plural"/>
+    <sdef n="sp"      c="Singular/Plural"/>
+    
     <sdef n="subj"      c="Subject"/>
     <sdef n="obj"      c="Object"/>
 
@@ -26,9 +31,19 @@
   <section id="main" type="standard">
     <!-- SECTION: Pronouns -->
 
-    <e><p><l>ฉัน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/></r></p></e>
+    <e><p><l>ฉัน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>ฉัน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>เรา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>เรา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>เธอ(ทั้งหลาย)<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>เธอ(ทั้งหลาย)<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>เขาทั้งหลาย<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>เขาทั้งหลาย<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>หล่อน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>หล่อน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    
+    <e><p><l>เขา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>เขา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+
 
     <!-- SECTION: Determiners -->
 
