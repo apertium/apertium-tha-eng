@@ -46,7 +46,11 @@
 
 
     <!-- SECTION: Determiners -->
-
+    <e><p><l>นั้น<s n="det"/></l><r>the<s n="det"/></r></p></e>
+    <e><p><l>นั้น<s n="det"/></l><r>that<s n="det"/></r></p></e>
+    <e><p><l>นี้<s n="det"/></l><r>this<s n="det"/></r></p></e>
+    <e><p><l>หนึ่ง<s n="det"/></l><r>a<s n="det"/></r></p></e>
+    <e><p><l>มากมาย<s n="det"/></l><r>many<s n="det"/></r></p></e>
 
     <!-- SECTION: Nouns -->
     <e><p><l>การงดออกเสียง<s n="n"/></l><r>abstention<s n="n"/></r></p></e>
