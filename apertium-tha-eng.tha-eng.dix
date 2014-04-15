@@ -5944,7 +5944,7 @@
     <e><p><l>ชาม<s n="n"/></l><r>bowl<s n="n"/></r></p></e>
     <e><p><l>ชามอ่าง<s n="n"/></l><r>basin<s n="n"/></r></p></e>
     <e><p><l>ชาย<s n="n"/></l><r>edge<s n="n"/></r></p></e>
-    <e><p><l>ชาย<s n="n"/></l><r>man<s n="n"/></r></p></e>
+    <e r="RL"><p><l>ชาย<s n="n"/></l><r>man<s n="n"/></r></p></e>
     <e><p><l>ชายขอบ<s n="n"/></l><r>margin<s n="n"/></r></p></e>
     <e><p><l>ชายคา<s n="n"/></l><r>eaves<s n="n"/></r></p></e>
     <e><p><l>ชายแดน<s n="n"/></l><r>frontier<s n="n"/></r></p></e>
@@ -15006,7 +15006,6 @@
     <e><p><l>มนุษย์<s n="n"/></l><r>man<s n="n"/></r></p></e>
     <e><p><l>คนงานชาย<s n="n"/></l><r>man<s n="n"/></r></p></e>
     <e><p><l>ทหารชาย<s n="n"/></l><r>man<s n="n"/></r></p></e>
-    <e><p><l>สาม<s n="n"/></l><r>man<s n="n"/></r></p></e>
     <e><p><l>คำเรียกบุคคี<s n="n"/></l><r>man<s n="n"/></r></p></e>
     <e><p><l>การจัดการ<s n="n"/></l><r>management<s n="n"/></r></p></e>
     <e><p><l>คณะผู้บริหาร<s n="n"/></l><r>management<s n="n"/></r></p></e>
