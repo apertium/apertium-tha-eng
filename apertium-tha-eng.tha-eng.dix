@@ -623,9 +623,6 @@
     <e><p><l>ตัวอย่างเช่น<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
 
     <!-- det -->
-    <e><p><l>ผู้สมรู้ร่วมคิดในการทำความผิด<s n="det"/></l><r>accomplices<s n="det"/></r></p></e>
-    <e><p><l>การไม่ระบุชื่อ<s n="det"/></l><r>anonymity<s n="det"/></r></p></e>
-    <e><p><l>ผู้ช่วยเหลือ<s n="det"/></l><r>attendant<s n="det"/></r></p></e>
     <e><p><l>ของมัน<s n="det"/></l><r>its<s n="det"/></r></p></e>
     <e><p><l>ส่วนใหญ่<s n="det"/></l><r>most<s n="det"/></r></p></e>
     <e><p><l>มากที่สุด<s n="det"/></l><r>most<s n="det"/></r></p></e>
@@ -644,6 +641,8 @@
     <e><p><l>คนป่าเถื่อน<s n="n"/></l><r>barbarian<s n="m"/></r></p></e>
 
     <!-- n -->
+    <e><p><l>การไม่ระบุชื่อ<s n="n"/></l><r>anonymity<s n="n"/></r></p></e>
+    <e><p><l>ผู้ช่วยเหลือ<s n="n"/></l><r>attendant<s n="n"/></r></p></e>
     <e><p><l>กรกฎาคม<s n="n"/></l><r>July<s n="n"/></r></p></e>
     <e><p><l>ขีปนาวุธ<s n="n"/></l><r>ABM<s n="n"/></r></p></e>
     <e><p><l>จรวด<s n="n"/></l><r>ABM<s n="n"/></r></p></e>
