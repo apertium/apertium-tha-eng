@@ -3495,9 +3495,9 @@
     <e><p><l>ใช้แสดงการขออนุญาต<s n="vbmod"/></l><r>may<s n="vbmod"/></r></p></e>
 
     <!-- vbser -->
-    <e><p><l>เป็น<s n="vbser"/></l><r>is<s n="vbser"/></r></p></e>
-    <e><p><l>คือ<s n="vbser"/></l><r>is<s n="vbser"/></r></p></e>
-    <e><p><l>อยู่<s n="vbser"/></l><r>is<s n="vbser"/></r></p></e>
+    <e><p><l>เป็น<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
+    <e><p><l>คือ<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
+    <e><p><l>อยู่<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
 
   </section>
 </dictionary>
