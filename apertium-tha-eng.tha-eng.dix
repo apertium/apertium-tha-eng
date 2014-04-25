@@ -644,6 +644,7 @@
     <e><p><l>คนป่าเถื่อน<s n="n"/></l><r>barbarian<s n="m"/></r></p></e>
 
     <!-- n -->
+    <e><p><l>กรกฎาคม<s n="n"/></l><r>July<s n="n"/></r></p></e>
     <e><p><l>ขีปนาวุธ<s n="n"/></l><r>ABM<s n="n"/></r></p></e>
     <e><p><l>จรวด<s n="n"/></l><r>ABM<s n="n"/></r></p></e>
     <e><p><l>คริสตศักราช<s n="n"/></l><r>AD<s n="n"/></r></p></e>
@@ -1735,7 +1736,6 @@
     <e><p><l>ปืนสั้น<s n="n"/></l><r>handgun<s n="n"/></r></p></e>
     <e><p><l>ความสุข<s n="n"/></l><r>happiness<s n="n"/></r></p></e>
     <e><p><l>แข็ง<s n="n"/></l><r>hard<s n="n"/></r></p></e>
-    <e><p><l>มี<s n="n"/></l><r>have<s n="n"/></r></p></e>
     <e><p><l>ศีรษะ<s n="n"/></l><r>head<s n="n"/></r></p></e>
     <e><p><l>ฮีตซิงก์<s n="n"/></l><r>heat<b/>sink<s n="n"/></r></p></e>
     <e><p><l>สรวงสวรรค์<s n="n"/></l><r>heaven<s n="n"/></r></p></e>
@@ -2513,7 +2513,7 @@
     <e><p><l>ยังไม่ตัดสินใจระหว่างสองสิ่ง<s n="vaux"/></l><r>dilemma<s n="vaux"/></r></p></e>
 
     <!-- vblex -->
-    <e><p><l>กรกฎาคม<s n="vblex"/></l><r>July<s n="vblex"/></r></p></e>
+    <e><p><l>มี<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>
     <e><p><l>สะดุ้ง<s n="vblex"/></l><r>aback<s n="vblex"/></r></p></e>
     <e><p><l>ตกใจ<s n="vblex"/></l><r>aback<s n="vblex"/></r></p></e>
     <e><p><l>เป็นลาง<s n="vblex"/></l><r>abade<s n="vblex"/></r></p></e> <!-- โบราณ -->
