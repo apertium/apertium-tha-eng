@@ -15,6 +15,7 @@
     <sdef n="mf" c="Masculine , feminine"/>
     <sdef n="n" c="Noun"/>
     <sdef n="np" c="Proper noun"/>
+    <sdef n="nt" c="Neuter"/>
     <sdef n="num" c="Numeral"/>
     <sdef n="obj" c="Object"/>
     <sdef n="p1" c="First person"/>
@@ -46,6 +47,7 @@
     <e><p><l>ปราศจากอาวุธ</l><r>with<b/>one's<b/>bare<b/>hands</r></p></e>
 
     <!-- adj -->
+    <e><p><l>ขี้ลืม<s n="adj"/></l><r>absent-minded<s n="adj"/></r></p></e>
     <e><p><l>ทวีปอเมริกา<s n="adj"/></l><r>America<s n="adj"/></r></p></e>
     <e><p><l>14<s n="adj"/></l><r>XL<s n="adj"/></r></p></e>
     <e><p><l>ขนาดใหญ่พิเศษ<s n="adj"/></l><r>XL<s n="adj"/></r></p></e>
@@ -512,9 +514,8 @@
     <e><p><l>ทางม้าลาย<s n="adj"/></l><r>zebra<b/>crossing<s n="adj"/></r></p></e>
 
     <!-- adv -->
+    <e><p><l>ไม่<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
     <e><p><l>ให้ความสำคัญหรือย้ำ<s n="adv"/></l><r>accentuate<s n="adv"/></r></p></e>
-   <e><p><l>ภาษาฝรั่งเศส<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>คนที่เล่นดนตรีคลอ<s n="adv"/></l><r>accompanists<s n="adv"/></r></p></e>
     <e><p><l>สำเร็จ<s n="adv"/></l><r>accomplish<s n="adv"/></r></p></e>
     <e><p><l>จริง<s n="adv"/></l><r>actually<s n="adv"/></r></p></e>
     <e><p><l>เกยตื้น<s n="vblex"/></l><r>aground<s n="adv"/></r></p></e>
@@ -606,17 +607,13 @@
     <e><p><l>อาการกลัวชาวต่างชาติ<s n="n"/></l><r>xenophobia<s n="adv"/></r></p></e>
 
     <!-- cnjadv -->
-    <e><p><l>คนที่เล่นดนตรีคลอ<s n="cnjadv"/></l><r>accompanists<s n="cnjadv"/></r></p></e>
-    <e><p><l>สงครามโลก<s n="cnjadv"/></l><r>baby boom<s n="cnjadv"/></r></p></e>
-    <e><p><l>เด็ก<s n="cnjadv"/></l><r>baby boom<s n="cnjadv"/></r></p></e>
 
     <!-- cnjcoo -->
-    <e><p><l>ขี้ลืม<s n="cnjcoo"/></l><r>absent-minded<s n="cnjcoo"/></r></p></e>
+    <e><p><l>และ<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 
     <!-- cnjsub -->
+    <e><p><l>ที่<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e><p><l>แม้ว่า<s n="cnjsub"/></l><r>although<s n="cnjsub"/></r></p></e>
-    <e><p><l>เด็ก<s n="cnjsub"/></l><r>baby boom<s n="cnjsub"/></r></p></e>
-    <e><p><l>สงครามโลก<s n="cnjsub"/></l><r>baby boom<s n="cnjsub"/></r></p></e>
     <e><p><l>ดังเช่น<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
     <e><p><l>เช่น<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
     <e><p><l>เป็นลักษณะเฉพาะ<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
@@ -628,6 +625,8 @@
     <e><p><l>มากที่สุด<s n="det"/></l><r>most<s n="det"/></r></p></e>
     <e><p><l>ของพวกเรา<s n="det"/></l><r>our<s n="det"/></r></p></e>
     <e><p><l>แสวงหา<s n="det"/></l><r>seek<s n="det"/></r></p></e>
+    <e><p><l>แสวงหา<s n="det"/></l><r>the<s n="det"/></r></p></e>
+
 
     <!-- guio -->
     <e><p><l>กอง<s n="guio"/></l><r>mountain<s n="guio"/></r></p></e>
@@ -641,6 +640,10 @@
     <e><p><l>คนป่าเถื่อน<s n="n"/></l><r>barbarian<s n="m"/></r></p></e>
 
     <!-- n -->
+    <e><p><l>หนังสือ<s n="n"/></l><r>book<s n="n"/></r></p></e>
+    <e><p><l>ช่องแขนเสื้อ<s n="n"/></l><r>armhole<s n="n"/></r></p></e>
+    <e><p><l>แมว<s n="n"/></l><r>cat<s n="n"/></r></p></e>
+    <e><p><l>คนที่เล่นดนตรีคลอ<s n="n"/></l><r>accompanist<s n="n"/></r></p></e>
     <e><p><l>การไม่ระบุชื่อ<s n="n"/></l><r>anonymity<s n="n"/></r></p></e>
     <e><p><l>ผู้ช่วยเหลือ<s n="n"/></l><r>attendant<s n="n"/></r></p></e>
     <e><p><l>กรกฎาคม<s n="n"/></l><r>July<s n="n"/></r></p></e>
@@ -2473,9 +2476,7 @@
     <e><p><l>กับ<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
 
     <!-- preadv -->
-    <e><p><l>แขน<s n="preadv"/></l><r>armhole<s n="preadv"/></r></p></e>
-    <e><p><l>เสื้อ<s n="preadv"/></l><r>armhole<s n="preadv"/></r></p></e>
-    <e><p><l>ช่อง<s n="preadv"/></l><r>armhole<s n="preadv"/></r></p></e>
+    <e><p><l>เท่ากับ<s n="preadv"/></l><r>as<s n="preadv"/></r></p></e>
     <e><p><l>มาก<s n="preadv"/></l><r>most<s n="preadv"/></r></p></e>
     <e><p><l>ที่สุด<s n="preadv"/></l><r>most<s n="preadv"/></r></p></e>
 
@@ -2484,7 +2485,8 @@
     <e><p><l>ข้างใน<s n="pr"/></l><r>into<s n="prep"/></r></p></e>
 
     <!-- prn -->
-
+    <e><p><l>นี้<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
+    <e><p><l>มัน<s n="prn"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>ฉัน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>ฉัน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>เรา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -2512,6 +2514,7 @@
     <e><p><l>ยังไม่ตัดสินใจระหว่างสองสิ่ง<s n="vaux"/></l><r>dilemma<s n="vaux"/></r></p></e>
 
     <!-- vblex -->
+    <e r="RL"><p><l>กิน<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e> 
     <e><p><l>เรียกว่า<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e> 
     <e><p><l>โทรหา<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e> 
     <e><p><l>ออกจาก<s n="vblex"/></l><r>leave<s n="vblex"/></r></p></e> 
