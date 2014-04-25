@@ -2513,7 +2513,44 @@
     <e><p><l>ยังไม่ตัดสินใจระหว่างสองสิ่ง<s n="vaux"/></l><r>dilemma<s n="vaux"/></r></p></e>
 
     <!-- vblex -->
+    <e><p><l>เรียกว่า<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e> 
+    <e><p><l>โทรหา<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e> 
+    <e><p><l>ออกจาก<s n="vblex"/></l><r>leave<s n="vblex"/></r></p></e> 
+    <e><p><l>ทิ้ง<g><b/>ไว้</g><s n="vblex"/></l><r>leave<s n="vblex"/></r></p></e> 
+    <e><p><l>พยายาม<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e> 
+    <e><p><l>ทดลอง<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e> 
+    <e><p><l>รู้สึก<s n="vblex"/></l><r>feel<s n="vblex"/></r></p></e> <!-- รู้สึกถึง รู้สึกว่า --> 
+    <e><p><l>ดูเหมือน<s n="vblex"/></l><r>seem<s n="vblex"/></r></p></e> 
+    <e><p><l>ทำงาน<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e> 
+    <e r="RL"><p><l>ขอ<s n="vblex"/></l><r>ask<s n="vblex"/></r></p></e> 
+    <e><p><l>ถาม<s n="vblex"/></l><r>ask<s n="vblex"/></r></p></e> 
+    <e r="RL"><p><l>บอก<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e> 
+    <e><p><l>อธิบาย<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e> 
+    <e r="RL"><p><l>พบ<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e> 
+    <e><p><l>รู้สึกว่า<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e> 
+    <e r="RL"><p><l>ใช้<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e> 
+    <e r="RL"><p><l>ให้<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e> 
+    <e r="RL"><p><l>ต้องการ<s n="vblex"/></l><r>want<s n="vblex"/></r></p></e> 
+    <e r="RL"><p><l>ดู<s n="vblex"/></l><r>look<s n="vblex"/></r></p></e> 
+    <e><p><l>คล้าย<s n="vblex"/></l><r>look<s n="vblex"/></r></p></e> 
+    <e><p><l>คิดว่า<s n="vblex"/></l><r>think<s n="vblex"/></r></p></e> 
+    <e><p><l>คิด<s n="vblex"/></l><r>think<s n="vblex"/></r></p></e> 
+    <e r="RL"><p><l>พูด<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e> <!-- pronounce -->
+    <e><p><l>บอก<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e> <!-- tell -->
+    <e r="RL"><p><l>ได้<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e> <!-- acquire -->    
+    <e><p><l>มี<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e> <!-- have -->
+    <e><p><l>ได้รับ<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e> <!-- receive -->
+    <e><p><l>ทำ<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>ทำ<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
+    <e><p><l>ทำให้<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
+    <e><p><l>สร้าง<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
     <e><p><l>มี<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>
+    <e><p><l>ไป<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+    <e><p><l>รู้<s n="vblex"/></l><r>know<s n="vblex"/></r></p></e
+>    <e><p><l>ใช้<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>เห็น<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
+    <e><p><l>เข้าใจ<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
+    <e><p><l>พบว่า<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>สะดุ้ง<s n="vblex"/></l><r>aback<s n="vblex"/></r></p></e>
     <e><p><l>ตกใจ<s n="vblex"/></l><r>aback<s n="vblex"/></r></p></e>
     <e><p><l>เป็นลาง<s n="vblex"/></l><r>abade<s n="vblex"/></r></p></e> <!-- โบราณ -->
