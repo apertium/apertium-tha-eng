@@ -48,6 +48,7 @@
     <e><p><l>ปราศจากอาวุธ</l><r>with<b/>one's<b/>bare<b/>hands</r></p></e>
 
     <!-- adj -->
+    <e><p><l>สีแดง<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>ขี้ลืม<s n="adj"/></l><r>absent-minded<s n="adj"/></r></p></e>
     <e><p><l>ทวีปอเมริกา<s n="adj"/></l><r>America<s n="adj"/></r></p></e>
     <e><p><l>14<s n="adj"/></l><r>XL<s n="adj"/></r></p></e>
@@ -612,6 +613,7 @@
     <!-- cnjcoo -->
     <e><p><l>และ<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>แต่<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e><p><l>หรือ<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
 
     <!-- cnjsub -->
     <e><p><l>ที่<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -625,6 +627,7 @@
     <e><p><l>ของมัน<s n="det"/></l><r>its<s n="det"/></r></p></e>
     <e><p><l>ของเขา<s n="det"/></l><r>his<s n="det"/></r></p></e>
     <e><p><l>ของหล่อน<s n="det"/></l><r>her<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+    <e><p><l>ของฉัน<s n="det"/></l><r>my<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
     <e><p><l>ส่วนใหญ่<s n="det"/></l><r>most<s n="det"/></r></p></e>
     <e><p><l>มากที่สุด<s n="det"/></l><r>most<s n="det"/></r></p></e>
     <e><p><l>ของพวกเรา<s n="det"/></l><r>our<s n="det"/></r></p></e>
@@ -644,7 +647,9 @@
     <e><p><l>คนป่าเถื่อน<s n="n"/></l><r>barbarian<s n="m"/></r></p></e>
 
     <!-- n -->
-    <e><p><l>ปากีสถาน<s n="pr"/></l><r>Pakistani<s n="pr"/></r></p></e>
+    <e><p><l>รถ<s n="n"/></l><r>car<s n="n"/></r></p></e>
+    <e><p><l>ชา<s n="n"/></l><r>tea<s n="n"/></r></p></e>
+    <e><p><l>กาแฟ<s n="n"/></l><r>coffee<s n="n"/></r></p></e>
     <e><p><l>หนังสือ<s n="n"/></l><r>book<s n="n"/></r></p></e>
     <e><p><l>ช่องแขนเสื้อ<s n="n"/></l><r>armhole<s n="n"/></r></p></e>
     <e><p><l>แมว<s n="n"/></l><r>cat<s n="n"/></r></p></e>
@@ -2165,7 +2170,6 @@
     <e><p><l>หนึ่ง<s n="n"/></l><r>one<s n="n"/></r></p></e>
     <e><p><l>หอมหัวใหญ่<s n="n"/></l><r>onion<s n="n"/></r></p></e>
     <e><p><l>สาธารณชน<s n="n"/></l><r>open<s n="n"/></r></p></e>
-    <e><p><l>หรือ<s n="n"/></l><r>or<s n="n"/></r></p></e>
     <e><p><l>สีส้ม<s n="n"/></l><r>orange<s n="n"/></r></p></e>
     <e><p><l>ส้ม<s n="n"/></l><r>orange<s n="n"/></r></p></e>
     <e><p><l>นักพูด<s n="n"/></l><r>orator<s n="n"/></r></p></e>
@@ -2414,6 +2418,7 @@
     <e><p><l>จักรราศี<s n="n"/></l><r>zodiac<s n="n"/></r></p></e>
 
     <!-- np -->
+    <e><p><l>ปากีสถาน<s n="np"/></l><r>Pakistani<s n="np"/></r></p></e>
     <e><p><l>อัฟกานิสถาน<s n="np"/></l><r>Afghanistan<s n="np"/></r></p></e>
     <e><p><l>ทะเลอันดามัน<s n="np"/></l><r>Andaman<b/>Sea<s n="np"/></r></p></e>
     <e><p><l>ภูฏาน<s n="np"/></l><r>Bhutan<s n="np"/></r></p></e>
