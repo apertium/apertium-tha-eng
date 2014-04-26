@@ -22,6 +22,7 @@
     <sdef n="p2" c="Second person"/>
     <sdef n="p3" c="Third person"/>
     <sdef n="pers" c=""/>
+    <sdef n="pos" c="Possessive"/>
     <sdef n="pl" c="Plural"/>
     <sdef n="pr" c="Preposition"/>
     <sdef n="preadv" c="Pre-adverb"/>
@@ -610,6 +611,7 @@
 
     <!-- cnjcoo -->
     <e><p><l>และ<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e><p><l>แต่<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
 
     <!-- cnjsub -->
     <e><p><l>ที่<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -621,6 +623,8 @@
 
     <!-- det -->
     <e><p><l>ของมัน<s n="det"/></l><r>its<s n="det"/></r></p></e>
+    <e><p><l>ของเขา<s n="det"/></l><r>his<s n="det"/></r></p></e>
+    <e><p><l>ของหล่อน<s n="det"/></l><r>her<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
     <e><p><l>ส่วนใหญ่<s n="det"/></l><r>most<s n="det"/></r></p></e>
     <e><p><l>มากที่สุด<s n="det"/></l><r>most<s n="det"/></r></p></e>
     <e><p><l>ของพวกเรา<s n="det"/></l><r>our<s n="det"/></r></p></e>
@@ -640,6 +644,7 @@
     <e><p><l>คนป่าเถื่อน<s n="n"/></l><r>barbarian<s n="m"/></r></p></e>
 
     <!-- n -->
+    <e><p><l>ปากีสถาน<s n="pr"/></l><r>Pakistani<s n="pr"/></r></p></e>
     <e><p><l>หนังสือ<s n="n"/></l><r>book<s n="n"/></r></p></e>
     <e><p><l>ช่องแขนเสื้อ<s n="n"/></l><r>armhole<s n="n"/></r></p></e>
     <e><p><l>แมว<s n="n"/></l><r>cat<s n="n"/></r></p></e>
@@ -2458,7 +2463,7 @@
     <e><p><l>ความมีเสน่ห์<s n="num"/></l><r>enchantment<s n="num"/></r></p></e>
 
     <!-- pr -->
-    <e><p><l>ปากีสถาน<s n="pr"/></l><r>Pakistani<s n="pr"/></r></p></e>
+    <e><p><l>เพียงแต่<s n="pr"/></l><r>but<s n="pr"/></r></p></e>
     <e><p><l>คนปากีสถาน<s n="pr"/></l><r>Pakistani<s n="pr"/></r></p></e>
     <e><p><l>ข้างหลัง<s n="pr"/></l><r>aback<s n="pr"/></r></p></e>
     <e><p><l>ปรับตัวเข้ากับสถานการณ์หรือสภาพอากาศได้<s n="pr"/></l><r>acclimatized<s n="pr"/></r></p></e>
@@ -2503,6 +2508,8 @@
     <e><p><l>ของมัน<s n="prn"/></l><r>its<s n="prn"/></r></p></e>
     <e><p><l>เหล่านี้<s n="prn"/></l><r>these<s n="prn"/></r></p></e>
     <e><p><l>พวกเรา<s n="prn"/></l><r>us<s n="prn"/></r></p></e>
+
+    <e><p><l>พวกเรา<s n="prn"/></l><r>his<s n="prn"/><s n="prn"/></r></p></e>
 
     <!-- sent -->
     <e><p><l>กอง<s n="sent"/></l><r>mountain<s n="sent"/></r></p></e>
