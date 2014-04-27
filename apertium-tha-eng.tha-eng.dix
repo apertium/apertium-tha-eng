@@ -48,6 +48,7 @@
     <e><p><l>ปราศจากอาวุธ</l><r>with<b/>one's<b/>bare<b/>hands</r></p></e>
 
     <!-- adj -->
+    <e><p><l>เกี่ยวกับการสอน<s n="adj"/></l><r>pedagogical<s n="adj"/></r></p></e>
     <e><p><l>สีแดง<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>ขี้ลืม<s n="adj"/></l><r>absent-minded<s n="adj"/></r></p></e>
     <e><p><l>ทวีปอเมริกา<s n="adj"/></l><r>America<s n="adj"/></r></p></e>
@@ -646,7 +647,7 @@
     <e><p><l>คนป่าเถื่อน<s n="n"/></l><r>barbarian<s n="m"/></r></p></e>
 
     <!-- n -->
-    <e><p><l>ช้าง<s n="n"/></l><r>elephant<s n="n"/></r></p></e>
+    <e><p><l>หมา<s n="n"/></l><r>dog<s n="n"/></r></p></e>
     <e><p><l>รถ<s n="n"/></l><r>car<s n="n"/></r></p></e>
     <e><p><l>ชา<s n="n"/></l><r>tea<s n="n"/></r></p></e>
     <e><p><l>กาแฟ<s n="n"/></l><r>coffee<s n="n"/></r></p></e>
