@@ -624,6 +624,7 @@
     <e><p><l>ตัวอย่างเช่น<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
 
     <!-- det -->
+    <e><p><l>หนึ่ง<s n="det"/></l><r>a<s n="det"/></r></p></e>
     <e><p><l>ของมัน<s n="det"/></l><r>its<s n="det"/></r></p></e>
     <e><p><l>ของเขา<s n="det"/></l><r>his<s n="det"/></r></p></e>
     <e><p><l>ของหล่อน<s n="det"/></l><r>her<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
@@ -631,8 +632,6 @@
     <e><p><l>ส่วนใหญ่<s n="det"/></l><r>most<s n="det"/></r></p></e>
     <e><p><l>มากที่สุด<s n="det"/></l><r>most<s n="det"/></r></p></e>
     <e><p><l>ของพวกเรา<s n="det"/></l><r>our<s n="det"/></r></p></e>
-    <e><p><l>แสวงหา<s n="det"/></l><r>seek<s n="det"/></r></p></e>
-    <e><p><l>แสวงหา<s n="det"/></l><r>the<s n="det"/></r></p></e>
 
 
     <!-- guio -->
@@ -647,6 +646,7 @@
     <e><p><l>คนป่าเถื่อน<s n="n"/></l><r>barbarian<s n="m"/></r></p></e>
 
     <!-- n -->
+    <e><p><l>ช้าง<s n="n"/></l><r>elephant<s n="n"/></r></p></e>
     <e><p><l>รถ<s n="n"/></l><r>car<s n="n"/></r></p></e>
     <e><p><l>ชา<s n="n"/></l><r>tea<s n="n"/></r></p></e>
     <e><p><l>กาแฟ<s n="n"/></l><r>coffee<s n="n"/></r></p></e>
