@@ -64,7 +64,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="omit a,an,th">
+    <rule comment="REGLA: omit a,an,th">
       <pattern>
         <pattern-item n="the_an_a"/>
       </pattern>      
