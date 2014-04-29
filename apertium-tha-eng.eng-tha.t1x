@@ -5,6 +5,9 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="num">
+      <cat-item tags="num"/>
+    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -70,13 +73,15 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: omit a,an,th">
+
+    <rule comment="REGLA: DET (a,an,th)">
       <pattern>
         <pattern-item n="the_an_a"/>
       </pattern>      
       <action>
       </action>
     </rule>
+
     <rule comment="REGLA: ADJ NOM">
       <pattern>
         <pattern-item n="adj"/>
@@ -97,5 +102,51 @@
         </out>
       </action>
     </rule>
+    
+    <rule comment="REGLA: NUM NOM">
+      <pattern>
+	<pattern-item n="num"/>
+	<pattern-item n="nom"/>
+      </pattern>
+      <action>
+	<out>
+	  <chunk name="sn" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	    <lu>
+	      <clip pos="2" side="tl" part="lemh"/>	  
+	    </lu>
+	    <b/>
+	    <lu>
+	      <clip pos="1" side="tl" part="whole"/>	  
+	    </lu>
+	    <b/>
+	    <lu>
+	      <clip pos="2" side="tl" part="lemq"/>	  
+	    </lu>
+	  </chunk>
+	</out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: NOM (remove classifier)">
+      <pattern>
+	<pattern-item n="nom"/>
+      </pattern>
+      <action>
+	<out>
+	  <chunk name="sn" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	    <lu>
+	      <clip pos="1" side="tl" part="lemh"/>	  
+	    </lu>
+	  </chunk>
+	</out>
+      </action>
+    </rule>
+
   </section-rules>
 </transfer>
