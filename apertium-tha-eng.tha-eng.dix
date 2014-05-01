@@ -1452,7 +1452,6 @@
     <e><p><l>เช่นเดียวกัน<s n="n"/></l><r>either<s n="n"/></r></p></e>
     <e><p><l>เหมือนกัน<s n="n"/></l><r>either<s n="n"/></r></p></e>
     <e><p><l>ถ้าไม่<s n="n"/></l><r>either<s n="n"/></r></p></e>
-    <e><p><l>เธอะ<s n="n"/></l><r>either<s n="n"/></r></p></e>
     <e><p><l>หรือว่า<s n="n"/></l><r>either<s n="n"/></r></p></e>
     <e><p><l>อี<s n="n"/></l><r>either<s n="n"/></r></p></e>
     <e><p><l>ไอ<s n="n"/></l><r>either<s n="n"/></r></p></e>
@@ -2502,10 +2501,10 @@
     <e><p><l>ฉัน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>เรา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>เรา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e><p><l>เธอ(ทั้งหลาย)<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>เธอ(ทั้งหลาย)<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>เขาทั้งหลาย<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e><p><l>เขาทั้งหลาย<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>คุณ<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>คุณ<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>พวกเขา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>พวกเขา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>หล่อน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>หล่อน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>เขา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
@@ -3552,5 +3551,99 @@
     <e><p><l>อยู่<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
 
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+
+    <!-- moz corpus -->
+    <e><p><l>เพิ่ม<s n="vblex"/></l><r>add<s n="vblex"/></r></p></e>
+    <e><p><l>เพิ่มเติม<s n="adj"/></l><r>additional<s n="adj"/></r></p></e>
+    <e><p><l>ที่<b/>คั่น<b/>หน้า<b/>เว็บ<s n="n"/></l><r>bookmark<s n="n"/></r></p></e>
+    <e><p><l>เปลี่ยนแปลง<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
+    <e><p><l>เปลี่ยน<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
+    <e><p><l>ยืนยัน<s n="vblex"/></l><r>confirm<s n="vblex"/></r></p></e>
+    <e><p><l>การเชื่อมต่อ</l><r>connection</r></p></e>
+    <e><p><l>ข้อมูล</l><r>data</r></p></e>
+    <e><p><l>อย่า</l><r>don't</r></p></e>
+    <e><p><l>ดาวน์โหลด<s n="vblex"/></l><r>download<s n="vblex"/></r></p></e>
+    <e><p><l>ผิดพลาด<s n="n"/></l><r>error<s n="n"/></r></p></e>
+    <e><p><l>ไม่สำเร็จ<s n="vblex"/></l><r>failed<s n="vblex"/></r></p></e>
+    <e><p><l>เรียก<s n="vblex"/></l><r>getting<s n="vblex"/></r></p></e>
+    <e><p><l>เขา<s n="prn"/></l><r>he<s n="prn"/></r></p></e>
+    <e><p><l>ซ่อน<s n="vblex"/></l><r>hide<s n="vblex"/></r></p></e>
+    <e><p><l>ติดตั้ง<s n="vblex"/></l><r>installed<s n="vblex"/></r></p></e>
+    <e><p><l>ที่ผ่านมา<s n="adj"/></l><r>last<s n="adj"/></r></p></e>
+    <e><p><l>ตัว<b/>จัดการ<s n="n"/></l><r>manager<s n="n"/></r></p></e>
+    <e><p><l>เมนู<s n="n"/></l><r>menu<s n="n"/></r></p></e>
+    <e><p><l>เครือข่าย</l><r>network</r></p></e>
+    <e><p><l>ไม่<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+    <e><p><l>ไม่มี<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+    <e><p><l>รหัสผ่าน<s n="n"/></l><r>password<s n="n"/></r></p></e>
+    <e><p><l>โปรด<s n="vblex"/></l><r>please<s n="vblex"/></r></p></e>
+    <e><p><l>เอา<g><b/>ออก</g><s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
+    <e><p><l>แสดง<s n="vblex"/></l><r>show<s n="vblex"/></r></p></e>
+    <e><p><l>ซอฟต์แวร์<s n="n"/></l><r>software<s n="n"/></r></p></e>
+    <e><p><l>สำเร็จ<s n="vblex"/></l><r>succeeded<s n="vblex"/></r></p></e>
+    <e><p><l>นี้<s n="det"/></l><r>this<s n="det"/></r></p></e>
+    <e><p><l>แถบเครื่องมือ<s n="n"/></l><r>toolbar<s n="n"/></r></p></e>
+    <e><p><l>ไม่เรียงลำดับ<s n="adj"/></l><r>unsorted<s n="adj"/></r></p></e>
+    <e><p><l>ปรับ<b/>รุ่น<s n="vblex"/></l><r>update<s n="vblex"/></r></p></e>
+    <e><p><l>ใช้<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e>
+    <e><p><l>เกี่ยวกับ<s n="adv"/></l><r>about<s n="adv"/></r></p></e>
+    <e><p><l>ที่แล้ว<s n="adv"/></l><r>ago<s n="adv"/></r></p></e>
+    <e><p><l>ทั้งหมด<s n="adv"/></l><r>all<s n="adv"/></r></p></e>
+    <e><p><l>มี<s n="adj"/></l><r>available<s n="adj"/></r></p></e>
+    <e><p><l>เบื้องหลัง<s n="n"/></l><r>background<s n="n"/></r></p></e>
+    <e><p><l>กล่อง<s n="n"/></l><r>box<s n="n"/></r></p></e>
+    <e><p><l>กำลัง<b/>เปลี่ยน<s n="vblex"/></l><r>changing<s n="vblex"/></r></p></e>
+    <e><p><l>คอมพิวเตอร์<s n="n"/></l><r>computer<s n="n"/></r></p></e>
+    <e><p><l>ยืนยัน<s n="vblex"/></l><r>confirm<s n="vblex"/></r></p></e>
+    <e><p><l>การเชื่อมต่อ<s n="n"/></l><r>connection<s n="n"/></r></p></e>
+    <e><p><l><b/><g><b/><b/><b/>ต่อ</g><s n="vblex"/></l><r>continue<s n="vblex"/></r></p></e>
+    <e><p><l>ชุด<s n="n"/></l><r>copy<s n="n"/></r></p></e>
+    <e><p><l>สามารถ<g><b/>ได้</g><s n="vaux"/></l><r>could<s n="vaux"/></r></p></e>
+    <e><p><l>วัน<s n="n"/></l><r>day<s n="n"/></r></p></e>
+    <e><p><l>รายละเอียด<s n="n"/></l><r>detail<s n="n"/></r></p></e>
+    <e><p><l>การดาวน์โหลด<s n="n"/></l><r>downloading<s n="n"/></r></p></e>
+    <e><p><l>ดังต่อไปนี้<s n="adj"/></l><r>following<s n="adj"/></r></p></e>
+    <e><p><l>สำหรับ<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+    <e><p><l>ให้<s n="adv"/></l><r>for<s n="adv"/></r></p></e>
+    <e><p><l>สำหรับ<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+    <e><p><l>พบ<s n="vblex"/></l><r>found<s n="vblex"/></r></p></e>
+    <e><p><l>ใน<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>ขาดตอน<s n="vblex"/></l><r>interrupted<s n="vblex"/></r></p></e>
+    <e><p><l>สัญญาอนุญาต<s n="n"/></l><r>license<s n="n"/></r></p></e>
+    <e><p><l>ตรง<s n="vblex"/></l><r>match<s n="vblex"/></r></p></e>
+    <e><p><l>เดือน<s n="n"/></l><r>month<s n="n"/></r></p></e>
+    <e><p><l>เพิ่มเติม<s n="adv"/></l><r>more<s n="adv"/></r></p></e>
+    <e><p><l>ไม่<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
+    <e><p><l>ทัน<s n="adj"/></l><r>now<s n="adj"/></r></p></e>
+    <e><p><l>ตัวเลข<s n="n"/></l><r>number<s n="n"/></r></p></e>
+    <e><p><l>อื่น<s n="det"/></l><r>other<s n="det"/></r></p></e>
+    <e><p><l>รหัสผ่าน<s n="n"/></l><r>password<s n="n"/></r></p></e>
+    <e><p><l>ปากกา<s n="n"/></l><r>pen<s n="n"/></r></p></e>
+    <e><p><l>ถูกปฏิเสธ<s n="vblex"/></l><r>refused<s n="vblex"/></r></p></e>
+    <e><p><l>จำ<s n="vblex"/></l><r>remember<s n="vblex"/></r></p></e>
+    <e><p><l>เอา<g><b/>ออก</g><s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
+    <e><p><l>เริ่ม<g><b/>ใหม่</g><s n="vblex"/></l><r>restart<s n="vblex"/></r></p></e>
+    <e><p><l>กำลัง<b/>ทำงาน<b/>อยู่<s n="vblex"/></l><r>running<s n="vblex"/></r></p></e>
+    <e><p><l>ความปลอดภัย<s n="n"/></l><r>security<s n="n"/></r></p></e>
+    <e><p><l><b/>เซิร์ฟเวอร์<s n="n"/></l><r>server<s n="n"/></r></p></e>
+    <e><p><l>แสดง<s n="vblex"/></l><r>show<s n="vblex"/></r></p></e>
+    <e><p><l>เว็บไซด์<s n="n"/></l><r>sites<s n="n"/></r></p></e>
+    <e><p><l>โปรแกรมเสริม<b/>ที่เหมาะสม<s n="n"/></l><r>suitable<s n="n"/></r></p></e>
+    <e><p><l>แน่ใจ<s n="adv"/></l><r>sure<s n="adv"/></r></p></e>
+    <e><p><l>ข้อความ<s n="n"/></l><r>text<s n="n"/></r></p></e>
+    <e><p><l>เหล่านี้<s n="adj"/></l><r>following<s n="adj"/></r></p></e>
+    <e><p><l>รหัส<s n="n"/></l><r>password<s n="n"/></r></p></e>
+    <e><p><l>แล้ว<s n="vblex"/></l><r>then<s n="vblex"/></r></p></e>
+    <e><p><l>นี้<s n="det"/></l><r>this<s n="det"/></r></p></e>
+    <e><p><l>เพื่อ<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>การส่ง<s n="vblex"/></l><r>transfer<s n="vblex"/></r></p></e>
+    <e><p><l>ลอง<b/>อีกที<s n="vblex"/></l><r>try<b/>again<s n="vblex"/></r></p></e>
+    <e><p><l>การ<b/>ปรับ<b/>รุ่น<s n="n"/></l><r>update<s n="n"/></r></p></e>
+    <e><p><l>ปรับ<b/>รุ่น<s n="vblex"/></l><r>update<s n="vblex"/></r></p></e>
+    <e><p><l>ปรับ<b/>รุ่น<b/>เป็น<s n="vblex"/></l><r>upgrade<b/>to<s n="vblex"/></r></p></e>
+    <e><p><l>ชื่อ<b/>ผู้ใช้<s n="n"/></l><r>user<s n="n"/></r></p></e>
+    <e><p><l>ตรวจสอบ<s n="vblex"/></l><r>verify<s n="vblex"/></r></p></e>
+    <e><p><l>ต้องการ<s n="vblex"/></l><r>wish<s n="vblex"/></r></p></e>
+    <e><p><l>แน่ใจ<s n="adv"/></l><r>sure<s n="adv"/></r></p></e>
   </section>
 </dictionary>
