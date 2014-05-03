@@ -648,6 +648,7 @@
     <e><p><l>คนป่าเถื่อน<s n="n"/></l><r>barbarian<s n="m"/></r></p></e>
 
     <!-- n -->
+    <e><p><l>เงิน<s n="n"/></l><r>money<s n="n"/></r></p></e>
     <e><p><l>ตุลาการเถื่อน<s n="n"/></l><r>vigilante<s n="n"/></r></p></e>
     <e><p><l>หมา<s n="n"/></l><r>dog<s n="n"/></r></p></e>
     <e><p><l>รถ<s n="n"/></l><r>car<s n="n"/></r></p></e>
@@ -2528,6 +2529,7 @@
     <e><p><l>ยังไม่ตัดสินใจระหว่างสองสิ่ง<s n="vaux"/></l><r>dilemma<s n="vaux"/></r></p></e>
 
     <!-- vblex -->
+    <e><p><l>ให้<g><b/>ยืม</g><s n="vblex"/></l><r>lend<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>กิน<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e> 
     <e><p><l>เรียกว่า<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e> 
     <e><p><l>โทรหา<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e> 

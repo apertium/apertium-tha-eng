@@ -8,6 +8,9 @@
     <def-cat n="num">
       <cat-item tags="num"/>
     </def-cat>
+    <def-cat n="prn">
+      <cat-item tags="prn.*"/>
+    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -15,6 +18,9 @@
       <cat-item lemma="the" tags="det.*"/>
       <cat-item lemma="an" tags="det.*"/>
       <cat-item lemma="a" tags="det.*"/>
+    </def-cat>
+    <def-cat n="lend_vblex">
+      <cat-item lemma="lend" tags="vblex.*"/>
     </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -74,6 +80,34 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: lend">
+      <pattern>
+        <pattern-item n="lend_vblex"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="prev" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PREV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+            </lu>
+          </chunk>
+          <b/>
+          <chunk name="mainv" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="MAINV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: DET (a,an,th)">
       <pattern>
         <pattern-item n="the_an_a"/>
@@ -81,6 +115,25 @@
       <action>
       </action>
     </rule>
+
+    <rule comment="REGLA: SN">
+      <pattern>
+        <pattern-item n="prn"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="sn" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: ADJ NOM">
       <pattern>

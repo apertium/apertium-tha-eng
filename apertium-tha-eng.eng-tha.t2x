@@ -6,6 +6,12 @@
       <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
     </def-cat>
+    <def-cat n="PREV">
+      <cat-item tags="PREV"/>
+    </def-cat>
+    <def-cat n="MAINV">
+      <cat-item tags="MAINV"/>
+    </def-cat>
     <def-cat n="SENT">
       <cat-item tags="SENT"/>
     </def-cat>
@@ -40,6 +46,34 @@
     </def-macro>
   </section-def-macros>
   <section-rules>
+    <rule comment="REGLA: PREV MAINV SN SN">
+      <pattern>
+        <pattern-item n="PREV"/>
+        <pattern-item n="MAINV"/>
+        <pattern-item n="SN"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="1" part="whole"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="3" part="whole"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="2" part="whole"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="4" part="whole"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
     <rule comment="REGLA: SN">
       <pattern>
         <pattern-item n="SN"/>
