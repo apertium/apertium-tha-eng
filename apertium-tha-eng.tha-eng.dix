@@ -2529,6 +2529,7 @@
     <e><p><l>ยังไม่ตัดสินใจระหว่างสองสิ่ง<s n="vaux"/></l><r>dilemma<s n="vaux"/></r></p></e>
 
     <!-- vblex -->
+    <e><p><l>ฆ่า<s n="vblex"/></l><r>kill<s n="vblex"/></r></p></e>
     <e><p><l>ให้<g><b/>ยืม</g><s n="vblex"/></l><r>lend<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>กิน<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e> 
     <e><p><l>เรียกว่า<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e> 

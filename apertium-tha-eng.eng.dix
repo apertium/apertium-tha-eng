@@ -12760,6 +12760,7 @@
     <e lm="heresy"><i>heres</i><par n="bab/y__n"/></e>
     <e lm="pussy"><i>puss</i><par n="bab/y__n"/></e>
     <e lm="proximity"><i>proximity</i><par n="east__n"/></e>
+    <e lm="proxy"><i>proxy</i><par n="expensive__adj"/></e>
     <e lm="scurvy"><i>scurvy</i><par n="east__n"/></e>
 
     <e lm="flora and fauna"><i>flora<b/>and<b/>fauna</i><par n="east__n"/></e>
@@ -13737,6 +13738,7 @@
     <e lm="nylon"><i>nylon</i><par n="house__n"/></e>
     <e lm="oath"><i>oath</i><par n="house__n"/></e>
     <e lm="oat"><i>oat</i><par n="house__n"/></e>
+    <e lm="offline"><i>offline</i><par n="expensive__adj"/></e>
     <e lm="offspring"><i>offspring</i><par n="house__n"/></e>
     <e lm="oppression"><i>oppression</i><par n="house__n"/></e>
     <e lm="optics"><i>optics</i><par n="politics__n"/></e>
@@ -18238,6 +18240,7 @@
     <e lm="plenty"><i>plent</i><par n="bab/y__n"/></e>
     <e lm="plot"><i>plot</i><par n="house__n"/></e>
     <e lm="plug"><i>plug</i><par n="house__n"/></e>
+    <e lm="plugin"><i>plugin</i><par n="house__n"/></e>
     <e lm="plum"><i>plum</i><par n="house__n"/></e>
     <e lm="plural"><i>plural</i><par n="house__n"/></e>
     <e lm="pluralism"><i>pluralism</i><par n="house__n"/></e>
@@ -18958,6 +18961,7 @@
     <e lm="seriousness"><i>seriousness</i><par n="access__n"/></e>
     <e lm="serum"><i>serum</i><par n="house__n"/></e>
     <e lm="servant"><i>servant</i><par n="house__n"/></e>
+    <e lm="server"><i>server</i><par n="house__n"/></e>
     <e lm="service"><i>service</i><par n="house__n"/></e>
     <e lm="servitude"><i>servitude</i><par n="house__n"/></e>
     <e lm="session"><i>session</i><par n="house__n"/></e>
@@ -19127,6 +19131,7 @@
     <e lm="sonority"><i>sonorit</i><par n="bab/y__n"/></e>
     <e lm="sore"><i>sore</i><par n="house__n"/></e>
     <e lm="sort"><i>sort</i><par n="house__n"/></e>
+    <e lm="sort"><i>sort</i><par n="enjoy__vblex"/></e>
     <e lm="soul"><i>soul</i><par n="house__n"/></e>
     <e lm="sound"><i>sound</i><par n="house__n"/></e>
     <e lm="soup"><i>soup</i><par n="house__n"/></e>
@@ -19330,6 +19335,7 @@
     <e lm="suggestion"><i>suggestion</i><par n="house__n"/></e>
     <e lm="suicide"><i>suicide</i><par n="house__n"/></e>
     <e lm="suit"><i>suit</i><par n="house__n"/></e>
+    <e lm="suitable"><i>suitable</i><par n="expensive__adj"/></e>
     <e lm="suitability"><i>suitabilit</i><par n="bab/y__n"/></e>
     <e lm="suitcase"><i>suitcase</i><par n="house__n"/></e>
     <e lm="sulphide"><i>sulphide</i><par n="house__n"/></e>
@@ -19720,6 +19726,7 @@
     <e lm="universe"><i>universe</i><par n="house__n"/></e>
     <e lm="university"><i>universit</i><par n="bab/y__n"/></e>
     <e lm="unrest"><i>unrest</i><par n="house__n"/></e>
+    <e lm="unsorted"><i>unsorted</i><par n="expensive__adj"/></e>
     <e lm="unsteadiness"><i>unsteadiness</i><par n="access__n"/></e>
     <e lm="upholstery"><i>upholster</i><par n="bab/y__n"/></e>
     <e lm="uprising"><i>uprising</i><par n="house__n"/></e>
@@ -40335,6 +40342,7 @@
     <e lm="boast"><i>boast</i><par n="accept__vblex"/></e>
     <e lm="bomb"><i>bomb</i><par n="accept__vblex"/></e>
     <e lm="book"><i>book</i><par n="accept__vblex"/></e>
+    <e lm="bookmark"><i>bookmark</i><par n="house__n"/></e>
     <e lm="boost"><i>boost</i><par n="accept__vblex"/></e>
     <e lm="boot"><i>boot</i><par n="accept__vblex"/></e>
     <e lm="bother"><i>bother</i><par n="accept__vblex"/></e>
