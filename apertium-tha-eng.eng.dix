@@ -19547,6 +19547,7 @@
     <e lm="tonnage"><i>tonnage</i><par n="house__n"/></e>
     <e lm="tonne"><i>tonne</i><par n="house__n"/></e>
     <e lm="tool"><i>tool</i><par n="house__n"/></e>
+    <e lm="toolbar"><i>toolbar</i><par n="house__n"/></e>
     <e lm="toothpick"><i>toothpick</i><par n="house__n"/></e>
     <e lm="top"><i>top</i><par n="house__n"/></e>
     <e lm="topic"><i>topic</i><par n="house__n"/></e>
