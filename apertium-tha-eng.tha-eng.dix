@@ -26,7 +26,6 @@
     <sdef n="pl" c="Plural"/>
     <sdef n="pr" c="Preposition"/>
     <sdef n="preadv" c="Pre-adverb"/>
-    <sdef n="prep" c=""/>
     <sdef n="prn" c="Pronoun"/>
     <sdef n="sent" c="Sentence-ending punctuation"/>
     <sdef n="sg" c="Singular"/>
@@ -34435,6 +34434,7 @@
     <e><p><l>เพียงแต่<s n="pr"/></l><r>but<s n="pr"/></r></p></e>
     <e><p><l>สำหรับ<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>สำหรับ<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+    <e><p><l>จาก<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
     <e><p><l>ใน<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e><p><l>กลายเป็น<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
     <e><p><l>เข้ามาข้างใน<s n="vblex"/></l><r>into<s n="pr"/></r></p></e>
@@ -34442,6 +34442,9 @@
     <e><p><l>สำหรับ<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
     <e><p><l>โดย<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
     <e><p><l>เพื่อ<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>บน<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
+    <e><p><l>ข้างใน<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
+    <e><p><l>ของ<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
 
     <!-- preadv -->
     <e><p><l>เท่ากับ<s n="preadv"/></l><r>as<s n="preadv"/></r></p></e>
@@ -34450,6 +34453,23 @@
 
     <!-- prn -->
     <e><p><l>นี้<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
+    <e><p><l>มัน<s n="prn"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>ฉัน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>ฉัน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>เรา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>เรา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>คุณ<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>คุณ<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>พวกเขา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>พวกเขา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>หล่อน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>หล่อน<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>เขา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>เขา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ส่วนผสมที่เพิ่มเข้าไป<s n="prn"/></l><r>additive<s n="prn"/></r></p></e>
+    <e><p><l>ของมัน<s n="prn"/></l><r>its<s n="prn"/></r></p></e>
+    <e><p><l>เหล่านี้<s n="prn"/></l><r>these<s n="prn"/></r></p></e>
+    <e><p><l>พวกเรา<s n="prn"/></l><r>us<s n="prn"/></r></p></e>
 
     <!-- vblex -->
     <e><p><l>ทอดทิ้ง<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
