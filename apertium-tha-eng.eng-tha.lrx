@@ -3,1360 +3,1363 @@
     <match lemma="word1" tags="n.*"><select lemma="word2" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="able" tags="adj.*"><select lemma="สามารถ" tags="adj.*"/></match>
+    <match lemma="able" tags="adj.*"><select lemma="สามารถ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="abnormal" tags="adj.*"><select lemma="ที่ไม่ปกติ" tags="adj.*"/></match>
+    <match lemma="abnormal" tags="adj"><select lemma="ที่ไม่ปกติ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="abstemious" tags="adj.*"><select lemma="พอประมาณ" tags="adj.*"/></match>
+    <match lemma="abstemious" tags="adj"><select lemma="พอประมาณ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="abysmal" tags="adj.*"><select lemma="ลึกระดับก้นสมุทร" tags="adj.*"/></match>
+    <match lemma="abysmal" tags="adj"><select lemma="ลึกระดับก้นสมุทร" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="acceptable" tags="adj.*"><select lemma="ที่น่าพอใจ" tags="adj.*"/></match>
+    <match lemma="acceptable" tags="adj"><select lemma="ที่น่าพอใจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="accessible" tags="adj.*"><select lemma="ที่สามารถเข้าได้" tags="adj.*"/></match>
+    <match lemma="accessible" tags="adj"><select lemma="ที่สามารถเข้าได้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="acidic" tags="adj.*"><select lemma="ซึ่งเป็นกรด" tags="adj.*"/></match>
+    <match lemma="acidic" tags="adj"><select lemma="ซึ่งเป็นกรด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="acquisitive" tags="adj.*"><select lemma="โลภ" tags="adj.*"/></match>
+    <match lemma="acquisitive" tags="adj"><select lemma="โลภ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="acrid" tags="adj.*"><select lemma="ที่แสบสัน" tags="adj.*"/></match>
+    <match lemma="acrid" tags="adj"><select lemma="ที่แสบสัน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="acute" tags="adj.*"><select lemma="เฉียบพลัน" tags="adj.*"/></match>
+    <match lemma="acute" tags="adj"><select lemma="เฉียบพลัน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="acyclic" tags="adj.*"><select lemma="แบบโซ่เปิด" tags="adj.*"/></match>
+    <match lemma="acyclic" tags="adj"><select lemma="แบบโซ่เปิด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="additional" tags="adj.*"><select lemma="พิเศษ" tags="adj.*"/></match>
+    <match lemma="additional" tags="adj"><select lemma="พิเศษ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="adept" tags="adj.*"><select lemma="ช่ำชอง" tags="adj.*"/></match>
+    <match lemma="adept" tags="adj"><select lemma="ช่ำชอง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="affordable" tags="adj.*"><select lemma="ที่มีราคาต่ำ" tags="adj.*"/></match>
+    <match lemma="affordable" tags="adj"><select lemma="ที่มีราคาต่ำ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="agglutinative" tags="adj.*"><select lemma="ซึ่งใช้กาวติด" tags="adj.*"/></match>
+    <match lemma="agglutinative" tags="adj"><select lemma="ซึ่งใช้กาวติด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="aggressive" tags="adj.*"><select lemma="ก้าวร้าว" tags="adj.*"/></match>
+    <match lemma="aggressive" tags="adj"><select lemma="ก้าวร้าว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="agile" tags="adj.*"><select lemma="ว่องไว" tags="adj.*"/></match>
+    <match lemma="agile" tags="adj"><select lemma="ว่องไว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="agrarian" tags="adj.*"><select lemma="เกษตร" tags="adj.*"/></match>
+    <match lemma="agrarian" tags="adj"><select lemma="เกษตร" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="agricultural" tags="adj.*"><select lemma="ทางการเกษตร" tags="adj.*"/></match>
+    <match lemma="agricultural" tags="adj"><select lemma="ทางการเกษตร" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="aground" tags="adj.*"><select lemma="ตามแนวชายฝั่ง" tags="adj.*"/></match>
+    <match lemma="aground" tags="adj"><select lemma="ตามแนวชายฝั่ง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="airy" tags="adj.*"><select lemma="ซึ่งมีอากาศถ่ายเท" tags="adj.*"/></match>
+    <match lemma="airy" tags="adj.*"><select lemma="ซึ่งมีอากาศถ่ายเท" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="alike" tags="adj.*"><select lemma="คล้ายกัน" tags="adj.*"/></match>
+    <match lemma="alike" tags="adj"><select lemma="คล้ายกัน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="alive" tags="adj.*"><select lemma="มีชีวิตชีวา" tags="adj.*"/></match>
+    <match lemma="alive" tags="adj"><select lemma="มีชีวิตชีวา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="alkaline" tags="adj.*"><select lemma="ด่าง" tags="adj.*"/></match>
+    <match lemma="alkaline" tags="adj"><select lemma="ด่าง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="amicable" tags="adj.*"><select lemma="เป็นมิตร" tags="adj.*"/></match>
+    <match lemma="amicable" tags="adj"><select lemma="เป็นมิตร" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="amorphous" tags="adj.*"><select lemma="ไร้รูปทรง" tags="adj.*"/></match>
+    <match lemma="amorphous" tags="adj"><select lemma="ไร้รูปทรง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="amphibious" tags="adj.*"><select lemma="สะเทินน้ำสะเทินบก" tags="adj.*"/></match>
+    <match lemma="amphibious" tags="adj"><select lemma="สะเทินน้ำสะเทินบก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="anaerobic" tags="adj.*"><select lemma="ซึ่งอาศัยในที่ไม่มีออกซิเจน" tags="adj.*"/></match>
+    <match lemma="anaerobic" tags="adj"><select lemma="ซึ่งอาศัยในที่ไม่มีออกซิเจน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="anal" tags="adj.*"><select lemma="ระยะทวาร" tags="adj.*"/></match>
+    <match lemma="anal" tags="adj"><select lemma="ระยะทวาร" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="analytic" tags="adj.*"><select lemma="เชิงวิเคราะห์" tags="adj.*"/></match>
+    <match lemma="analytic" tags="adj"><select lemma="เชิงวิเคราะห์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="analytical" tags="adj.*"><select lemma="อย่างวิเคราะห์" tags="adj.*"/></match>
+    <match lemma="analytical" tags="adj"><select lemma="อย่างวิเคราะห์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="anatomical" tags="adj.*"><select lemma="เชิงกายวิภาค" tags="adj.*"/></match>
+    <match lemma="anatomical" tags="adj"><select lemma="เชิงกายวิภาค" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="ancient" tags="adj.*"><select lemma="แก่หง่อม" tags="adj.*"/></match>
+    <match lemma="ancient" tags="adj"><select lemma="แก่หง่อม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="angular" tags="adj.*"><select lemma="ที่มีมุม" tags="adj.*"/></match>
+    <match lemma="angular" tags="adj"><select lemma="ที่มีมุม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="annual" tags="adj.*"><select lemma="ที่มีอายุไม่เกินหนึ่งปี" tags="adj.*"/></match>
+    <match lemma="annual" tags="adj"><select lemma="ที่มีอายุไม่เกินหนึ่งปี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="apparent" tags="adj.*"><select lemma="เป็นที่ประจักษ์ชัด" tags="adj.*"/></match>
+    <match lemma="apparent" tags="adj"><select lemma="เป็นที่ประจักษ์ชัด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="appetizing" tags="adj.*"><select lemma="ที่กระตุ้นความอยากอาหาร" tags="adj.*"/></match>
+    <match lemma="appetizing" tags="adj"><select lemma="ที่กระตุ้นความอยากอาหาร" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="arboreal" tags="adj.*"><select lemma="เกี่ยวกับต้นไม้" tags="adj.*"/></match>
+    <match lemma="arboreal" tags="adj"><select lemma="เกี่ยวกับต้นไม้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="architectural" tags="adj.*"><select lemma="เกี่ยวกับสถาปัตยกรรม" tags="adj.*"/></match>
+    <match lemma="architectural" tags="adj"><select lemma="เกี่ยวกับสถาปัตยกรรม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="arduous" tags="adj.*"><select lemma="ที่ยากลำบาก" tags="adj.*"/></match>
+    <match lemma="arduous" tags="adj"><select lemma="ที่ยากลำบาก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="armed" tags="adj.*"><select lemma="ซึ่งใช้กองกำลัง" tags="adj.*"/></match>
+    <match lemma="armed" tags="adj"><select lemma="ซึ่งใช้กองกำลัง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="armoured" tags="adj.*"><select lemma="ซึ่งหุ้มเกราะป้องกัน" tags="adj.*"/></match>
+    <match lemma="armoured" tags="adj"><select lemma="ซึ่งหุ้มเกราะป้องกัน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="artistic" tags="adj.*"><select lemma="ทางศิลปะ" tags="adj.*"/></match>
+    <match lemma="artistic" tags="adj"><select lemma="ทางศิลปะ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="artless" tags="adj.*"><select lemma="เป็นธรรมชาติ" tags="adj.*"/></match>
+    <match lemma="artless" tags="adj"><select lemma="เป็นธรรมชาติ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="asleep" tags="adj.*"><select lemma="หลับ" tags="adj.*"/></match>
+    <match lemma="asleep" tags="adj"><select lemma="หลับ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="astral" tags="adj.*"><select lemma="เกี่ยวข้องกับดวงดาว" tags="adj.*"/></match>
+    <match lemma="astral" tags="adj"><select lemma="เกี่ยวข้องกับดวงดาว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="attentive" tags="adj.*"><select lemma="ซึ่งเอาใจใส่" tags="adj.*"/></match>
+    <match lemma="attentive" tags="adj"><select lemma="ซึ่งเอาใจใส่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="attractive" tags="adj.*"><select lemma="ที่มีเสน่ห์" tags="adj.*"/></match>
+    <match lemma="attractive" tags="adj"><select lemma="ที่มีเสน่ห์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="auditory" tags="adj.*"><select lemma="เกี่ยวกับการได้ยิน" tags="adj.*"/></match>
+    <match lemma="auditory" tags="adj"><select lemma="เกี่ยวกับการได้ยิน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="automatic" tags="adj.*"><select lemma="อัตโนมัติ" tags="adj.*"/></match>
+    <match lemma="automatic" tags="adj"><select lemma="อัตโนมัติ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="average" tags="adj.*"><select lemma="โดยเฉลี่ย" tags="adj.*"/></match>
+    <match lemma="average" tags="adj"><select lemma="โดยเฉลี่ย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="aware" tags="adj.*"><select lemma="สำเหนียก" tags="adj.*"/></match>
+    <match lemma="aware" tags="adj"><select lemma="สำเหนียก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="bad" tags="adj.*"><select lemma="แย่" tags="adj.*"/></match>
+    <match lemma="bad" tags="adj.*"><select lemma="แย่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="barbaric" tags="adj.*"><select lemma="ป่าเถื่อน" tags="adj.*"/></match>
+    <match lemma="barbaric" tags="adj"><select lemma="ป่าเถื่อน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="baroque" tags="adj.*"><select lemma="แบบบาโร้ค" tags="adj.*"/></match>
+    <match lemma="baroque" tags="adj"><select lemma="แบบบาโร้ค" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="basic" tags="adj.*"><select lemma="พื้นฐาน" tags="adj.*"/></match>
+    <match lemma="basic" tags="adj"><select lemma="พื้นฐาน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="beautiful" tags="adj.*"><select lemma="งาม" tags="adj.*"/></match>
+    <match lemma="beautiful" tags="adj"><select lemma="งาม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="beneficial" tags="adj.*"><select lemma="ดี" tags="adj.*"/></match>
+    <match lemma="beneficial" tags="adj"><select lemma="ดี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="big" tags="adj.*"><select lemma="ใหญ่" tags="adj.*"/></match>
+    <match lemma="big" tags="adj.*"><select lemma="ใหญ่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="black" tags="adj.*"><select lemma="สีดำ" tags="adj.*"/></match>
+    <match lemma="black" tags="adj"><select lemma="สีดำ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="blind" tags="adj.*"><select lemma="ซึ่งมองไม่เห็น" tags="adj.*"/></match>
+    <match lemma="blind" tags="adj.*"><select lemma="ซึ่งมองไม่เห็น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="blue" tags="adj.*"><select lemma="น้ำเงิน" tags="adj.*"/></match>
+    <match lemma="blue" tags="adj"><select lemma="น้ำเงิน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="bootless" tags="adj.*"><select lemma="ซึ่งไร้ประโยชน์" tags="adj.*"/></match>
+    <match lemma="bootless" tags="adj"><select lemma="ซึ่งไร้ประโยชน์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="born" tags="adj.*"><select lemma="เกิด" tags="adj.*"/></match>
+    <match lemma="born" tags="adj"><select lemma="เกิด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="bottomless" tags="adj.*"><select lemma="สุดหยั่งลึก" tags="adj.*"/></match>
+    <match lemma="bottomless" tags="adj"><select lemma="สุดหยั่งลึก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="brave" tags="adj.*"><select lemma="กล้า" tags="adj.*"/></match>
+    <match lemma="brave" tags="adj.*"><select lemma="กล้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="bright" tags="adj.*"><select lemma="จ้า" tags="adj.*"/></match>
+    <match lemma="bright" tags="adj.*"><select lemma="จ้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="broad" tags="adj.*"><select lemma="กว้าง" tags="adj.*"/></match>
+    <match lemma="broad" tags="adj.*"><select lemma="กว้าง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="brown" tags="adj.*"><select lemma="น้ำตาล" tags="adj.*"/></match>
+    <match lemma="brown" tags="adj.*"><select lemma="น้ำตาล" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="capable" tags="adj.*"><select lemma="ที่มีความสามารถ" tags="adj.*"/></match>
+    <match lemma="capable" tags="adj"><select lemma="ที่มีความสามารถ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="cardinal" tags="adj.*"><select lemma="ใหญ่" tags="adj.*"/></match>
+    <match lemma="cardinal" tags="adj"><select lemma="ใหญ่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="celestial" tags="adj.*"><select lemma="แห่งท้องฟ้า" tags="adj.*"/></match>
+    <match lemma="celestial" tags="adj"><select lemma="แห่งท้องฟ้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="cellular" tags="adj.*"><select lemma="พรุน" tags="adj.*"/></match>
+    <match lemma="cellular" tags="adj"><select lemma="พรุน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="celtic" tags="adj.*"><select lemma="เกลิค" tags="adj.*"/></match>
+    <match lemma="celtic" tags="adj"><select lemma="เกลิค" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="central" tags="adj.*"><select lemma="ใหญ่" tags="adj.*"/></match>
+    <match lemma="central" tags="adj"><select lemma="ใหญ่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="cheap" tags="adj.*"><select lemma="ถูก" tags="adj.*"/></match>
+    <match lemma="cheap" tags="adj.*"><select lemma="ถูก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="cheesy" tags="adj.*"><select lemma="ห่วย" tags="adj.*"/></match>
+    <match lemma="cheesy" tags="adj.*"><select lemma="ห่วย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="chemical" tags="adj.*"><select lemma="เคมี" tags="adj.*"/></match>
+    <match lemma="chemical" tags="adj"><select lemma="เคมี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="chronic" tags="adj.*"><select lemma="เรื้อรัง" tags="adj.*"/></match>
+    <match lemma="chronic" tags="adj"><select lemma="เรื้อรัง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="clean" tags="adj.*"><select lemma="สะอาด" tags="adj.*"/></match>
+    <match lemma="clean" tags="adj.*"><select lemma="สะอาด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="clerical" tags="adj.*"><select lemma="เสมียน" tags="adj.*"/></match>
+    <match lemma="clerical" tags="adj"><select lemma="เสมียน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="cold" tags="adj.*"><select lemma="หนาว" tags="adj.*"/></match>
+    <match lemma="cold" tags="adj.*"><select lemma="หนาว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="colourful" tags="adj.*"><select lemma="ซึ่งมีสีสัน" tags="adj.*"/></match>
+    <match lemma="colourful" tags="adj"><select lemma="ซึ่งมีสีสัน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="colourless" tags="adj.*"><select lemma="ไร้สี" tags="adj.*"/></match>
+    <match lemma="colourless" tags="adj"><select lemma="ไร้สี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="comfortable" tags="adj.*"><select lemma="สะดวกสบาย" tags="adj.*"/></match>
+    <match lemma="comfortable" tags="adj"><select lemma="สะดวกสบาย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="coming" tags="adj.*"><select lemma="ที่กำลังจะถึง" tags="adj.*"/></match>
+    <match lemma="coming" tags="adj"><select lemma="ที่กำลังจะถึง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="communal" tags="adj.*"><select lemma="ซึ่งเป็นกลุ่ม" tags="adj.*"/></match>
+    <match lemma="communal" tags="adj"><select lemma="ซึ่งเป็นกลุ่ม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="competent" tags="adj.*"><select lemma="ที่มีความสามารถ" tags="adj.*"/></match>
+    <match lemma="competent" tags="adj"><select lemma="ที่มีความสามารถ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="conciliatory" tags="adj.*"><select lemma="ประนีประนอม" tags="adj.*"/></match>
+    <match lemma="conciliatory" tags="adj"><select lemma="ประนีประนอม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="conservative" tags="adj.*"><select lemma="แบบอนุรักษ์นิยม" tags="adj.*"/></match>
+    <match lemma="conservative" tags="adj"><select lemma="แบบอนุรักษ์นิยม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="cosmic" tags="adj.*"><select lemma="คอสมิก" tags="adj.*"/></match>
+    <match lemma="cosmic" tags="adj"><select lemma="คอสมิก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="courageous" tags="adj.*"><select lemma="กล้า" tags="adj.*"/></match>
+    <match lemma="courageous" tags="adj"><select lemma="กล้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="cowardly" tags="adj.*"><select lemma="ขลาด" tags="adj.*"/></match>
+    <match lemma="cowardly" tags="adj"><select lemma="ขลาด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="creative" tags="adj.*"><select lemma="สร้างสรรค์" tags="adj.*"/></match>
+    <match lemma="creative" tags="adj"><select lemma="สร้างสรรค์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="crimson" tags="adj.*"><select lemma="แดง" tags="adj.*"/></match>
+    <match lemma="crimson" tags="adj"><select lemma="แดง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="crucial" tags="adj.*"><select lemma="สำคัญ" tags="adj.*"/></match>
+    <match lemma="crucial" tags="adj"><select lemma="สำคัญ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="cryogenic" tags="adj.*"><select lemma="เกี่ยวกับภาวะเย็นจัด" tags="adj.*"/></match>
+    <match lemma="cryogenic" tags="adj"><select lemma="เกี่ยวกับภาวะเย็นจัด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="crystalline" tags="adj.*"><select lemma="ซึ่งเป็นคริสตัล" tags="adj.*"/></match>
+    <match lemma="crystalline" tags="adj"><select lemma="ซึ่งเป็นคริสตัล" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="cubic" tags="adj.*"><select lemma="ที่มีสามมิติ" tags="adj.*"/></match>
+    <match lemma="cubic" tags="adj"><select lemma="ที่มีสามมิติ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dark" tags="adj.*"><select lemma="มืด" tags="adj.*"/></match>
+    <match lemma="dark" tags="adj.*"><select lemma="มืด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dark-haired" tags="adj.*"><select lemma="ที่มีผมสีดำ" tags="adj.*"/></match>
+    <match lemma="dark-haired" tags="adj"><select lemma="ที่มีผมสีดำ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dead" tags="adj.*"><select lemma="ตาย" tags="adj.*"/></match>
+    <match lemma="dead" tags="adj"><select lemma="ตาย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="deficient" tags="adj.*"><select lemma="ขาด" tags="adj.*"/></match>
+    <match lemma="deficient" tags="adj"><select lemma="ขาด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="democratic" tags="adj.*"><select lemma="ที่เป็นประชาธิปไตย" tags="adj.*"/></match>
+    <match lemma="democratic" tags="adj"><select lemma="ที่เป็นประชาธิปไตย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="diatonic" tags="adj.*"><select lemma="ไดอาโทนิก" tags="adj.*"/></match>
+    <match lemma="diatonic" tags="adj"><select lemma="ไดอาโทนิก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="different" tags="adj.*"><select lemma="ต่าง" tags="adj.*"/></match>
+    <match lemma="different" tags="adj"><select lemma="ต่าง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="digital" tags="adj.*"><select lemma="ดิจิตอล" tags="adj.*"/></match>
+    <match lemma="digital" tags="adj"><select lemma="ดิจิตอล" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dimensional" tags="adj.*"><select lemma="ที่มีมิติ" tags="adj.*"/></match>
+    <match lemma="dimensional" tags="adj"><select lemma="ที่มีมิติ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dirty" tags="adj.*"><select lemma="เปื้อน" tags="adj.*"/></match>
+    <match lemma="dirty" tags="adj.*"><select lemma="เปื้อน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dishonest" tags="adj.*"><select lemma="ทุจริต" tags="adj.*"/></match>
+    <match lemma="dishonest" tags="adj"><select lemma="ทุจริต" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dissimilar" tags="adj.*"><select lemma="แตกต่าง" tags="adj.*"/></match>
+    <match lemma="dissimilar" tags="adj"><select lemma="แตกต่าง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="diurnal" tags="adj.*"><select lemma="ทั้งวัน" tags="adj.*"/></match>
+    <match lemma="diurnal" tags="adj"><select lemma="ทั้งวัน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="divine" tags="adj.*"><select lemma="จากพระเจ้า" tags="adj.*"/></match>
+    <match lemma="divine" tags="adj"><select lemma="จากพระเจ้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="domestic" tags="adj.*"><select lemma="ภายใน" tags="adj.*"/></match>
+    <match lemma="domestic" tags="adj"><select lemma="ภายใน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dominant" tags="adj.*"><select lemma="โดดเด่น" tags="adj.*"/></match>
+    <match lemma="dominant" tags="adj"><select lemma="โดดเด่น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dorsal" tags="adj.*"><select lemma="ซึ่งอยู่ห่างจากแกน" tags="adj.*"/></match>
+    <match lemma="dorsal" tags="adj"><select lemma="ซึ่งอยู่ห่างจากแกน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dry" tags="adj.*"><select lemma="แห้ง" tags="adj.*"/></match>
+    <match lemma="dry" tags="adj.*"><select lemma="แห้ง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="dumb" tags="adj.*"><select lemma="ซึ่งเรียนรู้ได้ช้า" tags="adj.*"/></match>
+    <match lemma="dumb" tags="adj.*"><select lemma="ซึ่งเรียนรู้ได้ช้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="early" tags="adj.*"><select lemma="ครั้งแรก" tags="adj.*"/></match>
+    <match lemma="early" tags="adj.*"><select lemma="ครั้งแรก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="easy" tags="adj.*"><select lemma="ง่าย" tags="adj.*"/></match>
+    <match lemma="easy" tags="adj.*"><select lemma="ง่าย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="economic" tags="adj.*"><select lemma="ทางเศรษฐกิจ" tags="adj.*"/></match>
+    <match lemma="economic" tags="adj"><select lemma="ทางเศรษฐกิจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="educational" tags="adj.*"><select lemma="ด้านการศึกษา" tags="adj.*"/></match>
+    <match lemma="educational" tags="adj"><select lemma="ด้านการศึกษา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="efficient" tags="adj.*"><select lemma="ซึ่งมีประสิทธิภาพ" tags="adj.*"/></match>
+    <match lemma="efficient" tags="adj"><select lemma="ซึ่งมีประสิทธิภาพ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="electric" tags="adj.*"><select lemma="ไฟฟ้า" tags="adj.*"/></match>
+    <match lemma="electric" tags="adj"><select lemma="ไฟฟ้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="electromagnetic" tags="adj.*"><select lemma="อิเล็กโตรแมกเนติก" tags="adj.*"/></match>
+    <match lemma="electromagnetic" tags="adj"><select lemma="อิเล็กโตรแมกเนติก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="emergent" tags="adj.*"><select lemma="ซึ่งปรากฎขึ้น" tags="adj.*"/></match>
+    <match lemma="emergent" tags="adj"><select lemma="ซึ่งปรากฎขึ้น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="emotional" tags="adj.*"><select lemma="ด้วยอารมณ์" tags="adj.*"/></match>
+    <match lemma="emotional" tags="adj"><select lemma="ด้วยอารมณ์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="empty" tags="adj.*"><select lemma="เปล่า" tags="adj.*"/></match>
+    <match lemma="empty" tags="adj.*"><select lemma="เปล่า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="equal" tags="adj.*"><select lemma="ที่เท่าเทียมกัน" tags="adj.*"/></match>
+    <match lemma="equal" tags="adj"><select lemma="ที่เท่าเทียมกัน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="essential" tags="adj.*"><select lemma="จำเป็น" tags="adj.*"/></match>
+    <match lemma="essential" tags="adj"><select lemma="จำเป็น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="ethical" tags="adj.*"><select lemma="จริยศาสตร์" tags="adj.*"/></match>
+    <match lemma="ethical" tags="adj"><select lemma="จริยศาสตร์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="excellent" tags="adj.*"><select lemma="ชั้นเฟิร์ตคลาส" tags="adj.*"/></match>
+    <match lemma="excellent" tags="adj"><select lemma="ชั้นเฟิร์ตคลาส" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="exotic" tags="adj.*"><select lemma="แปลก" tags="adj.*"/></match>
+    <match lemma="exotic" tags="adj"><select lemma="แปลก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="external" tags="adj.*"><select lemma="ภายนอก" tags="adj.*"/></match>
+    <match lemma="external" tags="adj"><select lemma="ภายนอก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="extinct" tags="adj.*"><select lemma="ดับสนิท" tags="adj.*"/></match>
+    <match lemma="extinct" tags="adj"><select lemma="ดับสนิท" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="extra" tags="adj.*"><select lemma="ที่เกิน" tags="adj.*"/></match>
+    <match lemma="extra" tags="adj"><select lemma="ที่เกิน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="fair" tags="adj.*"><select lemma="แฟร์" tags="adj.*"/></match>
+    <match lemma="fair" tags="adj.*"><select lemma="แฟร์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="faithful" tags="adj.*"><select lemma="ซื่อสัตย์" tags="adj.*"/></match>
+    <match lemma="faithful" tags="adj"><select lemma="ซื่อสัตย์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="falling" tags="adj.*"><select lemma="ลดระดับ" tags="adj.*"/></match>
+    <match lemma="falling" tags="adj"><select lemma="ลดระดับ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="famous" tags="adj.*"><select lemma="ที่มีชื่อเสียง" tags="adj.*"/></match>
+    <match lemma="famous" tags="adj"><select lemma="ที่มีชื่อเสียง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="fast" tags="adj.*"><select lemma="เร็ว" tags="adj.*"/></match>
+    <match lemma="fast" tags="adj.*"><select lemma="เร็ว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="fat" tags="adj.*"><select lemma="อ้วน" tags="adj.*"/></match>
+    <match lemma="fat" tags="adj.*"><select lemma="อ้วน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="fearful" tags="adj.*"><select lemma="ซึ่งเต็มไปด้วยความกลัว" tags="adj.*"/></match>
+    <match lemma="fearful" tags="adj"><select lemma="ซึ่งเต็มไปด้วยความกลัว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="fertile" tags="adj.*"><select lemma="ซึ่งสืบพันธุ์ได้" tags="adj.*"/></match>
+    <match lemma="fertile" tags="adj"><select lemma="ซึ่งสืบพันธุ์ได้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="fleshy" tags="adj.*"><select lemma="อ้วนใหญ่" tags="adj.*"/></match>
+    <match lemma="fleshy" tags="adj.*"><select lemma="อ้วนใหญ่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="flexible" tags="adj.*"><select lemma="ที่โค้งงอได้" tags="adj.*"/></match>
+    <match lemma="flexible" tags="adj"><select lemma="ที่โค้งงอได้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="flowery" tags="adj.*"><select lemma="ซึ่งงดงาม" tags="adj.*"/></match>
+    <match lemma="flowery" tags="adj"><select lemma="ซึ่งงดงาม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="foolish" tags="adj.*"><select lemma="โง่" tags="adj.*"/></match>
+    <match lemma="foolish" tags="adj"><select lemma="โง่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="foreign" tags="adj.*"><select lemma="ต่างชาติ" tags="adj.*"/></match>
+    <match lemma="foreign" tags="adj"><select lemma="ต่างชาติ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="formal" tags="adj.*"><select lemma="ที่เป็นทางการ" tags="adj.*"/></match>
+    <match lemma="formal" tags="adj"><select lemma="ที่เป็นทางการ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="fraternal" tags="adj.*"><select lemma="ฉันพี่น้อง" tags="adj.*"/></match>
+    <match lemma="fraternal" tags="adj"><select lemma="ฉันพี่น้อง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="free" tags="adj.*"><select lemma="อิสระ" tags="adj.*"/></match>
+    <match lemma="free" tags="adj.*"><select lemma="อิสระ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="fresh" tags="adj.*"><select lemma="สด" tags="adj.*"/></match>
+    <match lemma="fresh" tags="adj.*"><select lemma="สด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="frontal" tags="adj.*"><select lemma="ด้านหน้า" tags="adj.*"/></match>
+    <match lemma="frontal" tags="adj"><select lemma="ด้านหน้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="fruitless" tags="adj.*"><select lemma="ซึ่งไร้ประโยชน์" tags="adj.*"/></match>
+    <match lemma="fruitless" tags="adj"><select lemma="ซึ่งไร้ประโยชน์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="full" tags="adj.*"><select lemma="เต็ม" tags="adj.*"/></match>
+    <match lemma="full" tags="adj.*"><select lemma="เต็ม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="fundamental" tags="adj.*"><select lemma="ใหญ่" tags="adj.*"/></match>
+    <match lemma="fundamental" tags="adj"><select lemma="ใหญ่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="funny" tags="adj.*"><select lemma="ตลก" tags="adj.*"/></match>
+    <match lemma="funny" tags="adj.*"><select lemma="ตลก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="futile" tags="adj.*"><select lemma="ซึ่งไร้ประโยชน์" tags="adj.*"/></match>
+    <match lemma="futile" tags="adj"><select lemma="ซึ่งไร้ประโยชน์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="general" tags="adj.*"><select lemma="ทั่วไป" tags="adj.*"/></match>
+    <match lemma="general" tags="adj"><select lemma="ทั่วไป" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="gentle" tags="adj.*"><select lemma="อ่อน" tags="adj.*"/></match>
+    <match lemma="gentle" tags="adj.*"><select lemma="อ่อน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="geographic" tags="adj.*"><select lemma="เกียวกับภูมิศาสตร์" tags="adj.*"/></match>
+    <match lemma="geographic" tags="adj"><select lemma="เกียวกับภูมิศาสตร์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="geographical" tags="adj.*"><select lemma="เกียวกับภูมิศาสตร์" tags="adj.*"/></match>
+    <match lemma="geographical" tags="adj"><select lemma="เกียวกับภูมิศาสตร์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="giant" tags="adj.*"><select lemma="ยักษ์" tags="adj.*"/></match>
+    <match lemma="giant" tags="adj"><select lemma="ยักษ์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="glad" tags="adj.*"><select lemma="ที่น่ายินดี" tags="adj.*"/></match>
+    <match lemma="glad" tags="adj"><select lemma="ที่น่ายินดี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="global" tags="adj.*"><select lemma="ทั่วโลก" tags="adj.*"/></match>
+    <match lemma="global" tags="adj"><select lemma="ทั่วโลก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="globular" tags="adj.*"><select lemma="ซึ่งเป็นทรงกลม" tags="adj.*"/></match>
+    <match lemma="globular" tags="adj"><select lemma="ซึ่งเป็นทรงกลม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="golden" tags="adj.*"><select lemma="ทอง" tags="adj.*"/></match>
+    <match lemma="golden" tags="adj"><select lemma="ทอง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="good" tags="adj.*"><select lemma="ดี" tags="adj.*"/></match>
+    <match lemma="good" tags="adj.*"><select lemma="ดี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="gradual" tags="adj.*"><select lemma="ทีละน้อย" tags="adj.*"/></match>
+    <match lemma="gradual" tags="adj"><select lemma="ทีละน้อย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="grammatical" tags="adj.*"><select lemma="ทางไวยากรณ์" tags="adj.*"/></match>
+    <match lemma="grammatical" tags="adj"><select lemma="ทางไวยากรณ์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="greedy" tags="adj.*"><select lemma="โลภ" tags="adj.*"/></match>
+    <match lemma="greedy" tags="adj.*"><select lemma="โลภ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="green" tags="adj.*"><select lemma="เขียว" tags="adj.*"/></match>
+    <match lemma="green" tags="adj.*"><select lemma="เขียว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="grey" tags="adj.*"><select lemma="เทา" tags="adj.*"/></match>
+    <match lemma="grey" tags="adj.*"><select lemma="เทา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="grey-haired" tags="adj.*"><select lemma="ที่มีผมสีขาว" tags="adj.*"/></match>
+    <match lemma="grey-haired" tags="adj"><select lemma="ที่มีผมสีขาว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="hairy" tags="adj.*"><select lemma="ขนดก" tags="adj.*"/></match>
+    <match lemma="hairy" tags="adj.*"><select lemma="ขนดก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="happy" tags="adj.*"><select lemma="ที่มีความสุข" tags="adj.*"/></match>
+    <match lemma="happy" tags="adj.*"><select lemma="ที่มีความสุข" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="hard" tags="adj.*"><select lemma="ยาก" tags="adj.*"/></match>
+    <match lemma="hard" tags="adj.*"><select lemma="ยาก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="healthy" tags="adj.*"><select lemma="ที่สุขภาพดี" tags="adj.*"/></match>
+    <match lemma="healthy" tags="adj.*"><select lemma="ที่สุขภาพดี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="heavenly" tags="adj.*"><select lemma="สวรรค์" tags="adj.*"/></match>
+    <match lemma="heavenly" tags="adj"><select lemma="สวรรค์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="heavy" tags="adj.*"><select lemma="หนัก" tags="adj.*"/></match>
+    <match lemma="heavy" tags="adj.*"><select lemma="หนัก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="helpful" tags="adj.*"><select lemma="ซึ่งช่วยเหลือ" tags="adj.*"/></match>
+    <match lemma="helpful" tags="adj"><select lemma="ซึ่งช่วยเหลือ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="high" tags="adj.*"><select lemma="สูง" tags="adj.*"/></match>
+    <match lemma="high" tags="adj.*"><select lemma="สูง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="historic" tags="adj.*"><select lemma="ซึ่งเป็นเหตุการณ์สำคัญในประวัติศาสตร์" tags="adj.*"/></match>
+    <match lemma="historic" tags="adj"><select lemma="ซึ่งเป็นเหตุการณ์สำคัญในประวัติศาสตร์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="historical" tags="adj.*"><select lemma="ทางประวัติศาสตร์" tags="adj.*"/></match>
+    <match lemma="historical" tags="adj"><select lemma="ทางประวัติศาสตร์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="honest" tags="adj.*"><select lemma="สุจริต" tags="adj.*"/></match>
+    <match lemma="honest" tags="adj"><select lemma="สุจริต" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="hopeful" tags="adj.*"><select lemma="ซึ่งมีหวัง" tags="adj.*"/></match>
+    <match lemma="hopeful" tags="adj"><select lemma="ซึ่งมีหวัง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="hopeless" tags="adj.*"><select lemma="หมดหวัง" tags="adj.*"/></match>
+    <match lemma="hopeless" tags="adj"><select lemma="หมดหวัง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="hot" tags="adj.*"><select lemma="ร้อน" tags="adj.*"/></match>
+    <match lemma="hot" tags="adj.*"><select lemma="ร้อน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="human" tags="adj.*"><select lemma="ของมนุษย์" tags="adj.*"/></match>
+    <match lemma="human" tags="adj"><select lemma="ของมนุษย์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="humanistic" tags="adj.*"><select lemma="ทางมนุษยนิยม" tags="adj.*"/></match>
+    <match lemma="humanistic" tags="adj"><select lemma="ทางมนุษยนิยม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="humorous" tags="adj.*"><select lemma="ตลก" tags="adj.*"/></match>
+    <match lemma="humorous" tags="adj"><select lemma="ตลก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="hydraulic" tags="adj.*"><select lemma="ไฮดรอลิก" tags="adj.*"/></match>
+    <match lemma="hydraulic" tags="adj"><select lemma="ไฮดรอลิก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="hydrophobic" tags="adj.*"><select lemma="ไม่ชอบน้ำ" tags="adj.*"/></match>
+    <match lemma="hydrophobic" tags="adj"><select lemma="ไม่ชอบน้ำ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="identical" tags="adj.*"><select lemma="เหมือนกันเปี๊ยบ" tags="adj.*"/></match>
+    <match lemma="identical" tags="adj"><select lemma="เหมือนกันเปี๊ยบ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="ill" tags="adj.*"><select lemma="ป่วย" tags="adj.*"/></match>
+    <match lemma="ill" tags="adj.*"><select lemma="ป่วย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="illustrative" tags="adj.*"><select lemma="ซึ่งแสดงให้เห็นเป็นตัวอย่าง" tags="adj.*"/></match>
+    <match lemma="illustrative" tags="adj"><select lemma="ซึ่งแสดงให้เห็นเป็นตัวอย่าง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="immortal" tags="adj.*"><select lemma="อมตะ" tags="adj.*"/></match>
+    <match lemma="immortal" tags="adj"><select lemma="อมตะ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="important" tags="adj.*"><select lemma="สำคัญ" tags="adj.*"/></match>
+    <match lemma="important" tags="adj"><select lemma="สำคัญ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="impure" tags="adj.*"><select lemma="สกปรก" tags="adj.*"/></match>
+    <match lemma="impure" tags="adj.*"><select lemma="สกปรก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="inaccessible" tags="adj.*"><select lemma="เข้าถึงได้ยาก" tags="adj.*"/></match>
+    <match lemma="inaccessible" tags="adj"><select lemma="เข้าถึงได้ยาก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="inadequate" tags="adj.*"><select lemma="ซึ่งไม่เพียงพอ" tags="adj.*"/></match>
+    <match lemma="inadequate" tags="adj"><select lemma="ซึ่งไม่เพียงพอ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="incapable" tags="adj.*"><select lemma="ซึ่งไม่สามารถพอ" tags="adj.*"/></match>
+    <match lemma="incapable" tags="adj"><select lemma="ซึ่งไม่สามารถพอ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="inclement" tags="adj.*"><select lemma="ซึ่งไม่มีความปรานี" tags="adj.*"/></match>
+    <match lemma="inclement" tags="adj"><select lemma="ซึ่งไม่มีความปรานี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="independent" tags="adj.*"><select lemma="เป็นอิสระ" tags="adj.*"/></match>
+    <match lemma="independent" tags="adj"><select lemma="เป็นอิสระ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="indirect" tags="adj.*"><select lemma="โดยอ้อม" tags="adj.*"/></match>
+    <match lemma="indirect" tags="adj"><select lemma="โดยอ้อม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="industrial" tags="adj.*"><select lemma="ทางอุตสาหกรรม" tags="adj.*"/></match>
+    <match lemma="industrial" tags="adj"><select lemma="ทางอุตสาหกรรม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="inert" tags="adj.*"><select lemma="เฉื่อย" tags="adj.*"/></match>
+    <match lemma="inert" tags="adj"><select lemma="เฉื่อย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="inestimable" tags="adj.*"><select lemma="ที่คำนวนไม่ได้" tags="adj.*"/></match>
+    <match lemma="inestimable" tags="adj"><select lemma="ที่คำนวนไม่ได้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="inexpensive" tags="adj.*"><select lemma="ถูก" tags="adj.*"/></match>
+    <match lemma="inexpensive" tags="adj"><select lemma="ถูก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="infectious" tags="adj.*"><select lemma="ติดเชื้อ" tags="adj.*"/></match>
+    <match lemma="infectious" tags="adj"><select lemma="ติดเชื้อ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="infinite" tags="adj.*"><select lemma="อนันตภาพ" tags="adj.*"/></match>
+    <match lemma="infinite" tags="adj"><select lemma="อนันตภาพ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="informal" tags="adj.*"><select lemma="ที่ไม่เป็นทางการ" tags="adj.*"/></match>
+    <match lemma="informal" tags="adj"><select lemma="ที่ไม่เป็นทางการ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="ingenuous" tags="adj.*"><select lemma="ไม่มีเล่ห์เหลี่ยม" tags="adj.*"/></match>
+    <match lemma="ingenuous" tags="adj"><select lemma="ไม่มีเล่ห์เหลี่ยม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="innate" tags="adj.*"><select lemma="โดยกำเนิด" tags="adj.*"/></match>
+    <match lemma="innate" tags="adj"><select lemma="โดยกำเนิด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="innocent" tags="adj.*"><select lemma="บริสุทธิ์" tags="adj.*"/></match>
+    <match lemma="innocent" tags="adj"><select lemma="บริสุทธิ์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="insane" tags="adj.*"><select lemma="ซึ่งวิกลจริต" tags="adj.*"/></match>
+    <match lemma="insane" tags="adj"><select lemma="ซึ่งวิกลจริต" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="intelligent" tags="adj.*"><select lemma="ที่มีปัญญา" tags="adj.*"/></match>
+    <match lemma="intelligent" tags="adj"><select lemma="ที่มีปัญญา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="intense" tags="adj.*"><select lemma="เข้มข้น" tags="adj.*"/></match>
+    <match lemma="intense" tags="adj"><select lemma="เข้มข้น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="interim" tags="adj.*"><select lemma="ชั่วคราว" tags="adj.*"/></match>
+    <match lemma="interim" tags="adj"><select lemma="ชั่วคราว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="international" tags="adj.*"><select lemma="สากล" tags="adj.*"/></match>
+    <match lemma="international" tags="adj"><select lemma="สากล" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="introspective" tags="adj.*"><select lemma="เก็บความรู้สึก" tags="adj.*"/></match>
+    <match lemma="introspective" tags="adj"><select lemma="เก็บความรู้สึก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="invisible" tags="adj.*"><select lemma="ที่มองไม่เห็น" tags="adj.*"/></match>
+    <match lemma="invisible" tags="adj"><select lemma="ที่มองไม่เห็น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="iridescent" tags="adj.*"><select lemma="ที่มีสีน้ำนมแวววาว" tags="adj.*"/></match>
+    <match lemma="iridescent" tags="adj"><select lemma="ที่มีสีน้ำนมแวววาว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="laborious" tags="adj.*"><select lemma="ที่ยากลำบาก" tags="adj.*"/></match>
+    <match lemma="laborious" tags="adj"><select lemma="ที่ยากลำบาก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="lacking" tags="adj.*"><select lemma="ขาด" tags="adj.*"/></match>
+    <match lemma="lacking" tags="adj"><select lemma="ขาด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="large" tags="adj.*"><select lemma="ใหญ่" tags="adj.*"/></match>
+    <match lemma="large" tags="adj.*"><select lemma="ใหญ่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="latent" tags="adj.*"><select lemma="ซึ่งซ่อนอยู่" tags="adj.*"/></match>
+    <match lemma="latent" tags="adj"><select lemma="ซึ่งซ่อนอยู่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="linguistic" tags="adj.*"><select lemma="ทางภาษา" tags="adj.*"/></match>
+    <match lemma="linguistic" tags="adj"><select lemma="ทางภาษา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="liquid" tags="adj.*"><select lemma="ที่เป็นของเหลว" tags="adj.*"/></match>
+    <match lemma="liquid" tags="adj"><select lemma="ที่เป็นของเหลว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="literate" tags="adj.*"><select lemma="ที่รู้หนังสือ" tags="adj.*"/></match>
+    <match lemma="literate" tags="adj"><select lemma="ที่รู้หนังสือ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="little" tags="adj.*"><select lemma="เล็ก" tags="adj.*"/></match>
+    <match lemma="little" tags="adj"><select lemma="เล็ก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="lively" tags="adj.*"><select lemma="มีชีวิตชีวา" tags="adj.*"/></match>
+    <match lemma="lively" tags="adj.*"><select lemma="มีชีวิตชีวา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="local" tags="adj.*"><select lemma="ท้องถิ่น" tags="adj.*"/></match>
+    <match lemma="local" tags="adj"><select lemma="ท้องถิ่น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="long" tags="adj.*"><select lemma="นาน" tags="adj.*"/></match>
+    <match lemma="long" tags="adj.*"><select lemma="นาน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="low" tags="adj.*"><select lemma="ต่ำ" tags="adj.*"/></match>
+    <match lemma="low" tags="adj.*"><select lemma="ต่ำ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="loyal" tags="adj.*"><select lemma="สัตยซื่อ" tags="adj.*"/></match>
+    <match lemma="loyal" tags="adj"><select lemma="สัตยซื่อ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="male" tags="adj.*"><select lemma="ที่เป็นเพศชาย" tags="adj.*"/></match>
+    <match lemma="male" tags="adj"><select lemma="ที่เป็นเพศชาย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="marine" tags="adj.*"><select lemma="เกี่ยวกับทะเล" tags="adj.*"/></match>
+    <match lemma="marine" tags="adj"><select lemma="เกี่ยวกับทะเล" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="married" tags="adj.*"><select lemma="ที่มีเหย้ามีเรือน" tags="adj.*"/></match>
+    <match lemma="married" tags="adj"><select lemma="ที่มีเหย้ามีเรือน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="maternal" tags="adj.*"><select lemma="เหมือนแม่" tags="adj.*"/></match>
+    <match lemma="maternal" tags="adj"><select lemma="เหมือนแม่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="mathematical" tags="adj.*"><select lemma="ทางคณิตศาสตร์" tags="adj.*"/></match>
+    <match lemma="mathematical" tags="adj"><select lemma="ทางคณิตศาสตร์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="maximal" tags="adj.*"><select lemma="มากที่สุด" tags="adj.*"/></match>
+    <match lemma="maximal" tags="adj"><select lemma="มากที่สุด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="maximum" tags="adj.*"><select lemma="มากที่สุด" tags="adj.*"/></match>
+    <match lemma="maximum" tags="adj"><select lemma="มากที่สุด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="mediocre" tags="adj.*"><select lemma="ธรรมดา" tags="adj.*"/></match>
+    <match lemma="mediocre" tags="adj"><select lemma="ธรรมดา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="melodic" tags="adj.*"><select lemma="ที่มีทำนอง" tags="adj.*"/></match>
+    <match lemma="melodic" tags="adj"><select lemma="ที่มีทำนอง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="melodious" tags="adj.*"><select lemma="เพราะ" tags="adj.*"/></match>
+    <match lemma="melodious" tags="adj"><select lemma="เพราะ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="mental" tags="adj.*"><select lemma="ในใจ" tags="adj.*"/></match>
+    <match lemma="mental" tags="adj"><select lemma="ในใจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="metallic" tags="adj.*"><select lemma="โลหะ" tags="adj.*"/></match>
+    <match lemma="metallic" tags="adj"><select lemma="โลหะ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="meteoric" tags="adj.*"><select lemma="ที่เร็วเหมือนดาวตก" tags="adj.*"/></match>
+    <match lemma="meteoric" tags="adj"><select lemma="ที่เร็วเหมือนดาวตก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="middle-aged" tags="adj.*"><select lemma="ที่อายุเข้าวัยกลางคน" tags="adj.*"/></match>
+    <match lemma="middle-aged" tags="adj"><select lemma="ที่อายุเข้าวัยกลางคน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="migratory" tags="adj.*"><select lemma="ที่ย้ายถิ่นฐาน" tags="adj.*"/></match>
+    <match lemma="migratory" tags="adj"><select lemma="ที่ย้ายถิ่นฐาน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="military" tags="adj.*"><select lemma="แห่งสงคราม" tags="adj.*"/></match>
+    <match lemma="military" tags="adj"><select lemma="แห่งสงคราม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="minimal" tags="adj.*"><select lemma="ต่ำที่สุด" tags="adj.*"/></match>
+    <match lemma="minimal" tags="adj"><select lemma="ต่ำที่สุด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="minimum" tags="adj.*"><select lemma="ต่ำที่สุด" tags="adj.*"/></match>
+    <match lemma="minimum" tags="adj"><select lemma="ต่ำที่สุด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="mobile" tags="adj.*"><select lemma="เร่ร่อน" tags="adj.*"/></match>
+    <match lemma="mobile" tags="adj"><select lemma="เร่ร่อน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="monoploid" tags="adj.*"><select lemma="ที่มีโครโมโซมหนึ่งชุด" tags="adj.*"/></match>
+    <match lemma="monoploid" tags="adj"><select lemma="ที่มีโครโมโซมหนึ่งชุด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="monosyllabic" tags="adj.*"><select lemma="ที่มีพยางค์เดียว" tags="adj.*"/></match>
+    <match lemma="monosyllabic" tags="adj"><select lemma="ที่มีพยางค์เดียว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="moral" tags="adj.*"><select lemma="ทางศีลธรรม" tags="adj.*"/></match>
+    <match lemma="moral" tags="adj"><select lemma="ทางศีลธรรม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="morphological" tags="adj.*"><select lemma="ทางสัณฐานวิทยา" tags="adj.*"/></match>
+    <match lemma="morphological" tags="adj"><select lemma="ทางสัณฐานวิทยา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="mountainous" tags="adj.*"><select lemma="ที่เท่าภูเขา" tags="adj.*"/></match>
+    <match lemma="mountainous" tags="adj"><select lemma="ที่เท่าภูเขา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="muddy" tags="adj.*"><select lemma="ซึ่งเป็นโคลน" tags="adj.*"/></match>
+    <match lemma="muddy" tags="adj.*"><select lemma="ซึ่งเป็นโคลน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="mute" tags="adj.*"><select lemma="ซึ่งไม่แสดงผ่านคำพูด" tags="adj.*"/></match>
+    <match lemma="mute" tags="adj"><select lemma="ซึ่งไม่แสดงผ่านคำพูด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="nacreous" tags="adj.*"><select lemma="ที่มีสีน้ำนมแวววาว" tags="adj.*"/></match>
+    <match lemma="nacreous" tags="adj"><select lemma="ที่มีสีน้ำนมแวววาว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="naked" tags="adj.*"><select lemma="เปลือย" tags="adj.*"/></match>
+    <match lemma="naked" tags="adj"><select lemma="เปลือย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="narrow" tags="adj.*"><select lemma="แคบ" tags="adj.*"/></match>
+    <match lemma="narrow" tags="adj.*"><select lemma="แคบ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="natural" tags="adj.*"><select lemma="ธรรมชาติ" tags="adj.*"/></match>
+    <match lemma="natural" tags="adj"><select lemma="ธรรมชาติ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="near" tags="adj.*"><select lemma="ใกล้" tags="adj.*"/></match>
+    <match lemma="near" tags="adj.*"><select lemma="ใกล้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="necessary" tags="adj.*"><select lemma="จำเป็น" tags="adj.*"/></match>
+    <match lemma="necessary" tags="adj"><select lemma="จำเป็น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="negative" tags="adj.*"><select lemma="ตั้งแง่" tags="adj.*"/></match>
+    <match lemma="negative" tags="adj"><select lemma="ตั้งแง่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="net" tags="adj.*"><select lemma="สุทธิ" tags="adj.*"/></match>
+    <match lemma="net" tags="adj"><select lemma="สุทธิ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="new" tags="adj.*"><select lemma="ใหม่" tags="adj.*"/></match>
+    <match lemma="new" tags="adj.*"><select lemma="ใหม่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="nice" tags="adj.*"><select lemma="ดี" tags="adj.*"/></match>
+    <match lemma="nice" tags="adj.*"><select lemma="ดี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="nimble" tags="adj.*"><select lemma="ว่องไว" tags="adj.*"/></match>
+    <match lemma="nimble" tags="adj.*"><select lemma="ว่องไว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="normative" tags="adj.*"><select lemma="เป็นบรรทัดฐาน" tags="adj.*"/></match>
+    <match lemma="normative" tags="adj"><select lemma="เป็นบรรทัดฐาน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="northerly" tags="adj.*"><select lemma="ที่อยู่ทางเหนือ" tags="adj.*"/></match>
+    <match lemma="northerly" tags="adj"><select lemma="ที่อยู่ทางเหนือ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="observant" tags="adj.*"><select lemma="ที่มีความสนใจอย่างใกล้ชิด" tags="adj.*"/></match>
+    <match lemma="observant" tags="adj"><select lemma="ที่มีความสนใจอย่างใกล้ชิด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="obtuse" tags="adj.*"><select lemma="ซึ่งเรียนรู้ได้ช้า" tags="adj.*"/></match>
+    <match lemma="obtuse" tags="adj"><select lemma="ซึ่งเรียนรู้ได้ช้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="odd" tags="adj.*"><select lemma="คี่" tags="adj.*"/></match>
+    <match lemma="odd" tags="adj.*"><select lemma="คี่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="odourless" tags="adj.*"><select lemma="ที่ไม่มีกลิ่น" tags="adj.*"/></match>
+    <match lemma="odourless" tags="adj"><select lemma="ที่ไม่มีกลิ่น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="oily" tags="adj.*"><select lemma="ที่อมน้ำมัน" tags="adj.*"/></match>
+    <match lemma="oily" tags="adj.*"><select lemma="ที่อมน้ำมัน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="old" tags="adj.*"><select lemma="แก่" tags="adj.*"/></match>
+    <match lemma="old" tags="adj.*"><select lemma="แก่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="one-dimensional" tags="adj.*"><select lemma="เชิงเส้น" tags="adj.*"/></match>
+    <match lemma="one-dimensional" tags="adj"><select lemma="เชิงเส้น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="opposite" tags="adj.*"><select lemma="ตรงกันข้าม" tags="adj.*"/></match>
+    <match lemma="opposite" tags="adj"><select lemma="ตรงกันข้าม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="oral" tags="adj.*"><select lemma="ซึ่งเป็นมุขปาฐะ" tags="adj.*"/></match>
+    <match lemma="oral" tags="adj"><select lemma="ซึ่งเป็นมุขปาฐะ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="oval" tags="adj.*"><select lemma="รูปวงรี" tags="adj.*"/></match>
+    <match lemma="oval" tags="adj"><select lemma="รูปวงรี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="palmate" tags="adj.*"><select lemma="รูปฝ่ามือ" tags="adj.*"/></match>
+    <match lemma="palmate" tags="adj"><select lemma="รูปฝ่ามือ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="partial" tags="adj.*"><select lemma="บางส่วน" tags="adj.*"/></match>
+    <match lemma="partial" tags="adj"><select lemma="บางส่วน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="passive" tags="adj.*"><select lemma="เฉยๆ" tags="adj.*"/></match>
+    <match lemma="passive" tags="adj"><select lemma="เฉยๆ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="patterned" tags="adj.*"><select lemma="ซึ่งมีลวดลาย" tags="adj.*"/></match>
+    <match lemma="patterned" tags="adj"><select lemma="ซึ่งมีลวดลาย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="personal" tags="adj.*"><select lemma="ส่วนบุคคล" tags="adj.*"/></match>
+    <match lemma="personal" tags="adj"><select lemma="ส่วนบุคคล" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="physical" tags="adj.*"><select lemma="ทางร่างกาย" tags="adj.*"/></match>
+    <match lemma="physical" tags="adj"><select lemma="ทางร่างกาย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="pictorial" tags="adj.*"><select lemma="ที่มีภาพ" tags="adj.*"/></match>
+    <match lemma="pictorial" tags="adj"><select lemma="ที่มีภาพ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="plain" tags="adj.*"><select lemma="เป็นที่ประจักษ์ชัด" tags="adj.*"/></match>
+    <match lemma="plain" tags="adj.*"><select lemma="เป็นที่ประจักษ์ชัด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="pointed" tags="adj.*"><select lemma="ที่มีปลายแหลม" tags="adj.*"/></match>
+    <match lemma="pointed" tags="adj"><select lemma="ที่มีปลายแหลม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="polite" tags="adj.*"><select lemma="สุภาพ" tags="adj.*"/></match>
+    <match lemma="polite" tags="adj"><select lemma="สุภาพ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="political" tags="adj.*"><select lemma="ทางการเมือง" tags="adj.*"/></match>
+    <match lemma="political" tags="adj"><select lemma="ทางการเมือง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="polysyllabic" tags="adj.*"><select lemma="ที่มีหลายพยางค์" tags="adj.*"/></match>
+    <match lemma="polysyllabic" tags="adj"><select lemma="ที่มีหลายพยางค์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="poor" tags="adj.*"><select lemma="เคราะห์ร้าย" tags="adj.*"/></match>
+    <match lemma="poor" tags="adj.*"><select lemma="เคราะห์ร้าย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="popular" tags="adj.*"><select lemma="ยอดนิยม" tags="adj.*"/></match>
+    <match lemma="popular" tags="adj"><select lemma="ยอดนิยม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="possessive" tags="adj.*"><select lemma="หวงของ" tags="adj.*"/></match>
+    <match lemma="possessive" tags="adj"><select lemma="หวงของ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="possible" tags="adj.*"><select lemma="เป็นไปได้" tags="adj.*"/></match>
+    <match lemma="possible" tags="adj"><select lemma="เป็นไปได้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="powerful" tags="adj.*"><select lemma="ที่มีอำนาจ" tags="adj.*"/></match>
+    <match lemma="powerful" tags="adj"><select lemma="ที่มีอำนาจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="powerless" tags="adj.*"><select lemma="ที่ไม่มีอำนาจ" tags="adj.*"/></match>
+    <match lemma="powerless" tags="adj"><select lemma="ที่ไม่มีอำนาจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="precious" tags="adj.*"><select lemma="อันเป็นที่รัก" tags="adj.*"/></match>
+    <match lemma="precious" tags="adj"><select lemma="อันเป็นที่รัก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="predatory" tags="adj.*"><select lemma="ซึ่งกินเนื้อเป็นอาหาร" tags="adj.*"/></match>
+    <match lemma="predatory" tags="adj"><select lemma="ซึ่งกินเนื้อเป็นอาหาร" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="pregnant" tags="adj.*"><select lemma="ตั้งครรภ์" tags="adj.*"/></match>
+    <match lemma="pregnant" tags="adj"><select lemma="ตั้งครรภ์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="previous" tags="adj.*"><select lemma="ก่อน" tags="adj.*"/></match>
+    <match lemma="previous" tags="adj"><select lemma="ก่อน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="productive" tags="adj.*"><select lemma="ซึ่งให้ผลผลิต" tags="adj.*"/></match>
+    <match lemma="productive" tags="adj"><select lemma="ซึ่งให้ผลผลิต" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="professional" tags="adj.*"><select lemma="มืออาชีพ" tags="adj.*"/></match>
+    <match lemma="professional" tags="adj"><select lemma="มืออาชีพ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="progressive" tags="adj.*"><select lemma="หัวก้าวหน้า" tags="adj.*"/></match>
+    <match lemma="progressive" tags="adj"><select lemma="หัวก้าวหน้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="prosperous" tags="adj.*"><select lemma="มั่งคั่ง" tags="adj.*"/></match>
+    <match lemma="prosperous" tags="adj"><select lemma="มั่งคั่ง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="psychological" tags="adj.*"><select lemma="ทางจิตใจ" tags="adj.*"/></match>
+    <match lemma="psychological" tags="adj"><select lemma="ทางจิตใจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="pure" tags="adj.*"><select lemma="บริสุทธิ์" tags="adj.*"/></match>
+    <match lemma="pure" tags="adj.*"><select lemma="บริสุทธิ์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="ravening" tags="adj.*"><select lemma="จอมเขมือบ" tags="adj.*"/></match>
+    <match lemma="ravening" tags="adj"><select lemma="จอมเขมือบ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="raw" tags="adj.*"><select lemma="ดิบ" tags="adj.*"/></match>
+    <match lemma="raw" tags="adj.*"><select lemma="ดิบ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="ready" tags="adj.*"><select lemma="เตรียมพร้อม" tags="adj.*"/></match>
+    <match lemma="ready" tags="adj.*"><select lemma="เตรียมพร้อม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="real" tags="adj.*"><select lemma="จริง" tags="adj.*"/></match>
+    <match lemma="real" tags="adj"><select lemma="จริง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="recyclable" tags="adj.*"><select lemma="ซึ่งนำกลับมาใช้ใหม่ได้" tags="adj.*"/></match>
+    <match lemma="recyclable" tags="adj"><select lemma="ซึ่งนำกลับมาใช้ใหม่ได้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="red" tags="adj.*"><select lemma="แดง" tags="adj.*"/></match>
+    <match lemma="red" tags="adj"><select lemma="แดง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="reigning" tags="adj.*"><select lemma="ที่ใช้อำนาจ" tags="adj.*"/></match>
+    <match lemma="reigning" tags="adj"><select lemma="ที่ใช้อำนาจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="relational" tags="adj.*"><select lemma="ที่สัมพันธ์" tags="adj.*"/></match>
+    <match lemma="relational" tags="adj"><select lemma="ที่สัมพันธ์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="religious" tags="adj.*"><select lemma="ทางจิตวิญญาณ" tags="adj.*"/></match>
+    <match lemma="religious" tags="adj"><select lemma="ทางจิตวิญญาณ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="residential" tags="adj.*"><select lemma="สำหรับพักอาศัย" tags="adj.*"/></match>
+    <match lemma="residential" tags="adj"><select lemma="สำหรับพักอาศัย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="residual" tags="adj.*"><select lemma="เหลือ" tags="adj.*"/></match>
+    <match lemma="residual" tags="adj"><select lemma="เหลือ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="resinous" tags="adj.*"><select lemma="ที่ทาด้วยน้ำมันดิน" tags="adj.*"/></match>
+    <match lemma="resinous" tags="adj"><select lemma="ที่ทาด้วยน้ำมันดิน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="retroactive" tags="adj.*"><select lemma="ย้อนหลัง" tags="adj.*"/></match>
+    <match lemma="retroactive" tags="adj"><select lemma="ย้อนหลัง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="reusable" tags="adj.*"><select lemma="ซึ่งนำกลับมาใช้ใหม่ได้" tags="adj.*"/></match>
+    <match lemma="reusable" tags="adj"><select lemma="ซึ่งนำกลับมาใช้ใหม่ได้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="rhythmic" tags="adj.*"><select lemma="ที่มีจังหวะ" tags="adj.*"/></match>
+    <match lemma="rhythmic" tags="adj"><select lemma="ที่มีจังหวะ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="rhythmical" tags="adj.*"><select lemma="ที่มีจังหวะ" tags="adj.*"/></match>
+    <match lemma="rhythmical" tags="adj"><select lemma="ที่มีจังหวะ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="rich" tags="adj.*"><select lemma="รวย" tags="adj.*"/></match>
+    <match lemma="rich" tags="adj.*"><select lemma="รวย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="rocky" tags="adj.*"><select lemma="ซึ่งเต็มไปด้วยหิน" tags="adj.*"/></match>
+    <match lemma="rocky" tags="adj.*"><select lemma="ซึ่งเต็มไปด้วยหิน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="rough" tags="adj.*"><select lemma="ขรุขระ" tags="adj.*"/></match>
+    <match lemma="rough" tags="adj.*"><select lemma="ขรุขระ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="round" tags="adj.*"><select lemma="กลม" tags="adj.*"/></match>
+    <match lemma="round" tags="adj.*"><select lemma="กลม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="rural" tags="adj.*"><select lemma="ชนบท" tags="adj.*"/></match>
+    <match lemma="rural" tags="adj"><select lemma="ชนบท" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="safe" tags="adj.*"><select lemma="ปลอดภัย" tags="adj.*"/></match>
+    <match lemma="safe" tags="adj.*"><select lemma="ปลอดภัย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="same" tags="adj.*"><select lemma="เดียวกัน" tags="adj.*"/></match>
+    <match lemma="same" tags="adj"><select lemma="เดียวกัน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="satisfactory" tags="adj.*"><select lemma="ที่ให้ความพอใจ" tags="adj.*"/></match>
+    <match lemma="satisfactory" tags="adj"><select lemma="ที่ให้ความพอใจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="scientific" tags="adj.*"><select lemma="ตามหลักวิทยาศาสตร์" tags="adj.*"/></match>
+    <match lemma="scientific" tags="adj"><select lemma="ตามหลักวิทยาศาสตร์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="secondhand" tags="adj.*"><select lemma="ที่ใช้แล้ว" tags="adj.*"/></match>
+    <match lemma="secondhand" tags="adj"><select lemma="ที่ใช้แล้ว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="secret" tags="adj.*"><select lemma="ลับ" tags="adj.*"/></match>
+    <match lemma="secret" tags="adj"><select lemma="ลับ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sentimental" tags="adj.*"><select lemma="น้ำเน่า" tags="adj.*"/></match>
+    <match lemma="sentimental" tags="adj"><select lemma="น้ำเน่า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="septic" tags="adj.*"><select lemma="ติดเชื้อ" tags="adj.*"/></match>
+    <match lemma="septic" tags="adj"><select lemma="ติดเชื้อ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="serious" tags="adj.*"><select lemma="จริงจัง" tags="adj.*"/></match>
+    <match lemma="serious" tags="adj"><select lemma="จริงจัง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sexless" tags="adj.*"><select lemma="ซึ่งไม่ดึงดูดทางเพศ" tags="adj.*"/></match>
+    <match lemma="sexless" tags="adj"><select lemma="ซึ่งไม่ดึงดูดทางเพศ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sexual" tags="adj.*"><select lemma="ทางเพศ" tags="adj.*"/></match>
+    <match lemma="sexual" tags="adj"><select lemma="ทางเพศ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sexy" tags="adj.*"><select lemma="ซึ่งเร้าความรู้สึกทางเพศ" tags="adj.*"/></match>
+    <match lemma="sexy" tags="adj.*"><select lemma="ซึ่งเร้าความรู้สึกทางเพศ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="shabby" tags="adj.*"><select lemma="โกโรโกโส" tags="adj.*"/></match>
+    <match lemma="shabby" tags="adj.*"><select lemma="โกโรโกโส" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="shady" tags="adj.*"><select lemma="ซึ่งมีร่มเงา" tags="adj.*"/></match>
+    <match lemma="shady" tags="adj.*"><select lemma="ซึ่งมีร่มเงา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="shallow" tags="adj.*"><select lemma="ตื้น" tags="adj.*"/></match>
+    <match lemma="shallow" tags="adj.*"><select lemma="ตื้น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="short" tags="adj.*"><select lemma="สั้น" tags="adj.*"/></match>
+    <match lemma="short" tags="adj.*"><select lemma="สั้น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sick" tags="adj.*"><select lemma="ป่วย" tags="adj.*"/></match>
+    <match lemma="sick" tags="adj.*"><select lemma="ป่วย" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="silent" tags="adj.*"><select lemma="เงียบ" tags="adj.*"/></match>
+    <match lemma="silent" tags="adj"><select lemma="เงียบ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="single" tags="adj.*"><select lemma="แต่ละ" tags="adj.*"/></match>
+    <match lemma="single" tags="adj"><select lemma="แต่ละ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="skillful" tags="adj.*"><select lemma="ช่ำชอง" tags="adj.*"/></match>
+    <match lemma="skillful" tags="adj"><select lemma="ช่ำชอง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="slender" tags="adj.*"><select lemma="ผอมบาง" tags="adj.*"/></match>
+    <match lemma="slender" tags="adj"><select lemma="ผอมบาง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="slim" tags="adj.*"><select lemma="ผอมบาง" tags="adj.*"/></match>
+    <match lemma="slim" tags="adj.*"><select lemma="ผอมบาง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="slow" tags="adj.*"><select lemma="ช้า" tags="adj.*"/></match>
+    <match lemma="slow" tags="adj.*"><select lemma="ช้า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="small" tags="adj.*"><select lemma="เล็ก" tags="adj.*"/></match>
+    <match lemma="small" tags="adj.*"><select lemma="เล็ก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="smooth" tags="adj.*"><select lemma="เรียบ" tags="adj.*"/></match>
+    <match lemma="smooth" tags="adj.*"><select lemma="เรียบ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="soft" tags="adj.*"><select lemma="อ่อน" tags="adj.*"/></match>
+    <match lemma="soft" tags="adj.*"><select lemma="อ่อน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="soiled" tags="adj.*"><select lemma="เปื้อน" tags="adj.*"/></match>
+    <match lemma="soiled" tags="adj"><select lemma="เปื้อน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="southern" tags="adj.*"><select lemma="ทางใต้" tags="adj.*"/></match>
+    <match lemma="southern" tags="adj"><select lemma="ทางใต้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="spicy" tags="adj.*"><select lemma="ทะลึ่ง" tags="adj.*"/></match>
+    <match lemma="spicy" tags="adj.*"><select lemma="ทะลึ่ง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="spiritual" tags="adj.*"><select lemma="ทางจิตวิญญาณ" tags="adj.*"/></match>
+    <match lemma="spiritual" tags="adj"><select lemma="ทางจิตวิญญาณ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="spongy" tags="adj.*"><select lemma="ที่นุ่มเหมือนฟองน้ำ" tags="adj.*"/></match>
+    <match lemma="spongy" tags="adj"><select lemma="ที่นุ่มเหมือนฟองน้ำ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sporting" tags="adj.*"><select lemma="ที่ขาวสะอาด" tags="adj.*"/></match>
+    <match lemma="sporting" tags="adj"><select lemma="ที่ขาวสะอาด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sporty" tags="adj.*"><select lemma="ที่เหมาะกับกีฬา" tags="adj.*"/></match>
+    <match lemma="sporty" tags="adj.*"><select lemma="ที่เหมาะกับกีฬา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="standard" tags="adj.*"><select lemma="มาตรฐาน" tags="adj.*"/></match>
+    <match lemma="standard" tags="adj"><select lemma="มาตรฐาน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="steep" tags="adj.*"><select lemma="ชัน" tags="adj.*"/></match>
+    <match lemma="steep" tags="adj.*"><select lemma="ชัน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sticky" tags="adj.*"><select lemma="ที่มีความเหนียว" tags="adj.*"/></match>
+    <match lemma="sticky" tags="adj.*"><select lemma="ที่มีความเหนียว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="stingy" tags="adj.*"><select lemma="โหรงเหรง" tags="adj.*"/></match>
+    <match lemma="stingy" tags="adj.*"><select lemma="โหรงเหรง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="stressed" tags="adj.*"><select lemma="ที่มีอาการบาดเจ็บ" tags="adj.*"/></match>
+    <match lemma="stressed" tags="adj"><select lemma="ที่มีอาการบาดเจ็บ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="strong" tags="adj.*"><select lemma="แข็งแรง" tags="adj.*"/></match>
+    <match lemma="strong" tags="adj.*"><select lemma="แข็งแรง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="stubborn" tags="adj.*"><select lemma="ดื้อ" tags="adj.*"/></match>
+    <match lemma="stubborn" tags="adj"><select lemma="ดื้อ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="stupid" tags="adj.*"><select lemma="โง่" tags="adj.*"/></match>
+    <match lemma="stupid" tags="adj"><select lemma="โง่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="subtractive" tags="adj.*"><select lemma="ที่เป็นการลบ" tags="adj.*"/></match>
+    <match lemma="subtractive" tags="adj"><select lemma="ที่เป็นการลบ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="suburban" tags="adj.*"><select lemma="ชานเมือง" tags="adj.*"/></match>
+    <match lemma="suburban" tags="adj"><select lemma="ชานเมือง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="superficial" tags="adj.*"><select lemma="ที่ไม่ลึกซึ้ง" tags="adj.*"/></match>
+    <match lemma="superficial" tags="adj"><select lemma="ที่ไม่ลึกซึ้ง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="superior" tags="adj.*"><select lemma="ที่มีคุณภาพ" tags="adj.*"/></match>
+    <match lemma="superior" tags="adj"><select lemma="ที่มีคุณภาพ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="supersonic" tags="adj.*"><select lemma="ซูเปอร์โซนิค" tags="adj.*"/></match>
+    <match lemma="supersonic" tags="adj"><select lemma="ซูเปอร์โซนิค" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="supplementary" tags="adj.*"><select lemma="ซึ่งช่วยเสริม" tags="adj.*"/></match>
+    <match lemma="supplementary" tags="adj"><select lemma="ซึ่งช่วยเสริม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sure" tags="adj.*"><select lemma="มั่นใจ" tags="adj.*"/></match>
+    <match lemma="sure" tags="adj.*"><select lemma="มั่นใจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="surgical" tags="adj.*"><select lemma="เฉียบขาด" tags="adj.*"/></match>
+    <match lemma="surgical" tags="adj"><select lemma="เฉียบขาด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sweet" tags="adj.*"><select lemma="หวาน" tags="adj.*"/></match>
+    <match lemma="sweet" tags="adj.*"><select lemma="หวาน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="sympathetic" tags="adj.*"><select lemma="เห็นอกเห็นใจ" tags="adj.*"/></match>
+    <match lemma="sympathetic" tags="adj"><select lemma="เห็นอกเห็นใจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="systematic" tags="adj.*"><select lemma="อย่างเป็นระบบ" tags="adj.*"/></match>
+    <match lemma="systematic" tags="adj"><select lemma="อย่างเป็นระบบ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="tangible" tags="adj.*"><select lemma="ที่แท้จริง" tags="adj.*"/></match>
+    <match lemma="tangible" tags="adj"><select lemma="ที่แท้จริง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="tasteless" tags="adj.*"><select lemma="ที่ไร้รสนิยม" tags="adj.*"/></match>
+    <match lemma="tasteless" tags="adj"><select lemma="ที่ไร้รสนิยม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="technological" tags="adj.*"><select lemma="ทางเทคโนโลยี" tags="adj.*"/></match>
+    <match lemma="technological" tags="adj"><select lemma="ทางเทคโนโลยี" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="teenage" tags="adj.*"><select lemma="ที่เป็นวัยรุ่น" tags="adj.*"/></match>
+    <match lemma="teenage" tags="adj"><select lemma="ที่เป็นวัยรุ่น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="temporary" tags="adj.*"><select lemma="ชั่วคราว" tags="adj.*"/></match>
+    <match lemma="temporary" tags="adj"><select lemma="ชั่วคราว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="thankless" tags="adj.*"><select lemma="อกตัญญู" tags="adj.*"/></match>
+    <match lemma="thankless" tags="adj"><select lemma="อกตัญญู" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="thick" tags="adj.*"><select lemma="หนา" tags="adj.*"/></match>
+    <match lemma="thick" tags="adj.*"><select lemma="หนา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="thin" tags="adj.*"><select lemma="บาง" tags="adj.*"/></match>
+    <match lemma="thin" tags="adj.*"><select lemma="บาง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="three-dimensional" tags="adj.*"><select lemma="3มิติ" tags="adj.*"/></match>
+    <match lemma="three-dimensional" tags="adj"><select lemma="3มิติ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="tonal" tags="adj.*"><select lemma="มีวรรณยุกต์" tags="adj.*"/></match>
+    <match lemma="tonal" tags="adj"><select lemma="มีวรรณยุกต์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="toothed" tags="adj.*"><select lemma="ที่มีขอบหยัก" tags="adj.*"/></match>
+    <match lemma="toothed" tags="adj"><select lemma="ที่มีขอบหยัก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="torrential" tags="adj.*"><select lemma="อย่างหนัก" tags="adj.*"/></match>
+    <match lemma="torrential" tags="adj"><select lemma="อย่างหนัก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="totalitarian" tags="adj.*"><select lemma="ที่เป็นเผด็จการ" tags="adj.*"/></match>
+    <match lemma="totalitarian" tags="adj"><select lemma="ที่เป็นเผด็จการ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="toxic" tags="adj.*"><select lemma="ที่มีพิษ" tags="adj.*"/></match>
+    <match lemma="toxic" tags="adj"><select lemma="ที่มีพิษ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="translucent" tags="adj.*"><select lemma="กึ่งโปร่งใส" tags="adj.*"/></match>
+    <match lemma="translucent" tags="adj"><select lemma="กึ่งโปร่งใส" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="transparent" tags="adj.*"><select lemma="โปร่งแสง" tags="adj.*"/></match>
+    <match lemma="transparent" tags="adj"><select lemma="โปร่งแสง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="treble" tags="adj.*"><select lemma="โซปราโน" tags="adj.*"/></match>
+    <match lemma="treble" tags="adj"><select lemma="โซปราโน" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="triangular" tags="adj.*"><select lemma="ที่มีสามมุม" tags="adj.*"/></match>
+    <match lemma="triangular" tags="adj"><select lemma="ที่มีสามมุม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="trustworthy" tags="adj.*"><select lemma="ซึ่งแสดงความรับผิดชอบ" tags="adj.*"/></match>
+    <match lemma="trustworthy" tags="adj"><select lemma="ซึ่งแสดงความรับผิดชอบ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="two-dimensional" tags="adj.*"><select lemma="สองมิติ" tags="adj.*"/></match>
+    <match lemma="two-dimensional" tags="adj"><select lemma="สองมิติ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="ugly" tags="adj.*"><select lemma="อัปลักษณ์" tags="adj.*"/></match>
+    <match lemma="ugly" tags="adj.*"><select lemma="อัปลักษณ์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="ultrasonic" tags="adj.*"><select lemma="ซูเปอร์โซนิค" tags="adj.*"/></match>
+    <match lemma="ultrasonic" tags="adj"><select lemma="ซูเปอร์โซนิค" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unacceptable" tags="adj.*"><select lemma="ซึ่งไม่น่าพอใจ" tags="adj.*"/></match>
+    <match lemma="unacceptable" tags="adj"><select lemma="ซึ่งไม่น่าพอใจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unarmed" tags="adj.*"><select lemma="ไม่ติดอาวุธ" tags="adj.*"/></match>
+    <match lemma="unarmed" tags="adj"><select lemma="ไม่ติดอาวุธ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="uncut" tags="adj.*"><select lemma="สมบูรณ์" tags="adj.*"/></match>
+    <match lemma="uncut" tags="adj"><select lemma="สมบูรณ์" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unemployed" tags="adj.*"><select lemma="ว่าง" tags="adj.*"/></match>
+    <match lemma="unemployed" tags="adj"><select lemma="ว่าง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unequal" tags="adj.*"><select lemma="ซึ่งไม่เพียงพอ" tags="adj.*"/></match>
+    <match lemma="unequal" tags="adj"><select lemma="ซึ่งไม่เพียงพอ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unfair" tags="adj.*"><select lemma="ซึ่งไม่ยุติธรรม" tags="adj.*"/></match>
+    <match lemma="unfair" tags="adj"><select lemma="ซึ่งไม่ยุติธรรม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unhappy" tags="adj.*"><select lemma="ที่ไม่มีความสุข" tags="adj.*"/></match>
+    <match lemma="unhappy" tags="adj.*"><select lemma="ที่ไม่มีความสุข" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unimportant" tags="adj.*"><select lemma="ที่ไม่สำคัญ" tags="adj.*"/></match>
+    <match lemma="unimportant" tags="adj"><select lemma="ที่ไม่สำคัญ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unintelligent" tags="adj.*"><select lemma="โง่" tags="adj.*"/></match>
+    <match lemma="unintelligent" tags="adj"><select lemma="โง่" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="universal" tags="adj.*"><select lemma="สากล" tags="adj.*"/></match>
+    <match lemma="universal" tags="adj"><select lemma="สากล" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unkind" tags="adj.*"><select lemma="ไม่เมตตา" tags="adj.*"/></match>
+    <match lemma="unkind" tags="adj.*"><select lemma="ไม่เมตตา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unknown" tags="adj.*"><select lemma="ซึ่งไม่เป็นที่รู้จัก" tags="adj.*"/></match>
+    <match lemma="unknown" tags="adj"><select lemma="ซึ่งไม่เป็นที่รู้จัก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unlike" tags="adj.*"><select lemma="ต่าง" tags="adj.*"/></match>
+    <match lemma="unlike" tags="adj"><select lemma="ต่าง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unobjectionable" tags="adj.*"><select lemma="คัดค้านไม่ได้" tags="adj.*"/></match>
+    <match lemma="unobjectionable" tags="adj"><select lemma="คัดค้านไม่ได้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unreal" tags="adj.*"><select lemma="ที่ไม่จริง" tags="adj.*"/></match>
+    <match lemma="unreal" tags="adj"><select lemma="ที่ไม่จริง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="unworthy" tags="adj.*"><select lemma="ไร้คุณค่า" tags="adj.*"/></match>
+    <match lemma="unworthy" tags="adj.*"><select lemma="ไร้คุณค่า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="uterine" tags="adj.*"><select lemma="มดลูก" tags="adj.*"/></match>
+    <match lemma="uterine" tags="adj"><select lemma="มดลูก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="utmost" tags="adj.*"><select lemma="สุดขีด" tags="adj.*"/></match>
+    <match lemma="utmost" tags="adj"><select lemma="สุดขีด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="valuable" tags="adj.*"><select lemma="ซึ่งมีมูลค่า" tags="adj.*"/></match>
+    <match lemma="valuable" tags="adj"><select lemma="ซึ่งมีมูลค่า" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="vegetal" tags="adj.*"><select lemma="แบบไม่อาศัยเพศ" tags="adj.*"/></match>
+    <match lemma="vegetal" tags="adj"><select lemma="แบบไม่อาศัยเพศ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="vegetative" tags="adj.*"><select lemma="แบบไม่อาศัยเพศ" tags="adj.*"/></match>
+    <match lemma="vegetative" tags="adj"><select lemma="แบบไม่อาศัยเพศ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="ventral" tags="adj.*"><select lemma="ที่ใกล้ชิดอวัยวะ" tags="adj.*"/></match>
+    <match lemma="ventral" tags="adj"><select lemma="ที่ใกล้ชิดอวัยวะ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="verbal" tags="adj.*"><select lemma="ซึ่งใช้คำพูด" tags="adj.*"/></match>
+    <match lemma="verbal" tags="adj"><select lemma="ซึ่งใช้คำพูด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="vertical" tags="adj.*"><select lemma="ตามแนวตั้ง" tags="adj.*"/></match>
+    <match lemma="vertical" tags="adj"><select lemma="ตามแนวตั้ง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="violent" tags="adj.*"><select lemma="ซึ่งใช้ความรุนแรง" tags="adj.*"/></match>
+    <match lemma="violent" tags="adj"><select lemma="ซึ่งใช้ความรุนแรง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="vital" tags="adj.*"><select lemma="ที่จำเป็น" tags="adj.*"/></match>
+    <match lemma="vital" tags="adj"><select lemma="ที่จำเป็น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="vivid" tags="adj.*"><select lemma="ที่มองเห็นภาพ" tags="adj.*"/></match>
+    <match lemma="vivid" tags="adj"><select lemma="ที่มองเห็นภาพ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="voluntary" tags="adj.*"><select lemma="ซึ่งรับอาสา" tags="adj.*"/></match>
+    <match lemma="voluntary" tags="adj"><select lemma="ซึ่งรับอาสา" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="voracious" tags="adj.*"><select lemma="จอมเขมือบ" tags="adj.*"/></match>
+    <match lemma="voracious" tags="adj"><select lemma="จอมเขมือบ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="warm" tags="adj.*"><select lemma="อุ่น" tags="adj.*"/></match>
+    <match lemma="warm" tags="adj.*"><select lemma="อุ่น" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="wet" tags="adj.*"><select lemma="เปียก" tags="adj.*"/></match>
+    <match lemma="wet" tags="adj.*"><select lemma="เปียก" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="white" tags="adj.*"><select lemma="สีขาว" tags="adj.*"/></match>
+    <match lemma="white" tags="adj.*"><select lemma="สีขาว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="whitish" tags="adj.*"><select lemma="ขาว" tags="adj.*"/></match>
+    <match lemma="whitish" tags="adj"><select lemma="ขาว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="wholehearted" tags="adj.*"><select lemma="ทั้งหัวใจ" tags="adj.*"/></match>
+    <match lemma="wholehearted" tags="adj"><select lemma="ทั้งหัวใจ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="wicked" tags="adj.*"><select lemma="ที่ไม่มีศีลธรรม" tags="adj.*"/></match>
+    <match lemma="wicked" tags="adj.*"><select lemma="ที่ไม่มีศีลธรรม" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="wide" tags="adj.*"><select lemma="กว้าง" tags="adj.*"/></match>
+    <match lemma="wide" tags="adj.*"><select lemma="กว้าง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="woody" tags="adj.*"><select lemma="ที่แข็งเหมือนไม้" tags="adj.*"/></match>
+    <match lemma="woody" tags="adj.*"><select lemma="ที่แข็งเหมือนไม้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="working" tags="adj.*"><select lemma="ซึ่งมีงานทำ" tags="adj.*"/></match>
+    <match lemma="working" tags="adj"><select lemma="ซึ่งมีงานทำ" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="world-wide" tags="adj.*"><select lemma="สากล" tags="adj.*"/></match>
+    <match lemma="world-wide" tags="adj"><select lemma="สากล" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="wrong" tags="adj.*"><select lemma="ผิด" tags="adj.*"/></match>
+    <match lemma="wrong" tags="adj"><select lemma="ผิด" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="yellow" tags="adj.*"><select lemma="เหลือง" tags="adj.*"/></match>
+    <match lemma="yellow" tags="adj.*"><select lemma="เหลือง" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="young" tags="adj.*"><select lemma="สาว" tags="adj.*"/></match>
+    <match lemma="young" tags="adj.*"><select lemma="สาว" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="zonal" tags="adj.*"><select lemma="ที่แบ่งเป็นโซน" tags="adj.*"/></match>
+    <match lemma="zonal" tags="adj"><select lemma="ที่แบ่งเป็นโซน" tags="adj"/></match>
+  </rule>
+  <rule>
+    <match lemma="a bit" tags="adv"><select lemma="นิดหน่อย" tags="adv"/></match>
   </rule>
   <rule>
     <match lemma="a bit" tags="adv"><select lemma="นิดหน่อย" tags="adv"/></match>
@@ -20828,5 +20831,4 @@
   <rule>
     <match lemma="yield" tags="vblex.*"><select lemma="เป็นต้นเหตุ" tags="vblex.*"/></match>
   </rule>
-
 </rules>
