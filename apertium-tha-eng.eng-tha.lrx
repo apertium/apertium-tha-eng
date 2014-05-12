@@ -1359,1084 +1359,1084 @@
     <match lemma="zonal" tags="adj.*"><select lemma="ที่แบ่งเป็นโซน" tags="adj.*"/></match>
   </rule>
   <rule>
-    <match lemma="a bit" tags="adv.*"><select lemma="นิดหน่อย" tags="adv.*"/></match>
+    <match lemma="a bit" tags="adv"><select lemma="นิดหน่อย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="a lot" tags="adv.*"><select lemma="มาก" tags="adv.*"/></match>
+    <match lemma="a lot" tags="adv"><select lemma="มาก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="aboard" tags="adv.*"><select lemma="บนเรือ" tags="adv.*"/></match>
+    <match lemma="aboard" tags="adv"><select lemma="บนเรือ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="abominably" tags="adv.*"><select lemma="อย่างเลวร้าย" tags="adv.*"/></match>
+    <match lemma="abominably" tags="adv"><select lemma="อย่างเลวร้าย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="about" tags="adv.*"><select lemma="ประมาณ" tags="adv.*"/></match>
+    <match lemma="about" tags="adv"><select lemma="ประมาณ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="above" tags="adv.*"><select lemma="ข้างต้น" tags="adv.*"/></match>
+    <match lemma="above" tags="adv"><select lemma="ข้างต้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="above all" tags="adv.*"><select lemma="เหนือสิ่งอื่นใด" tags="adv.*"/></match>
+    <match lemma="above all" tags="adv"><select lemma="เหนือสิ่งอื่นใด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="abroad" tags="adv.*"><select lemma="ต่างประเทศ" tags="adv.*"/></match>
+    <match lemma="abroad" tags="adv"><select lemma="ต่างประเทศ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="absolutely" tags="adv.*"><select lemma="อย่างสมบูรณ์" tags="adv.*"/></match>
+    <match lemma="absolutely" tags="adv"><select lemma="อย่างสมบูรณ์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="accidentally" tags="adv.*"><select lemma="โดยอุบัติเหตุ" tags="adv.*"/></match>
+    <match lemma="accidentally" tags="adv"><select lemma="โดยอุบัติเหตุ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="accordingly" tags="adv.*"><select lemma="ฉะนั้น" tags="adv.*"/></match>
+    <match lemma="accordingly" tags="adv"><select lemma="ฉะนั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="actually" tags="adv.*"><select lemma="ที่จริง" tags="adv.*"/></match>
+    <match lemma="actually" tags="adv"><select lemma="ที่จริง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="acutely" tags="adv.*"><select lemma="อย่างรุนแรง" tags="adv.*"/></match>
+    <match lemma="acutely" tags="adv"><select lemma="อย่างรุนแรง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="admittedly" tags="adv.*"><select lemma="จริงอยู่" tags="adv.*"/></match>
+    <match lemma="admittedly" tags="adv"><select lemma="จริงอยู่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="advisedly" tags="adv.*"><select lemma="ด้วยความจงใจ" tags="adv.*"/></match>
+    <match lemma="advisedly" tags="adv"><select lemma="ด้วยความจงใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="aesthetically" tags="adv.*"><select lemma="อย่างมีรสนิยม" tags="adv.*"/></match>
+    <match lemma="aesthetically" tags="adv"><select lemma="อย่างมีรสนิยม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="affably" tags="adv.*"><select lemma="อย่างมีอัธยาศัยดี" tags="adv.*"/></match>
+    <match lemma="affably" tags="adv"><select lemma="อย่างมีอัธยาศัยดี" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="after" tags="adv.*"><select lemma="ตอนหลัง" tags="adv.*"/></match>
+    <match lemma="after" tags="adv"><select lemma="ตอนหลัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="afterward" tags="adv.*"><select lemma="ตอนหลัง" tags="adv.*"/></match>
+    <match lemma="afterward" tags="adv"><select lemma="ตอนหลัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="afterwards" tags="adv.*"><select lemma="ตอนหลัง" tags="adv.*"/></match>
+    <match lemma="afterwards" tags="adv"><select lemma="ตอนหลัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="aggressively" tags="adv.*"><select lemma="อย่างก้าวร้าว" tags="adv.*"/></match>
+    <match lemma="aggressively" tags="adv"><select lemma="อย่างก้าวร้าว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="ahead" tags="adv.*"><select lemma="อยู่หน้า" tags="adv.*"/></match>
+    <match lemma="ahead" tags="adv"><select lemma="อยู่หน้า" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="airily" tags="adv.*"><select lemma="อย่างไม่เอาจริงเอาจัง" tags="adv.*"/></match>
+    <match lemma="airily" tags="adv"><select lemma="อย่างไม่เอาจริงเอาจัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="alas" tags="adv.*"><select lemma="อย่างโชคร้าย" tags="adv.*"/></match>
+    <match lemma="alas" tags="adv"><select lemma="อย่างโชคร้าย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="all of a sudden" tags="adv.*"><select lemma="ทันทีทันใด" tags="adv.*"/></match>
+    <match lemma="all of a sudden" tags="adv"><select lemma="ทันทีทันใด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="all over" tags="adv.*"><select lemma="ทั่วบริเวณ" tags="adv.*"/></match>
+    <match lemma="all over" tags="adv"><select lemma="ทั่วบริเวณ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="all right" tags="adv.*"><select lemma="ตกลง" tags="adv.*"/></match>
+    <match lemma="all right" tags="adv"><select lemma="ตกลง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="all the way" tags="adv.*"><select lemma="ทุกวิถีทาง" tags="adv.*"/></match>
+    <match lemma="all the way" tags="adv"><select lemma="ทุกวิถีทาง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="almost" tags="adv.*"><select lemma="เกือบ" tags="adv.*"/></match>
+    <match lemma="almost" tags="adv"><select lemma="เกือบ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="alone" tags="adv.*"><select lemma="เท่านั้น" tags="adv.*"/></match>
+    <match lemma="alone" tags="adv"><select lemma="เท่านั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="also" tags="adv.*"><select lemma="เช่นกัน" tags="adv.*"/></match>
+    <match lemma="also" tags="adv"><select lemma="เช่นกัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="alternatively" tags="adv.*"><select lemma="อย่างมีทางเลือก" tags="adv.*"/></match>
+    <match lemma="alternatively" tags="adv"><select lemma="อย่างมีทางเลือก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="always" tags="adv.*"><select lemma="ตลอดเวลา" tags="adv.*"/></match>
+    <match lemma="always" tags="adv"><select lemma="ตลอดเวลา" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="amazingly" tags="adv.*"><select lemma="อย่างคาดไม่ถึง" tags="adv.*"/></match>
+    <match lemma="amazingly" tags="adv"><select lemma="อย่างคาดไม่ถึง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="ambiguously" tags="adv.*"><select lemma="อย่างคลุมเครือ" tags="adv.*"/></match>
+    <match lemma="ambiguously" tags="adv"><select lemma="อย่างคลุมเครือ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="ambitiously" tags="adv.*"><select lemma="ด้วยความทะเยอทะยาน" tags="adv.*"/></match>
+    <match lemma="ambitiously" tags="adv"><select lemma="ด้วยความทะเยอทะยาน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="amiably" tags="adv.*"><select lemma="อย่างมีอัธยาศัยดี" tags="adv.*"/></match>
+    <match lemma="amiably" tags="adv"><select lemma="อย่างมีอัธยาศัยดี" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="anew" tags="adv.*"><select lemma="ใหม่" tags="adv.*"/></match>
+    <match lemma="anew" tags="adv"><select lemma="ใหม่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="annually" tags="adv.*"><select lemma="ทุกปี" tags="adv.*"/></match>
+    <match lemma="annually" tags="adv"><select lemma="ทุกปี" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="anyhow" tags="adv.*"><select lemma="อย่างไรก็ตาม" tags="adv.*"/></match>
+    <match lemma="anyhow" tags="adv"><select lemma="อย่างไรก็ตาม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="anyway" tags="adv.*"><select lemma="อย่างไรก็ตาม" tags="adv.*"/></match>
+    <match lemma="anyway" tags="adv"><select lemma="อย่างไรก็ตาม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="apace" tags="adv.*"><select lemma="อย่างรวดเร็ว" tags="adv.*"/></match>
+    <match lemma="apace" tags="adv"><select lemma="อย่างรวดเร็ว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="apparently" tags="adv.*"><select lemma="ดูเหมือนว่า" tags="adv.*"/></match>
+    <match lemma="apparently" tags="adv"><select lemma="ดูเหมือนว่า" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="appropriately" tags="adv.*"><select lemma="อย่างเหมาะสม" tags="adv.*"/></match>
+    <match lemma="appropriately" tags="adv"><select lemma="อย่างเหมาะสม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="aptly" tags="adv.*"><select lemma="ด้วยความสามารถ" tags="adv.*"/></match>
+    <match lemma="aptly" tags="adv"><select lemma="ด้วยความสามารถ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="arbitrarily" tags="adv.*"><select lemma="ตามอำเภอใจ" tags="adv.*"/></match>
+    <match lemma="arbitrarily" tags="adv"><select lemma="ตามอำเภอใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="around" tags="adv.*"><select lemma="รอบๆ" tags="adv.*"/></match>
+    <match lemma="around" tags="adv"><select lemma="รอบๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="artificially" tags="adv.*"><select lemma="อย่างไม่เป็นธรรมชาติ" tags="adv.*"/></match>
+    <match lemma="artificially" tags="adv"><select lemma="อย่างไม่เป็นธรรมชาติ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="astonishingly" tags="adv.*"><select lemma="อย่างคาดไม่ถึง" tags="adv.*"/></match>
+    <match lemma="astonishingly" tags="adv"><select lemma="อย่างคาดไม่ถึง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="at any rate" tags="adv.*"><select lemma="อย่างไรก็ตาม" tags="adv.*"/></match>
+    <match lemma="at any rate" tags="adv"><select lemma="อย่างไรก็ตาม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="at least" tags="adv.*"><select lemma="อย่างน้อย" tags="adv.*"/></match>
+    <match lemma="at least" tags="adv"><select lemma="อย่างน้อย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="at most" tags="adv.*"><select lemma="อย่างมาก" tags="adv.*"/></match>
+    <match lemma="at most" tags="adv"><select lemma="อย่างมาก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="at once" tags="adv.*"><select lemma="ทันที" tags="adv.*"/></match>
+    <match lemma="at once" tags="adv"><select lemma="ทันที" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="at random" tags="adv.*"><select lemma="ตามอำเภอใจ" tags="adv.*"/></match>
+    <match lemma="at random" tags="adv"><select lemma="ตามอำเภอใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="at the most" tags="adv.*"><select lemma="อย่างมาก" tags="adv.*"/></match>
+    <match lemma="at the most" tags="adv"><select lemma="อย่างมาก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="at the same time" tags="adv.*"><select lemma="ในขณะเดียวกัน" tags="adv.*"/></match>
+    <match lemma="at the same time" tags="adv"><select lemma="ในขณะเดียวกัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="attentively" tags="adv.*"><select lemma="ด้วยความตั้งใจ" tags="adv.*"/></match>
+    <match lemma="attentively" tags="adv"><select lemma="ด้วยความตั้งใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="automatically" tags="adv.*"><select lemma="โดยอัตโนมัติ" tags="adv.*"/></match>
+    <match lemma="automatically" tags="adv"><select lemma="โดยอัตโนมัติ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="avariciously" tags="adv.*"><select lemma="อย่างโลภ" tags="adv.*"/></match>
+    <match lemma="avariciously" tags="adv"><select lemma="อย่างโลภ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="away" tags="adv.*"><select lemma="ไปที่อื่น" tags="adv.*"/></match>
+    <match lemma="away" tags="adv"><select lemma="ไปที่อื่น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="awfully" tags="adv.*"><select lemma="อย่างน่ากลัว" tags="adv.*"/></match>
+    <match lemma="awfully" tags="adv"><select lemma="อย่างน่ากลัว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="backwards" tags="adv.*"><select lemma="ถอยหลัง" tags="adv.*"/></match>
+    <match lemma="backwards" tags="adv"><select lemma="ถอยหลัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="badly" tags="adv.*"><select lemma="หนัก" tags="adv.*"/></match>
+    <match lemma="badly" tags="adv"><select lemma="หนัก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="barely" tags="adv.*"><select lemma="แทบจะไม่" tags="adv.*"/></match>
+    <match lemma="barely" tags="adv"><select lemma="แทบจะไม่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="before" tags="adv.*"><select lemma="ก่อน" tags="adv.*"/></match>
+    <match lemma="before" tags="adv"><select lemma="ก่อน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="below" tags="adv.*"><select lemma="ใต้" tags="adv.*"/></match>
+    <match lemma="below" tags="adv"><select lemma="ใต้" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="beneath" tags="adv.*"><select lemma="ใต้" tags="adv.*"/></match>
+    <match lemma="beneath" tags="adv"><select lemma="ใต้" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="besides" tags="adv.*"><select lemma="นอกจากนี้" tags="adv.*"/></match>
+    <match lemma="besides" tags="adv"><select lemma="นอกจากนี้" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="blindly" tags="adv.*"><select lemma="อย่างตาบอด" tags="adv.*"/></match>
+    <match lemma="blindly" tags="adv"><select lemma="อย่างตาบอด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="bravely" tags="adv.*"><select lemma="อย่างกล้าหาญ" tags="adv.*"/></match>
+    <match lemma="bravely" tags="adv"><select lemma="อย่างกล้าหาญ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="briefly" tags="adv.*"><select lemma="ในช่วงสั้น" tags="adv.*"/></match>
+    <match lemma="briefly" tags="adv"><select lemma="ในช่วงสั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="broadly" tags="adv.*"><select lemma="อย่างกว้างๆ" tags="adv.*"/></match>
+    <match lemma="broadly" tags="adv"><select lemma="อย่างกว้างๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="brutally" tags="adv.*"><select lemma="อย่างโหดเหี้ยม" tags="adv.*"/></match>
+    <match lemma="brutally" tags="adv"><select lemma="อย่างโหดเหี้ยม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="by and large" tags="adv.*"><select lemma="โดยทั่วไป" tags="adv.*"/></match>
+    <match lemma="by and large" tags="adv"><select lemma="โดยทั่วไป" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="by chance" tags="adv.*"><select lemma="โดยอุบัติเหตุ" tags="adv.*"/></match>
+    <match lemma="by chance" tags="adv"><select lemma="โดยอุบัติเหตุ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="by the way" tags="adv.*"><select lemma="อนึ่ง" tags="adv.*"/></match>
+    <match lemma="by the way" tags="adv"><select lemma="อนึ่ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="cagily" tags="adv.*"><select lemma="อย่างรอบคอบ" tags="adv.*"/></match>
+    <match lemma="cagily" tags="adv"><select lemma="อย่างรอบคอบ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="calmly" tags="adv.*"><select lemma="อย่างสงบ" tags="adv.*"/></match>
+    <match lemma="calmly" tags="adv"><select lemma="อย่างสงบ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="candidly" tags="adv.*"><select lemma="อย่างตรงไปตรงมา" tags="adv.*"/></match>
+    <match lemma="candidly" tags="adv"><select lemma="อย่างตรงไปตรงมา" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="categorically" tags="adv.*"><select lemma="อย่างเด็ดขาด" tags="adv.*"/></match>
+    <match lemma="categorically" tags="adv"><select lemma="อย่างเด็ดขาด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="cautiously" tags="adv.*"><select lemma="อย่างระมัดระวัง" tags="adv.*"/></match>
+    <match lemma="cautiously" tags="adv"><select lemma="อย่างระมัดระวัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="cheaply" tags="adv.*"><select lemma="ในราคาประหยัด" tags="adv.*"/></match>
+    <match lemma="cheaply" tags="adv"><select lemma="ในราคาประหยัด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="chemically" tags="adv.*"><select lemma="โดยใช้เคมี" tags="adv.*"/></match>
+    <match lemma="chemically" tags="adv"><select lemma="โดยใช้เคมี" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="chiefly" tags="adv.*"><select lemma="ส่วนใหญ่" tags="adv.*"/></match>
+    <match lemma="chiefly" tags="adv"><select lemma="ส่วนใหญ่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="cleverly" tags="adv.*"><select lemma="ด้วยความฉลาด" tags="adv.*"/></match>
+    <match lemma="cleverly" tags="adv"><select lemma="ด้วยความฉลาด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="competently" tags="adv.*"><select lemma="ด้วยความสามารถ" tags="adv.*"/></match>
+    <match lemma="competently" tags="adv"><select lemma="ด้วยความสามารถ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="conscientiously" tags="adv.*"><select lemma="อย่างระมัดระวัง" tags="adv.*"/></match>
+    <match lemma="conscientiously" tags="adv"><select lemma="อย่างระมัดระวัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="consequently" tags="adv.*"><select lemma="ฉะนั้น" tags="adv.*"/></match>
+    <match lemma="consequently" tags="adv"><select lemma="ฉะนั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="constantly" tags="adv.*"><select lemma="อย่างสม่ำเสมอ" tags="adv.*"/></match>
+    <match lemma="constantly" tags="adv"><select lemma="อย่างสม่ำเสมอ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="continuously" tags="adv.*"><select lemma="ไม่ขาดสาย" tags="adv.*"/></match>
+    <match lemma="continuously" tags="adv"><select lemma="ไม่ขาดสาย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="cordially" tags="adv.*"><select lemma="อย่างจริงใจ" tags="adv.*"/></match>
+    <match lemma="cordially" tags="adv"><select lemma="อย่างจริงใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="correctly" tags="adv.*"><select lemma="ถูก" tags="adv.*"/></match>
+    <match lemma="correctly" tags="adv"><select lemma="ถูก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="crazily" tags="adv.*"><select lemma="อย่างบ้าคลั่ง" tags="adv.*"/></match>
+    <match lemma="crazily" tags="adv"><select lemma="อย่างบ้าคลั่ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="curiously" tags="adv.*"><select lemma="อย่างแปลกประหลาด" tags="adv.*"/></match>
+    <match lemma="curiously" tags="adv"><select lemma="อย่างแปลกประหลาด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="currently" tags="adv.*"><select lemma="ปัจจุบัน" tags="adv.*"/></match>
+    <match lemma="currently" tags="adv"><select lemma="ปัจจุบัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="cynically" tags="adv.*"><select lemma="อย่างถากถาง" tags="adv.*"/></match>
+    <match lemma="cynically" tags="adv"><select lemma="อย่างถากถาง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="dangerously" tags="adv.*"><select lemma="อย่างอันตราย" tags="adv.*"/></match>
+    <match lemma="dangerously" tags="adv"><select lemma="อย่างอันตราย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="deeply" tags="adv.*"><select lemma="อย่างลึกซึ้ง" tags="adv.*"/></match>
+    <match lemma="deeply" tags="adv"><select lemma="อย่างลึกซึ้ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="definitely" tags="adv.*"><select lemma="อย่างชัดเจน" tags="adv.*"/></match>
+    <match lemma="definitely" tags="adv"><select lemma="อย่างชัดเจน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="deliberately" tags="adv.*"><select lemma="ด้วยความจงใจ" tags="adv.*"/></match>
+    <match lemma="deliberately" tags="adv"><select lemma="ด้วยความจงใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="densely" tags="adv.*"><select lemma="อย่างหนาทึบ" tags="adv.*"/></match>
+    <match lemma="densely" tags="adv"><select lemma="อย่างหนาทึบ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="desperately" tags="adv.*"><select lemma="อย่างเร่งด่วน" tags="adv.*"/></match>
+    <match lemma="desperately" tags="adv"><select lemma="อย่างเร่งด่วน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="directly" tags="adv.*"><select lemma="อย่างแน่แท้" tags="adv.*"/></match>
+    <match lemma="directly" tags="adv"><select lemma="อย่างแน่แท้" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="emphatically" tags="adv.*"><select lemma="อย่างชัดเจน" tags="adv.*"/></match>
+    <match lemma="emphatically" tags="adv"><select lemma="อย่างชัดเจน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="empirically" tags="adv.*"><select lemma="อย่างอาศัยการสังเกต" tags="adv.*"/></match>
+    <match lemma="empirically" tags="adv"><select lemma="อย่างอาศัยการสังเกต" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="enormously" tags="adv.*"><select lemma="อย่างน่าประหลาดใจ" tags="adv.*"/></match>
+    <match lemma="enormously" tags="adv"><select lemma="อย่างน่าประหลาดใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="entirely" tags="adv.*"><select lemma="อย่างสมบูรณ์" tags="adv.*"/></match>
+    <match lemma="entirely" tags="adv"><select lemma="อย่างสมบูรณ์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="equally" tags="adv.*"><select lemma="อย่างเท่าเทียมกัน" tags="adv.*"/></match>
+    <match lemma="equally" tags="adv"><select lemma="อย่างเท่าเทียมกัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="especially" tags="adv.*"><select lemma="เป็นพิเศษ" tags="adv.*"/></match>
+    <match lemma="especially" tags="adv"><select lemma="เป็นพิเศษ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="ever" tags="adv.*"><select lemma="ทุกเวลา" tags="adv.*"/></match>
+    <match lemma="ever" tags="adv"><select lemma="ทุกเวลา" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="evermore" tags="adv.*"><select lemma="ชั่วนิจนิรันดร์" tags="adv.*"/></match>
+    <match lemma="evermore" tags="adv"><select lemma="ชั่วนิจนิรันดร์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="every year" tags="adv.*"><select lemma="ทุกปี" tags="adv.*"/></match>
+    <match lemma="every year" tags="adv"><select lemma="ทุกปี" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="evidently" tags="adv.*"><select lemma="อย่างกระจ่าง" tags="adv.*"/></match>
+    <match lemma="evidently" tags="adv"><select lemma="อย่างกระจ่าง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="exactly" tags="adv.*"><select lemma="อย่างแน่นอน" tags="adv.*"/></match>
+    <match lemma="exactly" tags="adv"><select lemma="อย่างแน่นอน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="exceedingly" tags="adv.*"><select lemma="สุดยอด" tags="adv.*"/></match>
+    <match lemma="exceedingly" tags="adv"><select lemma="สุดยอด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="excessively" tags="adv.*"><select lemma="เกิน" tags="adv.*"/></match>
+    <match lemma="excessively" tags="adv"><select lemma="เกิน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="exclusively" tags="adv.*"><select lemma="เท่านั้น" tags="adv.*"/></match>
+    <match lemma="exclusively" tags="adv"><select lemma="เท่านั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="extraordinarily" tags="adv.*"><select lemma="อย่างเกินควร" tags="adv.*"/></match>
+    <match lemma="extraordinarily" tags="adv"><select lemma="อย่างเกินควร" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="extremely" tags="adv.*"><select lemma="อย่างสูง" tags="adv.*"/></match>
+    <match lemma="extremely" tags="adv"><select lemma="อย่างสูง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="fabulously" tags="adv.*"><select lemma="อย่างดีเยี่ยม" tags="adv.*"/></match>
+    <match lemma="fabulously" tags="adv"><select lemma="อย่างดีเยี่ยม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="faithfully" tags="adv.*"><select lemma="อย่างน่าเชื่อถือ" tags="adv.*"/></match>
+    <match lemma="faithfully" tags="adv"><select lemma="อย่างน่าเชื่อถือ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="falsely" tags="adv.*"><select lemma="อย่างผิดๆ" tags="adv.*"/></match>
+    <match lemma="falsely" tags="adv"><select lemma="อย่างผิดๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="fantastically" tags="adv.*"><select lemma="อย่างดีเยี่ยม" tags="adv.*"/></match>
+    <match lemma="fantastically" tags="adv"><select lemma="อย่างดีเยี่ยม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="fiercely" tags="adv.*"><select lemma="อย่างดุร้าย" tags="adv.*"/></match>
+    <match lemma="fiercely" tags="adv"><select lemma="อย่างดุร้าย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="finally" tags="adv.*"><select lemma="ในเวลาอันใกล้" tags="adv.*"/></match>
+    <match lemma="finally" tags="adv"><select lemma="ในเวลาอันใกล้" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="firmly" tags="adv.*"><select lemma="อย่างมั่นคง" tags="adv.*"/></match>
+    <match lemma="firmly" tags="adv"><select lemma="อย่างมั่นคง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="first and last" tags="adv.*"><select lemma="ทั้งหมด" tags="adv.*"/></match>
+    <match lemma="first and last" tags="adv"><select lemma="ทั้งหมด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="first of all" tags="adv.*"><select lemma="ก่อนอื่น" tags="adv.*"/></match>
+    <match lemma="first of all" tags="adv"><select lemma="ก่อนอื่น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="firstly" tags="adv.*"><select lemma="ก่อนอื่น" tags="adv.*"/></match>
+    <match lemma="firstly" tags="adv"><select lemma="ก่อนอื่น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="flatly" tags="adv.*"><select lemma="อย่างเด็ดขาด" tags="adv.*"/></match>
+    <match lemma="flatly" tags="adv"><select lemma="อย่างเด็ดขาด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="fondly" tags="adv.*"><select lemma="อย่างรักใคร่" tags="adv.*"/></match>
+    <match lemma="fondly" tags="adv"><select lemma="อย่างรักใคร่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="forever" tags="adv.*"><select lemma="ชั่วนิจนิรันดร์" tags="adv.*"/></match>
+    <match lemma="forever" tags="adv"><select lemma="ชั่วนิจนิรันดร์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="forthwith" tags="adv.*"><select lemma="ทันที" tags="adv.*"/></match>
+    <match lemma="forthwith" tags="adv"><select lemma="ทันที" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="fortunately" tags="adv.*"><select lemma="อย่างเคราะห์ดี" tags="adv.*"/></match>
+    <match lemma="fortunately" tags="adv"><select lemma="อย่างเคราะห์ดี" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="forward" tags="adv.*"><select lemma="ข้างหน้า" tags="adv.*"/></match>
+    <match lemma="forward" tags="adv"><select lemma="ข้างหน้า" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="frankly" tags="adv.*"><select lemma="อย่างตรงไปตรงมา" tags="adv.*"/></match>
+    <match lemma="frankly" tags="adv"><select lemma="อย่างตรงไปตรงมา" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="freshly" tags="adv.*"><select lemma="สดๆร้อนๆ" tags="adv.*"/></match>
+    <match lemma="freshly" tags="adv"><select lemma="สดๆร้อนๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="fully" tags="adv.*"><select lemma="อย่างเต็มที่" tags="adv.*"/></match>
+    <match lemma="fully" tags="adv"><select lemma="อย่างเต็มที่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="further" tags="adv.*"><select lemma="กว้างขวางออกไป" tags="adv.*"/></match>
+    <match lemma="further" tags="adv"><select lemma="กว้างขวางออกไป" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="generally" tags="adv.*"><select lemma="โดยทั่วไป" tags="adv.*"/></match>
+    <match lemma="generally" tags="adv"><select lemma="โดยทั่วไป" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="generously" tags="adv.*"><select lemma="อย่างมีน้ำใจ" tags="adv.*"/></match>
+    <match lemma="generously" tags="adv"><select lemma="อย่างมีน้ำใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="genuinely" tags="adv.*"><select lemma="จริงๆ" tags="adv.*"/></match>
+    <match lemma="genuinely" tags="adv"><select lemma="จริงๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="gloriously" tags="adv.*"><select lemma="อย่างมีเกียรติ" tags="adv.*"/></match>
+    <match lemma="gloriously" tags="adv"><select lemma="อย่างมีเกียรติ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="gracefully" tags="adv.*"><select lemma="อย่างสวยงาม" tags="adv.*"/></match>
+    <match lemma="gracefully" tags="adv"><select lemma="อย่างสวยงาม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="gravely" tags="adv.*"><select lemma="อย่างใจสุขุม" tags="adv.*"/></match>
+    <match lemma="gravely" tags="adv"><select lemma="อย่างใจสุขุม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="happily" tags="adv.*"><select lemma="ร่าเริง" tags="adv.*"/></match>
+    <match lemma="happily" tags="adv"><select lemma="ร่าเริง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="hardly" tags="adv.*"><select lemma="แทบจะไม่" tags="adv.*"/></match>
+    <match lemma="hardly" tags="adv"><select lemma="แทบจะไม่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="hazardously" tags="adv.*"><select lemma="อย่างอันตราย" tags="adv.*"/></match>
+    <match lemma="hazardously" tags="adv"><select lemma="อย่างอันตราย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="heatedly" tags="adv.*"><select lemma="อย่างรีบเร่ง" tags="adv.*"/></match>
+    <match lemma="heatedly" tags="adv"><select lemma="อย่างรีบเร่ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="heavily" tags="adv.*"><select lemma="อย่างหนัก" tags="adv.*"/></match>
+    <match lemma="heavily" tags="adv"><select lemma="อย่างหนัก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="highly" tags="adv.*"><select lemma="อย่างสูง" tags="adv.*"/></match>
+    <match lemma="highly" tags="adv"><select lemma="อย่างสูง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="honestly" tags="adv.*"><select lemma="อย่างตรงไปตรงมา" tags="adv.*"/></match>
+    <match lemma="honestly" tags="adv"><select lemma="อย่างตรงไปตรงมา" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="hopelessly" tags="adv.*"><select lemma="อย่างไม่มีหวัง" tags="adv.*"/></match>
+    <match lemma="hopelessly" tags="adv"><select lemma="อย่างไม่มีหวัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="however" tags="adv.*"><select lemma="ยิ่งไปกว่านั้น" tags="adv.*"/></match>
+    <match lemma="however" tags="adv"><select lemma="ยิ่งไปกว่านั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="hugely" tags="adv.*"><select lemma="อย่างน่าประหลาดใจ" tags="adv.*"/></match>
+    <match lemma="hugely" tags="adv"><select lemma="อย่างน่าประหลาดใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="humbly" tags="adv.*"><select lemma="อย่างถ่อมตน" tags="adv.*"/></match>
+    <match lemma="humbly" tags="adv"><select lemma="อย่างถ่อมตน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="illegally" tags="adv.*"><select lemma="อย่างผิดกฎหมาย" tags="adv.*"/></match>
+    <match lemma="illegally" tags="adv"><select lemma="อย่างผิดกฎหมาย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="illicitly" tags="adv.*"><select lemma="อย่างผิดกฎหมาย" tags="adv.*"/></match>
+    <match lemma="illicitly" tags="adv"><select lemma="อย่างผิดกฎหมาย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="immediately" tags="adv.*"><select lemma="ทันที" tags="adv.*"/></match>
+    <match lemma="immediately" tags="adv"><select lemma="ทันที" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="in a flash" tags="adv.*"><select lemma="อย่างฉับพลัน" tags="adv.*"/></match>
+    <match lemma="in a flash" tags="adv"><select lemma="อย่างฉับพลัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="in any case" tags="adv.*"><select lemma="อย่างไรก็ตาม" tags="adv.*"/></match>
+    <match lemma="in any case" tags="adv"><select lemma="อย่างไรก็ตาม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="in brief" tags="adv.*"><select lemma="อย่างกระฉับ" tags="adv.*"/></match>
+    <match lemma="in brief" tags="adv"><select lemma="อย่างกระฉับ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="in concert" tags="adv.*"><select lemma="ด้วยส่วนรวม" tags="adv.*"/></match>
+    <match lemma="in concert" tags="adv"><select lemma="ด้วยส่วนรวม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="in return" tags="adv.*"><select lemma="เป็นการตอบแทน" tags="adv.*"/></match>
+    <match lemma="in return" tags="adv"><select lemma="เป็นการตอบแทน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="in the first place" tags="adv.*"><select lemma="ก่อนหน้านี้" tags="adv.*"/></match>
+    <match lemma="in the first place" tags="adv"><select lemma="ก่อนหน้านี้" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="in the main" tags="adv.*"><select lemma="โดยทั่วไป" tags="adv.*"/></match>
+    <match lemma="in the main" tags="adv"><select lemma="โดยทั่วไป" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="in the meantime" tags="adv.*"><select lemma="ขณะที่" tags="adv.*"/></match>
+    <match lemma="in the meantime" tags="adv"><select lemma="ขณะที่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="incidentally" tags="adv.*"><select lemma="อนึ่ง" tags="adv.*"/></match>
+    <match lemma="incidentally" tags="adv"><select lemma="อนึ่ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="incorrectly" tags="adv.*"><select lemma="อย่างผิด" tags="adv.*"/></match>
+    <match lemma="incorrectly" tags="adv"><select lemma="อย่างผิด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="incredibly" tags="adv.*"><select lemma="อย่างเหลือเชื่อ" tags="adv.*"/></match>
+    <match lemma="incredibly" tags="adv"><select lemma="อย่างเหลือเชื่อ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="indiscriminately" tags="adv.*"><select lemma="ตามอำเภอใจ" tags="adv.*"/></match>
+    <match lemma="indiscriminately" tags="adv"><select lemma="ตามอำเภอใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="inevitably" tags="adv.*"><select lemma="อย่างหลีกเหลี่ยงไม่ได้" tags="adv.*"/></match>
+    <match lemma="inevitably" tags="adv"><select lemma="อย่างหลีกเหลี่ยงไม่ได้" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="infinitely" tags="adv.*"><select lemma="ชั่วกัลปาวสาน" tags="adv.*"/></match>
+    <match lemma="infinitely" tags="adv"><select lemma="ชั่วกัลปาวสาน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="informally" tags="adv.*"><select lemma="อย่างไม่เป็นทางการ" tags="adv.*"/></match>
+    <match lemma="informally" tags="adv"><select lemma="อย่างไม่เป็นทางการ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="ingenuously" tags="adv.*"><select lemma="อย่างเปิดเผย" tags="adv.*"/></match>
+    <match lemma="ingenuously" tags="adv"><select lemma="อย่างเปิดเผย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="initially" tags="adv.*"><select lemma="ตอนเริ่มต้น" tags="adv.*"/></match>
+    <match lemma="initially" tags="adv"><select lemma="ตอนเริ่มต้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="inside" tags="adv.*"><select lemma="ข้างใน" tags="adv.*"/></match>
+    <match lemma="inside" tags="adv"><select lemma="ข้างใน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="instantaneously" tags="adv.*"><select lemma="อย่างฉับพลัน" tags="adv.*"/></match>
+    <match lemma="instantaneously" tags="adv"><select lemma="อย่างฉับพลัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="instantly" tags="adv.*"><select lemma="ทันที" tags="adv.*"/></match>
+    <match lemma="instantly" tags="adv"><select lemma="ทันที" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="instead" tags="adv.*"><select lemma="อย่างมีทางเลือก" tags="adv.*"/></match>
+    <match lemma="instead" tags="adv"><select lemma="อย่างมีทางเลือก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="intentionally" tags="adv.*"><select lemma="ด้วยความจงใจ" tags="adv.*"/></match>
+    <match lemma="intentionally" tags="adv"><select lemma="ด้วยความจงใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="intimately" tags="adv.*"><select lemma="อย่างใกล้ชิด" tags="adv.*"/></match>
+    <match lemma="intimately" tags="adv"><select lemma="อย่างใกล้ชิด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="intrinsically" tags="adv.*"><select lemma="อย่างสำคัญ" tags="adv.*"/></match>
+    <match lemma="intrinsically" tags="adv"><select lemma="อย่างสำคัญ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="invariably" tags="adv.*"><select lemma="อย่างสม่ำเสมอ" tags="adv.*"/></match>
+    <match lemma="invariably" tags="adv"><select lemma="อย่างสม่ำเสมอ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="inwards" tags="adv.*"><select lemma="เข้าสู่ศูนย์กลาง" tags="adv.*"/></match>
+    <match lemma="inwards" tags="adv"><select lemma="เข้าสู่ศูนย์กลาง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="jealously" tags="adv.*"><select lemma="อย่างอิจฉาริษยา" tags="adv.*"/></match>
+    <match lemma="jealously" tags="adv"><select lemma="อย่างอิจฉาริษยา" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="jokingly" tags="adv.*"><select lemma="อย่างขบขัน" tags="adv.*"/></match>
+    <match lemma="jokingly" tags="adv"><select lemma="อย่างขบขัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="jubilantly" tags="adv.*"><select lemma="ร่าเริง" tags="adv.*"/></match>
+    <match lemma="jubilantly" tags="adv"><select lemma="ร่าเริง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="just" tags="adv.*"><select lemma="เพียง" tags="adv.*"/></match>
+    <match lemma="just" tags="adv"><select lemma="เพียง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="lamentably" tags="adv.*"><select lemma="อย่างน่าตำหนิ" tags="adv.*"/></match>
+    <match lemma="lamentably" tags="adv"><select lemma="อย่างน่าตำหนิ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="largely" tags="adv.*"><select lemma="ส่วนใหญ่" tags="adv.*"/></match>
+    <match lemma="largely" tags="adv"><select lemma="ส่วนใหญ่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="later" tags="adv.*"><select lemma="ตอนหลัง" tags="adv.*"/></match>
+    <match lemma="later" tags="adv"><select lemma="ตอนหลัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="lazily" tags="adv.*"><select lemma="อย่างเฉื่อยชา" tags="adv.*"/></match>
+    <match lemma="lazily" tags="adv"><select lemma="อย่างเฉื่อยชา" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="legally" tags="adv.*"><select lemma="โดยชอบด้วยกฎหมาย" tags="adv.*"/></match>
+    <match lemma="legally" tags="adv"><select lemma="โดยชอบด้วยกฎหมาย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="legitimately" tags="adv.*"><select lemma="อย่างถูกกฎหมาย" tags="adv.*"/></match>
+    <match lemma="legitimately" tags="adv"><select lemma="อย่างถูกกฎหมาย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="likewise" tags="adv.*"><select lemma="ในทำนองเดียวกัน" tags="adv.*"/></match>
+    <match lemma="likewise" tags="adv"><select lemma="ในทำนองเดียวกัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="linguistically" tags="adv.*"><select lemma="ทางภาษาศาสตร์" tags="adv.*"/></match>
+    <match lemma="linguistically" tags="adv"><select lemma="ทางภาษาศาสตร์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="literally" tags="adv.*"><select lemma="อย่างตรงไปตรงมา" tags="adv.*"/></match>
+    <match lemma="literally" tags="adv"><select lemma="อย่างตรงไปตรงมา" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="little by little" tags="adv.*"><select lemma="สองสามนิ้ว" tags="adv.*"/></match>
+    <match lemma="little by little" tags="adv"><select lemma="สองสามนิ้ว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="locally" tags="adv.*"><select lemma="ในท้องถิ่น" tags="adv.*"/></match>
+    <match lemma="locally" tags="adv"><select lemma="ในท้องถิ่น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="logically" tags="adv.*"><select lemma="อย่างมีเหตุผล" tags="adv.*"/></match>
+    <match lemma="logically" tags="adv"><select lemma="อย่างมีเหตุผล" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="long-windedly" tags="adv.*"><select lemma="อย่างฟุ่มเฟือย" tags="adv.*"/></match>
+    <match lemma="long-windedly" tags="adv"><select lemma="อย่างฟุ่มเฟือย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="loudly" tags="adv.*"><select lemma="ดัง" tags="adv.*"/></match>
+    <match lemma="loudly" tags="adv"><select lemma="ดัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="lovingly" tags="adv.*"><select lemma="อย่างรักใคร่" tags="adv.*"/></match>
+    <match lemma="lovingly" tags="adv"><select lemma="อย่างรักใคร่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="luckily" tags="adv.*"><select lemma="อย่างเคราะห์ดี" tags="adv.*"/></match>
+    <match lemma="luckily" tags="adv"><select lemma="อย่างเคราะห์ดี" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="magically" tags="adv.*"><select lemma="ราวกับใช้เวทย์มนตร์" tags="adv.*"/></match>
+    <match lemma="magically" tags="adv"><select lemma="ราวกับใช้เวทย์มนตร์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="magnificently" tags="adv.*"><select lemma="อย่างดีเยี่ยม" tags="adv.*"/></match>
+    <match lemma="magnificently" tags="adv"><select lemma="อย่างดีเยี่ยม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="mainly" tags="adv.*"><select lemma="ส่วนใหญ่" tags="adv.*"/></match>
+    <match lemma="mainly" tags="adv"><select lemma="ส่วนใหญ่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="manifestly" tags="adv.*"><select lemma="อย่างกระจ่าง" tags="adv.*"/></match>
+    <match lemma="manifestly" tags="adv"><select lemma="อย่างกระจ่าง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="maybe" tags="adv.*"><select lemma="บางที" tags="adv.*"/></match>
+    <match lemma="maybe" tags="adv"><select lemma="บางที" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="merely" tags="adv.*"><select lemma="เพียง" tags="adv.*"/></match>
+    <match lemma="merely" tags="adv"><select lemma="เพียง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="moderately" tags="adv.*"><select lemma="พอควร" tags="adv.*"/></match>
+    <match lemma="moderately" tags="adv"><select lemma="พอควร" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="monstrously" tags="adv.*"><select lemma="อย่างบิดเบี้ยว" tags="adv.*"/></match>
+    <match lemma="monstrously" tags="adv"><select lemma="อย่างบิดเบี้ยว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="morally" tags="adv.*"><select lemma="อย่างรู้จักชั่วดี" tags="adv.*"/></match>
+    <match lemma="morally" tags="adv"><select lemma="อย่างรู้จักชั่วดี" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="more" tags="adv.*"><select lemma="กว่า" tags="adv.*"/></match>
+    <match lemma="more" tags="adv"><select lemma="กว่า" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="more or less" tags="adv.*"><select lemma="ประมาณ" tags="adv.*"/></match>
+    <match lemma="more or less" tags="adv"><select lemma="ประมาณ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="most" tags="adv.*"><select lemma="ที่สุด" tags="adv.*"/></match>
+    <match lemma="most" tags="adv"><select lemma="ที่สุด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="most importantly" tags="adv.*"><select lemma="เหนือสิ่งอื่นใด" tags="adv.*"/></match>
+    <match lemma="most importantly" tags="adv"><select lemma="เหนือสิ่งอื่นใด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="mostly" tags="adv.*"><select lemma="ส่วนใหญ่" tags="adv.*"/></match>
+    <match lemma="mostly" tags="adv"><select lemma="ส่วนใหญ่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="mysteriously" tags="adv.*"><select lemma="อย่างลี้ลับ" tags="adv.*"/></match>
+    <match lemma="mysteriously" tags="adv"><select lemma="อย่างลี้ลับ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="nationally" tags="adv.*"><select lemma="รวมเป็นชาติ" tags="adv.*"/></match>
+    <match lemma="nationally" tags="adv"><select lemma="รวมเป็นชาติ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="naturally" tags="adv.*"><select lemma="แน่นอน" tags="adv.*"/></match>
+    <match lemma="naturally" tags="adv"><select lemma="แน่นอน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="nearly" tags="adv.*"><select lemma="เกือบ" tags="adv.*"/></match>
+    <match lemma="nearly" tags="adv"><select lemma="เกือบ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="necessarily" tags="adv.*"><select lemma="อย่างจำเป็น" tags="adv.*"/></match>
+    <match lemma="necessarily" tags="adv"><select lemma="อย่างจำเป็น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="negatively" tags="adv.*"><select lemma="ในทางลบ" tags="adv.*"/></match>
+    <match lemma="negatively" tags="adv"><select lemma="ในทางลบ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="nervously" tags="adv.*"><select lemma="อย่างวิตกกังวล" tags="adv.*"/></match>
+    <match lemma="nervously" tags="adv"><select lemma="อย่างวิตกกังวล" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="never" tags="adv.*"><select lemma="ไม่เคย" tags="adv.*"/></match>
+    <match lemma="never" tags="adv"><select lemma="ไม่เคย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="nevertheless" tags="adv.*"><select lemma="ยิ่งไปกว่านั้น" tags="adv.*"/></match>
+    <match lemma="nevertheless" tags="adv"><select lemma="ยิ่งไปกว่านั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="newly" tags="adv.*"><select lemma="สดๆร้อนๆ" tags="adv.*"/></match>
+    <match lemma="newly" tags="adv"><select lemma="สดๆร้อนๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="nonetheless" tags="adv.*"><select lemma="ยิ่งไปกว่านั้น" tags="adv.*"/></match>
+    <match lemma="nonetheless" tags="adv"><select lemma="ยิ่งไปกว่านั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="not" tags="adv.*"><select lemma="ไม่" tags="adv.*"/></match>
+    <match lemma="not" tags="adv"><select lemma="ไม่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="now" tags="adv.*"><select lemma="ปัจจุบัน" tags="adv.*"/></match>
+    <match lemma="now" tags="adv"><select lemma="ปัจจุบัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="o'clock" tags="adv.*"><select lemma="โมง" tags="adv.*"/></match>
+    <match lemma="o'clock" tags="adv"><select lemma="โมง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="obstinately" tags="adv.*"><select lemma="อย่างดื้อ" tags="adv.*"/></match>
+    <match lemma="obstinately" tags="adv"><select lemma="อย่างดื้อ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="obviously" tags="adv.*"><select lemma="อย่างกระจ่าง" tags="adv.*"/></match>
+    <match lemma="obviously" tags="adv"><select lemma="อย่างกระจ่าง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="of all time" tags="adv.*"><select lemma="ทุกเวลา" tags="adv.*"/></match>
+    <match lemma="of all time" tags="adv"><select lemma="ทุกเวลา" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="of course" tags="adv.*"><select lemma="แน่นอน" tags="adv.*"/></match>
+    <match lemma="of course" tags="adv"><select lemma="แน่นอน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="off" tags="adv.*"><select lemma="ไปที่อื่น" tags="adv.*"/></match>
+    <match lemma="off" tags="adv"><select lemma="ไปที่อื่น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="officially" tags="adv.*"><select lemma="อย่างเป็นทางการ" tags="adv.*"/></match>
+    <match lemma="officially" tags="adv"><select lemma="อย่างเป็นทางการ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="often" tags="adv.*"><select lemma="บ่อยครั้ง" tags="adv.*"/></match>
+    <match lemma="often" tags="adv"><select lemma="บ่อยครั้ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="on" tags="adv.*"><select lemma="ไป" tags="adv.*"/></match>
+    <match lemma="on" tags="adv"><select lemma="ไป" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="on purpose" tags="adv.*"><select lemma="ด้วยความจงใจ" tags="adv.*"/></match>
+    <match lemma="on purpose" tags="adv"><select lemma="ด้วยความจงใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="on the contrary" tags="adv.*"><select lemma="ตรงข้าม" tags="adv.*"/></match>
+    <match lemma="on the contrary" tags="adv"><select lemma="ตรงข้าม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="once" tags="adv.*"><select lemma="หนึ่งครั้ง" tags="adv.*"/></match>
+    <match lemma="once" tags="adv"><select lemma="หนึ่งครั้ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="one by one" tags="adv.*"><select lemma="ทีละคน" tags="adv.*"/></match>
+    <match lemma="one by one" tags="adv"><select lemma="ทีละคน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="only" tags="adv.*"><select lemma="เพียง" tags="adv.*"/></match>
+    <match lemma="only" tags="adv"><select lemma="เพียง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="onwards" tags="adv.*"><select lemma="ข้างหน้า" tags="adv.*"/></match>
+    <match lemma="onwards" tags="adv"><select lemma="ข้างหน้า" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="out" tags="adv.*"><select lemma="ออก" tags="adv.*"/></match>
+    <match lemma="out" tags="adv"><select lemma="ออก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="outdoors" tags="adv.*"><select lemma="กลางแจ้ง" tags="adv.*"/></match>
+    <match lemma="outdoors" tags="adv"><select lemma="กลางแจ้ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="outside" tags="adv.*"><select lemma="กลางแจ้ง" tags="adv.*"/></match>
+    <match lemma="outside" tags="adv"><select lemma="กลางแจ้ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="over" tags="adv.*"><select lemma="เหนือ" tags="adv.*"/></match>
+    <match lemma="over" tags="adv"><select lemma="เหนือ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="painfully" tags="adv.*"><select lemma="อย่างเป็นทุกข์" tags="adv.*"/></match>
+    <match lemma="painfully" tags="adv"><select lemma="อย่างเป็นทุกข์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="particularly" tags="adv.*"><select lemma="เป็นพิเศษ" tags="adv.*"/></match>
+    <match lemma="particularly" tags="adv"><select lemma="เป็นพิเศษ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="patiently" tags="adv.*"><select lemma="ด้วยความอดกลั้น" tags="adv.*"/></match>
+    <match lemma="patiently" tags="adv"><select lemma="ด้วยความอดกลั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="perfectly" tags="adv.*"><select lemma="อย่างสมบูรณ์" tags="adv.*"/></match>
+    <match lemma="perfectly" tags="adv"><select lemma="อย่างสมบูรณ์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="perhaps" tags="adv.*"><select lemma="บางที" tags="adv.*"/></match>
+    <match lemma="perhaps" tags="adv"><select lemma="บางที" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="perpetually" tags="adv.*"><select lemma="อย่างไม่มีหยุด" tags="adv.*"/></match>
+    <match lemma="perpetually" tags="adv"><select lemma="อย่างไม่มีหยุด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="personally" tags="adv.*"><select lemma="โดยส่วนตัว" tags="adv.*"/></match>
+    <match lemma="personally" tags="adv"><select lemma="โดยส่วนตัว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="pleasantly" tags="adv.*"><select lemma="อย่างน่ายินดี" tags="adv.*"/></match>
+    <match lemma="pleasantly" tags="adv"><select lemma="อย่างน่ายินดี" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="politically" tags="adv.*"><select lemma="ทางการเมือง" tags="adv.*"/></match>
+    <match lemma="politically" tags="adv"><select lemma="ทางการเมือง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="possibly" tags="adv.*"><select lemma="บางที" tags="adv.*"/></match>
+    <match lemma="possibly" tags="adv"><select lemma="บางที" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="powerfully" tags="adv.*"><select lemma="อย่างมีพลัง" tags="adv.*"/></match>
+    <match lemma="powerfully" tags="adv"><select lemma="อย่างมีพลัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="practically" tags="adv.*"><select lemma="เกือบ" tags="adv.*"/></match>
+    <match lemma="practically" tags="adv"><select lemma="เกือบ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="precisely" tags="adv.*"><select lemma="อย่างแน่นอน" tags="adv.*"/></match>
+    <match lemma="precisely" tags="adv"><select lemma="อย่างแน่นอน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="predominantly" tags="adv.*"><select lemma="ส่วนใหญ่" tags="adv.*"/></match>
+    <match lemma="predominantly" tags="adv"><select lemma="ส่วนใหญ่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="prematurely" tags="adv.*"><select lemma="อย่างรีบเร่ง" tags="adv.*"/></match>
+    <match lemma="prematurely" tags="adv"><select lemma="อย่างรีบเร่ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="presently" tags="adv.*"><select lemma="ในไม่ช้า" tags="adv.*"/></match>
+    <match lemma="presently" tags="adv"><select lemma="ในไม่ช้า" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="primarily" tags="adv.*"><select lemma="ส่วนใหญ่" tags="adv.*"/></match>
+    <match lemma="primarily" tags="adv"><select lemma="ส่วนใหญ่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="principally" tags="adv.*"><select lemma="ส่วนใหญ่" tags="adv.*"/></match>
+    <match lemma="principally" tags="adv"><select lemma="ส่วนใหญ่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="privately" tags="adv.*"><select lemma="เป็นส่วนตัว" tags="adv.*"/></match>
+    <match lemma="privately" tags="adv"><select lemma="เป็นส่วนตัว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="probably" tags="adv.*"><select lemma="น่าจะ" tags="adv.*"/></match>
+    <match lemma="probably" tags="adv"><select lemma="น่าจะ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="productively" tags="adv.*"><select lemma="อย่างมีกำไร" tags="adv.*"/></match>
+    <match lemma="productively" tags="adv"><select lemma="อย่างมีกำไร" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="professionally" tags="adv.*"><select lemma="อย่างมืออาชีพ" tags="adv.*"/></match>
+    <match lemma="professionally" tags="adv"><select lemma="อย่างมืออาชีพ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="profitably" tags="adv.*"><select lemma="อย่างมีกำไร" tags="adv.*"/></match>
+    <match lemma="profitably" tags="adv"><select lemma="อย่างมีกำไร" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="properly" tags="adv.*"><select lemma="อย่างถูกต้อง" tags="adv.*"/></match>
+    <match lemma="properly" tags="adv"><select lemma="อย่างถูกต้อง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="proportionately" tags="adv.*"><select lemma="อย่างได้สัดส่วน" tags="adv.*"/></match>
+    <match lemma="proportionately" tags="adv"><select lemma="อย่างได้สัดส่วน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="psychologically" tags="adv.*"><select lemma="ทางด้านจิตใจ" tags="adv.*"/></match>
+    <match lemma="psychologically" tags="adv"><select lemma="ทางด้านจิตใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="publicly" tags="adv.*"><select lemma="ต่อสาธารณะ" tags="adv.*"/></match>
+    <match lemma="publicly" tags="adv"><select lemma="ต่อสาธารณะ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="purportedly" tags="adv.*"><select lemma="อย่างที่อ้าง" tags="adv.*"/></match>
+    <match lemma="purportedly" tags="adv"><select lemma="อย่างที่อ้าง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="purposely" tags="adv.*"><select lemma="ด้วยความจงใจ" tags="adv.*"/></match>
+    <match lemma="purposely" tags="adv"><select lemma="ด้วยความจงใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="quickly" tags="adv.*"><select lemma="อย่างรวดเร็ว" tags="adv.*"/></match>
+    <match lemma="quickly" tags="adv"><select lemma="อย่างรวดเร็ว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="quietly" tags="adv.*"><select lemma="เบาๆ" tags="adv.*"/></match>
+    <match lemma="quietly" tags="adv"><select lemma="เบาๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="raggedly" tags="adv.*"><select lemma="อย่างเป็นรอยแตกแยกลึก" tags="adv.*"/></match>
+    <match lemma="raggedly" tags="adv"><select lemma="อย่างเป็นรอยแตกแยกลึก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="randomly" tags="adv.*"><select lemma="ตามอำเภอใจ" tags="adv.*"/></match>
+    <match lemma="randomly" tags="adv"><select lemma="ตามอำเภอใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="rapidly" tags="adv.*"><select lemma="อย่างรวดเร็ว" tags="adv.*"/></match>
+    <match lemma="rapidly" tags="adv"><select lemma="อย่างรวดเร็ว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="readily" tags="adv.*"><select lemma="โดยง่ายดาย" tags="adv.*"/></match>
+    <match lemma="readily" tags="adv"><select lemma="โดยง่ายดาย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="really" tags="adv.*"><select lemma="จริงๆ" tags="adv.*"/></match>
+    <match lemma="really" tags="adv"><select lemma="จริงๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="reasonably" tags="adv.*"><select lemma="พอควร" tags="adv.*"/></match>
+    <match lemma="reasonably" tags="adv"><select lemma="พอควร" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="reciprocally" tags="adv.*"><select lemma="อย่างตรงกันข้าม" tags="adv.*"/></match>
+    <match lemma="reciprocally" tags="adv"><select lemma="อย่างตรงกันข้าม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="regrettably" tags="adv.*"><select lemma="อย่างโชคร้าย" tags="adv.*"/></match>
+    <match lemma="regrettably" tags="adv"><select lemma="อย่างโชคร้าย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="remarkably" tags="adv.*"><select lemma="อย่างน่าสังเกต" tags="adv.*"/></match>
+    <match lemma="remarkably" tags="adv"><select lemma="อย่างน่าสังเกต" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="right away" tags="adv.*"><select lemma="ทันที" tags="adv.*"/></match>
+    <match lemma="right away" tags="adv"><select lemma="ทันที" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="rightly" tags="adv.*"><select lemma="อย่างชอบธรรม" tags="adv.*"/></match>
+    <match lemma="rightly" tags="adv"><select lemma="อย่างชอบธรรม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="roughly" tags="adv.*"><select lemma="ประมาณ" tags="adv.*"/></match>
+    <match lemma="roughly" tags="adv"><select lemma="ประมาณ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="savagely" tags="adv.*"><select lemma="อย่างโหดเหี้ยม" tags="adv.*"/></match>
+    <match lemma="savagely" tags="adv"><select lemma="อย่างโหดเหี้ยม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="scarcely" tags="adv.*"><select lemma="แทบจะไม่" tags="adv.*"/></match>
+    <match lemma="scarcely" tags="adv"><select lemma="แทบจะไม่" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="seriously" tags="adv.*"><select lemma="อย่างจริงจัง" tags="adv.*"/></match>
+    <match lemma="seriously" tags="adv"><select lemma="อย่างจริงจัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="severely" tags="adv.*"><select lemma="หนัก" tags="adv.*"/></match>
+    <match lemma="severely" tags="adv"><select lemma="หนัก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="sexually" tags="adv.*"><select lemma="ทางเพศ" tags="adv.*"/></match>
+    <match lemma="sexually" tags="adv"><select lemma="ทางเพศ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="sharply" tags="adv.*"><select lemma="อย่างก้าวร้าว" tags="adv.*"/></match>
+    <match lemma="sharply" tags="adv"><select lemma="อย่างก้าวร้าว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="silently" tags="adv.*"><select lemma="อย่างเงียบขรึม" tags="adv.*"/></match>
+    <match lemma="silently" tags="adv"><select lemma="อย่างเงียบขรึม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="simply" tags="adv.*"><select lemma="เพียง" tags="adv.*"/></match>
+    <match lemma="simply" tags="adv"><select lemma="เพียง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="slightly" tags="adv.*"><select lemma="ค่อนข้าง" tags="adv.*"/></match>
+    <match lemma="slightly" tags="adv"><select lemma="ค่อนข้าง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="slowly" tags="adv.*"><select lemma="อย่างช้าๆ" tags="adv.*"/></match>
+    <match lemma="slowly" tags="adv"><select lemma="อย่างช้าๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="socially" tags="adv.*"><select lemma="ทางสังคม" tags="adv.*"/></match>
+    <match lemma="socially" tags="adv"><select lemma="ทางสังคม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="softly" tags="adv.*"><select lemma="เบาๆ" tags="adv.*"/></match>
+    <match lemma="softly" tags="adv"><select lemma="เบาๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="solely" tags="adv.*"><select lemma="เท่านั้น" tags="adv.*"/></match>
+    <match lemma="solely" tags="adv"><select lemma="เท่านั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="somewhat" tags="adv.*"><select lemma="ค่อนข้าง" tags="adv.*"/></match>
+    <match lemma="somewhat" tags="adv"><select lemma="ค่อนข้าง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="soon" tags="adv.*"><select lemma="ในไม่ช้า" tags="adv.*"/></match>
+    <match lemma="soon" tags="adv"><select lemma="ในไม่ช้า" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="spectacularly" tags="adv.*"><select lemma="อย่างน่าตื่นตาตื่นใจ" tags="adv.*"/></match>
+    <match lemma="spectacularly" tags="adv"><select lemma="อย่างน่าตื่นตาตื่นใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="spontaneously" tags="adv.*"><select lemma="อย่างฉับพลัน" tags="adv.*"/></match>
+    <match lemma="spontaneously" tags="adv"><select lemma="อย่างฉับพลัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="step by step" tags="adv.*"><select lemma="ทีละเล็กทีละน้อย" tags="adv.*"/></match>
+    <match lemma="step by step" tags="adv"><select lemma="ทีละเล็กทีละน้อย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="straight" tags="adv.*"><select lemma="อย่างแน่แท้" tags="adv.*"/></match>
+    <match lemma="straight" tags="adv"><select lemma="อย่างแน่แท้" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="strictly" tags="adv.*"><select lemma="เท่านั้น" tags="adv.*"/></match>
+    <match lemma="strictly" tags="adv"><select lemma="เท่านั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="stubbornly" tags="adv.*"><select lemma="อย่างดื้อ" tags="adv.*"/></match>
+    <match lemma="stubbornly" tags="adv"><select lemma="อย่างดื้อ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="subsequently" tags="adv.*"><select lemma="ตอนหลัง" tags="adv.*"/></match>
+    <match lemma="subsequently" tags="adv"><select lemma="ตอนหลัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="suddenly" tags="adv.*"><select lemma="ทันทีทันใด" tags="adv.*"/></match>
+    <match lemma="suddenly" tags="adv"><select lemma="ทันทีทันใด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="superbly" tags="adv.*"><select lemma="อย่างน่ามหัศจรรย์" tags="adv.*"/></match>
+    <match lemma="superbly" tags="adv"><select lemma="อย่างน่ามหัศจรรย์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="supposedly" tags="adv.*"><select lemma="อย่างที่อ้าง" tags="adv.*"/></match>
+    <match lemma="supposedly" tags="adv"><select lemma="อย่างที่อ้าง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="sure enough" tags="adv.*"><select lemma="อย่างแน่นอน" tags="adv.*"/></match>
+    <match lemma="sure enough" tags="adv"><select lemma="อย่างแน่นอน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="symbolically" tags="adv.*"><select lemma="เชิงสัญลักษณ์" tags="adv.*"/></match>
+    <match lemma="symbolically" tags="adv"><select lemma="เชิงสัญลักษณ์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="technically" tags="adv.*"><select lemma="ในทางเทคนิค" tags="adv.*"/></match>
+    <match lemma="technically" tags="adv"><select lemma="ในทางเทคนิค" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="terribly" tags="adv.*"><select lemma="อย่างน่ากลัว" tags="adv.*"/></match>
+    <match lemma="terribly" tags="adv"><select lemma="อย่างน่ากลัว" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="then" tags="adv.*"><select lemma="หลังจากนั้น" tags="adv.*"/></match>
+    <match lemma="then" tags="adv"><select lemma="หลังจากนั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="there" tags="adv.*"><select lemma="ที่นั่น" tags="adv.*"/></match>
+    <match lemma="there" tags="adv"><select lemma="ที่นั่น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="therefore" tags="adv.*"><select lemma="ดังนั้น" tags="adv.*"/></match>
+    <match lemma="therefore" tags="adv"><select lemma="ดังนั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="thereof" tags="adv.*"><select lemma="อย่างเกี่ยวข้องกัน" tags="adv.*"/></match>
+    <match lemma="thereof" tags="adv"><select lemma="อย่างเกี่ยวข้องกัน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="thickly" tags="adv.*"><select lemma="อย่างหนาทึบ" tags="adv.*"/></match>
+    <match lemma="thickly" tags="adv"><select lemma="อย่างหนาทึบ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="thoroughly" tags="adv.*"><select lemma="อย่างละเอียดถี่ถ้วน" tags="adv.*"/></match>
+    <match lemma="thoroughly" tags="adv"><select lemma="อย่างละเอียดถี่ถ้วน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="time and time again" tags="adv.*"><select lemma="ครั้งแรก" tags="adv.*"/></match>
+    <match lemma="time and time again" tags="adv"><select lemma="ครั้งแรก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="tonight" tags="adv.*"><select lemma="คืนนี้" tags="adv.*"/></match>
+    <match lemma="tonight" tags="adv"><select lemma="คืนนี้" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="too" tags="adv.*"><select lemma="เกิน" tags="adv.*"/></match>
+    <match lemma="too" tags="adv"><select lemma="เกิน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="transparently" tags="adv.*"><select lemma="อย่างโปร่งใส" tags="adv.*"/></match>
+    <match lemma="transparently" tags="adv"><select lemma="อย่างโปร่งใส" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="tremendously" tags="adv.*"><select lemma="อย่างน่าประหลาดใจ" tags="adv.*"/></match>
+    <match lemma="tremendously" tags="adv"><select lemma="อย่างน่าประหลาดใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="truly" tags="adv.*"><select lemma="จริงๆ" tags="adv.*"/></match>
+    <match lemma="truly" tags="adv"><select lemma="จริงๆ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="twice" tags="adv.*"><select lemma="สองครั้ง" tags="adv.*"/></match>
+    <match lemma="twice" tags="adv"><select lemma="สองครั้ง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="unambiguously" tags="adv.*"><select lemma="อย่างไม่คลุมเครือ" tags="adv.*"/></match>
+    <match lemma="unambiguously" tags="adv"><select lemma="อย่างไม่คลุมเครือ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="unashamedly" tags="adv.*"><select lemma="อย่างหน้า่ด้าน" tags="adv.*"/></match>
+    <match lemma="unashamedly" tags="adv"><select lemma="อย่างหน้า่ด้าน" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="unbelievably" tags="adv.*"><select lemma="อย่างไม่น่าเชื่อ" tags="adv.*"/></match>
+    <match lemma="unbelievably" tags="adv"><select lemma="อย่างไม่น่าเชื่อ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="unconditionally" tags="adv.*"><select lemma="อย่างมีเงื่อนไข" tags="adv.*"/></match>
+    <match lemma="unconditionally" tags="adv"><select lemma="อย่างมีเงื่อนไข" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="uneasily" tags="adv.*"><select lemma="อย่างวิตกกังวล" tags="adv.*"/></match>
+    <match lemma="uneasily" tags="adv"><select lemma="อย่างวิตกกังวล" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="unevenly" tags="adv.*"><select lemma="อย่างไม่ราบเรียบ" tags="adv.*"/></match>
+    <match lemma="unevenly" tags="adv"><select lemma="อย่างไม่ราบเรียบ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="unfortunately" tags="adv.*"><select lemma="อย่างโชคร้าย" tags="adv.*"/></match>
+    <match lemma="unfortunately" tags="adv"><select lemma="อย่างโชคร้าย" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="unintentionally" tags="adv.*"><select lemma="โดยไม่ได้ตั้งใจ" tags="adv.*"/></match>
+    <match lemma="unintentionally" tags="adv"><select lemma="โดยไม่ได้ตั้งใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="uniquely" tags="adv.*"><select lemma="อย่างเฉพาะ" tags="adv.*"/></match>
+    <match lemma="uniquely" tags="adv"><select lemma="อย่างเฉพาะ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="unquestionably" tags="adv.*"><select lemma="ปราศจากคำถาม" tags="adv.*"/></match>
+    <match lemma="unquestionably" tags="adv"><select lemma="ปราศจากคำถาม" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="unusually" tags="adv.*"><select lemma="อย่างน่าสังเกต" tags="adv.*"/></match>
+    <match lemma="unusually" tags="adv"><select lemma="อย่างน่าสังเกต" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="up to now" tags="adv.*"><select lemma="ยังคง" tags="adv.*"/></match>
+    <match lemma="up to now" tags="adv"><select lemma="ยังคง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="utterly" tags="adv.*"><select lemma="อย่างสมบูรณ์" tags="adv.*"/></match>
+    <match lemma="utterly" tags="adv"><select lemma="อย่างสมบูรณ์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="very much" tags="adv.*"><select lemma="มาก" tags="adv.*"/></match>
+    <match lemma="very much" tags="adv"><select lemma="มาก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="vigorously" tags="adv.*"><select lemma="อย่างกระฉับกระเฉง" tags="adv.*"/></match>
+    <match lemma="vigorously" tags="adv"><select lemma="อย่างกระฉับกระเฉง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="virtually" tags="adv.*"><select lemma="เกือบ" tags="adv.*"/></match>
+    <match lemma="virtually" tags="adv"><select lemma="เกือบ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="visibly" tags="adv.*"><select lemma="อย่างเห็นได้ชัด" tags="adv.*"/></match>
+    <match lemma="visibly" tags="adv"><select lemma="อย่างเห็นได้ชัด" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="voluntarily" tags="adv.*"><select lemma="ด้วยความสมัครใจ" tags="adv.*"/></match>
+    <match lemma="voluntarily" tags="adv"><select lemma="ด้วยความสมัครใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="warmly" tags="adv.*"><select lemma="อย่างจริงใจ" tags="adv.*"/></match>
+    <match lemma="warmly" tags="adv"><select lemma="อย่างจริงใจ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="well" tags="adv.*"><select lemma="ดี" tags="adv.*"/></match>
+    <match lemma="well" tags="adv"><select lemma="ดี" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="westward" tags="adv.*"><select lemma="ตรงไปทางตะวันตก" tags="adv.*"/></match>
+    <match lemma="westward" tags="adv"><select lemma="ตรงไปทางตะวันตก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="westwards" tags="adv.*"><select lemma="ตรงไปทางตะวันตก" tags="adv.*"/></match>
+    <match lemma="westwards" tags="adv"><select lemma="ตรงไปทางตะวันตก" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="wonderfully" tags="adv.*"><select lemma="อย่างน่ามหัศจรรย์" tags="adv.*"/></match>
+    <match lemma="wonderfully" tags="adv"><select lemma="อย่างน่ามหัศจรรย์" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="yet" tags="adv.*"><select lemma="ตราบจนกระทั่งบัดนี้" tags="adv.*"/></match>
+    <match lemma="yet" tags="adv"><select lemma="ตราบจนกระทั่งบัดนี้" tags="adv"/></match>
   </rule>
   <rule>
     <match lemma="abandonment" tags="n.*"><select lemma="ยอมแพ้" tags="n.*"/></match>
