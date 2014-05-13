@@ -28,6 +28,7 @@
     <sdef n="preadv" c="Pre-adverb"/>
     <sdef n="prn" c="Pronoun"/>
     <sdef n="sent" c="Sentence-ending punctuation"/>
+    <sdef n="sep" c="Separable verb"/> 
     <sdef n="sg" c="Singular"/>
     <sdef n="sint" c="Synthetic"/>
     <sdef n="sp" c="Singular , plural"/>
@@ -34654,6 +34655,7 @@
     <e><p><l>พวกเรา<s n="prn"/></l><r>us<s n="prn"/></r></p></e>
 
     <!-- vblex -->
+    <e><p><l>ปิด<s n="vblex"/></l><r>turn<g><b/>off</g><s n="vblex"/></r></p></e>
     <e><p><l>ทอดทิ้ง<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
     <e><p><l>ทิ้ง<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
     <e><p><l>ทิ้ง<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
