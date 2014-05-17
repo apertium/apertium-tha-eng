@@ -12,7 +12,17 @@
       <cat-item tags="prn.*"/>
     </def-cat>
     <def-cat n="adj">
+      <cat-item tags="adj"/>
       <cat-item tags="adj.*"/>
+    </def-cat>
+    <def-cat n="preadv">
+      <cat-item tags="preadv"/>
+    </def-cat>
+    <def-cat n="det">
+      <cat-item tags="det.*"/>
+    </def-cat>
+    <def-cat n="adv">
+      <cat-item tags="adv"/>
     </def-cat>
     <def-cat n="the_an_a">
       <cat-item lemma="the" tags="det.*"/>
@@ -27,8 +37,7 @@
     </def-cat>
     <def-cat n="xxx">
       <cat-item tags="xxx"/>
-    </def-cat>
-    
+    </def-cat>    
   </section-def-cats>
   <section-def-attrs>
     <def-attr n="a_nbr">
@@ -47,7 +56,6 @@
       <attr-item tags="ins"/>
       <attr-item tags="abl"/>
     </def-attr>
-
   </section-def-attrs>
   <section-def-vars>
     <def-var n="number"/>
@@ -62,7 +70,7 @@
     </def-macro>
   </section-def-macros>
   <section-rules>
-    <rule comment="REGLA: SENT">
+    <rule comment="REGLA: SENT #1">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
@@ -79,128 +87,205 @@
         </out>
       </action>
     </rule>
-
-    <rule comment="REGLA: lend">
-      <pattern>
-        <pattern-item n="lend_vblex"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="prev" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="PREV"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-            </lu>
-          </chunk>
-          <b/>
-          <chunk name="mainv" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="MAINV"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-    <rule comment="REGLA: DET (a,an,th)">
-      <pattern>
-        <pattern-item n="the_an_a"/>
-      </pattern>      
-      <action>
-      </action>
-    </rule>
-
-    <rule comment="REGLA: SN">
-      <pattern>
-        <pattern-item n="prn"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="sn" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-    <rule comment="REGLA: ADJ NOM">
-      <pattern>
-        <pattern-item n="adj"/>
-        <pattern-item n="nom"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="sn" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>
-              <b/>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
     
-    <rule comment="REGLA: NUM NOM">
-      <pattern>
-	<pattern-item n="num"/>
-	<pattern-item n="nom"/>
-      </pattern>
-      <action>
-	<out>
-	  <chunk name="sn" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	    <lu>
-	      <clip pos="2" side="tl" part="lemh"/>	  
-	    </lu>
-	    <b/>
-	    <lu>
-	      <clip pos="1" side="tl" part="whole"/>	  
-	    </lu>
-	    <b/>
-	    <lu>
-	      <clip pos="2" side="tl" part="lemq"/>	  
-	    </lu>
-	  </chunk>
-	</out>
-      </action>
-    </rule>
-
-    <rule comment="REGLA: NOM (remove classifier)">
-      <pattern>
-	<pattern-item n="nom"/>
-      </pattern>
-      <action>
-	<out>
-	  <chunk name="sn" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	    <lu>
-	      <clip pos="1" side="tl" part="lemh"/>	  
-              <lit-tag v="n"/>
-	    </lu>
-	  </chunk>
-	</out>
-      </action>
-    </rule>
-
+  <rule comment="REGLA: num nom => _n   _num   _n #2">
+    <!-- 3 cats|||แมว 3 ตัว -->
+    <pattern>
+      <pattern-item n="num"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="2" side="tl" part="lemh"/>
+          </lu>
+          <b/>
+          <lu>
+            <lit v="_"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+          <b/>
+          <lu>
+            <lit v="_"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="2" side="tl" part="lemq"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: det adj nom => _n _adj _n _det #3">
+    <!-- A yellow house|||บ้านเหลืองหลังหนึ่ง -->
+    <pattern>
+      <pattern-item n="det"/>
+      <pattern-item n="adj"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="3" side="tl" part="lemh"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="3" side="tl" part="lemq"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: adj nom => _n _adj _n #4">
+    <!-- yellow house|||บ้านเหลืองหลัง -->
+    <pattern>
+      <pattern-item n="adj"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="2" side="tl" part="lemh"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="2" side="tl" part="lemq"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: adv nom => _n _adv #5">
+    <!-- most software|||ซอฟต์แวร์ส่วนมาก -->
+    <pattern>
+      <pattern-item n="adv"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: prn adj nom => _n ที่ _adj ของ _prn #6">
+    <!-- everyone equal rights|||สิทธิที่เท่าเทียมกันของทุกคน -->
+    <pattern>
+      <pattern-item n="prn"/>
+      <pattern-item n="adj"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="3" side="tl" part="whole"/>
+          </lu>
+          <b/>
+          <lu>
+            <lit v="ที่"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+          <b/>
+          <lu>
+            <lit v="ของ"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: preadv nom => _n _preadv #7">
+    <!-- any user|||ผู้ใช้ใดใด -->
+    <pattern>
+      <pattern-item n="preadv"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: nom nom => _n _n #8">
+    <!-- source code|||รหัสต้นฉบับ -->
+    <pattern>
+      <pattern-item n="nom"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+          <b/>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
   </section-rules>
 </transfer>

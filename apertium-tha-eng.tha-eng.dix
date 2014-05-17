@@ -2181,7 +2181,6 @@
     <e><p><l>ซึ่งนำรีไซเคิลได้<s n="adj"/></l><r>recyclable<s n="adj"/></r></p></e>
     <e><p><l>สีแดง<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>แดง<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
-    <e><p><l>แดง<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>แดง<s n="adj"/></l><r>reddish<s n="adj"/></r></p></e>
     <e><p><l>ที่เกิน<s n="adj"/></l><r>redundant<s n="adj"/></r></p></e>
     <e><p><l>ซึ่งเป็นมุมกลับ<s n="adj"/></l><r>reentrant<s n="adj"/></r></p></e>
@@ -9658,8 +9657,7 @@
     <e><p><l>พ่อหนุ่ม<s n="n"/></l><r>cat<s n="n"/></r></p></e>
     <e><p><l>รถตีนตะขาบ<s n="n"/></l><r>cat<s n="n"/></r></p></e>
     <e><p><l>หนุ่ม<s n="n"/></l><r>cat<s n="n"/></r></p></e>
-    <e><p><l>แมว<s n="n"/></l><r>cat<s n="n"/></r></p></e>
-    <e><p><l>แมว#<b/>ตัว<s n="n"/></l><r>cat<s n="n"/></r></p></e>
+    <e><p><l>แมว<g><b/>ตัว</g><s n="n"/></l><r>cat<s n="n"/></r></p></e>
     <e><p><l>แมวใหญ่<s n="n"/></l><r>cat<s n="n"/></r></p></e>
     <e><p><l>แส้แมวเก้าหาง<s n="n"/></l><r>cat<s n="n"/></r></p></e>
     <e><p><l>ใบแคท<s n="n"/></l><r>cat<s n="n"/></r></p></e>
@@ -18855,12 +18853,6 @@
     <e><p><l>ที่อยู่<s n="n"/></l><r>home<s n="n"/></r></p></e>
     <e><p><l>นิวาสถาน<s n="n"/></l><r>home<s n="n"/></r></p></e>
     <e><p><l>บ้าน<s n="n"/></l><r>home<s n="n"/></r></p></e>
-    <e><p><l>บ้าน<s n="n"/></l><r>home<s n="n"/></r></p></e>
-    <e><p><l>บ้าน<s n="n"/></l><r>home<s n="n"/></r></p></e>
-    <e><p><l>บ้าน<s n="n"/></l><r>home<s n="n"/></r></p></e>
-    <e><p><l>บ้าน<s n="n"/></l><r>home<s n="n"/></r></p></e>
-    <e><p><l>บ้าน<s n="n"/></l><r>home<s n="n"/></r></p></e>
-    <e><p><l>บ้าน<s n="n"/></l><r>home<s n="n"/></r></p></e>
     <e><p><l>บ้านช่อง<s n="n"/></l><r>home<s n="n"/></r></p></e>
     <e><p><l>บ้านพักคนชรา<s n="n"/></l><r>home<s n="n"/></r></p></e>
     <e><p><l>บ้านพักฟื้นคนชรา<s n="n"/></l><r>home<s n="n"/></r></p></e>
@@ -19069,8 +19061,7 @@
     <e><p><l>ครอบครัว<s n="n"/></l><r>house<s n="n"/></r></p></e>
     <e><p><l>ที่บ้าน<s n="n"/></l><r>house<s n="n"/></r></p></e>
     <e><p><l>บริษัท<s n="n"/></l><r>house<s n="n"/></r></p></e>
-    <e><p><l>บ้าน<s n="n"/></l><r>house<s n="n"/></r></p></e>
-    <e><p><l>บ้าน<s n="n"/></l><r>house<s n="n"/></r></p></e>
+    <e><p><l>บ้าน<g><b/>หลัง</g><s n="n"/></l><r>house<s n="n"/></r></p></e>
     <e><p><l>ผู้ชมในโรงละคร<s n="n"/></l><r>house<s n="n"/></r></p></e>
     <e><p><l>ราชตระกูล<s n="n"/></l><r>house<s n="n"/></r></p></e>
     <e><p><l>ราชสกุล<s n="n"/></l><r>house<s n="n"/></r></p></e>
@@ -34653,7 +34644,7 @@
     <e><p><l>ของมัน<s n="prn"/></l><r>its<s n="prn"/></r></p></e>
     <e><p><l>เหล่านี้<s n="prn"/></l><r>these<s n="prn"/></r></p></e>
     <e><p><l>พวกเรา<s n="prn"/></l><r>us<s n="prn"/></r></p></e>
-
+    <e><p><l>มัน<s n="prn"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
     <!-- vblex -->
     <e><p><l>ปิด<s n="vblex"/></l><r>turn<g><b/>off</g><s n="vblex"/></r></p></e>
     <e><p><l>ทอดทิ้ง<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
@@ -46309,5 +46300,9 @@
     <e><p><l>อยู่<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>เป็น<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
 
+    <!-- cnjadv -->
+    <e><p><l>เพราะ<s n="cnjadv"/></l><r>because<s n="cnjadv"/></r></p></e>
+    
+    <e r="RL"><re>[0-9]+([., ][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
   </section>
 </dictionary>

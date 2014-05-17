@@ -960,7 +960,7 @@
     <match lemma="recyclable" tags="adj"><select lemma="ซึ่งนำกลับมาใช้ใหม่ได้" tags="adj"/></match>
   </rule>
   <rule>
-    <match lemma="red" tags="adj"><select lemma="แดง" tags="adj"/></match>
+    <match lemma="red" tags="adj"><select lemma="สีแดง" tags="adj"/></match>
   </rule>
   <rule>
     <match lemma="reigning" tags="adj"><select lemma="ที่ใช้อำนาจ" tags="adj"/></match>
@@ -4848,7 +4848,7 @@
     <match lemma="castration" tags="n.*"><select lemma="การตัดทอนแก้ไข" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cat" tags="n.*"><select lemma="แมว" tags="n.*"/></match>
+    <match lemma="cat" tags="n.*"><select lemma="แมว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cataclysm" tags="n.*"><select lemma="กลียุค" tags="n.*"/></match>
@@ -9429,7 +9429,7 @@
     <match lemma="hour" tags="n.*"><select lemma="ชม." tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="house" tags="n.*"><select lemma="บ้าน" tags="n.*"/></match>
+    <match lemma="house" tags="n.*"><select lemma="บ้าน# หลัง" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="household" tags="n.*"><select lemma="บ้าน" tags="n.*"/></match>
