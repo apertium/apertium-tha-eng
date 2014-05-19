@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
-  <!-- == Hindi → English == -->
+  <!-- == Thai → English == -->
 
   <mode name="tha-eng-morph" install="no">
     <pipeline>
