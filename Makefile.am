@@ -37,7 +37,7 @@ TARGETS_COMMON = \
 $(PREFIX2).rlx.bin: $(BASENAME).$(PREFIX2).rlx 
 	cg-comp $^ $@
 
-$(PREFIX1).rlx.bin: $(AP_LIB1)/apertium-$(LANG1).$(LANG1).rlx 
+$(PREFIX1).rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx 
 	cg-comp $^ $@
 
 .deps/$(LANG2).automorf.bin: $(BASENAME).$(LANG2).dix .deps/.d
