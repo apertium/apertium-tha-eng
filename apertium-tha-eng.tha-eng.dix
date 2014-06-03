@@ -42407,5 +42407,53 @@
     <e><p><l>เพราะ<s n="cnjadv"/></l><r>because<s n="cnjadv"/></r></p></e>
     
     <e r="RL"><re>[0-9]+([., ][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
+
+    <!-- from corpus -->
+    <e><p><l>กรอก<s n="vblex"/></l><r>enter<s n="vblex"/></r></p></e>
+    <e><p><l>กรุณา<s n="adv"/></l><r>please<s n="adv"/></r></p></e>
+    <e><p><l>การดาวน์โหลด<s n="vblex"/></l><r>download<s n="vblex"/></r></p></e>
+    <e><p><l>การปรับรุ่น<s n="vblex"/></l><r>update<s n="vblex"/></r></p></e>
+    <!-- fix --><e><p><l>ของคุณ<s n="det"/></l><r>your<s n="det"/></r></p></e>
+    <e><p><l>ทำให้ขาดตอน<s n="vblex"/></l><r>interrupt<s n="vblex"/></r></p></e>
+    <e><p><l>ข้อมูล<s n="n"/></l><r>detail<s n="n"/></r></p></e>
+    <e><p><l>คั่นหน้าเว็บที่<s n="n"/></l><r>bookmark<s n="n"/></r></p></e>
+    <e><p><l>คุณ<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>ชื่อผู้ใช้<s n="n"/></l><r>user<s n="n"/></r></p></e>
+    <e><p><l>ดู<s n="vblex"/></l><r>visit<s n="vblex"/></r></p></e>
+    <e><p><l>ตัวจัดการ<s n="n"/></l><r>manager<s n="n"/></r></p></e>
+    <e><p><l>ติดตั้ง<b/>S<s n="vblex"/></l><r>install<s n="vblex"/></r></p></e>
+    <e><p><l>ต่อ<s n="vblex"/></l><r>continue<s n="vblex"/></r></p></e>
+    <e><p><l>ทั้งหมด<s n="adv"/></l><r>all<s n="adv"/></r></p></e>
+    <e><p><l>ที่คั่นหน้าเว็บ<s n="n"/></l><r>bookmark<s n="n"/></r></p></e>
+    <e><p><l>ที่จะ<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>ที่ผ่านมา<s n="adj"/></l><r>last<s n="adj"/></r></p></e>
+    <e><p><l>ปรับรุ่น<s n="vblex"/></l><r>update<s n="vblex"/></r></p></e>
+    <e><p><l>พบ<s n="adj"/></l><r>found<s n="adj"/></r></p></e>
+    <e><p><l>พร็อกซี<s n="adj"/></l><r>proxy<s n="adj"/></r></p></e>
+    <e><p><l>ยังไม่เชื่อมต่อ<s n="adj"/></l><r>offline<s n="adj"/></r></p></e>
+    <e><p><l>รุ่น<s n="n"/></l><r>version<s n="n"/></r></p></e>
+    <e><p><l>ลอง<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
+    <e><p><l>สมบูรณ์<s n="n"/></l><r>integrity<s n="n"/></r></p></e>
+    <e><p><l>สัญญาอนุญาต<s n="n"/></l><r>license<s n="n"/></r></p></e>
+    <e><p><l>สามารถ<b/>ได้<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
+    <e><p><l>สำหรับ<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
+    <e><p><l>สำเร็จ<s n="vblex"/></l><r>succeed<s n="vblex"/></r></p></e>
+    <!-- NOT SURE <e><p><l>อย่า<s n="vbdo"/></l><r>do<b/>not<s n="vbdo"/></r></p></e> -->
+    <e><p><l>เริ่ม<b/>ใหม่<s n="vblex"/></l><r>restart<s n="vblex"/></r></p></e>
+    <e><p><l>เรียก<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
+    <e><p><l>เว็บไซด์<s n="n"/></l><r>site<s n="n"/></r></p></e>
+    <e><p><l>เสถียรภาพ<s n="n"/></l><r>stability<s n="n"/></r></p></e>
+    <e><p><l>เอา<b/>ออก<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
+    <e><p><l>แถบเครื่องมือ<s n="n"/></l><r>toolbar<s n="n"/></r></p></e>
+    <e><p><l>แล้ว<s n="adj"/></l><r>then<s n="adj"/></r></p></e>
+    <e><p><l>โปรด<s n="adv"/></l><r>please<s n="adv"/></r></p></e>
+    <e><p><l>โฮมเพจของ<s n="n"/></l><r>homepage<s n="n"/></r></p></e>
+    <e><p><l>ใช้งาน<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e>
+    <e><p><l>ใน<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
+    <e><p><l>ใหม่<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
+    <e><p><l>ให้<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+    <e><p><l>ให้แน่ใจ<s n="adv"/></l><r>make<b/>sure<s n="adv"/></r></p></e>
+    <e><p><l>ไม่สำเร็จ<s n="vblex"/></l><r>fail<s n="vblex"/></r></p></e>
+    <e><p><l>ไม่เรียงลำดับ<s n="adj"/></l><r>unsorted<s n="adj"/></r></p></e>
   </section>
 </dictionary>
