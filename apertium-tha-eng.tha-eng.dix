@@ -26,6 +26,7 @@
     <sdef n="pl" c="Plural"/>
     <sdef n="pr" c="Preposition"/>
     <sdef n="preadv" c="Pre-adverb"/>
+    <sdef n="pres" 	c="Present tense (indicative)"/> 
     <sdef n="prn" c="Pronoun"/>
     <sdef n="sent" c="Sentence-ending punctuation"/>
     <sdef n="sep" c="Separable verb"/> 
@@ -34,6 +35,7 @@
     <sdef n="sp" c="Singular , plural"/>
     <sdef n="subj" c="Subject"/>
     <sdef n="vaux" c="Auxilliary verb"/>
+    <sdef n="vbdo" c="Verb to do"/>
     <sdef n="vblex" c="Standard verb"/>
     <sdef n="vbmod" c="Modal verb"/>
     <sdef n="vbser" c="Verb &quot;to be&quot;"/>
@@ -42413,7 +42415,7 @@
     <e><p><l>กรุณา<s n="adv"/></l><r>please<s n="adv"/></r></p></e>
     <e><p><l>การดาวน์โหลด<s n="vblex"/></l><r>download<s n="vblex"/></r></p></e>
     <e><p><l>การปรับรุ่น<s n="vblex"/></l><r>update<s n="vblex"/></r></p></e>
-    <!-- fix --><e><p><l>ของคุณ<s n="det"/></l><r>your<s n="det"/></r></p></e>
+    <e><p><l>ของคุณ<s n="det"/></l><r>your<s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
     <e><p><l>ทำให้ขาดตอน<s n="vblex"/></l><r>interrupt<s n="vblex"/></r></p></e>
     <e><p><l>ข้อมูล<s n="n"/></l><r>detail<s n="n"/></r></p></e>
     <e><p><l>คั่นหน้าเว็บที่<s n="n"/></l><r>bookmark<s n="n"/></r></p></e>
@@ -42438,7 +42440,8 @@
     <e><p><l>สามารถ<b/>ได้<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>สำหรับ<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
     <e><p><l>สำเร็จ<s n="vblex"/></l><r>succeed<s n="vblex"/></r></p></e>
-    <!-- NOT SURE <e><p><l>อย่า<s n="vbdo"/></l><r>do<b/>not<s n="vbdo"/></r></p></e> -->
+    <e><p><l>อย่า<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
+    <e><p><l></l><r>do<s n="vbdo"/><s n="pres"/></r></p></e>
     <e><p><l>เริ่ม<b/>ใหม่<s n="vblex"/></l><r>restart<s n="vblex"/></r></p></e>
     <e><p><l>เรียก<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
     <e><p><l>เว็บไซด์<s n="n"/></l><r>site<s n="n"/></r></p></e>
