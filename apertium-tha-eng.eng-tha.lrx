@@ -2055,6 +2055,10 @@
     <match lemma="not" tags="adv"><select lemma="ไม่" tags="adv"/></match>
   </rule>
   <rule>
+    <match lemma="Do"/>    
+    <match lemma="not" tags="adv"><select lemma="อย่า" tags="adv"/></match>    
+  </rule>
+  <rule>
     <match lemma="now" tags="adv"><select lemma="ปัจจุบัน" tags="adv"/></match>
   </rule>
   <rule>
