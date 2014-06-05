@@ -42441,7 +42441,7 @@
     <e><p><l>สำหรับ<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
     <e><p><l>สำเร็จ<s n="vblex"/></l><r>succeed<s n="vblex"/></r></p></e>
     <e><p><l>อย่า<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
-    <e><p><l></l><r>do<s n="vbdo"/><s n="pres"/></r></p></e>
+    <e r="RL"><p><l></l><r>do<s n="vbdo"/><s n="pres"/></r></p></e>
     <e><p><l>เริ่ม<b/>ใหม่<s n="vblex"/></l><r>restart<s n="vblex"/></r></p></e>
     <e><p><l>เรียก<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
     <e><p><l>เว็บไซด์<s n="n"/></l><r>site<s n="n"/></r></p></e>
