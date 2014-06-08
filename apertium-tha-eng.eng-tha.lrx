@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rules>
   <rule>
     <match lemma="word1" tags="n.*"><select lemma="word2" tags="n.*"/></match>
@@ -2455,7 +2456,7 @@
     <match lemma="abdication" tags="n.*"><select lemma="การสละราชสมบัติ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="abdomen" tags="n.*"><select lemma="ท้อง" tags="n.*"/></match>
+    <match lemma="abdomen" tags="n.*"><select lemma="ท้อง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="aberration" tags="n.*"><select lemma="สภาวะผิดปกติ" tags="n.*"/></match>
@@ -2578,7 +2579,7 @@
     <match lemma="acrobat" tags="n.*"><select lemma="นักกายกรรม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="acromion" tags="n.*"><select lemma="อโครเมียน" tags="n.*"/></match>
+    <match lemma="acromion" tags="n.*"><select lemma="อโครเมียน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="acrylic" tags="n.*"><select lemma="ผ้าอะครีลิก" tags="n.*"/></match>
@@ -2623,7 +2624,7 @@
     <match lemma="adenosine triphosphate" tags="n.*"><select lemma="อะดีโนซีนไทรฟอสเฟต" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="adjective" tags="n.*"><select lemma="คำคุณศัพท์" tags="n.*"/></match>
+    <match lemma="adjective" tags="n.*"><select lemma="คำคุณศัพท์# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="administrator" tags="n.*"><select lemma="ผู้บริหาร" tags="n.*"/></match>
@@ -2650,7 +2651,7 @@
     <match lemma="adrenaline" tags="n.*"><select lemma="อะดรีนาลิน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="adult" tags="n.*"><select lemma="สัตว์ที่เจริญพันธุ์เต็มที่" tags="n.*"/></match>
+    <match lemma="adult" tags="n.*"><select lemma="สัตว์ที่เจริญพันธุ์เต็มที่# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="adulteration" tags="n.*"><select lemma="การปลอมปน" tags="n.*"/></match>
@@ -2668,7 +2669,7 @@
     <match lemma="adventurer" tags="n.*"><select lemma="นักผจญภัย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="adverb" tags="n.*"><select lemma="วิเศษณ์" tags="n.*"/></match>
+    <match lemma="adverb" tags="n.*"><select lemma="วิเศษณ์# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="advert" tags="n.*"><select lemma="โฆษณา" tags="n.*"/></match>
@@ -2800,7 +2801,7 @@
     <match lemma="alarm" tags="n.*"><select lemma="ความตระหนกตกใจ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="albatross" tags="n.*"><select lemma="นกอัลบาทรอส" tags="n.*"/></match>
+    <match lemma="albatross" tags="n.*"><select lemma="นกอัลบาทรอส# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="albedo" tags="n.*"><select lemma="อัตราส่วนสะท้อน" tags="n.*"/></match>
@@ -2926,7 +2927,7 @@
     <match lemma="amphetamine" tags="n.*"><select lemma="ยากระตุ้นประสาท" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="amphibian" tags="n.*"><select lemma="สัตว์ครึ่งบกครึ่งน้ำ" tags="n.*"/></match>
+    <match lemma="amphibian" tags="n.*"><select lemma="สัตว์ครึ่งบกครึ่งน้ำ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="amphitheatre" tags="n.*"><select lemma="อัฒจันทร์แบบกรีกและโรมัน" tags="n.*"/></match>
@@ -2950,7 +2951,7 @@
     <match lemma="amusement" tags="n.*"><select lemma="ความขบขัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="amyloid" tags="n.*"><select lemma="แอมีลอยด์" tags="n.*"/></match>
+    <match lemma="amyloid" tags="n.*"><select lemma="แอมีลอยด์# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="analysis" tags="n.*"><select lemma="การวิเคราะห์" tags="n.*"/></match>
@@ -2971,7 +2972,7 @@
     <match lemma="anchorage" tags="n.*"><select lemma="การทอดสมอ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="anchovy" tags="n.*"><select lemma="ปลากะตัก" tags="n.*"/></match>
+    <match lemma="anchovy" tags="n.*"><select lemma="ปลากะตัก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="android" tags="n.*"><select lemma="มนุษย์ยนต์" tags="n.*"/></match>
@@ -2986,22 +2987,22 @@
     <match lemma="anger" tags="n.*"><select lemma="ความรู้สึกโกรธ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="angle" tags="n.*"><select lemma="มุม" tags="n.*"/></match>
+    <match lemma="angle" tags="n.*"><select lemma="มุม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="angler" tags="n.*"><select lemma="ปลากูสฟิช" tags="n.*"/></match>
+    <match lemma="angler" tags="n.*"><select lemma="ปลากูสฟิช# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="anglicism" tags="n.*"><select lemma="ธรรมเนียมอังกฤษ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="animal" tags="n.*"><select lemma="สัตว์" tags="n.*"/></match>
+    <match lemma="animal" tags="n.*"><select lemma="สัตว์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="animation" tags="n.*"><select lemma="ความมีชีวิตชีวา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ankle" tags="n.*"><select lemma="ข้อตีน" tags="n.*"/></match>
+    <match lemma="ankle" tags="n.*"><select lemma="ข้อตีน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="annex" tags="n.*"><select lemma="ส่วนปีก" tags="n.*"/></match>
@@ -3028,7 +3029,7 @@
     <match lemma="antagonist" tags="n.*"><select lemma="ปรปักษ์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="anteater" tags="n.*"><select lemma="ตัวนิ่ม" tags="n.*"/></match>
+    <match lemma="anteater" tags="n.*"><select lemma="ตัวนิ่ม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="antechamber" tags="n.*"><select lemma="ล็อบบี้" tags="n.*"/></match>
@@ -3049,7 +3050,7 @@
     <match lemma="anti-inflammatory" tags="n.*"><select lemma="ยาต้านการอักเสบ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="antibody" tags="n.*"><select lemma="แอนติบอดี" tags="n.*"/></match>
+    <match lemma="antibody" tags="n.*"><select lemma="แอนติบอดี# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="antimony" tags="n.*"><select lemma="พลวง" tags="n.*"/></match>
@@ -3067,10 +3068,10 @@
     <match lemma="antisemitism" tags="n.*"><select lemma="ลัทธิความเป็นอคติต่อชาวเซมิติค" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="anuran" tags="n.*"><select lemma="กบ" tags="n.*"/></match>
+    <match lemma="anuran" tags="n.*"><select lemma="กบ# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="anus" tags="n.*"><select lemma="ทวารหนัก" tags="n.*"/></match>
+    <match lemma="anus" tags="n.*"><select lemma="ทวารหนัก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="apartment" tags="n.*"><select lemma="แฟลต" tags="n.*"/></match>
@@ -3079,7 +3080,7 @@
     <match lemma="apatite" tags="n.*"><select lemma="อะพาไทต์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ape" tags="n.*"><select lemma="มนุษย์วานร" tags="n.*"/></match>
+    <match lemma="ape" tags="n.*"><select lemma="มนุษย์วานร# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="apex" tags="n.*"><select lemma="จุดยอด" tags="n.*"/></match>
@@ -3199,7 +3200,7 @@
     <match lemma="ardour" tags="n.*"><select lemma="ความกระตือรือร้น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="area" tags="n.*"><select lemma="เขต" tags="n.*"/></match>
+    <match lemma="area" tags="n.*"><select lemma="เขต# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="arena" tags="n.*"><select lemma="เส้นทางชีวิต" tags="n.*"/></match>
@@ -3214,10 +3215,10 @@
     <match lemma="ark" tags="n.*"><select lemma="เรือโนอา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="arm" tags="n.*"><select lemma="แขน" tags="n.*"/></match>
+    <match lemma="arm" tags="n.*"><select lemma="แขน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="armchair" tags="n.*"><select lemma="อาร์มแชร์" tags="n.*"/></match>
+    <match lemma="armchair" tags="n.*"><select lemma="อาร์มแชร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="armed robbery" tags="n.*"><select lemma="การจี้" tags="n.*"/></match>
@@ -3229,7 +3230,7 @@
     <match lemma="armour" tags="n.*"><select lemma="เกราะป้องกัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="armpit" tags="n.*"><select lemma="รักแร้" tags="n.*"/></match>
+    <match lemma="armpit" tags="n.*"><select lemma="รักแร้# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="armrest" tags="n.*"><select lemma="ที่เท้าแขน" tags="n.*"/></match>
@@ -3259,7 +3260,7 @@
     <match lemma="artefact" tags="n.*"><select lemma="สิ่งของ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="artery" tags="n.*"><select lemma="หลอดเลือดแดง" tags="n.*"/></match>
+    <match lemma="artery" tags="n.*"><select lemma="หลอดเลือดแดง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="arthroscopy" tags="n.*"><select lemma="การส่องกล้องในข้อ" tags="n.*"/></match>
@@ -3310,7 +3311,7 @@
     <match lemma="aspirin" tags="n.*"><select lemma="แอสไพริน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ass" tags="n.*"><select lemma="ก้น" tags="n.*"/></match>
+    <match lemma="ass" tags="n.*"><select lemma="ก้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="assay" tags="n.*"><select lemma="การตรวจ" tags="n.*"/></match>
@@ -3535,7 +3536,7 @@
     <match lemma="awkwardness" tags="n.*"><select lemma="ความเทอะทะ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="axe" tags="n.*"><select lemma="ขวาน" tags="n.*"/></match>
+    <match lemma="axe" tags="n.*"><select lemma="ขวาน# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="axiom" tags="n.*"><select lemma="คติบท" tags="n.*"/></match>
@@ -3544,7 +3545,7 @@
     <match lemma="axle" tags="n.*"><select lemma="แกน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="baby" tags="n.*"><select lemma="ทารก" tags="n.*"/></match>
+    <match lemma="baby" tags="n.*"><select lemma="ทารก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bachelorhood" tags="n.*"><select lemma="ความเป็นโสด" tags="n.*"/></match>
@@ -3559,7 +3560,7 @@
     <match lemma="backrest" tags="n.*"><select lemma="ที่พิง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="backside" tags="n.*"><select lemma="ก้น" tags="n.*"/></match>
+    <match lemma="backside" tags="n.*"><select lemma="ก้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="backup" tags="n.*"><select lemma="สนับสนุน" tags="n.*"/></match>
@@ -3577,7 +3578,7 @@
     <match lemma="badminton" tags="n.*"><select lemma="แบดมินตัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bag" tags="n.*"><select lemma="ถุง" tags="n.*"/></match>
+    <match lemma="bag" tags="n.*"><select lemma="ถุง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="baggage" tags="n.*"><select lemma="กระเป๋าเดินทาง" tags="n.*"/></match>
@@ -3604,7 +3605,7 @@
     <match lemma="bale" tags="n.*"><select lemma="หีบห่อ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ball" tags="n.*"><select lemma="ลูก" tags="n.*"/></match>
+    <match lemma="ball" tags="n.*"><select lemma="ลูก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="ballast" tags="n.*"><select lemma="แบลลัสต์" tags="n.*"/></match>
@@ -3781,7 +3782,7 @@
     <match lemma="bauxite" tags="n.*"><select lemma="บอกไซต์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bay" tags="n.*"><select lemma="อ่าว" tags="n.*"/></match>
+    <match lemma="bay" tags="n.*"><select lemma="อ่าว# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bayonet" tags="n.*"><select lemma="ดาบปลายปืน" tags="n.*"/></match>
@@ -3799,13 +3800,13 @@
     <match lemma="bead" tags="n.*"><select lemma="ลูกปัด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="beak" tags="n.*"><select lemma="จะงอย" tags="n.*"/></match>
+    <match lemma="beak" tags="n.*"><select lemma="จะงอย# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="beaker" tags="n.*"><select lemma="บีกเกอร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="beam" tags="n.*"><select lemma="คาน" tags="n.*"/></match>
+    <match lemma="beam" tags="n.*"><select lemma="คาน# ชิ้น" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bean" tags="n.*"><select lemma="ถั่ว" tags="n.*"/></match>
@@ -3817,7 +3818,7 @@
     <match lemma="bearer" tags="n.*"><select lemma="คนยกของ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="beast" tags="n.*"><select lemma="สัตว์" tags="n.*"/></match>
+    <match lemma="beast" tags="n.*"><select lemma="สัตว์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="beau" tags="n.*"><select lemma="เพื่อนชาย" tags="n.*"/></match>
@@ -3826,7 +3827,7 @@
     <match lemma="beauty" tags="n.*"><select lemma="ความงดงาม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="beaver" tags="n.*"><select lemma="ตัวบีเวอร์" tags="n.*"/></match>
+    <match lemma="beaver" tags="n.*"><select lemma="ตัวบีเวอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bechamel sauce" tags="n.*"><select lemma="ซอสขาว" tags="n.*"/></match>
@@ -3835,7 +3836,7 @@
     <match lemma="becquerel" tags="n.*"><select lemma="เบกเครล" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bed" tags="n.*"><select lemma="เตียง" tags="n.*"/></match>
+    <match lemma="bed" tags="n.*"><select lemma="เตียง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bedroom" tags="n.*"><select lemma="ที่หลับที่นอน" tags="n.*"/></match>
@@ -3844,10 +3845,10 @@
     <match lemma="bedspread" tags="n.*"><select lemma="ผ้าคลุมที่นอน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bee" tags="n.*"><select lemma="ผึ้ง" tags="n.*"/></match>
+    <match lemma="bee" tags="n.*"><select lemma="ผึ้ง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="beef" tags="n.*"><select lemma="วัวเนื้อ" tags="n.*"/></match>
+    <match lemma="beef" tags="n.*"><select lemma="วัวเนื้อ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="beehive" tags="n.*"><select lemma="สถานที่จอแจ" tags="n.*"/></match>
@@ -3862,7 +3863,7 @@
     <match lemma="beet" tags="n.*"><select lemma="หัวบีท" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="beetle" tags="n.*"><select lemma="ด้วง" tags="n.*"/></match>
+    <match lemma="beetle" tags="n.*"><select lemma="ด้วง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="beetroot" tags="n.*"><select lemma="หัวบีท" tags="n.*"/></match>
@@ -3898,13 +3899,13 @@
     <match lemma="bell" tags="n.*"><select lemma="ระฆัง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="belly" tags="n.*"><select lemma="ท้อง" tags="n.*"/></match>
+    <match lemma="belly" tags="n.*"><select lemma="ท้อง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="belt" tags="n.*"><select lemma="รัดพระองค์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bench" tags="n.*"><select lemma="ม้านั่งยาว" tags="n.*"/></match>
+    <match lemma="bench" tags="n.*"><select lemma="ม้านั่งยาว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="benefit" tags="n.*"><select lemma="ผลประโยชน์" tags="n.*"/></match>
@@ -4012,7 +4013,7 @@
     <match lemma="birch" tags="n.*"><select lemma="ไม้เรียวต้นเบิร์ช" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bird" tags="n.*"><select lemma="นก" tags="n.*"/></match>
+    <match lemma="bird" tags="n.*"><select lemma="นก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="birth" tags="n.*"><select lemma="เวลาเกิด" tags="n.*"/></match>
@@ -4039,7 +4040,7 @@
     <match lemma="bit" tags="n.*"><select lemma="เล็กๆน้อยๆ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bitch" tags="n.*"><select lemma="สุนัขตัวเมีย" tags="n.*"/></match>
+    <match lemma="bitch" tags="n.*"><select lemma="สุนัขตัวเมีย# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bitterness" tags="n.*"><select lemma="ความขมขื่น" tags="n.*"/></match>
@@ -4051,7 +4052,7 @@
     <match lemma="blackberry" tags="n.*"><select lemma="แบล็คเบอร์รี่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="blackbird" tags="n.*"><select lemma="นกเดินดงสีดำ" tags="n.*"/></match>
+    <match lemma="blackbird" tags="n.*"><select lemma="นกเดินดงสีดำ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="blackening" tags="n.*"><select lemma="การทำสีคล้ำ" tags="n.*"/></match>
@@ -4066,7 +4067,7 @@
     <match lemma="blackout" tags="n.*"><select lemma="การมืดลง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bladder" tags="n.*"><select lemma="ถุงลม" tags="n.*"/></match>
+    <match lemma="bladder" tags="n.*"><select lemma="ถุงลม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="blade" tags="n.*"><select lemma="แผ่นใบ" tags="n.*"/></match>
@@ -4120,13 +4121,13 @@
     <match lemma="blood group" tags="n.*"><select lemma="กรุ๊ปเลือด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="blood vessel" tags="n.*"><select lemma="หลอดเลือด" tags="n.*"/></match>
+    <match lemma="blood vessel" tags="n.*"><select lemma="หลอดเลือด# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bloodletting" tags="n.*"><select lemma="การฆ่าฟันอย่างบ้าคลั่ง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bloodsucker" tags="n.*"><select lemma="ทาก" tags="n.*"/></match>
+    <match lemma="bloodsucker" tags="n.*"><select lemma="ทาก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="blow" tags="n.*"><select lemma="การตีเต็มแรง" tags="n.*"/></match>
@@ -4144,10 +4145,10 @@
     <match lemma="blunder" tags="n.*"><select lemma="การทำผิดพลาด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="boa" tags="n.*"><select lemma="งูเหลือม" tags="n.*"/></match>
+    <match lemma="boa" tags="n.*"><select lemma="งูเหลือม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="board" tags="n.*"><select lemma="คณะกรรมการ" tags="n.*"/></match>
+    <match lemma="board" tags="n.*"><select lemma="คณะกรรมการ# คณะ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="boarding" tags="n.*"><select lemma="การขึ้นเครื่อง" tags="n.*"/></match>
@@ -4159,7 +4160,7 @@
     <match lemma="bobsled" tags="n.*"><select lemma="บ็อบสเลด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="body" tags="n.*"><select lemma="ตัว" tags="n.*"/></match>
+    <match lemma="body" tags="n.*"><select lemma="ตัว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bodybuilder" tags="n.*"><select lemma="นักเพาะกล้าม" tags="n.*"/></match>
@@ -4195,7 +4196,7 @@
     <match lemma="bonding" tags="n.*"><select lemma="การบัดกรี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bone" tags="n.*"><select lemma="กระดูก" tags="n.*"/></match>
+    <match lemma="bone" tags="n.*"><select lemma="กระดูก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bonnet" tags="n.*"><select lemma="หมวกที่มีผ้าผูกใต้คาง" tags="n.*"/></match>
@@ -4207,10 +4208,10 @@
     <match lemma="bonus" tags="n.*"><select lemma="รางวัล" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="book" tags="n.*"><select lemma="หนังสือ" tags="n.*"/></match>
+    <match lemma="book" tags="n.*"><select lemma="หนังสือ# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="booklet" tags="n.*"><select lemma="หนังสือเล่มเล็กๆ" tags="n.*"/></match>
+    <match lemma="booklet" tags="n.*"><select lemma="หนังสือเล่มเล็กๆ# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bookmark" tags="n.*"><select lemma="ที่คั่นหนังสือ" tags="n.*"/></match>
@@ -4249,7 +4250,7 @@
     <match lemma="bottle" tags="n.*"><select lemma="ขวด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bottom" tags="n.*"><select lemma="ก้น" tags="n.*"/></match>
+    <match lemma="bottom" tags="n.*"><select lemma="ก้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bouillabaisse" tags="n.*"><select lemma="ซุปบุยยาเบส" tags="n.*"/></match>
@@ -4294,7 +4295,7 @@
     <match lemma="braid" tags="n.*"><select lemma="เปีย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="brain" tags="n.*"><select lemma="สมอง" tags="n.*"/></match>
+    <match lemma="brain" tags="n.*"><select lemma="สมอง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="brake" tags="n.*"><select lemma="เบรก" tags="n.*"/></match>
@@ -4336,10 +4337,10 @@
     <match lemma="breaking" tags="n.*"><select lemma="การทำให้หัก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="breast" tags="n.*"><select lemma="อก" tags="n.*"/></match>
+    <match lemma="breast" tags="n.*"><select lemma="อก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="breastbone" tags="n.*"><select lemma="กระดูกสันหน้าอก" tags="n.*"/></match>
+    <match lemma="breastbone" tags="n.*"><select lemma="กระดูกสันหน้าอก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="breaststroke" tags="n.*"><select lemma="การว่ายกบ" tags="n.*"/></match>
@@ -4387,7 +4388,7 @@
     <match lemma="brochette" tags="n.*"><select lemma="ไม้เสียบลูกชิ้น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="brochure" tags="n.*"><select lemma="หนังสือเล่มเล็กๆ" tags="n.*"/></match>
+    <match lemma="brochure" tags="n.*"><select lemma="หนังสือเล่มเล็กๆ# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="broiler" tags="n.*"><select lemma="เตาอบ" tags="n.*"/></match>
@@ -4444,10 +4445,10 @@
     <match lemma="budget" tags="n.*"><select lemma="งบประมาณ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="buffalo" tags="n.*"><select lemma="อเมริกันไบสัน" tags="n.*"/></match>
+    <match lemma="buffalo" tags="n.*"><select lemma="อเมริกันไบสัน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bug" tags="n.*"><select lemma="แมลง" tags="n.*"/></match>
+    <match lemma="bug" tags="n.*"><select lemma="แมลง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="builder" tags="n.*"><select lemma="ผงซักฟอก" tags="n.*"/></match>
@@ -4459,7 +4460,7 @@
     <match lemma="bulb" tags="n.*"><select lemma="หลอดไฟ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="bull" tags="n.*"><select lemma="พ่อวัว" tags="n.*"/></match>
+    <match lemma="bull" tags="n.*"><select lemma="พ่อวัว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="bulldozer" tags="n.*"><select lemma="รถปราบหน้าดิน" tags="n.*"/></match>
@@ -4555,7 +4556,7 @@
     <match lemma="cabin" tags="n.*"><select lemma="ห้องพักผู้โดยสาร" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cabinet" tags="n.*"><select lemma="ตู้" tags="n.*"/></match>
+    <match lemma="cabinet" tags="n.*"><select lemma="ตู้# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cable" tags="n.*"><select lemma="โทรเลข" tags="n.*"/></match>
@@ -4582,10 +4583,10 @@
     <match lemma="cage" tags="n.*"><select lemma="กรง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cairn" tags="n.*"><select lemma="สุนัขพันธุ์เคร์น" tags="n.*"/></match>
+    <match lemma="cairn" tags="n.*"><select lemma="สุนัขพันธุ์เคร์น# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cake" tags="n.*"><select lemma="ก้อน" tags="n.*"/></match>
+    <match lemma="cake" tags="n.*"><select lemma="ก้อน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="calamity" tags="n.*"><select lemma="กลียุค" tags="n.*"/></match>
@@ -4645,7 +4646,7 @@
     <match lemma="can" tags="n.*"><select lemma="กระป๋อง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="canal" tags="n.*"><select lemma="คลอง" tags="n.*"/></match>
+    <match lemma="canal" tags="n.*"><select lemma="คลอง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cancer" tags="n.*"><select lemma="มะเร็ง" tags="n.*"/></match>
@@ -4723,7 +4724,7 @@
     <match lemma="captain" tags="n.*"><select lemma="ร.อ." tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="captive" tags="n.*"><select lemma="สัตว์ที่ถูกขัง" tags="n.*"/></match>
+    <match lemma="captive" tags="n.*"><select lemma="สัตว์ที่ถูกขัง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="captivity" tags="n.*"><select lemma="การกักขัง" tags="n.*"/></match>
@@ -4738,7 +4739,7 @@
     <match lemma="caravan" tags="n.*"><select lemma="คาราวาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="carbohydrate" tags="n.*"><select lemma="คาร์โบไฮเดรต" tags="n.*"/></match>
+    <match lemma="carbohydrate" tags="n.*"><select lemma="คาร์โบไฮเดรต# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="carbon" tags="n.*"><select lemma="คาร์บอน" tags="n.*"/></match>
@@ -4747,13 +4748,13 @@
     <match lemma="carbon dioxide" tags="n.*"><select lemma="ก๊าซคาร์บอนไดออกไซด์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="card" tags="n.*"><select lemma="การ์ด" tags="n.*"/></match>
+    <match lemma="card" tags="n.*"><select lemma="การ์ด# นาย" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cardamom" tags="n.*"><select lemma="กระวาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cardigan" tags="n.*"><select lemma="คาร์ดิกัน" tags="n.*"/></match>
+    <match lemma="cardigan" tags="n.*"><select lemma="คาร์ดิกัน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cardiologist" tags="n.*"><select lemma="ศัลยแพทย์โรคหัวใจ" tags="n.*"/></match>
@@ -4771,19 +4772,19 @@
     <match lemma="carnival" tags="n.*"><select lemma="เทศกาลคาร์นิวาล" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="carnivore" tags="n.*"><select lemma="สัตว์กินเนื้อ" tags="n.*"/></match>
+    <match lemma="carnivore" tags="n.*"><select lemma="สัตว์กินเนื้อ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="carousel" tags="n.*"><select lemma="ม้าหมุน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="carp" tags="n.*"><select lemma="ปลาคาร์พ" tags="n.*"/></match>
+    <match lemma="carp" tags="n.*"><select lemma="ปลาคาร์พ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="carpet" tags="n.*"><select lemma="พรม" tags="n.*"/></match>
+    <match lemma="carpet" tags="n.*"><select lemma="พรม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="carpus" tags="n.*"><select lemma="กระดูกข้อมือ" tags="n.*"/></match>
+    <match lemma="carpus" tags="n.*"><select lemma="กระดูกข้อมือ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="carriage" tags="n.*"><select lemma="รถม้าโดยสาร" tags="n.*"/></match>
@@ -4858,13 +4859,13 @@
     <match lemma="cataclysm" tags="n.*"><select lemma="กลียุค" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="catalase" tags="n.*"><select lemma="คะตะเลส" tags="n.*"/></match>
+    <match lemma="catalase" tags="n.*"><select lemma="คะตะเลส# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="catalogue" tags="n.*"><select lemma="แคตาล็อก" tags="n.*"/></match>
+    <match lemma="catalogue" tags="n.*"><select lemma="แคตาล็อก# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cataract" tags="n.*"><select lemma="น้ำตกแก่งใหญ่" tags="n.*"/></match>
+    <match lemma="cataract" tags="n.*"><select lemma="น้ำตกแก่งใหญ่# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="catastrophe" tags="n.*"><select lemma="กลียุค" tags="n.*"/></match>
@@ -4876,7 +4877,7 @@
     <match lemma="category" tags="n.*"><select lemma="ประเภท" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="caterpillar" tags="n.*"><select lemma="หนอนผีเสื้อ" tags="n.*"/></match>
+    <match lemma="caterpillar" tags="n.*"><select lemma="หนอนผีเสื้อ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="catharsis" tags="n.*"><select lemma="การปลดปล่อยอารมณ์" tags="n.*"/></match>
@@ -4897,7 +4898,7 @@
     <match lemma="cavern" tags="n.*"><select lemma="ถ้ำหลวง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cavity" tags="n.*"><select lemma="หลุม" tags="n.*"/></match>
+    <match lemma="cavity" tags="n.*"><select lemma="หลุม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cayenne" tags="n.*"><select lemma="พริกคาเยน" tags="n.*"/></match>
@@ -4966,7 +4967,7 @@
     <match lemma="ceramics" tags="n.*"><select lemma="เครื่องปั้นดินเผา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ceratin" tags="n.*"><select lemma="เคราติน" tags="n.*"/></match>
+    <match lemma="ceratin" tags="n.*"><select lemma="เคราติน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cereal" tags="n.*"><select lemma="ธัญญาหาร" tags="n.*"/></match>
@@ -4996,10 +4997,10 @@
     <match lemma="chain mail" tags="n.*"><select lemma="ชุดเกราะห่วงโซ่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="chair" tags="n.*"><select lemma="เก้าอี้" tags="n.*"/></match>
+    <match lemma="chair" tags="n.*"><select lemma="เก้าอี้# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="chaise" tags="n.*"><select lemma="เก้าอี้นวมยาว" tags="n.*"/></match>
+    <match lemma="chaise" tags="n.*"><select lemma="เก้าอี้นวมยาว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="chalk" tags="n.*"><select lemma="ชอล์ก" tags="n.*"/></match>
@@ -5008,7 +5009,7 @@
     <match lemma="chamber" tags="n.*"><select lemma="ห้อง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="chameleon" tags="n.*"><select lemma="กิ้งก่าคะมีเลียน" tags="n.*"/></match>
+    <match lemma="chameleon" tags="n.*"><select lemma="กิ้งก่าคะมีเลียน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="champagne" tags="n.*"><select lemma="แชมเปญ" tags="n.*"/></match>
@@ -5026,7 +5027,7 @@
     <match lemma="chancellor" tags="n.*"><select lemma="อธิการบดี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="channel" tags="n.*"><select lemma="ช่อง" tags="n.*"/></match>
+    <match lemma="channel" tags="n.*"><select lemma="ช่อง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="chaos" tags="n.*"><select lemma="ความวิกลจริต" tags="n.*"/></match>
@@ -5074,10 +5075,10 @@
     <match lemma="checkup" tags="n.*"><select lemma="การตรวจร่างกาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cheek" tags="n.*"><select lemma="แก้ม" tags="n.*"/></match>
+    <match lemma="cheek" tags="n.*"><select lemma="แก้ม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cheekbone" tags="n.*"><select lemma="กระดูกโหนกแก้ม" tags="n.*"/></match>
+    <match lemma="cheekbone" tags="n.*"><select lemma="กระดูกโหนกแก้ม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cheese" tags="n.*"><select lemma="ชีส" tags="n.*"/></match>
@@ -5101,22 +5102,22 @@
     <match lemma="cherry" tags="n.*"><select lemma="สีแดง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="chess" tags="n.*"><select lemma="หมากรุก" tags="n.*"/></match>
+    <match lemma="chess" tags="n.*"><select lemma="หมากรุก# กระดาน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="chess player" tags="n.*"><select lemma="คนเล่นหมากรุก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="chest" tags="n.*"><select lemma="ทรวงอก" tags="n.*"/></match>
+    <match lemma="chest" tags="n.*"><select lemma="ทรวงอก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="chevron" tags="n.*"><select lemma="รูปตัววี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="chick" tags="n.*"><select lemma="ลูกเจี๊ยบ" tags="n.*"/></match>
+    <match lemma="chick" tags="n.*"><select lemma="ลูกเจี๊ยบ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="chicken" tags="n.*"><select lemma="ไก่" tags="n.*"/></match>
+    <match lemma="chicken" tags="n.*"><select lemma="ไก่# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="chickpea" tags="n.*"><select lemma="ถั่วชิคพี" tags="n.*"/></match>
@@ -5125,7 +5126,7 @@
     <match lemma="chieftain" tags="n.*"><select lemma="กัปตัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="child" tags="n.*"><select lemma="เด็ก" tags="n.*"/></match>
+    <match lemma="child" tags="n.*"><select lemma="เด็ก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="childbirth" tags="n.*"><select lemma="การคลอดบุตร" tags="n.*"/></match>
@@ -5137,7 +5138,7 @@
     <match lemma="chill" tags="n.*"><select lemma="ความหนาว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="chimaera" tags="n.*"><select lemma="ปลาชิแมรา" tags="n.*"/></match>
+    <match lemma="chimaera" tags="n.*"><select lemma="ปลาชิแมรา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="chime" tags="n.*"><select lemma="ระฆัง" tags="n.*"/></match>
@@ -5146,10 +5147,10 @@
     <match lemma="chimney" tags="n.*"><select lemma="ปล่อง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="chimpanzee" tags="n.*"><select lemma="ชิมแปนซี" tags="n.*"/></match>
+    <match lemma="chimpanzee" tags="n.*"><select lemma="ชิมแปนซี# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="chin" tags="n.*"><select lemma="คาง" tags="n.*"/></match>
+    <match lemma="chin" tags="n.*"><select lemma="คาง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="china" tags="n.*"><select lemma="จีนแดง" tags="n.*"/></match>
@@ -5281,7 +5282,7 @@
     <match lemma="clairvoyance" tags="n.*"><select lemma="ประสาทที่หก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="clam" tags="n.*"><select lemma="หอยแคลม" tags="n.*"/></match>
+    <match lemma="clam" tags="n.*"><select lemma="หอยแคลม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="clap" tags="n.*"><select lemma="การแผดเสียง" tags="n.*"/></match>
@@ -5311,7 +5312,7 @@
     <match lemma="clause" tags="n.*"><select lemma="อนุประโยค" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="clavicle" tags="n.*"><select lemma="กระดูกไหปลาร้า" tags="n.*"/></match>
+    <match lemma="clavicle" tags="n.*"><select lemma="กระดูกไหปลาร้า# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="clay" tags="n.*"><select lemma="ดินเหนียว" tags="n.*"/></match>
@@ -5347,16 +5348,16 @@
     <match lemma="clip" tags="n.*"><select lemma="ปลอกกระสุนปืน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="clipper" tags="n.*"><select lemma="กรรไกรตัดเล็บ" tags="n.*"/></match>
+    <match lemma="clipper" tags="n.*"><select lemma="กรรไกรตัดเล็บ# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="clod" tags="n.*"><select lemma="ก้อน" tags="n.*"/></match>
+    <match lemma="clod" tags="n.*"><select lemma="ก้อน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cloning" tags="n.*"><select lemma="การโคลนนิ่ง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="closet" tags="n.*"><select lemma="ตู้" tags="n.*"/></match>
+    <match lemma="closet" tags="n.*"><select lemma="ตู้# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="closure" tags="n.*"><select lemma="การใกล้" tags="n.*"/></match>
@@ -5425,7 +5426,7 @@
     <match lemma="coconut" tags="n.*"><select lemma="มะพร้าว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cod" tags="n.*"><select lemma="ปลาคอด" tags="n.*"/></match>
+    <match lemma="cod" tags="n.*"><select lemma="ปลาคอด# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="code" tags="n.*"><select lemma="กฎระเบียบ" tags="n.*"/></match>
@@ -5491,7 +5492,7 @@
     <match lemma="collision" tags="n.*"><select lemma="การชนกัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="colon" tags="n.*"><select lemma="ปลายลำไส้ใหญ่" tags="n.*"/></match>
+    <match lemma="colon" tags="n.*"><select lemma="ปลายลำไส้ใหญ่# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="colonel" tags="n.*"><select lemma="พ.อ." tags="n.*"/></match>
@@ -5530,7 +5531,7 @@
     <match lemma="comedy" tags="n.*"><select lemma="หนังตลก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="comma" tags="n.*"><select lemma="ผีเสื้อธรรมดา" tags="n.*"/></match>
+    <match lemma="comma" tags="n.*"><select lemma="ผีเสื้อธรรมดา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="command" tags="n.*"><select lemma="การสั่ง" tags="n.*"/></match>
@@ -5557,13 +5558,13 @@
     <match lemma="commercialism" tags="n.*"><select lemma="พาณิชยกรรม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="commission" tags="n.*"><select lemma="คณะกรรมการ" tags="n.*"/></match>
+    <match lemma="commission" tags="n.*"><select lemma="คณะกรรมการ# คณะ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="commitment" tags="n.*"><select lemma="ความซื่อสัตย์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="committee" tags="n.*"><select lemma="คณะกรรมการ" tags="n.*"/></match>
+    <match lemma="committee" tags="n.*"><select lemma="คณะกรรมการ# คณะ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="commodity" tags="n.*"><select lemma="ของซื้อของขาย" tags="n.*"/></match>
@@ -5698,7 +5699,7 @@
     <match lemma="condition" tags="n.*"><select lemma="สภาพ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="condom" tags="n.*"><select lemma="ถุง" tags="n.*"/></match>
+    <match lemma="condom" tags="n.*"><select lemma="ถุง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="condominium" tags="n.*"><select lemma="คอนโด" tags="n.*"/></match>
@@ -5707,7 +5708,7 @@
     <match lemma="conductor" tags="n.*"><select lemma="คอนดักเตอร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cone" tags="n.*"><select lemma="กรวย" tags="n.*"/></match>
+    <match lemma="cone" tags="n.*"><select lemma="กรวย# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="confectionery" tags="n.*"><select lemma="ศิลปะในการทำขนมหวาน" tags="n.*"/></match>
@@ -5929,7 +5930,7 @@
     <match lemma="convulsion" tags="n.*"><select lemma="การสั่นสะเทือน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cookbook" tags="n.*"><select lemma="ตำราทำอาหาร" tags="n.*"/></match>
+    <match lemma="cookbook" tags="n.*"><select lemma="ตำราทำอาหาร# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cookery" tags="n.*"><select lemma="การทำอาหาร" tags="n.*"/></match>
@@ -5974,7 +5975,7 @@
     <match lemma="corn" tags="n.*"><select lemma="ข้าวโพด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="corner" tags="n.*"><select lemma="มุม" tags="n.*"/></match>
+    <match lemma="corner" tags="n.*"><select lemma="มุม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cornflower" tags="n.*"><select lemma="ดอกข้าวโพด" tags="n.*"/></match>
@@ -6028,7 +6029,7 @@
     <match lemma="cotton" tags="n.*"><select lemma="ฝ้าย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cougar" tags="n.*"><select lemma="สิงโตภูเขา" tags="n.*"/></match>
+    <match lemma="cougar" tags="n.*"><select lemma="สิงโตภูเขา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="coulomb" tags="n.*"><select lemma="คูลอมบ์" tags="n.*"/></match>
@@ -6046,7 +6047,7 @@
     <match lemma="countdown" tags="n.*"><select lemma="การนับถอยหลัง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="counter" tags="n.*"><select lemma="เคาน์เตอร์" tags="n.*"/></match>
+    <match lemma="counter" tags="n.*"><select lemma="เคาน์เตอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="counterattack" tags="n.*"><select lemma="การตีโต้" tags="n.*"/></match>
@@ -6076,7 +6077,7 @@
     <match lemma="courgette" tags="n.*"><select lemma="ซุกคินี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="course" tags="n.*"><select lemma="ชั้น" tags="n.*"/></match>
+    <match lemma="course" tags="n.*"><select lemma="ชั้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="court" tags="n.*"><select lemma="ศาล" tags="n.*"/></match>
@@ -6094,7 +6095,7 @@
     <match lemma="cousin" tags="n.*"><select lemma="ลูกพี่ลูกน้อง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cow" tags="n.*"><select lemma="ตัวเมีย" tags="n.*"/></match>
+    <match lemma="cow" tags="n.*"><select lemma="ตัวเมีย# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="coward" tags="n.*"><select lemma="คนขลาด" tags="n.*"/></match>
@@ -6106,10 +6107,10 @@
     <match lemma="cowboy" tags="n.*"><select lemma="คาวบอย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="coyote" tags="n.*"><select lemma="หมาป่า" tags="n.*"/></match>
+    <match lemma="coyote" tags="n.*"><select lemma="หมาป่า# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="crab" tags="n.*"><select lemma="ปู" tags="n.*"/></match>
+    <match lemma="crab" tags="n.*"><select lemma="ปู# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="craft" tags="n.*"><select lemma="งานฝีมือ" tags="n.*"/></match>
@@ -6148,7 +6149,7 @@
     <match lemma="creator" tags="n.*"><select lemma="พระผู้เป็นเจ้า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="creature" tags="n.*"><select lemma="สัตว์" tags="n.*"/></match>
+    <match lemma="creature" tags="n.*"><select lemma="สัตว์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="credibility" tags="n.*"><select lemma="ความน่าเชื่อถือ" tags="n.*"/></match>
@@ -6157,7 +6158,7 @@
     <match lemma="creed" tags="n.*"><select lemma="หลักความเชื่อ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="creek" tags="n.*"><select lemma="ลำธาร" tags="n.*"/></match>
+    <match lemma="creek" tags="n.*"><select lemma="ลำธาร# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cremation" tags="n.*"><select lemma="การฌาปนกิจ" tags="n.*"/></match>
@@ -6175,10 +6176,10 @@
     <match lemma="crew" tags="n.*"><select lemma="ลูกเรือ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="crib" tags="n.*"><select lemma="เปล" tags="n.*"/></match>
+    <match lemma="crib" tags="n.*"><select lemma="เปล# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cricket" tags="n.*"><select lemma="จิ้งหรีด" tags="n.*"/></match>
+    <match lemma="cricket" tags="n.*"><select lemma="จิ้งหรีด# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="crime" tags="n.*"><select lemma="การก่ออาชญากรรม" tags="n.*"/></match>
@@ -6205,7 +6206,7 @@
     <match lemma="critique" tags="n.*"><select lemma="การวิจารณ์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="crocodile" tags="n.*"><select lemma="จระเข้" tags="n.*"/></match>
+    <match lemma="crocodile" tags="n.*"><select lemma="จระเข้# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="crook" tags="n.*"><select lemma="คนทำผิดกฎหมาย" tags="n.*"/></match>
@@ -6214,7 +6215,7 @@
     <match lemma="crop" tags="n.*"><select lemma="ผลผลิตพืชในฤดู" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="crossbar" tags="n.*"><select lemma="คาน" tags="n.*"/></match>
+    <match lemma="crossbar" tags="n.*"><select lemma="คาน# ชิ้น" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="crossing" tags="n.*"><select lemma="การข้าม" tags="n.*"/></match>
@@ -6223,10 +6224,10 @@
     <match lemma="crossword" tags="n.*"><select lemma="ปริศนาอักษรไขว้" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="crotch" tags="n.*"><select lemma="ของลับ" tags="n.*"/></match>
+    <match lemma="crotch" tags="n.*"><select lemma="ของลับ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="crow" tags="n.*"><select lemma="กา" tags="n.*"/></match>
+    <match lemma="crow" tags="n.*"><select lemma="กา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="crowd" tags="n.*"><select lemma="ฝูง" tags="n.*"/></match>
@@ -6289,19 +6290,19 @@
     <match lemma="cumin" tags="n.*"><select lemma="ยี่หร่า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cumulus" tags="n.*"><select lemma="เมฆคิวมูลัส" tags="n.*"/></match>
+    <match lemma="cumulus" tags="n.*"><select lemma="เมฆคิวมูลัส# ก้อน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cunning" tags="n.*"><select lemma="เล่ห์เหลี่ยม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cunt" tags="n.*"><select lemma="หม้อ" tags="n.*"/></match>
+    <match lemma="cunt" tags="n.*"><select lemma="หม้อ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cup" tags="n.*"><select lemma="ถ้วย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cupboard" tags="n.*"><select lemma="ตู้" tags="n.*"/></match>
+    <match lemma="cupboard" tags="n.*"><select lemma="ตู้# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cupid" tags="n.*"><select lemma="กามเทพ" tags="n.*"/></match>
@@ -6325,7 +6326,7 @@
     <match lemma="curtailment" tags="n.*"><select lemma="การลดค่าใช้จ่าย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="curtain" tags="n.*"><select lemma="ม่าน" tags="n.*"/></match>
+    <match lemma="curtain" tags="n.*"><select lemma="ม่าน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="curvature" tags="n.*"><select lemma="ความโค้ง" tags="n.*"/></match>
@@ -6352,7 +6353,7 @@
     <match lemma="cutlery" tags="n.*"><select lemma="อุปกรณ์ทานอาหาร" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cutter" tags="n.*"><select lemma="มีด" tags="n.*"/></match>
+    <match lemma="cutter" tags="n.*"><select lemma="มีด# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="cybernetics" tags="n.*"><select lemma="นิยันตศาสตร์" tags="n.*"/></match>
@@ -6382,7 +6383,7 @@
     <match lemma="cytosine" tags="n.*"><select lemma="ซี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="cytostome" tags="n.*"><select lemma="ร่องปาก" tags="n.*"/></match>
+    <match lemma="cytostome" tags="n.*"><select lemma="ร่องปาก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="dad" tags="n.*"><select lemma="พ่อ" tags="n.*"/></match>
@@ -6403,7 +6404,7 @@
     <match lemma="dancing" tags="n.*"><select lemma="ระบำ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="dandruff" tags="n.*"><select lemma="รังแค" tags="n.*"/></match>
+    <match lemma="dandruff" tags="n.*"><select lemma="รังแค# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="danger" tags="n.*"><select lemma="อันตราย" tags="n.*"/></match>
@@ -6508,7 +6509,7 @@
     <match lemma="decision" tags="n.*"><select lemma="การตัดสินใจ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="deck" tags="n.*"><select lemma="ชั้น" tags="n.*"/></match>
+    <match lemma="deck" tags="n.*"><select lemma="ชั้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="declivity" tags="n.*"><select lemma="การตก" tags="n.*"/></match>
@@ -6526,7 +6527,7 @@
     <match lemma="decorum" tags="n.*"><select lemma="มารยาท" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="decoy" tags="n.*"><select lemma="เหยื่อ" tags="n.*"/></match>
+    <match lemma="decoy" tags="n.*"><select lemma="เหยื่อ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="decree" tags="n.*"><select lemma="การพิพากษา" tags="n.*"/></match>
@@ -6652,7 +6653,7 @@
     <match lemma="density" tags="n.*"><select lemma="ความหนาแน่น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="dentine" tags="n.*"><select lemma="เนื้อฟัน" tags="n.*"/></match>
+    <match lemma="dentine" tags="n.*"><select lemma="เนื้อฟัน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="dentist" tags="n.*"><select lemma="ทันตแพทย์" tags="n.*"/></match>
@@ -6733,7 +6734,7 @@
     <match lemma="desire" tags="n.*"><select lemma="ความปรารถนา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="desk" tags="n.*"><select lemma="โต๊ะเขียนหนังสือ" tags="n.*"/></match>
+    <match lemma="desk" tags="n.*"><select lemma="โต๊ะเขียนหนังสือ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="desktop computer" tags="n.*"><select lemma="คอมพิวเตอร์ตั้งโต๊ะ" tags="n.*"/></match>
@@ -6760,7 +6761,7 @@
     <match lemma="detail" tags="n.*"><select lemma="รายละเอียด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="detective" tags="n.*"><select lemma="ตำรวจสายสืบ" tags="n.*"/></match>
+    <match lemma="detective" tags="n.*"><select lemma="ตำรวจสายสืบ# นาย" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="detector" tags="n.*"><select lemma="ดีเท็กเตอร์" tags="n.*"/></match>
@@ -6847,7 +6848,7 @@
     <match lemma="diction" tags="n.*"><select lemma="การจัดเรียงคำ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="dictionary" tags="n.*"><select lemma="พจนานุกรม" tags="n.*"/></match>
+    <match lemma="dictionary" tags="n.*"><select lemma="พจนานุกรม# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="dielectric" tags="n.*"><select lemma="ฉนวน" tags="n.*"/></match>
@@ -6865,13 +6866,13 @@
     <match lemma="diffusion" tags="n.*"><select lemma="การแพร่กระจาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="digestive tract" tags="n.*"><select lemma="ช่องทางเดินอาหาร" tags="n.*"/></match>
+    <match lemma="digestive tract" tags="n.*"><select lemma="ช่องทางเดินอาหาร# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="digger" tags="n.*"><select lemma="เครื่องขุด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="digit" tags="n.*"><select lemma="นิ้ว" tags="n.*"/></match>
+    <match lemma="digit" tags="n.*"><select lemma="นิ้ว# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="dignity" tags="n.*"><select lemma="ความภูมิใจในตนเอง" tags="n.*"/></match>
@@ -6919,7 +6920,7 @@
     <match lemma="diplomacy" tags="n.*"><select lemma="วิจารณญาณ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="dipole" tags="n.*"><select lemma="ขั้วคู่" tags="n.*"/></match>
+    <match lemma="dipole" tags="n.*"><select lemma="ขั้วคู่# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="dipper" tags="n.*"><select lemma="กระบวย" tags="n.*"/></match>
@@ -6931,7 +6932,7 @@
     <match lemma="director" tags="n.*"><select lemma="กรรมการผู้จัดการ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="directory" tags="n.*"><select lemma="รายชื่อและที่อยู่" tags="n.*"/></match>
+    <match lemma="directory" tags="n.*"><select lemma="รายชื่อและที่อยู่# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="dirt" tags="n.*"><select lemma="ดิน" tags="n.*"/></match>
@@ -7003,7 +7004,7 @@
     <match lemma="disguise" tags="n.*"><select lemma="การอำพราง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="dish" tags="n.*"><select lemma="จาน" tags="n.*"/></match>
+    <match lemma="dish" tags="n.*"><select lemma="จาน# ใบ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="dishwasher" tags="n.*"><select lemma="เครื่องล้างจาน" tags="n.*"/></match>
@@ -7063,7 +7064,7 @@
     <match lemma="distributor" tags="n.*"><select lemma="ผู้จำหน่าย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="district" tags="n.*"><select lemma="เขต" tags="n.*"/></match>
+    <match lemma="district" tags="n.*"><select lemma="เขต# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="disturbance" tags="n.*"><select lemma="การรบกวน" tags="n.*"/></match>
@@ -7072,7 +7073,7 @@
     <match lemma="dithyramb" tags="n.*"><select lemma="เพลงเทพสดุดี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="diver" tags="n.*"><select lemma="นกน้ำ" tags="n.*"/></match>
+    <match lemma="diver" tags="n.*"><select lemma="นกน้ำ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="divergence" tags="n.*"><select lemma="การห่างออก" tags="n.*"/></match>
@@ -7117,10 +7118,10 @@
     <match lemma="documentation" tags="n.*"><select lemma="พยานเอกสาร" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="dog" tags="n.*"><select lemma="หมา" tags="n.*"/></match>
+    <match lemma="dog" tags="n.*"><select lemma="หมา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="dogfish" tags="n.*"><select lemma="ฉลามด็อกฟิช" tags="n.*"/></match>
+    <match lemma="dogfish" tags="n.*"><select lemma="ฉลามด็อกฟิช# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="dogma" tags="n.*"><select lemma="ลัทธิ" tags="n.*"/></match>
@@ -7132,7 +7133,7 @@
     <match lemma="dollar" tags="n.*"><select lemma="เหรียญ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="dolphin" tags="n.*"><select lemma="ปลาโลมา" tags="n.*"/></match>
+    <match lemma="dolphin" tags="n.*"><select lemma="ปลาโลมา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="domain" tags="n.*"><select lemma="เส้นทางชีวิต" tags="n.*"/></match>
@@ -7150,7 +7151,7 @@
     <match lemma="donation" tags="n.*"><select lemma="สิ่งของบริจาค" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="donkey" tags="n.*"><select lemma="ลา" tags="n.*"/></match>
+    <match lemma="donkey" tags="n.*"><select lemma="ลา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="donor" tags="n.*"><select lemma="คนให้" tags="n.*"/></match>
@@ -7210,7 +7211,7 @@
     <match lemma="dress" tags="n.*"><select lemma="ชุดกระโปรง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="dresser" tags="n.*"><select lemma="ตู้มีลิ้นชัก" tags="n.*"/></match>
+    <match lemma="dresser" tags="n.*"><select lemma="ตู้มีลิ้นชัก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="dressing" tags="n.*"><select lemma="การพันแผล" tags="n.*"/></match>
@@ -7258,7 +7259,7 @@
     <match lemma="dryness" tags="n.*"><select lemma="ความแห้ง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="duckling" tags="n.*"><select lemma="ลูกเป็ด" tags="n.*"/></match>
+    <match lemma="duckling" tags="n.*"><select lemma="ลูกเป็ด# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="dud" tags="n.*"><select lemma="ความล้มเหลว" tags="n.*"/></match>
@@ -7321,10 +7322,10 @@
     <match lemma="dystrophy" tags="n.*"><select lemma="ภาวะทุพโภชนาการ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="eagle" tags="n.*"><select lemma="นกอินทรี" tags="n.*"/></match>
+    <match lemma="eagle" tags="n.*"><select lemma="นกอินทรี# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ear" tags="n.*"><select lemma="หู" tags="n.*"/></match>
+    <match lemma="ear" tags="n.*"><select lemma="หู# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="earnings" tags="n.*"><select lemma="กำไร" tags="n.*"/></match>
@@ -7336,7 +7337,7 @@
     <match lemma="earring" tags="n.*"><select lemma="ตุ้มหู" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="earth" tags="n.*"><select lemma="โลก" tags="n.*"/></match>
+    <match lemma="earth" tags="n.*"><select lemma="โลก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="earthquake" tags="n.*"><select lemma="ธรณีพิโรธ" tags="n.*"/></match>
@@ -7351,10 +7352,10 @@
     <match lemma="echelon" tags="n.*"><select lemma="เอชเชอลอน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="echidna" tags="n.*"><select lemma="ตัวตุ่น" tags="n.*"/></match>
+    <match lemma="echidna" tags="n.*"><select lemma="ตัวตุ่น# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="echinoderm" tags="n.*"><select lemma="สัตว์พวกผิวหนาม" tags="n.*"/></match>
+    <match lemma="echinoderm" tags="n.*"><select lemma="สัตว์พวกผิวหนาม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="echo" tags="n.*"><select lemma="เสียงสะท้อน" tags="n.*"/></match>
@@ -7414,7 +7415,7 @@
     <match lemma="educator" tags="n.*"><select lemma="นักการศึกษา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="eel" tags="n.*"><select lemma="ปลาไหล" tags="n.*"/></match>
+    <match lemma="eel" tags="n.*"><select lemma="ปลาไหล# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="effect" tags="n.*"><select lemma="ผลที่ตามมา" tags="n.*"/></match>
@@ -7432,7 +7433,7 @@
     <match lemma="effort" tags="n.*"><select lemma="ความพยายาม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="egg" tags="n.*"><select lemma="ไข่" tags="n.*"/></match>
+    <match lemma="egg" tags="n.*"><select lemma="ไข่# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="eggplant" tags="n.*"><select lemma="มะเขือ" tags="n.*"/></match>
@@ -7447,7 +7448,7 @@
     <match lemma="elasticity" tags="n.*"><select lemma="ความยืดหยุ่น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="elbow" tags="n.*"><select lemma="ศอก" tags="n.*"/></match>
+    <match lemma="elbow" tags="n.*"><select lemma="ศอก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="elder" tags="n.*"><select lemma="พี่" tags="n.*"/></match>
@@ -7477,7 +7478,7 @@
     <match lemma="element" tags="n.*"><select lemma="องค์ประกอบ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="elephant" tags="n.*"><select lemma="ช้าง" tags="n.*"/></match>
+    <match lemma="elephant" tags="n.*"><select lemma="ช้าง# เชือก" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="elevation" tags="n.*"><select lemma="การยกสูงขึ้น" tags="n.*"/></match>
@@ -7495,7 +7496,7 @@
     <match lemma="elixir" tags="n.*"><select lemma="ยาอายุวัฒนะ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="elk" tags="n.*"><select lemma="กวางแดง" tags="n.*"/></match>
+    <match lemma="elk" tags="n.*"><select lemma="กวางแดง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="ellipsoid" tags="n.*"><select lemma="รูปวงรี" tags="n.*"/></match>
@@ -7507,7 +7508,7 @@
     <match lemma="elongation" tags="n.*"><select lemma="การยืด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="elver" tags="n.*"><select lemma="ปลาเอลเวอร์" tags="n.*"/></match>
+    <match lemma="elver" tags="n.*"><select lemma="ปลาเอลเวอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="email" tags="n.*"><select lemma="เมล์" tags="n.*"/></match>
@@ -7531,7 +7532,7 @@
     <match lemma="embroidery" tags="n.*"><select lemma="งานปักลวดลาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="embryo" tags="n.*"><select lemma="ตัวอ่อน" tags="n.*"/></match>
+    <match lemma="embryo" tags="n.*"><select lemma="ตัวอ่อน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="emerald" tags="n.*"><select lemma="สีมรกต" tags="n.*"/></match>
@@ -7543,7 +7544,7 @@
     <match lemma="emission" tags="n.*"><select lemma="การปล่อยออก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="emperor" tags="n.*"><select lemma="ผีเสื้อจักรพรรดิ์" tags="n.*"/></match>
+    <match lemma="emperor" tags="n.*"><select lemma="ผีเสื้อจักรพรรดิ์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="emphasis" tags="n.*"><select lemma="การเน้นย้ำ" tags="n.*"/></match>
@@ -7576,7 +7577,7 @@
     <match lemma="enclosure" tags="n.*"><select lemma="โครงสร้างปิด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="encyclopaedia" tags="n.*"><select lemma="สารานุกรม" tags="n.*"/></match>
+    <match lemma="encyclopaedia" tags="n.*"><select lemma="สารานุกรม# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="ending" tags="n.*"><select lemma="ส่วนท้ายคำ" tags="n.*"/></match>
@@ -7717,7 +7718,7 @@
     <match lemma="ergonomics" tags="n.*"><select lemma="การยศาสตร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ermine" tags="n.*"><select lemma="วีเซลหางสั้น" tags="n.*"/></match>
+    <match lemma="ermine" tags="n.*"><select lemma="วีเซลหางสั้น# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="erosion" tags="n.*"><select lemma="การกัดเซาะ" tags="n.*"/></match>
@@ -7876,7 +7877,7 @@
     <match lemma="exercise" tags="n.*"><select lemma="การบริหารร่างกาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="exfoliation" tags="n.*"><select lemma="ขี้รังแค" tags="n.*"/></match>
+    <match lemma="exfoliation" tags="n.*"><select lemma="ขี้รังแค# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="exhalation" tags="n.*"><select lemma="การหายใจออก" tags="n.*"/></match>
@@ -7981,7 +7982,7 @@
     <match lemma="extremist" tags="n.*"><select lemma="พวกความคิดสุดโต่ง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="extremity" tags="n.*"><select lemma="ส่วนที่ยื่นออกจากร่างกาย" tags="n.*"/></match>
+    <match lemma="extremity" tags="n.*"><select lemma="ส่วนที่ยื่นออกจากร่างกาย# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="extrusion" tags="n.*"><select lemma="การฉีดโลหะ" tags="n.*"/></match>
@@ -7990,7 +7991,7 @@
     <match lemma="exuberance" tags="n.*"><select lemma="ความเบิกบาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="eye" tags="n.*"><select lemma="ตา" tags="n.*"/></match>
+    <match lemma="eye" tags="n.*"><select lemma="ตา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="eyebrow" tags="n.*"><select lemma="คิ้ว" tags="n.*"/></match>
@@ -8011,7 +8012,7 @@
     <match lemma="facade" tags="n.*"><select lemma="ด้านหน้า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="face" tags="n.*"><select lemma="หน้า" tags="n.*"/></match>
+    <match lemma="face" tags="n.*"><select lemma="หน้า# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="facsimile" tags="n.*"><select lemma="สำเนา" tags="n.*"/></match>
@@ -8035,7 +8036,7 @@
     <match lemma="faith" tags="n.*"><select lemma="ความเชื่อทางศาสนา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="falcon" tags="n.*"><select lemma="ฟอลคอน" tags="n.*"/></match>
+    <match lemma="falcon" tags="n.*"><select lemma="ฟอลคอน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="falsity" tags="n.*"><select lemma="ความเท็จ" tags="n.*"/></match>
@@ -8056,7 +8057,7 @@
     <match lemma="fan" tags="n.*"><select lemma="พัด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="fang" tags="n.*"><select lemma="เขี้ยว" tags="n.*"/></match>
+    <match lemma="fang" tags="n.*"><select lemma="เขี้ยว# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="fantasy" tags="n.*"><select lemma="ความเพ้อฝัน" tags="n.*"/></match>
@@ -8098,7 +8099,7 @@
     <match lemma="fault" tags="n.*"><select lemma="ความผิดพลาด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="fauna" tags="n.*"><select lemma="สัตว์" tags="n.*"/></match>
+    <match lemma="fauna" tags="n.*"><select lemma="สัตว์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="favourite" tags="n.*"><select lemma="ของที่ชอบ" tags="n.*"/></match>
@@ -8128,7 +8129,7 @@
     <match lemma="feedback" tags="n.*"><select lemma="การตอบรับ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="feeder" tags="n.*"><select lemma="สัตว์ที่ขุนให้อ้วน" tags="n.*"/></match>
+    <match lemma="feeder" tags="n.*"><select lemma="สัตว์ที่ขุนให้อ้วน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="feeding" tags="n.*"><select lemma="การกิน" tags="n.*"/></match>
@@ -8143,7 +8144,7 @@
     <match lemma="fellowship" tags="n.*"><select lemma="ครอบครัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="female" tags="n.*"><select lemma="ตัวเมีย" tags="n.*"/></match>
+    <match lemma="female" tags="n.*"><select lemma="ตัวเมีย# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="femininity" tags="n.*"><select lemma="ความเป็นผู้หญิง" tags="n.*"/></match>
@@ -8155,7 +8156,7 @@
     <match lemma="feminist" tags="n.*"><select lemma="นักสิทธิสตรี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="femur" tags="n.*"><select lemma="กระดูกต้นขา" tags="n.*"/></match>
+    <match lemma="femur" tags="n.*"><select lemma="กระดูกต้นขา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="fence" tags="n.*"><select lemma="รั้ว" tags="n.*"/></match>
@@ -8173,7 +8174,7 @@
     <match lemma="fermium" tags="n.*"><select lemma="เฟอร์เมียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ferret" tags="n.*"><select lemma="ตัวเฟอริท" tags="n.*"/></match>
+    <match lemma="ferret" tags="n.*"><select lemma="ตัวเฟอริท# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="fertility" tags="n.*"><select lemma="ความอุดมสมบูรณ์" tags="n.*"/></match>
@@ -8209,10 +8210,10 @@
     <match lemma="filming" tags="n.*"><select lemma="การถ่ายทำภาพยนตร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="filth" tags="n.*"><select lemma="คำหยาบ" tags="n.*"/></match>
+    <match lemma="filth" tags="n.*"><select lemma="คำหยาบ# คำ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="fin" tags="n.*"><select lemma="ครีบ" tags="n.*"/></match>
+    <match lemma="fin" tags="n.*"><select lemma="ครีบ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="finder" tags="n.*"><select lemma="เครื่องเล็งภาพ" tags="n.*"/></match>
@@ -8221,13 +8222,13 @@
     <match lemma="fine arts" tags="n.*"><select lemma="จิตรกรรม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="finger" tags="n.*"><select lemma="นิ้ว" tags="n.*"/></match>
+    <match lemma="finger" tags="n.*"><select lemma="นิ้ว# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="finishing" tags="n.*"><select lemma="การตกแต่ง" tags="n.*"/></match>
+    <match lemma="finishing" tags="n.*"><select lemma="การตกแต่ง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="fiord" tags="n.*"><select lemma="ฟยอร์ด" tags="n.*"/></match>
+    <match lemma="fiord" tags="n.*"><select lemma="ฟยอร์ด# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="fir" tags="n.*"><select lemma="ต้นเฟอร์" tags="n.*"/></match>
@@ -8260,7 +8261,7 @@
     <match lemma="first-aid kit" tags="n.*"><select lemma="ชุดปฐมพยาบาล" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="fish" tags="n.*"><select lemma="ปลา" tags="n.*"/></match>
+    <match lemma="fish" tags="n.*"><select lemma="ปลา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="fisherman" tags="n.*"><select lemma="คนหาปลา" tags="n.*"/></match>
@@ -8272,10 +8273,10 @@
     <match lemma="fission" tags="n.*"><select lemma="การแบ่งแยกนิวเคลียส" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="fissure" tags="n.*"><select lemma="รอยแยก" tags="n.*"/></match>
+    <match lemma="fissure" tags="n.*"><select lemma="รอยแยก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="fist" tags="n.*"><select lemma="หมัด" tags="n.*"/></match>
+    <match lemma="fist" tags="n.*"><select lemma="หมัด# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="fixation" tags="n.*"><select lemma="การตรึง" tags="n.*"/></match>
@@ -8299,7 +8300,7 @@
     <match lemma="flaw" tags="n.*"><select lemma="ข้อผิดพลาด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="flesh" tags="n.*"><select lemma="เนื้อ" tags="n.*"/></match>
+    <match lemma="flesh" tags="n.*"><select lemma="เนื้อ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="flight" tags="n.*"><select lemma="การบิน" tags="n.*"/></match>
@@ -8398,7 +8399,7 @@
     <match lemma="food web" tags="n.*"><select lemma="วงจรอาหาร" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="foot" tags="n.*"><select lemma="บาท" tags="n.*"/></match>
+    <match lemma="foot" tags="n.*"><select lemma="บาท# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="footage" tags="n.*"><select lemma="ท่อนฟิล์ม" tags="n.*"/></match>
@@ -8419,7 +8420,7 @@
     <match lemma="forceps" tags="n.*"><select lemma="คีม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="forehead" tags="n.*"><select lemma="พระนลาฏ" tags="n.*"/></match>
+    <match lemma="forehead" tags="n.*"><select lemma="พระนลาฏ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="foreigner" tags="n.*"><select lemma="คนต่างชาติ" tags="n.*"/></match>
@@ -8431,7 +8432,7 @@
     <match lemma="fork" tags="n.*"><select lemma="ส้อม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="form" tags="n.*"><select lemma="รูปคำ" tags="n.*"/></match>
+    <match lemma="form" tags="n.*"><select lemma="รูปคำ# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="formaldehyde" tags="n.*"><select lemma="เมทานอล" tags="n.*"/></match>
@@ -8458,10 +8459,10 @@
     <match lemma="foundry" tags="n.*"><select lemma="โรงหลอมโลหะ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="fowl" tags="n.*"><select lemma="สัตว์ปีก" tags="n.*"/></match>
+    <match lemma="fowl" tags="n.*"><select lemma="สัตว์ปีก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="fox" tags="n.*"><select lemma="จิ้งจอก" tags="n.*"/></match>
+    <match lemma="fox" tags="n.*"><select lemma="จิ้งจอก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="fraction" tags="n.*"><select lemma="ผลิตภัณฑ์ที่ได้จากการกลั่นลำดับส่วน" tags="n.*"/></match>
@@ -8470,7 +8471,7 @@
     <match lemma="fragility" tags="n.*"><select lemma="ความบอบบาง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="frame" tags="n.*"><select lemma="โครง" tags="n.*"/></match>
+    <match lemma="frame" tags="n.*"><select lemma="โครง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="framework" tags="n.*"><select lemma="แบบจำลอง" tags="n.*"/></match>
@@ -8527,7 +8528,7 @@
     <match lemma="frock" tags="n.*"><select lemma="ชุดกระโปรง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="frog" tags="n.*"><select lemma="กบ" tags="n.*"/></match>
+    <match lemma="frog" tags="n.*"><select lemma="กบ# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="front" tags="n.*"><select lemma="ด้านหน้า" tags="n.*"/></match>
@@ -8572,7 +8573,7 @@
     <match lemma="fungus" tags="n.*"><select lemma="เชื้อรา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="funiculus" tags="n.*"><select lemma="ปล้องหนวด" tags="n.*"/></match>
+    <match lemma="funiculus" tags="n.*"><select lemma="ปล้องหนวด# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="funnel" tags="n.*"><select lemma="รูปกรวย" tags="n.*"/></match>
@@ -8581,7 +8582,7 @@
     <match lemma="fur" tags="n.*"><select lemma="ขนสัตว์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="furniture" tags="n.*"><select lemma="เฟอร์" tags="n.*"/></match>
+    <match lemma="furniture" tags="n.*"><select lemma="เฟอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="furrier" tags="n.*"><select lemma="ช่างตัดเสื้อขนสัตว์" tags="n.*"/></match>
@@ -8608,10 +8609,10 @@
     <match lemma="gall" tags="n.*"><select lemma="ความทะลึ่ง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="gall bladder" tags="n.*"><select lemma="ดี" tags="n.*"/></match>
+    <match lemma="gall bladder" tags="n.*"><select lemma="ดี# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="gallbladder" tags="n.*"><select lemma="ดี" tags="n.*"/></match>
+    <match lemma="gallbladder" tags="n.*"><select lemma="ดี# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="gallery" tags="n.*"><select lemma="อุโมงค์" tags="n.*"/></match>
@@ -8707,7 +8708,7 @@
     <match lemma="genius" tags="n.*"><select lemma="ความฉลาดปราดเปรื่อง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="genre" tags="n.*"><select lemma="แนว" tags="n.*"/></match>
+    <match lemma="genre" tags="n.*"><select lemma="แนว# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="gentleman" tags="n.*"><select lemma="ชายผู้ดี" tags="n.*"/></match>
@@ -8758,13 +8759,13 @@
     <match lemma="glimpse" tags="n.*"><select lemma="การชำเลือง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="globe" tags="n.*"><select lemma="โลก" tags="n.*"/></match>
+    <match lemma="globe" tags="n.*"><select lemma="โลก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="glory" tags="n.*"><select lemma="ความมีชื่อเสียง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="glossary" tags="n.*"><select lemma="ศัพทานุกรม" tags="n.*"/></match>
+    <match lemma="glossary" tags="n.*"><select lemma="ศัพทานุกรม# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="glove" tags="n.*"><select lemma="ถุงมือเบสบอล" tags="n.*"/></match>
@@ -8773,7 +8774,7 @@
     <match lemma="glucocorticoid" tags="n.*"><select lemma="กลูโคคอร์ติคอยด์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="glucose" tags="n.*"><select lemma="น้ำตาลกลูโคส" tags="n.*"/></match>
+    <match lemma="glucose" tags="n.*"><select lemma="น้ำตาลกลูโคส# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="glutamine" tags="n.*"><select lemma="กรดอะมิโนกลูตามีน" tags="n.*"/></match>
@@ -8797,7 +8798,7 @@
     <match lemma="goalkeeper" tags="n.*"><select lemma="ตำแหน่งผู้รักษาประตู" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="goat" tags="n.*"><select lemma="แพะ" tags="n.*"/></match>
+    <match lemma="goat" tags="n.*"><select lemma="แพะ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="god" tags="n.*"><select lemma="พระผู้เป็นเจ้า" tags="n.*"/></match>
@@ -8824,7 +8825,7 @@
     <match lemma="goodness" tags="n.*"><select lemma="คุณประโยชน์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="goose" tags="n.*"><select lemma="ห่าน" tags="n.*"/></match>
+    <match lemma="goose" tags="n.*"><select lemma="ห่าน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="goring" tags="n.*"><select lemma="เกอริง" tags="n.*"/></match>
@@ -8845,7 +8846,7 @@
     <match lemma="government" tags="n.*"><select lemma="รบ." tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="grade" tags="n.*"><select lemma="ชั้น" tags="n.*"/></match>
+    <match lemma="grade" tags="n.*"><select lemma="ชั้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="gradient" tags="n.*"><select lemma="เกรเดียนต์" tags="n.*"/></match>
@@ -8860,10 +8861,10 @@
     <match lemma="grandchild" tags="n.*"><select lemma="หลาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="granddad" tags="n.*"><select lemma="ตา" tags="n.*"/></match>
+    <match lemma="granddad" tags="n.*"><select lemma="ตา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="grandfather" tags="n.*"><select lemma="ตา" tags="n.*"/></match>
+    <match lemma="grandfather" tags="n.*"><select lemma="ตา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="grandma" tags="n.*"><select lemma="ย่า" tags="n.*"/></match>
@@ -8872,7 +8873,7 @@
     <match lemma="grandmother" tags="n.*"><select lemma="ย่า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="grandpa" tags="n.*"><select lemma="ตา" tags="n.*"/></match>
+    <match lemma="grandpa" tags="n.*"><select lemma="ตา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="grandparent" tags="n.*"><select lemma="ปู่ยาตายาย" tags="n.*"/></match>
@@ -8896,7 +8897,7 @@
     <match lemma="grass" tags="n.*"><select lemma="หญ้า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="grasshopper" tags="n.*"><select lemma="ตั๊กแตน" tags="n.*"/></match>
+    <match lemma="grasshopper" tags="n.*"><select lemma="ตั๊กแตน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="gratitude" tags="n.*"><select lemma="การรู้คุณคน" tags="n.*"/></match>
@@ -8911,7 +8912,7 @@
     <match lemma="gravity" tags="n.*"><select lemma="แรงดึงดูด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="grease" tags="n.*"><select lemma="จาระบี" tags="n.*"/></match>
+    <match lemma="grease" tags="n.*"><select lemma="จาระบี# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="greatness" tags="n.*"><select lemma="ความยิ่งใหญ่" tags="n.*"/></match>
@@ -8923,10 +8924,10 @@
     <match lemma="greenness" tags="n.*"><select lemma="ความเขียวสด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="grenadier" tags="n.*"><select lemma="ปลากรีนาเดียร์" tags="n.*"/></match>
+    <match lemma="grenadier" tags="n.*"><select lemma="ปลากรีนาเดียร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="greyhound" tags="n.*"><select lemma="สุนัขพันธุ์เกรย์ฮาวด์" tags="n.*"/></match>
+    <match lemma="greyhound" tags="n.*"><select lemma="สุนัขพันธุ์เกรย์ฮาวด์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="grief" tags="n.*"><select lemma="ความโศกเศร้า" tags="n.*"/></match>
@@ -8941,7 +8942,7 @@
     <match lemma="grinder" tags="n.*"><select lemma="เครื่องขัดโลหะ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="groin" tags="n.*"><select lemma="เป้า" tags="n.*"/></match>
+    <match lemma="groin" tags="n.*"><select lemma="เป้า# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="groom" tags="n.*"><select lemma="เจ้าบ่าว" tags="n.*"/></match>
@@ -8965,10 +8966,10 @@
     <match lemma="guanine" tags="n.*"><select lemma="จี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="guard" tags="n.*"><select lemma="การ์ด" tags="n.*"/></match>
+    <match lemma="guard" tags="n.*"><select lemma="การ์ด# นาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="guard dog" tags="n.*"><select lemma="สุนัขเฝ้ายาม" tags="n.*"/></match>
+    <match lemma="guard dog" tags="n.*"><select lemma="สุนัขเฝ้ายาม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="guardian" tags="n.*"><select lemma="ผู้ปกป้อง" tags="n.*"/></match>
@@ -8986,7 +8987,7 @@
     <match lemma="guidance" tags="n.*"><select lemma="การให้คำปรึกษา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="guide dog" tags="n.*"><select lemma="สุนัขจูงคนตาบอด" tags="n.*"/></match>
+    <match lemma="guide dog" tags="n.*"><select lemma="สุนัขจูงคนตาบอด# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="guideline" tags="n.*"><select lemma="ไกด์ไลน์" tags="n.*"/></match>
@@ -9007,7 +9008,7 @@
     <match lemma="gulf" tags="n.*"><select lemma="ความไม่เชื่อมต่อกัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="gun" tags="n.*"><select lemma="ปืน" tags="n.*"/></match>
+    <match lemma="gun" tags="n.*"><select lemma="ปืน# กระบอก" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="gunman" tags="n.*"><select lemma="มือปืน" tags="n.*"/></match>
@@ -9016,7 +9017,7 @@
     <match lemma="guru" tags="n.*"><select lemma="คุรุ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="gut" tags="n.*"><select lemma="ลำไส้" tags="n.*"/></match>
+    <match lemma="gut" tags="n.*"><select lemma="ลำไส้# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="guy" tags="n.*"><select lemma="หนุ่ม" tags="n.*"/></match>
@@ -9052,7 +9053,7 @@
     <match lemma="hafnium" tags="n.*"><select lemma="แฮฟเนียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hair" tags="n.*"><select lemma="ขน" tags="n.*"/></match>
+    <match lemma="hair" tags="n.*"><select lemma="ขน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="haircut" tags="n.*"><select lemma="ทรงผม" tags="n.*"/></match>
@@ -9061,7 +9062,7 @@
     <match lemma="hairdresser" tags="n.*"><select lemma="ช่างทำผม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hake" tags="n.*"><select lemma="ปลาเฮค" tags="n.*"/></match>
+    <match lemma="hake" tags="n.*"><select lemma="ปลาเฮค# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="half" tags="n.*"><select lemma="หนึ่งส่วนสอง" tags="n.*"/></match>
@@ -9085,16 +9086,16 @@
     <match lemma="hamburger" tags="n.*"><select lemma="เนื้อบด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hammock" tags="n.*"><select lemma="เปลญวน" tags="n.*"/></match>
+    <match lemma="hammock" tags="n.*"><select lemma="เปลญวน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hamster" tags="n.*"><select lemma="หนูแฮมสเตอร์" tags="n.*"/></match>
+    <match lemma="hamster" tags="n.*"><select lemma="หนูแฮมสเตอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hamstring" tags="n.*"><select lemma="เส้นเอ็นหลังหัวเข่า" tags="n.*"/></match>
+    <match lemma="hamstring" tags="n.*"><select lemma="เส้นเอ็นหลังหัวเข่า# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hand" tags="n.*"><select lemma="มือ" tags="n.*"/></match>
+    <match lemma="hand" tags="n.*"><select lemma="มือ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="handball" tags="n.*"><select lemma="แฮนด์บอล" tags="n.*"/></match>
@@ -9124,7 +9125,7 @@
     <match lemma="hardware" tags="n.*"><select lemma="อาวุธหนัก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hare" tags="n.*"><select lemma="กระต่ายป่า" tags="n.*"/></match>
+    <match lemma="hare" tags="n.*"><select lemma="กระต่ายป่า# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="harm" tags="n.*"><select lemma="การบาดเจ็บ" tags="n.*"/></match>
@@ -9163,7 +9164,7 @@
     <match lemma="hazelnut" tags="n.*"><select lemma="ถั่วเฮเซล" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="head" tags="n.*"><select lemma="หัว" tags="n.*"/></match>
+    <match lemma="head" tags="n.*"><select lemma="หัว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="header" tags="n.*"><select lemma="การกระโดดไปข้างหน้า" tags="n.*"/></match>
@@ -9211,7 +9212,7 @@
     <match lemma="helmet" tags="n.*"><select lemma="หมวกนิรภัย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="helminth" tags="n.*"><select lemma="พยาธิในลำไส้" tags="n.*"/></match>
+    <match lemma="helminth" tags="n.*"><select lemma="พยาธิในลำไส้# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="hem" tags="n.*"><select lemma="ริมผ้า" tags="n.*"/></match>
@@ -9223,7 +9224,7 @@
     <match lemma="hemisphere" tags="n.*"><select lemma="ซีกโลก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hemoglobin" tags="n.*"><select lemma="ฮีโมโกลบิน" tags="n.*"/></match>
+    <match lemma="hemoglobin" tags="n.*"><select lemma="ฮีโมโกลบิน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="hemorrhoid" tags="n.*"><select lemma="ริดสีดวงทวาร" tags="n.*"/></match>
@@ -9232,7 +9233,7 @@
     <match lemma="hemp" tags="n.*"><select lemma="บ่วงเชือกประหาร" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hen" tags="n.*"><select lemma="แม่ไก่" tags="n.*"/></match>
+    <match lemma="hen" tags="n.*"><select lemma="แม่ไก่# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="herb" tags="n.*"><select lemma="สมุนไพร" tags="n.*"/></match>
@@ -9259,10 +9260,10 @@
     <match lemma="herpes" tags="n.*"><select lemma="ไวรัสเริม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="herring" tags="n.*"><select lemma="ปลาเฮอร์ริง" tags="n.*"/></match>
+    <match lemma="herring" tags="n.*"><select lemma="ปลาเฮอร์ริง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hexose" tags="n.*"><select lemma="น้ำตาลเฮกโซส" tags="n.*"/></match>
+    <match lemma="hexose" tags="n.*"><select lemma="น้ำตาลเฮกโซส# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="hiccough" tags="n.*"><select lemma="การสะอึก" tags="n.*"/></match>
@@ -9298,10 +9299,10 @@
     <match lemma="hinduism" tags="n.*"><select lemma="ลัทธิฮินดู" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hip" tags="n.*"><select lemma="สะโพก" tags="n.*"/></match>
+    <match lemma="hip" tags="n.*"><select lemma="สะโพก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hippopotamus" tags="n.*"><select lemma="ฮิปโปโปเตมัส" tags="n.*"/></match>
+    <match lemma="hippopotamus" tags="n.*"><select lemma="ฮิปโปโปเตมัส# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="historian" tags="n.*"><select lemma="นักประวัติศาสตร์" tags="n.*"/></match>
@@ -9331,7 +9332,7 @@
     <match lemma="hockey" tags="n.*"><select lemma="ฮอกกี้น้ำแข็ง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hole" tags="n.*"><select lemma="รู" tags="n.*"/></match>
+    <match lemma="hole" tags="n.*"><select lemma="รู# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="holiday" tags="n.*"><select lemma="วันหยุด" tags="n.*"/></match>
@@ -9397,7 +9398,7 @@
     <match lemma="hornblende" tags="n.*"><select lemma="ฮอร์นเบลนด์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="horse" tags="n.*"><select lemma="ม้า" tags="n.*"/></match>
+    <match lemma="horse" tags="n.*"><select lemma="ม้า# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="hose" tags="n.*"><select lemma="ท่อสายยาง" tags="n.*"/></match>
@@ -9445,7 +9446,7 @@
     <match lemma="hovercraft" tags="n.*"><select lemma="ยานสะเทินน้ำสะเทินบก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="human being" tags="n.*"><select lemma="คน" tags="n.*"/></match>
+    <match lemma="human being" tags="n.*"><select lemma="คน# คน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="humanism" tags="n.*"><select lemma="มนุษยนิยม" tags="n.*"/></match>
@@ -9514,7 +9515,7 @@
     <match lemma="hydroxide" tags="n.*"><select lemma="ไฮดรอกไซด์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hyena" tags="n.*"><select lemma="หมาป่าไฮยีน่า" tags="n.*"/></match>
+    <match lemma="hyena" tags="n.*"><select lemma="หมาป่าไฮยีน่า# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="hymn" tags="n.*"><select lemma="เพลงสดุดี" tags="n.*"/></match>
@@ -9538,7 +9539,7 @@
     <match lemma="hypocrisy" tags="n.*"><select lemma="การแสร้งทำ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="hypophysis" tags="n.*"><select lemma="ต่อมพิทูอิตารี" tags="n.*"/></match>
+    <match lemma="hypophysis" tags="n.*"><select lemma="ต่อมพิทูอิตารี# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="hypothesis" tags="n.*"><select lemma="สมมุติฐาน" tags="n.*"/></match>
@@ -9667,7 +9668,7 @@
     <match lemma="incentive" tags="n.*"><select lemma="สิ่งจูงใจ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="inch" tags="n.*"><select lemma="นิ้ว" tags="n.*"/></match>
+    <match lemma="inch" tags="n.*"><select lemma="นิ้ว# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="incision" tags="n.*"><select lemma="การผ่าตัด" tags="n.*"/></match>
@@ -9685,7 +9686,7 @@
     <match lemma="incubation" tags="n.*"><select lemma="การกก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="inculpation" tags="n.*"><select lemma="การกล่าวโทษ" tags="n.*"/></match>
+    <match lemma="inculpation" tags="n.*"><select lemma="การกล่าวโทษ# กระทง" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="indebtedness" tags="n.*"><select lemma="การเป็นหนี้" tags="n.*"/></match>
@@ -9694,22 +9695,22 @@
     <match lemma="independence" tags="n.*"><select lemma="เอกราช" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="index" tags="n.*"><select lemma="ดัชนี" tags="n.*"/></match>
+    <match lemma="index" tags="n.*"><select lemma="ดัชนี# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="index finger" tags="n.*"><select lemma="ชี้" tags="n.*"/></match>
+    <match lemma="index finger" tags="n.*"><select lemma="ชี้# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="indication" tags="n.*"><select lemma="สิ่งชี้บอก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="indicator" tags="n.*"><select lemma="ดัชนี" tags="n.*"/></match>
+    <match lemma="indicator" tags="n.*"><select lemma="ดัชนี# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="indigo" tags="n.*"><select lemma="สีอินดิโก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="individual" tags="n.*"><select lemma="คน" tags="n.*"/></match>
+    <match lemma="individual" tags="n.*"><select lemma="คน# คน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="indorsement" tags="n.*"><select lemma="การลงชื่อ" tags="n.*"/></match>
@@ -9733,7 +9734,7 @@
     <match lemma="infancy" tags="n.*"><select lemma="วัยทารก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="infant" tags="n.*"><select lemma="ทารก" tags="n.*"/></match>
+    <match lemma="infant" tags="n.*"><select lemma="ทารก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="infanticide" tags="n.*"><select lemma="การฆาตกรรมทารก" tags="n.*"/></match>
@@ -9787,7 +9788,7 @@
     <match lemma="ingredient" tags="n.*"><select lemma="ส่วนผสม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ingrown toenail" tags="n.*"><select lemma="เล็บขบ" tags="n.*"/></match>
+    <match lemma="ingrown toenail" tags="n.*"><select lemma="เล็บขบ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="inhabitant" tags="n.*"><select lemma="ผู้อยู่อาศัย" tags="n.*"/></match>
@@ -9847,13 +9848,13 @@
     <match lemma="inquiry" tags="n.*"><select lemma="การค้นคว้า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="insect" tags="n.*"><select lemma="แมลง" tags="n.*"/></match>
+    <match lemma="insect" tags="n.*"><select lemma="แมลง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="insecticide" tags="n.*"><select lemma="ยาฆ่าแมลง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="insectivore" tags="n.*"><select lemma="สิ่งมีชีวิตที่กินแมลง" tags="n.*"/></match>
+    <match lemma="insectivore" tags="n.*"><select lemma="สิ่งมีชีวิตที่กินแมลง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="insight" tags="n.*"><select lemma="การเข้าใจ" tags="n.*"/></match>
@@ -10018,7 +10019,7 @@
     <match lemma="island" tags="n.*"><select lemma="เกาะ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="isthmus" tags="n.*"><select lemma="คอคอด" tags="n.*"/></match>
+    <match lemma="isthmus" tags="n.*"><select lemma="คอคอด# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="iteration" tags="n.*"><select lemma="การพูดซ้ำ" tags="n.*"/></match>
@@ -10027,13 +10028,13 @@
     <match lemma="itinerary" tags="n.*"><select lemma="แผนการเดินทาง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ivory" tags="n.*"><select lemma="งา" tags="n.*"/></match>
+    <match lemma="ivory" tags="n.*"><select lemma="งา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="ivy" tags="n.*"><select lemma="ต้นไอวี่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="jackal" tags="n.*"><select lemma="หมาจิ้งจอก" tags="n.*"/></match>
+    <match lemma="jackal" tags="n.*"><select lemma="หมาจิ้งจอก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="jacket" tags="n.*"><select lemma="เสื้อแจ็คเก็ต" tags="n.*"/></match>
@@ -10066,10 +10067,10 @@
     <match lemma="javelin" tags="n.*"><select lemma="แหลน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="jawbone" tags="n.*"><select lemma="กระดูกขากรรไกรล่าง" tags="n.*"/></match>
+    <match lemma="jawbone" tags="n.*"><select lemma="กระดูกขากรรไกรล่าง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="jay" tags="n.*"><select lemma="นกเจย์" tags="n.*"/></match>
+    <match lemma="jay" tags="n.*"><select lemma="นกเจย์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="jazz" tags="n.*"><select lemma="แจ๊ส" tags="n.*"/></match>
@@ -10081,10 +10082,10 @@
     <match lemma="jelly" tags="n.*"><select lemma="เยลลี่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="jellyfish" tags="n.*"><select lemma="แมงกะพรุน" tags="n.*"/></match>
+    <match lemma="jellyfish" tags="n.*"><select lemma="แมงกะพรุน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="jersey" tags="n.*"><select lemma="โคนมพันธุ์เจอร์ซี่" tags="n.*"/></match>
+    <match lemma="jersey" tags="n.*"><select lemma="โคนมพันธุ์เจอร์ซี่# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="jest" tags="n.*"><select lemma="มุข" tags="n.*"/></match>
@@ -10117,7 +10118,7 @@
     <match lemma="journal" tags="n.*"><select lemma="บันทึกประจำวัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="journalism" tags="n.*"><select lemma="วารสาร" tags="n.*"/></match>
+    <match lemma="journalism" tags="n.*"><select lemma="วารสาร# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="journalist" tags="n.*"><select lemma="นักหนังสือพิมพ์" tags="n.*"/></match>
@@ -10171,13 +10172,13 @@
     <match lemma="kaolinite" tags="n.*"><select lemma="คาโอลิไนต์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="keel" tags="n.*"><select lemma="กระดูกงูเรือ" tags="n.*"/></match>
+    <match lemma="keel" tags="n.*"><select lemma="กระดูกงูเรือ# ชิ้น" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="kennel" tags="n.*"><select lemma="บ้านสุนัข" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="keratin" tags="n.*"><select lemma="เคราติน" tags="n.*"/></match>
+    <match lemma="keratin" tags="n.*"><select lemma="เคราติน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="kerb" tags="n.*"><select lemma="ขอบถนน" tags="n.*"/></match>
@@ -10198,13 +10199,13 @@
     <match lemma="kickoff" tags="n.*"><select lemma="การเขี่ยลูก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="kid" tags="n.*"><select lemma="เด็ก" tags="n.*"/></match>
+    <match lemma="kid" tags="n.*"><select lemma="เด็ก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="kidnapper" tags="n.*"><select lemma="โจรลักพาตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="kidney" tags="n.*"><select lemma="ไต" tags="n.*"/></match>
+    <match lemma="kidney" tags="n.*"><select lemma="ไต# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="killer" tags="n.*"><select lemma="คนฆ่า" tags="n.*"/></match>
@@ -10246,22 +10247,22 @@
     <match lemma="kitchen garden" tags="n.*"><select lemma="สวนครัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="kite" tags="n.*"><select lemma="นกไคต์" tags="n.*"/></match>
+    <match lemma="kite" tags="n.*"><select lemma="นกไคต์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="kiwi" tags="n.*"><select lemma="นกกีวี" tags="n.*"/></match>
+    <match lemma="kiwi" tags="n.*"><select lemma="นกกีวี# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="km" tags="n.*"><select lemma="กิโล" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="knee" tags="n.*"><select lemma="เข่า" tags="n.*"/></match>
+    <match lemma="knee" tags="n.*"><select lemma="เข่า# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="knickers" tags="n.*"><select lemma="กางเกงชั้นในสตรี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="knife" tags="n.*"><select lemma="มีด" tags="n.*"/></match>
+    <match lemma="knife" tags="n.*"><select lemma="มีด# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="knight" tags="n.*"><select lemma="อัศวิน" tags="n.*"/></match>
@@ -10273,7 +10274,7 @@
     <match lemma="knot" tags="n.*"><select lemma="เงื่อน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="knuckle" tags="n.*"><select lemma="ข้อนิ้ว" tags="n.*"/></match>
+    <match lemma="knuckle" tags="n.*"><select lemma="ข้อนิ้ว# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="krypton" tags="n.*"><select lemma="คริปทอน" tags="n.*"/></match>
@@ -10312,7 +10313,7 @@
     <match lemma="lady" tags="n.*"><select lemma="สุภาพสตรี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lagoon" tags="n.*"><select lemma="ทะเลสาบน้ำเค็ม" tags="n.*"/></match>
+    <match lemma="lagoon" tags="n.*"><select lemma="ทะเลสาบน้ำเค็ม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="lair" tags="n.*"><select lemma="รัง" tags="n.*"/></match>
@@ -10321,19 +10322,19 @@
     <match lemma="laity" tags="n.*"><select lemma="ฆราวาส" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lamb" tags="n.*"><select lemma="ลูกแกะ" tags="n.*"/></match>
+    <match lemma="lamb" tags="n.*"><select lemma="ลูกแกะ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lambda" tags="n.*"><select lemma="แลมบ์ดา" tags="n.*"/></match>
+    <match lemma="lambda" tags="n.*"><select lemma="แลมบ์ดา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lamellibranch" tags="n.*"><select lemma="หอยกาบคู่" tags="n.*"/></match>
+    <match lemma="lamellibranch" tags="n.*"><select lemma="หอยกาบคู่# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="lamp" tags="n.*"><select lemma="ตะเกียง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lancet" tags="n.*"><select lemma="มีดผ่าตัด" tags="n.*"/></match>
+    <match lemma="lancet" tags="n.*"><select lemma="มีดผ่าตัด# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="land" tags="n.*"><select lemma="ที่ดิน" tags="n.*"/></match>
@@ -10363,7 +10364,7 @@
     <match lemma="lanthanide" tags="n.*"><select lemma="กลุ่มธาตุแลนทาไนด์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lap" tags="n.*"><select lemma="ตัก" tags="n.*"/></match>
+    <match lemma="lap" tags="n.*"><select lemma="ตัก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="lapse" tags="n.*"><select lemma="การมองข้าม" tags="n.*"/></match>
@@ -10408,7 +10409,7 @@
     <match lemma="lawyer" tags="n.*"><select lemma="ทนาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="layer" tags="n.*"><select lemma="ชั้น" tags="n.*"/></match>
+    <match lemma="layer" tags="n.*"><select lemma="ชั้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="leader" tags="n.*"><select lemma="ผู้นำ" tags="n.*"/></match>
@@ -10438,7 +10439,7 @@
     <match lemma="lecturer" tags="n.*"><select lemma="ผู้บรรยาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="leech" tags="n.*"><select lemma="ทาก" tags="n.*"/></match>
+    <match lemma="leech" tags="n.*"><select lemma="ทาก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="leek" tags="n.*"><select lemma="ลีค" tags="n.*"/></match>
@@ -10447,7 +10448,7 @@
     <match lemma="left-winger" tags="n.*"><select lemma="ฝ่ายซ้าย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="leg" tags="n.*"><select lemma="ขา" tags="n.*"/></match>
+    <match lemma="leg" tags="n.*"><select lemma="ขา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="legalism" tags="n.*"><select lemma="กฎนิยม" tags="n.*"/></match>
@@ -10456,7 +10457,7 @@
     <match lemma="legend" tags="n.*"><select lemma="ตำนาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="legionary" tags="n.*"><select lemma="ทหารต่างด้าว" tags="n.*"/></match>
+    <match lemma="legionary" tags="n.*"><select lemma="ทหารต่างด้าว# นาย" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="legume" tags="n.*"><select lemma="ต้นลีกูม" tags="n.*"/></match>
@@ -10480,7 +10481,7 @@
     <match lemma="lens" tags="n.*"><select lemma="เลนส์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="leopard" tags="n.*"><select lemma="เสือดาว" tags="n.*"/></match>
+    <match lemma="leopard" tags="n.*"><select lemma="เสือดาว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="lesbian" tags="n.*"><select lemma="ชาวเลสเบียน" tags="n.*"/></match>
@@ -10534,7 +10535,7 @@
     <match lemma="licking" tags="n.*"><select lemma="การประสบความพ่ายแพ้" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lid" tags="n.*"><select lemma="เปลือกตา" tags="n.*"/></match>
+    <match lemma="lid" tags="n.*"><select lemma="เปลือกตา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="lieutenant" tags="n.*"><select lemma="ร้อย" tags="n.*"/></match>
@@ -10594,10 +10595,10 @@
     <match lemma="linguistics" tags="n.*"><select lemma="ภาษาศาสตร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lion" tags="n.*"><select lemma="สิงโต" tags="n.*"/></match>
+    <match lemma="lion" tags="n.*"><select lemma="สิงโต# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lip" tags="n.*"><select lemma="ริมฝีปาก" tags="n.*"/></match>
+    <match lemma="lip" tags="n.*"><select lemma="ริมฝีปาก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="lipstick" tags="n.*"><select lemma="ลิป" tags="n.*"/></match>
@@ -10633,7 +10634,7 @@
     <match lemma="litter" tags="n.*"><select lemma="ครอก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="little finger" tags="n.*"><select lemma="ก้อย" tags="n.*"/></match>
+    <match lemma="little finger" tags="n.*"><select lemma="ก้อย# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="liturgy" tags="n.*"><select lemma="พิธีสวด" tags="n.*"/></match>
@@ -10642,13 +10643,13 @@
     <match lemma="liveliness" tags="n.*"><select lemma="ความมีชีวิตชีวา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="liver" tags="n.*"><select lemma="ตับ" tags="n.*"/></match>
+    <match lemma="liver" tags="n.*"><select lemma="ตับ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="livestock" tags="n.*"><select lemma="ปศุสัตว์" tags="n.*"/></match>
+    <match lemma="livestock" tags="n.*"><select lemma="ปศุสัตว์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lizard" tags="n.*"><select lemma="กิ้งก่า" tags="n.*"/></match>
+    <match lemma="lizard" tags="n.*"><select lemma="กิ้งก่า# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="load" tags="n.*"><select lemma="ระวาง" tags="n.*"/></match>
@@ -10657,7 +10658,7 @@
     <match lemma="loan" tags="n.*"><select lemma="เงินกู้" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lobe" tags="n.*"><select lemma="ติ่งหู" tags="n.*"/></match>
+    <match lemma="lobe" tags="n.*"><select lemma="ติ่งหู# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="location" tags="n.*"><select lemma="ตำแหน่ง" tags="n.*"/></match>
@@ -10714,7 +10715,7 @@
     <match lemma="lottery" tags="n.*"><select lemma="การซื้อลอตเตอรี่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="louse" tags="n.*"><select lemma="หมัด" tags="n.*"/></match>
+    <match lemma="louse" tags="n.*"><select lemma="หมัด# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="loveliness" tags="n.*"><select lemma="ความน่ารัก" tags="n.*"/></match>
@@ -10735,7 +10736,7 @@
     <match lemma="lumber" tags="n.*"><select lemma="ไม้ที่เลื่อยเป็นท่อน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lump" tags="n.*"><select lemma="ก้อน" tags="n.*"/></match>
+    <match lemma="lump" tags="n.*"><select lemma="ก้อน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="lunch" tags="n.*"><select lemma="ข้าวเที่ยง" tags="n.*"/></match>
@@ -10744,7 +10745,7 @@
     <match lemma="lunchtime" tags="n.*"><select lemma="เวลาข้าวเที่ยง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="lung" tags="n.*"><select lemma="ปอด" tags="n.*"/></match>
+    <match lemma="lung" tags="n.*"><select lemma="ปอด# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="lutein" tags="n.*"><select lemma="รงควัตถุในพืชที่มีสีเหลือง" tags="n.*"/></match>
@@ -10768,7 +10769,7 @@
     <match lemma="machine translation" tags="n.*"><select lemma="การแปลภาษาด้วยคอมพิวเตอร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mackerel" tags="n.*"><select lemma="ปลาแมกเคอเรล" tags="n.*"/></match>
+    <match lemma="mackerel" tags="n.*"><select lemma="ปลาแมกเคอเรล# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="macula" tags="n.*"><select lemma="มาคิวลา" tags="n.*"/></match>
@@ -10813,7 +10814,7 @@
     <match lemma="magnitude" tags="n.*"><select lemma="ขนาด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="magpie" tags="n.*"><select lemma="นกแม็กพาย" tags="n.*"/></match>
+    <match lemma="magpie" tags="n.*"><select lemma="นกแม็กพาย# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="mahogany" tags="n.*"><select lemma="ไม้มะฮอกกานี" tags="n.*"/></match>
@@ -10855,7 +10856,7 @@
     <match lemma="malt" tags="n.*"><select lemma="มอลต์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="maltose" tags="n.*"><select lemma="มอลโทส" tags="n.*"/></match>
+    <match lemma="maltose" tags="n.*"><select lemma="มอลโทส# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="mambo" tags="n.*"><select lemma="การเต้นแมมโบ้" tags="n.*"/></match>
@@ -10921,7 +10922,7 @@
     <match lemma="mansion" tags="n.*"><select lemma="คฤหาสน์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="manual" tags="n.*"><select lemma="คู่มือ" tags="n.*"/></match>
+    <match lemma="manual" tags="n.*"><select lemma="คู่มือ# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="manufacturer" tags="n.*"><select lemma="ผู้ผลิต" tags="n.*"/></match>
@@ -10945,7 +10946,7 @@
     <match lemma="marchioness" tags="n.*"><select lemma="มาร์ควิส" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mare" tags="n.*"><select lemma="ม้าตัวเมีย" tags="n.*"/></match>
+    <match lemma="mare" tags="n.*"><select lemma="ม้าตัวเมีย# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="margarine" tags="n.*"><select lemma="มาการีน" tags="n.*"/></match>
@@ -10984,16 +10985,16 @@
     <match lemma="marriage" tags="n.*"><select lemma="การสมรส" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="marrow" tags="n.*"><select lemma="ไขกระดูก" tags="n.*"/></match>
+    <match lemma="marrow" tags="n.*"><select lemma="ไขกระดูก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="marsh" tags="n.*"><select lemma="แอ่งน้ำ" tags="n.*"/></match>
+    <match lemma="marsh" tags="n.*"><select lemma="แอ่งน้ำ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="marshal" tags="n.*"><select lemma="พนักงานศาล" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="marsupial" tags="n.*"><select lemma="มาร์ซูเปียล" tags="n.*"/></match>
+    <match lemma="marsupial" tags="n.*"><select lemma="มาร์ซูเปียล# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="martyr" tags="n.*"><select lemma="ผู้ทุกข์ทรมานเพื่อหลักการ" tags="n.*"/></match>
@@ -11026,7 +11027,7 @@
     <match lemma="mat" tags="n.*"><select lemma="เสื่อ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="material" tags="n.*"><select lemma="วัตถุ" tags="n.*"/></match>
+    <match lemma="material" tags="n.*"><select lemma="วัตถุ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="materialisation" tags="n.*"><select lemma="ผล" tags="n.*"/></match>
@@ -11059,7 +11060,7 @@
     <match lemma="matter" tags="n.*"><select lemma="เรื่องอื้อฉาว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mattress" tags="n.*"><select lemma="ที่นอน" tags="n.*"/></match>
+    <match lemma="mattress" tags="n.*"><select lemma="ที่นอน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="maturity" tags="n.*"><select lemma="วัยผู้ใหญ่" tags="n.*"/></match>
@@ -11068,7 +11069,7 @@
     <match lemma="mausoleum" tags="n.*"><select lemma="หลุมฝังศพขนาดใหญ่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="maverick" tags="n.*"><select lemma="สัตว์ที่ยังไม่ตีตรา" tags="n.*"/></match>
+    <match lemma="maverick" tags="n.*"><select lemma="สัตว์ที่ยังไม่ตีตรา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="maxwell" tags="n.*"><select lemma="แมกซเวลล์" tags="n.*"/></match>
@@ -11086,7 +11087,7 @@
     <match lemma="measurement" tags="n.*"><select lemma="การวัด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="meat" tags="n.*"><select lemma="เนื้อ" tags="n.*"/></match>
+    <match lemma="meat" tags="n.*"><select lemma="เนื้อ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="mechanic" tags="n.*"><select lemma="ช่างยนต์" tags="n.*"/></match>
@@ -11152,7 +11153,7 @@
     <match lemma="menstruation" tags="n.*"><select lemma="ระดู" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mentality" tags="n.*"><select lemma="สมอง" tags="n.*"/></match>
+    <match lemma="mentality" tags="n.*"><select lemma="สมอง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="menu" tags="n.*"><select lemma="เมนู" tags="n.*"/></match>
@@ -11239,7 +11240,7 @@
     <match lemma="middle" tags="n.*"><select lemma="ศูนย์กลาง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="middle finger" tags="n.*"><select lemma="กลาง" tags="n.*"/></match>
+    <match lemma="middle finger" tags="n.*"><select lemma="กลาง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="midnight" tags="n.*"><select lemma="สองยาม" tags="n.*"/></match>
@@ -11263,7 +11264,7 @@
     <match lemma="military action" tags="n.*"><select lemma="การรบ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="milk" tags="n.*"><select lemma="นม" tags="n.*"/></match>
+    <match lemma="milk" tags="n.*"><select lemma="นม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="mill" tags="n.*"><select lemma="ร.ง." tags="n.*"/></match>
@@ -11287,7 +11288,7 @@
     <match lemma="mimosa" tags="n.*"><select lemma="มิโมซ่า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mind" tags="n.*"><select lemma="หัว" tags="n.*"/></match>
+    <match lemma="mind" tags="n.*"><select lemma="หัว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="mine" tags="n.*"><select lemma="เหมือง" tags="n.*"/></match>
@@ -11314,7 +11315,7 @@
     <match lemma="ministry" tags="n.*"><select lemma="ตึกกระทรวง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mink" tags="n.*"><select lemma="มิงค์" tags="n.*"/></match>
+    <match lemma="mink" tags="n.*"><select lemma="มิงค์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="minority" tags="n.*"><select lemma="ชนกลุ่มน้อย" tags="n.*"/></match>
@@ -11395,10 +11396,10 @@
     <match lemma="molding" tags="n.*"><select lemma="การหล่อ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mole" tags="n.*"><select lemma="ตัวตุ่น" tags="n.*"/></match>
+    <match lemma="mole" tags="n.*"><select lemma="ตัวตุ่น# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="molecule" tags="n.*"><select lemma="โมเลกุล" tags="n.*"/></match>
+    <match lemma="molecule" tags="n.*"><select lemma="โมเลกุล# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="molybdenum" tags="n.*"><select lemma="ธาตุโมลิบดินัม" tags="n.*"/></match>
@@ -11419,7 +11420,7 @@
     <match lemma="monk" tags="n.*"><select lemma="พระ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="monkey" tags="n.*"><select lemma="ลิง" tags="n.*"/></match>
+    <match lemma="monkey" tags="n.*"><select lemma="ลิง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="monocle" tags="n.*"><select lemma="แว่นตา" tags="n.*"/></match>
@@ -11440,7 +11441,7 @@
     <match lemma="monopoly" tags="n.*"><select lemma="ตลาดผูกขาด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="monotreme" tags="n.*"><select lemma="สัตว์เลี้ยงลูกด้วยน้ำนมที่ออกลูกเป็นไข่" tags="n.*"/></match>
+    <match lemma="monotreme" tags="n.*"><select lemma="สัตว์เลี้ยงลูกด้วยน้ำนมที่ออกลูกเป็นไข่# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="monsoon" tags="n.*"><select lemma="ลมมรสุม" tags="n.*"/></match>
@@ -11518,7 +11519,7 @@
     <match lemma="motorway" tags="n.*"><select lemma="ซุปเปอร์ไฮเวย์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mountain" tags="n.*"><select lemma="เขา" tags="n.*"/></match>
+    <match lemma="mountain" tags="n.*"><select lemma="เขา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="mountain range" tags="n.*"><select lemma="เทือก" tags="n.*"/></match>
@@ -11530,13 +11531,13 @@
     <match lemma="mountaineering" tags="n.*"><select lemma="การปีนเขา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mouse" tags="n.*"><select lemma="หนู" tags="n.*"/></match>
+    <match lemma="mouse" tags="n.*"><select lemma="หนู# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="moustache" tags="n.*"><select lemma="หนวด" tags="n.*"/></match>
+    <match lemma="moustache" tags="n.*"><select lemma="หนวด# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mouth" tags="n.*"><select lemma="ช่องปาก" tags="n.*"/></match>
+    <match lemma="mouth" tags="n.*"><select lemma="ช่องปาก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="movement" tags="n.*"><select lemma="การขยับ" tags="n.*"/></match>
@@ -11548,10 +11549,10 @@
     <match lemma="mucilage" tags="n.*"><select lemma="กาว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mucin" tags="n.*"><select lemma="มูซิน" tags="n.*"/></match>
+    <match lemma="mucin" tags="n.*"><select lemma="มูซิน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mucosa" tags="n.*"><select lemma="ชั้นเยื่อเมือก" tags="n.*"/></match>
+    <match lemma="mucosa" tags="n.*"><select lemma="ชั้นเยื่อเมือก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="mucus" tags="n.*"><select lemma="เมือก" tags="n.*"/></match>
@@ -11581,7 +11582,7 @@
     <match lemma="murderer" tags="n.*"><select lemma="ฆาตกร" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="muscle" tags="n.*"><select lemma="กล้ามเนื้อ" tags="n.*"/></match>
+    <match lemma="muscle" tags="n.*"><select lemma="กล้ามเนื้อ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="muscovite" tags="n.*"><select lemma="ชาวมอสโคว์" tags="n.*"/></match>
@@ -11602,7 +11603,7 @@
     <match lemma="muslin" tags="n.*"><select lemma="มัสลิน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="mussel" tags="n.*"><select lemma="หอยแมลงภู่" tags="n.*"/></match>
+    <match lemma="mussel" tags="n.*"><select lemma="หอยแมลงภู่# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="must" tags="n.*"><select lemma="กลิ่นเหม็นอับ" tags="n.*"/></match>
@@ -11614,7 +11615,7 @@
     <match lemma="mutant" tags="n.*"><select lemma="สิ่งมีชีวิตกลายพันธุ์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="muzzle" tags="n.*"><select lemma="ปากและจมูก" tags="n.*"/></match>
+    <match lemma="muzzle" tags="n.*"><select lemma="ปากและจมูก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="mystery" tags="n.*"><select lemma="ปริศนา" tags="n.*"/></match>
@@ -11635,7 +11636,7 @@
     <match lemma="name" tags="n.*"><select lemma="ชื่อ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="nanny" tags="n.*"><select lemma="แม่แพะ" tags="n.*"/></match>
+    <match lemma="nanny" tags="n.*"><select lemma="แม่แพะ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="napkin" tags="n.*"><select lemma="ผ้าอ้อม" tags="n.*"/></match>
@@ -11695,7 +11696,7 @@
     <match lemma="nebulizer" tags="n.*"><select lemma="ขวดฉีดพ่น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="neck" tags="n.*"><select lemma="คอ" tags="n.*"/></match>
+    <match lemma="neck" tags="n.*"><select lemma="คอ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="necropolis" tags="n.*"><select lemma="สุสาน" tags="n.*"/></match>
@@ -11716,7 +11717,7 @@
     <match lemma="negotiation" tags="n.*"><select lemma="การเจรจา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="nematode" tags="n.*"><select lemma="พยาธิหนอนกลม" tags="n.*"/></match>
+    <match lemma="nematode" tags="n.*"><select lemma="พยาธิหนอนกลม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="neodymium" tags="n.*"><select lemma="นีโอดิเมียม" tags="n.*"/></match>
@@ -11731,7 +11732,7 @@
     <match lemma="neptunium" tags="n.*"><select lemma="เนปทูเนียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="nerve" tags="n.*"><select lemma="ประสาท" tags="n.*"/></match>
+    <match lemma="nerve" tags="n.*"><select lemma="ประสาท# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="nest" tags="n.*"><select lemma="รัง" tags="n.*"/></match>
@@ -11761,7 +11762,7 @@
     <match lemma="newton" tags="n.*"><select lemma="นิวตัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="nib" tags="n.*"><select lemma="จะงอย" tags="n.*"/></match>
+    <match lemma="nib" tags="n.*"><select lemma="จะงอย# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="nickel" tags="n.*"><select lemma="นิกเกิล" tags="n.*"/></match>
@@ -11773,7 +11774,7 @@
     <match lemma="night" tags="n.*"><select lemma="กลางคืน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="nightingale" tags="n.*"><select lemma="นกไนติงเกล" tags="n.*"/></match>
+    <match lemma="nightingale" tags="n.*"><select lemma="นกไนติงเกล# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="nightmare" tags="n.*"><select lemma="ฝันร้าย" tags="n.*"/></match>
@@ -11815,10 +11816,10 @@
     <match lemma="nominee" tags="n.*"><select lemma="นอมินี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="noodle" tags="n.*"><select lemma="กบาล" tags="n.*"/></match>
+    <match lemma="noodle" tags="n.*"><select lemma="กบาล# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="nook" tags="n.*"><select lemma="มุม" tags="n.*"/></match>
+    <match lemma="nook" tags="n.*"><select lemma="มุม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="noose" tags="n.*"><select lemma="บ่วง" tags="n.*"/></match>
@@ -11836,19 +11837,19 @@
     <match lemma="northwest" tags="n.*"><select lemma="เขตนอร์ทเวสต์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="nose" tags="n.*"><select lemma="จมูก" tags="n.*"/></match>
+    <match lemma="nose" tags="n.*"><select lemma="จมูก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="nostril" tags="n.*"><select lemma="รูจมูก" tags="n.*"/></match>
+    <match lemma="nostril" tags="n.*"><select lemma="รูจมูก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="notebook" tags="n.*"><select lemma="สมุดบันทึก" tags="n.*"/></match>
+    <match lemma="notebook" tags="n.*"><select lemma="สมุดบันทึก# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="noun" tags="n.*"><select lemma="นาม" tags="n.*"/></match>
+    <match lemma="noun" tags="n.*"><select lemma="นาม# คำ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="novel" tags="n.*"><select lemma="นิยาย" tags="n.*"/></match>
+    <match lemma="novel" tags="n.*"><select lemma="นิยาย# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="novelist" tags="n.*"><select lemma="นักประพันธ์นวนิยาย" tags="n.*"/></match>
@@ -11869,7 +11870,7 @@
     <match lemma="nucleoplasm" tags="n.*"><select lemma="นิวคลีโอพลาซึม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="nucleus" tags="n.*"><select lemma="นิวเคลียส" tags="n.*"/></match>
+    <match lemma="nucleus" tags="n.*"><select lemma="นิวเคลียส# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="nude" tags="n.*"><select lemma="ภาพนู้ด" tags="n.*"/></match>
@@ -11887,7 +11888,7 @@
     <match lemma="nut" tags="n.*"><select lemma="ลูกนัท" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="nutcracker" tags="n.*"><select lemma="นกนัตแครกเกอร์" tags="n.*"/></match>
+    <match lemma="nutcracker" tags="n.*"><select lemma="นกนัตแครกเกอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="nutrient" tags="n.*"><select lemma="อาหาร" tags="n.*"/></match>
@@ -11908,7 +11909,7 @@
     <match lemma="obituary" tags="n.*"><select lemma="ข่าวมรณกรรม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="object" tags="n.*"><select lemma="ของ" tags="n.*"/></match>
+    <match lemma="object" tags="n.*"><select lemma="ของ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="objection" tags="n.*"><select lemma="การคัดค้าน" tags="n.*"/></match>
@@ -11962,7 +11963,7 @@
     <match lemma="occurrence" tags="n.*"><select lemma="เหตุการณ์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ocean" tags="n.*"><select lemma="มหาสมุทร" tags="n.*"/></match>
+    <match lemma="ocean" tags="n.*"><select lemma="มหาสมุทร# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="ochre" tags="n.*"><select lemma="สีโอเคอร์" tags="n.*"/></match>
@@ -11974,7 +11975,7 @@
     <match lemma="octave" tags="n.*"><select lemma="ระยะเวลาเจ็ดวันหลังจากวันอาทิตย์ปาสกา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="octopus" tags="n.*"><select lemma="ปลาหมึกยักษ์" tags="n.*"/></match>
+    <match lemma="octopus" tags="n.*"><select lemma="ปลาหมึกยักษ์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="oddity" tags="n.*"><select lemma="ของแปลก" tags="n.*"/></match>
@@ -12019,7 +12020,7 @@
     <match lemma="ohm" tags="n.*"><select lemma="โอห์ม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="oil" tags="n.*"><select lemma="น้ำมัน" tags="n.*"/></match>
+    <match lemma="oil" tags="n.*"><select lemma="น้ำมัน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="oil industry" tags="n.*"><select lemma="ธุรกิจน้ำมัน" tags="n.*"/></match>
@@ -12118,16 +12119,16 @@
     <match lemma="oregano" tags="n.*"><select lemma="มาร์โ่จแรม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="organ" tags="n.*"><select lemma="อวัยวะ" tags="n.*"/></match>
+    <match lemma="organ" tags="n.*"><select lemma="อวัยวะ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="organelle" tags="n.*"><select lemma="ออร์แกเนลล์" tags="n.*"/></match>
+    <match lemma="organelle" tags="n.*"><select lemma="ออร์แกเนลล์# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="organisation" tags="n.*"><select lemma="การก่อตั้ง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="orifice" tags="n.*"><select lemma="ช่อง" tags="n.*"/></match>
+    <match lemma="orifice" tags="n.*"><select lemma="ช่อง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="origami" tags="n.*"><select lemma="การพับกระดาษ" tags="n.*"/></match>
@@ -12154,10 +12155,10 @@
     <match lemma="ostracism" tags="n.*"><select lemma="การขับออกจากหมู่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ostrich" tags="n.*"><select lemma="นกกระจอกเทศ" tags="n.*"/></match>
+    <match lemma="ostrich" tags="n.*"><select lemma="นกกระจอกเทศ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="otter" tags="n.*"><select lemma="นาก" tags="n.*"/></match>
+    <match lemma="otter" tags="n.*"><select lemma="นาก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="outbreak" tags="n.*"><select lemma="การระบาด" tags="n.*"/></match>
@@ -12184,7 +12185,7 @@
     <match lemma="outset" tags="n.*"><select lemma="ครั้งแรก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ovary" tags="n.*"><select lemma="รังไข่" tags="n.*"/></match>
+    <match lemma="ovary" tags="n.*"><select lemma="รังไข่# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="oven" tags="n.*"><select lemma="เตา" tags="n.*"/></match>
@@ -12196,13 +12197,13 @@
     <match lemma="overture" tags="n.*"><select lemma="เพลงโหมโรง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="oviduct" tags="n.*"><select lemma="ท่อนำไข่" tags="n.*"/></match>
+    <match lemma="oviduct" tags="n.*"><select lemma="ท่อนำไข่# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="ovule" tags="n.*"><select lemma="ไข่อ่อน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="owl" tags="n.*"><select lemma="นกฮูก" tags="n.*"/></match>
+    <match lemma="owl" tags="n.*"><select lemma="นกฮูก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="owner" tags="n.*"><select lemma="เจ้าของทรัพย์สิน" tags="n.*"/></match>
@@ -12217,7 +12218,7 @@
     <match lemma="oxygen" tags="n.*"><select lemma="ออกซิเจน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="oyster" tags="n.*"><select lemma="หอยนางรม" tags="n.*"/></match>
+    <match lemma="oyster" tags="n.*"><select lemma="หอยนางรม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="ozone" tags="n.*"><select lemma="โอโซน" tags="n.*"/></match>
@@ -12247,7 +12248,7 @@
     <match lemma="paddy" tags="n.*"><select lemma="ข้าวเปลือก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="page" tags="n.*"><select lemma="หน้า" tags="n.*"/></match>
+    <match lemma="page" tags="n.*"><select lemma="หน้า# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pagination" tags="n.*"><select lemma="หมายเลขหน้า" tags="n.*"/></match>
@@ -12289,7 +12290,7 @@
     <match lemma="palladium" tags="n.*"><select lemma="แพลเลเดียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="palm" tags="n.*"><select lemma="ฝ่ามือ" tags="n.*"/></match>
+    <match lemma="palm" tags="n.*"><select lemma="ฝ่ามือ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pan" tags="n.*"><select lemma="กระทะ" tags="n.*"/></match>
@@ -12301,7 +12302,7 @@
     <match lemma="pancake" tags="n.*"><select lemma="ขนมแพนเค้ก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="panel" tags="n.*"><select lemma="แผ่น" tags="n.*"/></match>
+    <match lemma="panel" tags="n.*"><select lemma="แผ่น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="panorama" tags="n.*"><select lemma="ภาพพาโนรามา" tags="n.*"/></match>
@@ -12310,7 +12311,7 @@
     <match lemma="pantheism" tags="n.*"><select lemma="สากลเทวนิยม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="panther" tags="n.*"><select lemma="เสือจากัวร์" tags="n.*"/></match>
+    <match lemma="panther" tags="n.*"><select lemma="เสือจากัวร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pants" tags="n.*"><select lemma="กางเกงชั้นในสตรี" tags="n.*"/></match>
@@ -12322,7 +12323,7 @@
     <match lemma="paper" tags="n.*"><select lemma="กระดาษ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="papilla" tags="n.*"><select lemma="พาพิลลา" tags="n.*"/></match>
+    <match lemma="papilla" tags="n.*"><select lemma="พาพิลลา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="papyrus" tags="n.*"><select lemma="ปาปีรัส" tags="n.*"/></match>
@@ -12358,7 +12359,7 @@
     <match lemma="parchment" tags="n.*"><select lemma="หนังพิมพ์เขียน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="parenchyma" tags="n.*"><select lemma="พาเรนไคมา" tags="n.*"/></match>
+    <match lemma="parenchyma" tags="n.*"><select lemma="พาเรนไคมา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="parent" tags="n.*"><select lemma="บุพการี" tags="n.*"/></match>
@@ -12385,7 +12386,7 @@
     <match lemma="parricide" tags="n.*"><select lemma="การฆาตกรรมบุพการี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="parrot" tags="n.*"><select lemma="นกแก้ว" tags="n.*"/></match>
+    <match lemma="parrot" tags="n.*"><select lemma="นกแก้ว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="parsley" tags="n.*"><select lemma="ผักชีฝรั่ง" tags="n.*"/></match>
@@ -12538,7 +12539,7 @@
     <match lemma="pediment" tags="n.*"><select lemma="หน้าจั่ว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="peduncle" tags="n.*"><select lemma="พีดังเคิล" tags="n.*"/></match>
+    <match lemma="peduncle" tags="n.*"><select lemma="พีดังเคิล# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="peephole" tags="n.*"><select lemma="ช่องแอบดู" tags="n.*"/></match>
@@ -12550,10 +12551,10 @@
     <match lemma="pellet" tags="n.*"><select lemma="ลูกปราย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pelvis" tags="n.*"><select lemma="กระดูกบริเวณเชิงกราน" tags="n.*"/></match>
+    <match lemma="pelvis" tags="n.*"><select lemma="กระดูกบริเวณเชิงกราน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pen" tags="n.*"><select lemma="ปากกา" tags="n.*"/></match>
+    <match lemma="pen" tags="n.*"><select lemma="ปากกา# ด้าม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pen name" tags="n.*"><select lemma="นามปากกา" tags="n.*"/></match>
@@ -12568,13 +12569,13 @@
     <match lemma="penetration" tags="n.*"><select lemma="การบุกรุก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="penguin" tags="n.*"><select lemma="นกเพนกวิน" tags="n.*"/></match>
+    <match lemma="penguin" tags="n.*"><select lemma="นกเพนกวิน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="penicillin" tags="n.*"><select lemma="ยาเพนิซิลิน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="penis" tags="n.*"><select lemma="องคชาต" tags="n.*"/></match>
+    <match lemma="penis" tags="n.*"><select lemma="องคชาต# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pennant" tags="n.*"><select lemma="มงกุฎ" tags="n.*"/></match>
@@ -12589,7 +12590,7 @@
     <match lemma="pentagon" tags="n.*"><select lemma="ตึกเพนตากอน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pentose" tags="n.*"><select lemma="น้ำตาลเพนโตส" tags="n.*"/></match>
+    <match lemma="pentose" tags="n.*"><select lemma="น้ำตาลเพนโตส# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="percent" tags="n.*"><select lemma="ร้อยละ" tags="n.*"/></match>
@@ -12637,7 +12638,7 @@
     <match lemma="persistence" tags="n.*"><select lemma="การต่อเนื่อง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="person" tags="n.*"><select lemma="คน" tags="n.*"/></match>
+    <match lemma="person" tags="n.*"><select lemma="คน# คน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="personality" tags="n.*"><select lemma="บุคลิก" tags="n.*"/></match>
@@ -12658,13 +12659,13 @@
     <match lemma="pessimism" tags="n.*"><select lemma="การมองโลกในแง่ร้าย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pest" tags="n.*"><select lemma="ศัตรูพืช" tags="n.*"/></match>
+    <match lemma="pest" tags="n.*"><select lemma="ศัตรูพืช# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pet" tags="n.*"><select lemma="สัตว์เลี้ยง" tags="n.*"/></match>
+    <match lemma="pet" tags="n.*"><select lemma="สัตว์เลี้ยง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="petal" tags="n.*"><select lemma="กลีบ" tags="n.*"/></match>
+    <match lemma="petal" tags="n.*"><select lemma="กลีบ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="petrol" tags="n.*"><select lemma="เบนซิน" tags="n.*"/></match>
@@ -12682,7 +12683,7 @@
     <match lemma="phase" tags="n.*"><select lemma="เฟส" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pheasant" tags="n.*"><select lemma="ไก่ฟ้า" tags="n.*"/></match>
+    <match lemma="pheasant" tags="n.*"><select lemma="ไก่ฟ้า# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="phenol" tags="n.*"><select lemma="กรดคาร์บอลิก" tags="n.*"/></match>
@@ -12757,10 +12758,10 @@
     <match lemma="pie" tags="n.*"><select lemma="พาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="piece" tags="n.*"><select lemma="ชิ้น" tags="n.*"/></match>
+    <match lemma="piece" tags="n.*"><select lemma="ชิ้น# ชิ้น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pig" tags="n.*"><select lemma="หมู" tags="n.*"/></match>
+    <match lemma="pig" tags="n.*"><select lemma="หมู# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pigment" tags="n.*"><select lemma="รงควัตถุ" tags="n.*"/></match>
@@ -12805,13 +12806,13 @@
     <match lemma="pineapple" tags="n.*"><select lemma="สับปะรด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pinion" tags="n.*"><select lemma="ปีกนก" tags="n.*"/></match>
+    <match lemma="pinion" tags="n.*"><select lemma="ปีกนก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pipe" tags="n.*"><select lemma="กล้องยาสูบ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pipeline" tags="n.*"><select lemma="ท่อ" tags="n.*"/></match>
+    <match lemma="pipeline" tags="n.*"><select lemma="ท่อ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="piracy" tags="n.*"><select lemma="โจรกรรมทางวรรณกรรม" tags="n.*"/></match>
@@ -12823,7 +12824,7 @@
     <match lemma="piston" tags="n.*"><select lemma="ลูกสูบ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pit" tags="n.*"><select lemma="หลุม" tags="n.*"/></match>
+    <match lemma="pit" tags="n.*"><select lemma="หลุม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pity" tags="n.*"><select lemma="ความสงสาร" tags="n.*"/></match>
@@ -12838,7 +12839,7 @@
     <match lemma="pizzeria" tags="n.*"><select lemma="ร้านขายพิซซ่า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="placenta" tags="n.*"><select lemma="รก" tags="n.*"/></match>
+    <match lemma="placenta" tags="n.*"><select lemma="รก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="plagiarism" tags="n.*"><select lemma="โจรกรรมทางวรรณกรรม" tags="n.*"/></match>
@@ -12862,7 +12863,7 @@
     <match lemma="plantation" tags="n.*"><select lemma="พื้นที่เพาะปลูก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="plaque" tags="n.*"><select lemma="แผ่น" tags="n.*"/></match>
+    <match lemma="plaque" tags="n.*"><select lemma="แผ่น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="plasma" tags="n.*"><select lemma="พลาสมา" tags="n.*"/></match>
@@ -12907,7 +12908,7 @@
     <match lemma="plot" tags="n.*"><select lemma="แผนการ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="plug" tags="n.*"><select lemma="จุก" tags="n.*"/></match>
+    <match lemma="plug" tags="n.*"><select lemma="จุก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="plumber" tags="n.*"><select lemma="ช่างซ่อมท่อประปา" tags="n.*"/></match>
@@ -12922,7 +12923,7 @@
     <match lemma="plunger" tags="n.*"><select lemma="ลูกสูบ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="plural" tags="n.*"><select lemma="พหูพจน์" tags="n.*"/></match>
+    <match lemma="plural" tags="n.*"><select lemma="พหูพจน์# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="plutonium" tags="n.*"><select lemma="ธาตุพลูโตเนียม" tags="n.*"/></match>
@@ -12949,7 +12950,7 @@
     <match lemma="poetry" tags="n.*"><select lemma="กวีนิพนธ์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pointer" tags="n.*"><select lemma="สุนัขพันธุ์พอยน์เตอร์" tags="n.*"/></match>
+    <match lemma="pointer" tags="n.*"><select lemma="สุนัขพันธุ์พอยน์เตอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pointillism" tags="n.*"><select lemma="ลัทธิผสานจุดสี" tags="n.*"/></match>
@@ -12979,10 +12980,10 @@
     <match lemma="police headquarters" tags="n.*"><select lemma="สถานีตำรวจ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="policeman" tags="n.*"><select lemma="ตำรวจ" tags="n.*"/></match>
+    <match lemma="policeman" tags="n.*"><select lemma="ตำรวจ# นาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="policewoman" tags="n.*"><select lemma="ตำรวจสาว" tags="n.*"/></match>
+    <match lemma="policewoman" tags="n.*"><select lemma="ตำรวจสาว# นาย" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="policy" tags="n.*"><select lemma="นโยบาย" tags="n.*"/></match>
@@ -13018,13 +13019,13 @@
     <match lemma="polymorphism" tags="n.*"><select lemma="ภาวะพหุสัณฐาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="polyp" tags="n.*"><select lemma="โปลิป" tags="n.*"/></match>
+    <match lemma="polyp" tags="n.*"><select lemma="โปลิป# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pomegranate" tags="n.*"><select lemma="ทับทิม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pony" tags="n.*"><select lemma="ม้าโพนี" tags="n.*"/></match>
+    <match lemma="pony" tags="n.*"><select lemma="ม้าโพนี# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="ponytail" tags="n.*"><select lemma="ผมหางม้า" tags="n.*"/></match>
@@ -13048,7 +13049,7 @@
     <match lemma="pore" tags="n.*"><select lemma="รูฝอย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pork" tags="n.*"><select lemma="หมู" tags="n.*"/></match>
+    <match lemma="pork" tags="n.*"><select lemma="หมู# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pork loin" tags="n.*"><select lemma="สันนอกหมู" tags="n.*"/></match>
@@ -13105,7 +13106,7 @@
     <match lemma="posture" tags="n.*"><select lemma="ท่า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pot" tags="n.*"><select lemma="หม้อ" tags="n.*"/></match>
+    <match lemma="pot" tags="n.*"><select lemma="หม้อ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="potassium" tags="n.*"><select lemma="โพแทสเซียม" tags="n.*"/></match>
@@ -13123,7 +13124,7 @@
     <match lemma="pottery" tags="n.*"><select lemma="เครื่องปั้นดินเผา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pouffe" tags="n.*"><select lemma="เบาะรอง" tags="n.*"/></match>
+    <match lemma="pouffe" tags="n.*"><select lemma="เบาะรอง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pound" tags="n.*"><select lemma="ปอนด์" tags="n.*"/></match>
@@ -13132,7 +13133,7 @@
     <match lemma="poverty" tags="n.*"><select lemma="ความยากจน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="powder" tags="n.*"><select lemma="แป้ง" tags="n.*"/></match>
+    <match lemma="powder" tags="n.*"><select lemma="แป้ง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="power" tags="n.*"><select lemma="พลัง" tags="n.*"/></match>
@@ -13147,7 +13148,7 @@
     <match lemma="praseodymium" tags="n.*"><select lemma="เพรซีโอดิเมียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="prawn" tags="n.*"><select lemma="กุ้ง" tags="n.*"/></match>
+    <match lemma="prawn" tags="n.*"><select lemma="กุ้ง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="prayer" tags="n.*"><select lemma="การสวดมนต์" tags="n.*"/></match>
@@ -13174,7 +13175,7 @@
     <match lemma="preparation" tags="n.*"><select lemma="การตระเตรียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="preposition" tags="n.*"><select lemma="คำบุพบท" tags="n.*"/></match>
+    <match lemma="preposition" tags="n.*"><select lemma="คำบุพบท# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="presenter" tags="n.*"><select lemma="คนให้" tags="n.*"/></match>
@@ -13204,7 +13205,7 @@
     <match lemma="prevaricator" tags="n.*"><select lemma="คนพูดปด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="prey" tags="n.*"><select lemma="เหยื่อ" tags="n.*"/></match>
+    <match lemma="prey" tags="n.*"><select lemma="เหยื่อ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="price" tags="n.*"><select lemma="ค่า" tags="n.*"/></match>
@@ -13258,7 +13259,7 @@
     <match lemma="problem" tags="n.*"><select lemma="ปัญหา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="proboscis" tags="n.*"><select lemma="งวง" tags="n.*"/></match>
+    <match lemma="proboscis" tags="n.*"><select lemma="งวง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="procedure" tags="n.*"><select lemma="กรรมวิธี" tags="n.*"/></match>
@@ -13348,7 +13349,7 @@
     <match lemma="prosperity" tags="n.*"><select lemma="ภาวะเศรษฐกิจรุ่งเรือง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="prostitute" tags="n.*"><select lemma="ไก่" tags="n.*"/></match>
+    <match lemma="prostitute" tags="n.*"><select lemma="ไก่# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="prostitution" tags="n.*"><select lemma="การขายตัว" tags="n.*"/></match>
@@ -13396,7 +13397,7 @@
     <match lemma="pudding" tags="n.*"><select lemma="ขนมพุดดิ้ง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="puddle" tags="n.*"><select lemma="แอ่ง" tags="n.*"/></match>
+    <match lemma="puddle" tags="n.*"><select lemma="แอ่ง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pugilism" tags="n.*"><select lemma="มวย" tags="n.*"/></match>
@@ -13420,7 +13421,7 @@
     <match lemma="punctuation" tags="n.*"><select lemma="การใส่เครื่องหมายวรรคตอน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pup" tags="n.*"><select lemma="ลูกสุนัข" tags="n.*"/></match>
+    <match lemma="pup" tags="n.*"><select lemma="ลูกสุนัข# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pupil" tags="n.*"><select lemma="นิสิต" tags="n.*"/></match>
@@ -13444,19 +13445,19 @@
     <match lemma="pursuit" tags="n.*"><select lemma="การไล่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="pylorus" tags="n.*"><select lemma="กระเพาะส่วนปลาย" tags="n.*"/></match>
+    <match lemma="pylorus" tags="n.*"><select lemma="กระเพาะส่วนปลาย# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="quadrilateral" tags="n.*"><select lemma="รูปสี่เหลี่ยม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="qualifier" tags="n.*"><select lemma="ส่วนขยาย" tags="n.*"/></match>
+    <match lemma="qualifier" tags="n.*"><select lemma="ส่วนขยาย# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="quality" tags="n.*"><select lemma="คุณภาพ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="quantifier" tags="n.*"><select lemma="คำบอกปริมาณ" tags="n.*"/></match>
+    <match lemma="quantifier" tags="n.*"><select lemma="คำบอกปริมาณ# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="quantity" tags="n.*"><select lemma="จำนวน" tags="n.*"/></match>
@@ -13468,7 +13469,7 @@
     <match lemma="quark" tags="n.*"><select lemma="ควาร์กชีส" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="quarry" tags="n.*"><select lemma="เหยื่อ" tags="n.*"/></match>
+    <match lemma="quarry" tags="n.*"><select lemma="เหยื่อ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="quarter" tags="n.*"><select lemma="ยี่สิบห้าเปอร์เซนต์" tags="n.*"/></match>
@@ -13483,7 +13484,7 @@
     <match lemma="quaver" tags="n.*"><select lemma="เสียงสั่นกึกๆ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="queen" tags="n.*"><select lemma="ราชินี" tags="n.*"/></match>
+    <match lemma="queen" tags="n.*"><select lemma="ราชินี# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="quest" tags="n.*"><select lemma="การเสาะหา" tags="n.*"/></match>
@@ -13498,10 +13499,10 @@
     <match lemma="questionnaire" tags="n.*"><select lemma="เควสชันแนร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="quetzal" tags="n.*"><select lemma="นกเควตซอล" tags="n.*"/></match>
+    <match lemma="quetzal" tags="n.*"><select lemma="นกเควตซอล# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="quill" tags="n.*"><select lemma="ขนเม่น" tags="n.*"/></match>
+    <match lemma="quill" tags="n.*"><select lemma="ขนเม่น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="quince" tags="n.*"><select lemma="ผลควินซ์" tags="n.*"/></match>
@@ -13513,7 +13514,7 @@
     <match lemma="quotation" tags="n.*"><select lemma="ข้อความอ้างอิง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="rabbit" tags="n.*"><select lemma="กระต่าย" tags="n.*"/></match>
+    <match lemma="rabbit" tags="n.*"><select lemma="กระต่าย# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="rabies" tags="n.*"><select lemma="โรคกลัวน้ำ" tags="n.*"/></match>
@@ -13594,7 +13595,7 @@
     <match lemma="rapacity" tags="n.*"><select lemma="ความละโมบ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="rapeseed oil" tags="n.*"><select lemma="น้ำมันเมล็ดเรพ" tags="n.*"/></match>
+    <match lemma="rapeseed oil" tags="n.*"><select lemma="น้ำมันเมล็ดเรพ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="rapidity" tags="n.*"><select lemma="ความรวดเร็ว" tags="n.*"/></match>
@@ -13606,7 +13607,7 @@
     <match lemma="raspberry" tags="n.*"><select lemma="เสียงร้องแสดงความโกรธ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="rat" tags="n.*"><select lemma="หนู" tags="n.*"/></match>
+    <match lemma="rat" tags="n.*"><select lemma="หนู# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="rate" tags="n.*"><select lemma="อัตรา" tags="n.*"/></match>
@@ -13621,13 +13622,13 @@
     <match lemma="rationalism" tags="n.*"><select lemma="เหตุผลนิยม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="raven" tags="n.*"><select lemma="อีกา" tags="n.*"/></match>
+    <match lemma="raven" tags="n.*"><select lemma="อีกา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="ray" tags="n.*"><select lemma="รังสี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="razor" tags="n.*"><select lemma="พระกรรบิด" tags="n.*"/></match>
+    <match lemma="razor" tags="n.*"><select lemma="พระกรรบิด# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="reaction" tags="n.*"><select lemma="ปฏิกิริยาเคมี" tags="n.*"/></match>
@@ -13669,7 +13670,7 @@
     <match lemma="receptionist" tags="n.*"><select lemma="พนักงานต้อนรับ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="receptor" tags="n.*"><select lemma="อวัยวะรับสัมผัส" tags="n.*"/></match>
+    <match lemma="receptor" tags="n.*"><select lemma="อวัยวะรับสัมผัส# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="recession" tags="n.*"><select lemma="ภาวะเศรษฐกิจถดถอย" tags="n.*"/></match>
@@ -13744,7 +13745,7 @@
     <match lemma="rein" tags="n.*"><select lemma="บังเหียน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="reindeer" tags="n.*"><select lemma="กวางคาริบู" tags="n.*"/></match>
+    <match lemma="reindeer" tags="n.*"><select lemma="กวางคาริบู# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="rejection" tags="n.*"><select lemma="การปฏิเสธ" tags="n.*"/></match>
@@ -13870,7 +13871,7 @@
     <match lemma="respiration" tags="n.*"><select lemma="การหายใจ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="respiratory tract" tags="n.*"><select lemma="ทางเดินหายใจ" tags="n.*"/></match>
+    <match lemma="respiratory tract" tags="n.*"><select lemma="ทางเดินหายใจ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="respite" tags="n.*"><select lemma="การหยุด" tags="n.*"/></match>
@@ -13915,7 +13916,7 @@
     <match lemma="revision" tags="n.*"><select lemma="การแก้ไข" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="revolver" tags="n.*"><select lemma="ปืนรีวอลเวอร์" tags="n.*"/></match>
+    <match lemma="revolver" tags="n.*"><select lemma="ปืนรีวอลเวอร์# กระบอก" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="reward" tags="n.*"><select lemma="รางวัล" tags="n.*"/></match>
@@ -13939,7 +13940,7 @@
     <match lemma="rhizome" tags="n.*"><select lemma="ลำต้นใต้ดิน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="rhomboid" tags="n.*"><select lemma="กล้ามเนื้อรอมบอยด์" tags="n.*"/></match>
+    <match lemma="rhomboid" tags="n.*"><select lemma="กล้ามเนื้อรอมบอยด์# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="rhombus" tags="n.*"><select lemma="รูปสี่เหลี่ยมขนมเปียกปูน" tags="n.*"/></match>
@@ -13963,7 +13964,7 @@
     <match lemma="riding" tags="n.*"><select lemma="การขี่ม้า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="rifle" tags="n.*"><select lemma="ปืนไรเฟิล" tags="n.*"/></match>
+    <match lemma="rifle" tags="n.*"><select lemma="ปืนไรเฟิล# กระบอก" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="rift" tags="n.*"><select lemma="ช่องว่างระหว่างก้อนเมฆ" tags="n.*"/></match>
@@ -13972,7 +13973,7 @@
     <match lemma="right" tags="n.*"><select lemma="สิทธิ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ring finger" tags="n.*"><select lemma="นาง" tags="n.*"/></match>
+    <match lemma="ring finger" tags="n.*"><select lemma="นาง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="ringer" tags="n.*"><select lemma="การขว้างคล้องเสา" tags="n.*"/></match>
@@ -14026,16 +14027,16 @@
     <match lemma="roof" tags="n.*"><select lemma="หลังคา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="rook" tags="n.*"><select lemma="นกรูก" tags="n.*"/></match>
+    <match lemma="rook" tags="n.*"><select lemma="นกรูก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="room" tags="n.*"><select lemma="ห้อง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="rooster" tags="n.*"><select lemma="พ่อไก่" tags="n.*"/></match>
+    <match lemma="rooster" tags="n.*"><select lemma="พ่อไก่# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="root" tags="n.*"><select lemma="ราก" tags="n.*"/></match>
+    <match lemma="root" tags="n.*"><select lemma="ราก# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="rope" tags="n.*"><select lemma="เชือก" tags="n.*"/></match>
@@ -14092,7 +14093,7 @@
     <match lemma="rubidium" tags="n.*"><select lemma="รูบิเดียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="rug" tags="n.*"><select lemma="พรม" tags="n.*"/></match>
+    <match lemma="rug" tags="n.*"><select lemma="พรม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="rugby" tags="n.*"><select lemma="รักบี้" tags="n.*"/></match>
@@ -14107,7 +14108,7 @@
     <match lemma="rumour" tags="n.*"><select lemma="ข่าวลือ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="rump" tags="n.*"><select lemma="สะโพก" tags="n.*"/></match>
+    <match lemma="rump" tags="n.*"><select lemma="สะโพก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="runner" tags="n.*"><select lemma="คนขายของหนีภาษี" tags="n.*"/></match>
@@ -14134,7 +14135,7 @@
     <match lemma="sabre" tags="n.*"><select lemma="ดาบของทหารม้า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sac" tags="n.*"><select lemma="อวัยวะรูปถุง" tags="n.*"/></match>
+    <match lemma="sac" tags="n.*"><select lemma="อวัยวะรูปถุง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="sack" tags="n.*"><select lemma="ถุงกระดาษ" tags="n.*"/></match>
@@ -14176,7 +14177,7 @@
     <match lemma="salad bowl" tags="n.*"><select lemma="ชามสลัด" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="salamander" tags="n.*"><select lemma="ซาลามานเดอร์" tags="n.*"/></match>
+    <match lemma="salamander" tags="n.*"><select lemma="ซาลามานเดอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="salary" tags="n.*"><select lemma="ค่าจ้าง" tags="n.*"/></match>
@@ -14194,7 +14195,7 @@
     <match lemma="saliva" tags="n.*"><select lemma="น้ำบ่อน้อย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="salmon" tags="n.*"><select lemma="ปลาแซลมอน" tags="n.*"/></match>
+    <match lemma="salmon" tags="n.*"><select lemma="ปลาแซลมอน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="salt" tags="n.*"><select lemma="เกลือ" tags="n.*"/></match>
@@ -14221,7 +14222,7 @@
     <match lemma="sarcasm" tags="n.*"><select lemma="ถ้อยคำเย้ยหยัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sardine" tags="n.*"><select lemma="ปลาซาร์ดีน" tags="n.*"/></match>
+    <match lemma="sardine" tags="n.*"><select lemma="ปลาซาร์ดีน# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="satellite" tags="n.*"><select lemma="ดาวเทียม" tags="n.*"/></match>
@@ -14275,7 +14276,7 @@
     <match lemma="scale" tags="n.*"><select lemma="สเกล" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="scallop" tags="n.*"><select lemma="หอยแครง" tags="n.*"/></match>
+    <match lemma="scallop" tags="n.*"><select lemma="หอยแครง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="scandal" tags="n.*"><select lemma="ข่าวคาว" tags="n.*"/></match>
@@ -14290,7 +14291,7 @@
     <match lemma="scanning" tags="n.*"><select lemma="การสแกน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="scapula" tags="n.*"><select lemma="กระดูกสะบัก" tags="n.*"/></match>
+    <match lemma="scapula" tags="n.*"><select lemma="กระดูกสะบัก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="scar" tags="n.*"><select lemma="รอยแผล" tags="n.*"/></match>
@@ -14338,7 +14339,7 @@
     <match lemma="scoop" tags="n.*"><select lemma="ทัพพี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="scooter" tags="n.*"><select lemma="เป็ดสกู๊ตเตอร์" tags="n.*"/></match>
+    <match lemma="scooter" tags="n.*"><select lemma="เป็ดสกู๊ตเตอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="scope" tags="n.*"><select lemma="ขอบเขต" tags="n.*"/></match>
@@ -14353,10 +14354,10 @@
     <match lemma="scoria" tags="n.*"><select lemma="กากแร่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="scorpion" tags="n.*"><select lemma="แมงป่อง" tags="n.*"/></match>
+    <match lemma="scorpion" tags="n.*"><select lemma="แมงป่อง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="scrap" tags="n.*"><select lemma="เศษ" tags="n.*"/></match>
+    <match lemma="scrap" tags="n.*"><select lemma="เศษ# ชิ้น" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="screen" tags="n.*"><select lemma="จอเงิน" tags="n.*"/></match>
@@ -14389,16 +14390,16 @@
     <match lemma="sculpture" tags="n.*"><select lemma="รูปลอยตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sea" tags="n.*"><select lemma="ทะเล" tags="n.*"/></match>
+    <match lemma="sea" tags="n.*"><select lemma="ทะเล# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sea bass" tags="n.*"><select lemma="ปลากะพงขาว" tags="n.*"/></match>
+    <match lemma="sea bass" tags="n.*"><select lemma="ปลากะพงขาว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sea bream" tags="n.*"><select lemma="ปลาซีบรีม" tags="n.*"/></match>
+    <match lemma="sea bream" tags="n.*"><select lemma="ปลาซีบรีม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sea urchin" tags="n.*"><select lemma="หอยเม่น" tags="n.*"/></match>
+    <match lemma="sea urchin" tags="n.*"><select lemma="หอยเม่น# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="seaboard" tags="n.*"><select lemma="ชายทะเล" tags="n.*"/></match>
@@ -14419,7 +14420,7 @@
     <match lemma="seasoning" tags="n.*"><select lemma="การปรุงรส" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="seat" tags="n.*"><select lemma="ที่นั่ง" tags="n.*"/></match>
+    <match lemma="seat" tags="n.*"><select lemma="ที่นั่ง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="seaweed" tags="n.*"><select lemma="สาหร่าย" tags="n.*"/></match>
@@ -14539,7 +14540,7 @@
     <match lemma="sepia" tags="n.*"><select lemma="สีซีเปีย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="septum" tags="n.*"><select lemma="ผนังกั้น" tags="n.*"/></match>
+    <match lemma="septum" tags="n.*"><select lemma="ผนังกั้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="serenade" tags="n.*"><select lemma="การร้องประสานเสียง" tags="n.*"/></match>
@@ -14554,7 +14555,7 @@
     <match lemma="sermon" tags="n.*"><select lemma="การเทศนา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="serpent" tags="n.*"><select lemma="งู" tags="n.*"/></match>
+    <match lemma="serpent" tags="n.*"><select lemma="งู# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="servant" tags="n.*"><select lemma="คนรับใช้" tags="n.*"/></match>
@@ -14566,7 +14567,7 @@
     <match lemma="service" tags="n.*"><select lemma="บริการ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="setter" tags="n.*"><select lemma="สุนัขพันธุ์เซตเตอร์" tags="n.*"/></match>
+    <match lemma="setter" tags="n.*"><select lemma="สุนัขพันธุ์เซตเตอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="setting" tags="n.*"><select lemma="ฉาก" tags="n.*"/></match>
@@ -14617,28 +14618,28 @@
     <match lemma="share" tags="n.*"><select lemma="หุ้น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="shark" tags="n.*"><select lemma="ฉลาม" tags="n.*"/></match>
+    <match lemma="shark" tags="n.*"><select lemma="ฉลาม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="sharpness" tags="n.*"><select lemma="ความหลักแหลม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="shaver" tags="n.*"><select lemma="เครื่องโกนหนวดไฟฟ้า" tags="n.*"/></match>
+    <match lemma="shaver" tags="n.*"><select lemma="เครื่องโกนหนวดไฟฟ้า# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="shaving" tags="n.*"><select lemma="การโกน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sheep" tags="n.*"><select lemma="แกะ" tags="n.*"/></match>
+    <match lemma="sheep" tags="n.*"><select lemma="แกะ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sheet" tags="n.*"><select lemma="แผ่น" tags="n.*"/></match>
+    <match lemma="sheet" tags="n.*"><select lemma="แผ่น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="sheik" tags="n.*"><select lemma="คนขี้โอ่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="shelf" tags="n.*"><select lemma="ชั้น" tags="n.*"/></match>
+    <match lemma="shelf" tags="n.*"><select lemma="ชั้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="shell" tags="n.*"><select lemma="กระสุน" tags="n.*"/></match>
@@ -14713,7 +14714,7 @@
     <match lemma="shot" tags="n.*"><select lemma="การยิง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="shoulder" tags="n.*"><select lemma="ไหล่" tags="n.*"/></match>
+    <match lemma="shoulder" tags="n.*"><select lemma="ไหล่# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="shovel" tags="n.*"><select lemma="พลั่ว" tags="n.*"/></match>
@@ -14794,10 +14795,10 @@
     <match lemma="singing" tags="n.*"><select lemma="การขับร้อง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sinus" tags="n.*"><select lemma="โพรง" tags="n.*"/></match>
+    <match lemma="sinus" tags="n.*"><select lemma="โพรง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="siphon" tags="n.*"><select lemma="ท่อน้ำ" tags="n.*"/></match>
+    <match lemma="siphon" tags="n.*"><select lemma="ท่อน้ำ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="sir" tags="n.*"><select lemma="เซอร์" tags="n.*"/></match>
@@ -14824,7 +14825,7 @@
     <match lemma="skating" tags="n.*"><select lemma="กีฬาสเกต" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="skeleton" tags="n.*"><select lemma="โครง" tags="n.*"/></match>
+    <match lemma="skeleton" tags="n.*"><select lemma="โครง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="sketch" tags="n.*"><select lemma="ภาพร่าง" tags="n.*"/></match>
@@ -14836,13 +14837,13 @@
     <match lemma="skill" tags="n.*"><select lemma="ทักษะ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="skin" tags="n.*"><select lemma="หนังชั้นใน" tags="n.*"/></match>
+    <match lemma="skin" tags="n.*"><select lemma="หนังชั้นใน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="skirt" tags="n.*"><select lemma="กระโปรง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="skull" tags="n.*"><select lemma="กะโหลก" tags="n.*"/></match>
+    <match lemma="skull" tags="n.*"><select lemma="กะโหลก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="sky" tags="n.*"><select lemma="ฟ้า" tags="n.*"/></match>
@@ -14899,16 +14900,16 @@
     <match lemma="snack" tags="n.*"><select lemma="ของกินเล่น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="snail" tags="n.*"><select lemma="หอยทาก" tags="n.*"/></match>
+    <match lemma="snail" tags="n.*"><select lemma="หอยทาก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="snake" tags="n.*"><select lemma="งู" tags="n.*"/></match>
+    <match lemma="snake" tags="n.*"><select lemma="งู# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="sniper" tags="n.*"><select lemma="พลซุ่มยิง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="snout" tags="n.*"><select lemma="งวง" tags="n.*"/></match>
+    <match lemma="snout" tags="n.*"><select lemma="งวง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="snow" tags="n.*"><select lemma="หิมะตก" tags="n.*"/></match>
@@ -14935,7 +14936,7 @@
     <match lemma="sodium" tags="n.*"><select lemma="โซเดียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sofa" tags="n.*"><select lemma="เก้าอี้นวมยาว" tags="n.*"/></match>
+    <match lemma="sofa" tags="n.*"><select lemma="เก้าอี้นวมยาว# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="software" tags="n.*"><select lemma="คอมพิวเตอร์ซอฟต์แวร์" tags="n.*"/></match>
@@ -14944,7 +14945,7 @@
     <match lemma="soil" tags="n.*"><select lemma="ความสกปรก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="soldier" tags="n.*"><select lemma="ทหาร" tags="n.*"/></match>
+    <match lemma="soldier" tags="n.*"><select lemma="ทหาร# นาย" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="sole" tags="n.*"><select lemma="พื้น" tags="n.*"/></match>
@@ -15031,7 +15032,7 @@
     <match lemma="spade" tags="n.*"><select lemma="โพดำ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sparrow" tags="n.*"><select lemma="นกกระจอก" tags="n.*"/></match>
+    <match lemma="sparrow" tags="n.*"><select lemma="นกกระจอก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="spatula" tags="n.*"><select lemma="ช้อนปาด" tags="n.*"/></match>
@@ -15097,7 +15098,7 @@
     <match lemma="spinach" tags="n.*"><select lemma="ผักโขม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="spine" tags="n.*"><select lemma="กระดูกสันหลัง" tags="n.*"/></match>
+    <match lemma="spine" tags="n.*"><select lemma="กระดูกสันหลัง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="spinet" tags="n.*"><select lemma="สปิเน็ต" tags="n.*"/></match>
@@ -15106,7 +15107,7 @@
     <match lemma="spinning" tags="n.*"><select lemma="การกรอด้าย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="spiracle" tags="n.*"><select lemma="ช่องหายใจ" tags="n.*"/></match>
+    <match lemma="spiracle" tags="n.*"><select lemma="ช่องหายใจ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="spiral" tags="n.*"><select lemma="รูปก้นหอย" tags="n.*"/></match>
@@ -15154,10 +15155,10 @@
     <match lemma="square" tags="n.*"><select lemma="รูปสี่เหลี่ยมจัตุรัส" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="squid" tags="n.*"><select lemma="ปลาหมึก" tags="n.*"/></match>
+    <match lemma="squid" tags="n.*"><select lemma="ปลาหมึก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="squirrel" tags="n.*"><select lemma="กระรอก" tags="n.*"/></match>
+    <match lemma="squirrel" tags="n.*"><select lemma="กระรอก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="stableboy" tags="n.*"><select lemma="เด็กดูแลม้า" tags="n.*"/></match>
@@ -15223,7 +15224,7 @@
     <match lemma="stealing" tags="n.*"><select lemma="การขโมย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="steamer" tags="n.*"><select lemma="หอยสตีมเมอร์" tags="n.*"/></match>
+    <match lemma="steamer" tags="n.*"><select lemma="หอยสตีมเมอร์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="steatite" tags="n.*"><select lemma="สตีไทต์" tags="n.*"/></match>
@@ -15235,13 +15236,13 @@
     <match lemma="steelworks" tags="n.*"><select lemma="โรงงานอุตสาหกรรมเหล็ก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="stem" tags="n.*"><select lemma="ธาตุ" tags="n.*"/></match>
+    <match lemma="stem" tags="n.*"><select lemma="ธาตุ# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="sterilisation" tags="n.*"><select lemma="การสเตอริไลซ์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="sternum" tags="n.*"><select lemma="กระดูกสันหน้าอก" tags="n.*"/></match>
+    <match lemma="sternum" tags="n.*"><select lemma="กระดูกสันหน้าอก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="steroid" tags="n.*"><select lemma="สเตรอยด์" tags="n.*"/></match>
@@ -15280,16 +15281,16 @@
     <match lemma="stoicism" tags="n.*"><select lemma="ความไม่ยินดียินร้าย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="stoma" tags="n.*"><select lemma="ปาก" tags="n.*"/></match>
+    <match lemma="stoma" tags="n.*"><select lemma="ปาก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="stomach" tags="n.*"><select lemma="กระเพาะ" tags="n.*"/></match>
+    <match lemma="stomach" tags="n.*"><select lemma="กระเพาะ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="stone" tags="n.*"><select lemma="หิน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="stool" tags="n.*"><select lemma="ม้านั่งไม่มีพนัก" tags="n.*"/></match>
+    <match lemma="stool" tags="n.*"><select lemma="ม้านั่งไม่มีพนัก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="stoppage" tags="n.*"><select lemma="การหยุด" tags="n.*"/></match>
@@ -15298,7 +15299,7 @@
     <match lemma="store" tags="n.*"><select lemma="ร้าน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="stork" tags="n.*"><select lemma="นกกระสา" tags="n.*"/></match>
+    <match lemma="stork" tags="n.*"><select lemma="นกกระสา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="story" tags="n.*"><select lemma="นิทาน" tags="n.*"/></match>
@@ -15328,7 +15329,7 @@
     <match lemma="strawberry" tags="n.*"><select lemma="สตรอเบอร์รี่" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="stream" tags="n.*"><select lemma="ธารน้ำ" tags="n.*"/></match>
+    <match lemma="stream" tags="n.*"><select lemma="ธารน้ำ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="street" tags="n.*"><select lemma="ถนน" tags="n.*"/></match>
@@ -15355,7 +15356,7 @@
     <match lemma="striker" tags="n.*"><select lemma="สไตรเกอร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="strip" tags="n.*"><select lemma="ชิ้นยาว" tags="n.*"/></match>
+    <match lemma="strip" tags="n.*"><select lemma="ชิ้นยาว# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="stripe" tags="n.*"><select lemma="แถบ" tags="n.*"/></match>
@@ -15364,7 +15365,7 @@
     <match lemma="striptease" tags="n.*"><select lemma="ระบำเปลื้องผ้า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="stroma" tags="n.*"><select lemma="โครง" tags="n.*"/></match>
+    <match lemma="stroma" tags="n.*"><select lemma="โครง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="strontium" tags="n.*"><select lemma="ธาตุสตอรนเชียม" tags="n.*"/></match>
@@ -15436,7 +15437,7 @@
     <match lemma="substrate" tags="n.*"><select lemma="สารตั้งต้น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="substructure" tags="n.*"><select lemma="ฐาน" tags="n.*"/></match>
+    <match lemma="substructure" tags="n.*"><select lemma="ฐาน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="subtraction" tags="n.*"><select lemma="การลบ" tags="n.*"/></match>
@@ -15553,7 +15554,7 @@
     <match lemma="survival" tags="n.*"><select lemma="ความทนนาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="survivor" tags="n.*"><select lemma="ผู้รอดชีวิต" tags="n.*"/></match>
+    <match lemma="survivor" tags="n.*"><select lemma="ผู้รอดชีวิต# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="suspension" tags="n.*"><select lemma="สารแขวนลอย" tags="n.*"/></match>
@@ -15595,7 +15596,7 @@
     <match lemma="swimming pool" tags="n.*"><select lemma="สระ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="swine" tags="n.*"><select lemma="หมู" tags="n.*"/></match>
+    <match lemma="swine" tags="n.*"><select lemma="หมู# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="sword" tags="n.*"><select lemma="ดาบ" tags="n.*"/></match>
@@ -15631,7 +15632,7 @@
     <match lemma="syrup" tags="n.*"><select lemma="น้ำเชื่อม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="system" tags="n.*"><select lemma="ระบบ" tags="n.*"/></match>
+    <match lemma="system" tags="n.*"><select lemma="ระบบ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="tab" tags="n.*"><select lemma="ยาเม็ด" tags="n.*"/></match>
@@ -15658,7 +15659,7 @@
     <match lemma="tag" tags="n.*"><select lemma="ฉลาก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="tail" tags="n.*"><select lemma="หาง" tags="n.*"/></match>
+    <match lemma="tail" tags="n.*"><select lemma="หาง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="takeoff" tags="n.*"><select lemma="การบินขึ้น" tags="n.*"/></match>
@@ -15676,7 +15677,7 @@
     <match lemma="talisman" tags="n.*"><select lemma="ของปลุกเสก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="tallow" tags="n.*"><select lemma="ไขมันสัตว์" tags="n.*"/></match>
+    <match lemma="tallow" tags="n.*"><select lemma="ไขมันสัตว์# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="tally" tags="n.*"><select lemma="รัน" tags="n.*"/></match>
@@ -15703,10 +15704,10 @@
     <match lemma="tar" tags="n.*"><select lemma="น้ำมันดิน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="tarantula" tags="n.*"><select lemma="แมงมุมทาแรนทูรา" tags="n.*"/></match>
+    <match lemma="tarantula" tags="n.*"><select lemma="แมงมุมทาแรนทูรา# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="target" tags="n.*"><select lemma="เป้า" tags="n.*"/></match>
+    <match lemma="target" tags="n.*"><select lemma="เป้า# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="tariff" tags="n.*"><select lemma="อากร" tags="n.*"/></match>
@@ -15832,7 +15833,7 @@
     <match lemma="tercet" tags="n.*"><select lemma="สาม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="term" tags="n.*"><select lemma="เทอม" tags="n.*"/></match>
+    <match lemma="term" tags="n.*"><select lemma="เทอม# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="terminal" tags="n.*"><select lemma="ชานชาลา" tags="n.*"/></match>
@@ -15844,13 +15845,13 @@
     <match lemma="terrace" tags="n.*"><select lemma="ชาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="territory" tags="n.*"><select lemma="เขต" tags="n.*"/></match>
+    <match lemma="territory" tags="n.*"><select lemma="เขต# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="tesla" tags="n.*"><select lemma="เทสลา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="testicle" tags="n.*"><select lemma="อัณฑะ" tags="n.*"/></match>
+    <match lemma="testicle" tags="n.*"><select lemma="อัณฑะ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="testimony" tags="n.*"><select lemma="คำกล่าวในพิธีสาบาน" tags="n.*"/></match>
@@ -15907,13 +15908,13 @@
     <match lemma="thief" tags="n.*"><select lemma="ขโมย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="thigh" tags="n.*"><select lemma="ต้นขา" tags="n.*"/></match>
+    <match lemma="thigh" tags="n.*"><select lemma="ต้นขา# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="thimble" tags="n.*"><select lemma="ปลอกนิ้ว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="thing" tags="n.*"><select lemma="สิ่ง" tags="n.*"/></match>
+    <match lemma="thing" tags="n.*"><select lemma="สิ่ง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="thinker" tags="n.*"><select lemma="นักคิด" tags="n.*"/></match>
@@ -15928,7 +15929,7 @@
     <match lemma="thirst" tags="n.*"><select lemma="ความกระหาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="thorax" tags="n.*"><select lemma="ส่วนอก" tags="n.*"/></match>
+    <match lemma="thorax" tags="n.*"><select lemma="ส่วนอก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="thorium" tags="n.*"><select lemma="ทอเรียม" tags="n.*"/></match>
@@ -15946,10 +15947,10 @@
     <match lemma="thrill" tags="n.*"><select lemma="การจู่โจม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="throat" tags="n.*"><select lemma="คอหอย" tags="n.*"/></match>
+    <match lemma="throat" tags="n.*"><select lemma="คอหอย# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="throne" tags="n.*"><select lemma="บัลลังก์" tags="n.*"/></match>
+    <match lemma="throne" tags="n.*"><select lemma="บัลลังก์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="thrower" tags="n.*"><select lemma="คนปั้นหม้อ" tags="n.*"/></match>
@@ -15961,7 +15962,7 @@
     <match lemma="thulium" tags="n.*"><select lemma="ทูเลียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="thumb" tags="n.*"><select lemma="โป้ง" tags="n.*"/></match>
+    <match lemma="thumb" tags="n.*"><select lemma="โป้ง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="thunder" tags="n.*"><select lemma="เสียงโครมคราม" tags="n.*"/></match>
@@ -15982,7 +15983,7 @@
     <match lemma="tiebreaker" tags="n.*"><select lemma="ช่วงไทเบรก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="tiger" tags="n.*"><select lemma="เสือ" tags="n.*"/></match>
+    <match lemma="tiger" tags="n.*"><select lemma="เสือ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="tile" tags="n.*"><select lemma="กระเบื้องปูพื้น" tags="n.*"/></match>
@@ -16009,10 +16010,10 @@
     <match lemma="tirade" tags="n.*"><select lemma="การประณาม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="tissue" tags="n.*"><select lemma="เนื้อเยื่อ" tags="n.*"/></match>
+    <match lemma="tissue" tags="n.*"><select lemma="เนื้อเยื่อ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="tit" tags="n.*"><select lemma="นม" tags="n.*"/></match>
+    <match lemma="tit" tags="n.*"><select lemma="นม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="titan" tags="n.*"><select lemma="ดวงจันทร์ไทตัน" tags="n.*"/></match>
@@ -16021,7 +16022,7 @@
     <match lemma="titanium" tags="n.*"><select lemma="ธาตุไททาเนียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="toad" tags="n.*"><select lemma="กบ" tags="n.*"/></match>
+    <match lemma="toad" tags="n.*"><select lemma="กบ# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="toast" tags="n.*"><select lemma="ขนมปังปิ้ง" tags="n.*"/></match>
@@ -16030,7 +16031,7 @@
     <match lemma="tobacco" tags="n.*"><select lemma="ยาสูบ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="toe" tags="n.*"><select lemma="นิ้วตีน" tags="n.*"/></match>
+    <match lemma="toe" tags="n.*"><select lemma="นิ้วตีน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="toilet" tags="n.*"><select lemma="ส้วม" tags="n.*"/></match>
@@ -16054,7 +16055,7 @@
     <match lemma="toner" tags="n.*"><select lemma="โทเนอร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="tongue" tags="n.*"><select lemma="ลิ้น" tags="n.*"/></match>
+    <match lemma="tongue" tags="n.*"><select lemma="ลิ้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="tonne" tags="n.*"><select lemma="ตัน" tags="n.*"/></match>
@@ -16063,7 +16064,7 @@
     <match lemma="tool" tags="n.*"><select lemma="ทูล" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="tooth" tags="n.*"><select lemma="ฟัน" tags="n.*"/></match>
+    <match lemma="tooth" tags="n.*"><select lemma="ฟัน# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="toothbrush" tags="n.*"><select lemma="แปรงสีฟัน" tags="n.*"/></match>
@@ -16081,7 +16082,7 @@
     <match lemma="tornado" tags="n.*"><select lemma="ทวิสเตอร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="torpedo" tags="n.*"><select lemma="กระเบนไฟฟ้า" tags="n.*"/></match>
+    <match lemma="torpedo" tags="n.*"><select lemma="กระเบนไฟฟ้า# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="torrent" tags="n.*"><select lemma="กระแสน้ำรุนแรง" tags="n.*"/></match>
@@ -16120,7 +16121,7 @@
     <match lemma="toy" tags="n.*"><select lemma="ของเด็กเล่น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="trachea" tags="n.*"><select lemma="หลอดลม" tags="n.*"/></match>
+    <match lemma="trachea" tags="n.*"><select lemma="หลอดลม# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="track" tags="n.*"><select lemma="เส้นทาง" tags="n.*"/></match>
@@ -16294,7 +16295,7 @@
     <match lemma="tritium" tags="n.*"><select lemma="ธาตุไทรเทียม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="triton" tags="n.*"><select lemma="ตัวนิวท์" tags="n.*"/></match>
+    <match lemma="triton" tags="n.*"><select lemma="ตัวนิวท์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="triumph" tags="n.*"><select lemma="การประสบชัยชนะ" tags="n.*"/></match>
@@ -16309,7 +16310,7 @@
     <match lemma="trouble" tags="n.*"><select lemma="ปัญหา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="trout" tags="n.*"><select lemma="ปลาเทราต์" tags="n.*"/></match>
+    <match lemma="trout" tags="n.*"><select lemma="ปลาเทราต์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="truce" tags="n.*"><select lemma="การสงบศึกชั่วคราว" tags="n.*"/></match>
@@ -16333,7 +16334,7 @@
     <match lemma="tub" tags="n.*"><select lemma="อ่างอาบน้ำ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="tube" tags="n.*"><select lemma="ท่อ" tags="n.*"/></match>
+    <match lemma="tube" tags="n.*"><select lemma="ท่อ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="tuition fee" tags="n.*"><select lemma="ค่าสอน" tags="n.*"/></match>
@@ -16342,7 +16343,7 @@
     <match lemma="tumult" tags="n.*"><select lemma="ความโกลาหล" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="tuna" tags="n.*"><select lemma="ปลาทูน่า" tags="n.*"/></match>
+    <match lemma="tuna" tags="n.*"><select lemma="ปลาทูน่า# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="tuner" tags="n.*"><select lemma="วิทยุ" tags="n.*"/></match>
@@ -16357,10 +16358,10 @@
     <match lemma="turban" tags="n.*"><select lemma="ผ้าโพกศีรษะ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="turbot" tags="n.*"><select lemma="ปลาเทอเบิท" tags="n.*"/></match>
+    <match lemma="turbot" tags="n.*"><select lemma="ปลาเทอเบิท# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="turkey" tags="n.*"><select lemma="ไก่งวง" tags="n.*"/></match>
+    <match lemma="turkey" tags="n.*"><select lemma="ไก่งวง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="turmoil" tags="n.*"><select lemma="ความชุลมุนวุ่นวาย" tags="n.*"/></match>
@@ -16375,7 +16376,7 @@
     <match lemma="turquoise" tags="n.*"><select lemma="น้ำเงินอมเขียว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="turtle" tags="n.*"><select lemma="เต่า" tags="n.*"/></match>
+    <match lemma="turtle" tags="n.*"><select lemma="เต่า# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="tutor" tags="n.*"><select lemma="ครูพิเศษ" tags="n.*"/></match>
@@ -16456,7 +16457,7 @@
     <match lemma="union" tags="n.*"><select lemma="สหภาพ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="unit" tags="n.*"><select lemma="หน่วย" tags="n.*"/></match>
+    <match lemma="unit" tags="n.*"><select lemma="หน่วย# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="unity" tags="n.*"><select lemma="ความสมบูรณ์" tags="n.*"/></match>
@@ -16507,7 +16508,7 @@
     <match lemma="vacillation" tags="n.*"><select lemma="การสวิง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="vagina" tags="n.*"><select lemma="ช่องคลอด" tags="n.*"/></match>
+    <match lemma="vagina" tags="n.*"><select lemma="ช่องคลอด# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="vagrant" tags="n.*"><select lemma="คนจรจัด" tags="n.*"/></match>
@@ -16528,7 +16529,7 @@
     <match lemma="value" tags="n.*"><select lemma="ค่า" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="valve" tags="n.*"><select lemma="ลิ้น" tags="n.*"/></match>
+    <match lemma="valve" tags="n.*"><select lemma="ลิ้น# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="vampire" tags="n.*"><select lemma="ผีดิบ" tags="n.*"/></match>
@@ -16576,7 +16577,7 @@
     <match lemma="vegetation" tags="n.*"><select lemma="พฤกษชาติ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="vein" tags="n.*"><select lemma="หลอดเลือดดำ" tags="n.*"/></match>
+    <match lemma="vein" tags="n.*"><select lemma="หลอดเลือดดำ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="velocipede" tags="n.*"><select lemma="จักรยานสามล้อ" tags="n.*"/></match>
@@ -16588,10 +16589,10 @@
     <match lemma="vengeance" tags="n.*"><select lemma="การล้างแค้น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="ventricle" tags="n.*"><select lemma="หัวใจห้องล่าง" tags="n.*"/></match>
+    <match lemma="ventricle" tags="n.*"><select lemma="หัวใจห้องล่าง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="verb" tags="n.*"><select lemma="กริยา" tags="n.*"/></match>
+    <match lemma="verb" tags="n.*"><select lemma="กริยา# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="verbiage" tags="n.*"><select lemma="การจัดเรียงคำ" tags="n.*"/></match>
@@ -16603,7 +16604,7 @@
     <match lemma="vertex" tags="n.*"><select lemma="กระหม่อม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="vesicle" tags="n.*"><select lemma="ถุง" tags="n.*"/></match>
+    <match lemma="vesicle" tags="n.*"><select lemma="ถุง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="vessel" tags="n.*"><select lemma="พาหนะทางน้ำ" tags="n.*"/></match>
@@ -16615,10 +16616,10 @@
     <match lemma="vibrator" tags="n.*"><select lemma="ไวเบรเตอร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="viceroy" tags="n.*"><select lemma="ผีเสื้อวิเซอรอย" tags="n.*"/></match>
+    <match lemma="viceroy" tags="n.*"><select lemma="ผีเสื้อวิเซอรอย# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="victim" tags="n.*"><select lemma="เหยื่อ" tags="n.*"/></match>
+    <match lemma="victim" tags="n.*"><select lemma="เหยื่อ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="victory" tags="n.*"><select lemma="การประสบชัยชนะ" tags="n.*"/></match>
@@ -16645,7 +16646,7 @@
     <match lemma="vinegar" tags="n.*"><select lemma="น้ำส้ม" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="vinyl" tags="n.*"><select lemma="หมู่ไวนิล" tags="n.*"/></match>
+    <match lemma="vinyl" tags="n.*"><select lemma="หมู่ไวนิล# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="violation" tags="n.*"><select lemma="การฝ่าฝืน" tags="n.*"/></match>
@@ -16681,13 +16682,13 @@
     <match lemma="vitrification" tags="n.*"><select lemma="การทำสภาพใสคล้ายแก้ว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="vixen" tags="n.*"><select lemma="จิ้งจอกตัวเมีย" tags="n.*"/></match>
+    <match lemma="vixen" tags="n.*"><select lemma="จิ้งจอกตัวเมีย# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="vizier" tags="n.*"><select lemma="เสนาบดี" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="vocabulary" tags="n.*"><select lemma="บัญชีคำศัพท์" tags="n.*"/></match>
+    <match lemma="vocabulary" tags="n.*"><select lemma="บัญชีคำศัพท์# เล่ม" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="vocalism" tags="n.*"><select lemma="เสียง" tags="n.*"/></match>
@@ -16738,7 +16739,7 @@
     <match lemma="voyage" tags="n.*"><select lemma="การเดินทางท่องมหาสมุทร" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="vulture" tags="n.*"><select lemma="แร้ง" tags="n.*"/></match>
+    <match lemma="vulture" tags="n.*"><select lemma="แร้ง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="wafer" tags="n.*"><select lemma="เวเฟอร์" tags="n.*"/></match>
@@ -16750,7 +16751,7 @@
     <match lemma="wagon" tags="n.*"><select lemma="รถลาก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="waist" tags="n.*"><select lemma="เอว" tags="n.*"/></match>
+    <match lemma="waist" tags="n.*"><select lemma="เอว# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="waistcoat" tags="n.*"><select lemma="กั๊ก" tags="n.*"/></match>
@@ -16771,7 +16772,7 @@
     <match lemma="walnut" tags="n.*"><select lemma="วอลนัท" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="walrus" tags="n.*"><select lemma="วอลรัส" tags="n.*"/></match>
+    <match lemma="walrus" tags="n.*"><select lemma="วอลรัส# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="waltz" tags="n.*"><select lemma="วอลซ์" tags="n.*"/></match>
@@ -16801,10 +16802,10 @@
     <match lemma="washbowl" tags="n.*"><select lemma="อ่าง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="wasp" tags="n.*"><select lemma="ต่อ" tags="n.*"/></match>
+    <match lemma="wasp" tags="n.*"><select lemma="ต่อ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="watchdog" tags="n.*"><select lemma="สุนัขเฝ้ายาม" tags="n.*"/></match>
+    <match lemma="watchdog" tags="n.*"><select lemma="สุนัขเฝ้ายาม# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="watchmaker" tags="n.*"><select lemma="คนซ่อมนาฬิกา" tags="n.*"/></match>
@@ -16831,7 +16832,7 @@
     <match lemma="wave" tags="n.*"><select lemma="คลื่น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="wax" tags="n.*"><select lemma="ขี้ผึ้ง" tags="n.*"/></match>
+    <match lemma="wax" tags="n.*"><select lemma="ขี้ผึ้ง# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="way" tags="n.*"><select lemma="แบบอย่าง" tags="n.*"/></match>
@@ -16846,7 +16847,7 @@
     <match lemma="weapon" tags="n.*"><select lemma="อาวุธ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="weaver" tags="n.*"><select lemma="นกกระจาบ" tags="n.*"/></match>
+    <match lemma="weaver" tags="n.*"><select lemma="นกกระจาบ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="webcam" tags="n.*"><select lemma="กล้องเว็บแคม" tags="n.*"/></match>
@@ -16900,7 +16901,7 @@
     <match lemma="whiteness" tags="n.*"><select lemma="สีขาว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="whiting" tags="n.*"><select lemma="ปลาไวติง" tags="n.*"/></match>
+    <match lemma="whiting" tags="n.*"><select lemma="ปลาไวติง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="wife" tags="n.*"><select lemma="ภรรยา" tags="n.*"/></match>
@@ -16909,7 +16910,7 @@
     <match lemma="wig" tags="n.*"><select lemma="วิก" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="wild boar" tags="n.*"><select lemma="หมูป่า" tags="n.*"/></match>
+    <match lemma="wild boar" tags="n.*"><select lemma="หมูป่า# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="will" tags="n.*"><select lemma="การตัดสินใจ" tags="n.*"/></match>
@@ -16948,7 +16949,7 @@
     <match lemma="wizard" tags="n.*"><select lemma="อัจฉริยะ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="wolf" tags="n.*"><select lemma="วูลฟ์" tags="n.*"/></match>
+    <match lemma="wolf" tags="n.*"><select lemma="วูลฟ์# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="woman" tags="n.*"><select lemma="สตรี" tags="n.*"/></match>
@@ -16966,13 +16967,13 @@
     <match lemma="wool" tags="n.*"><select lemma="ผ้าขนแกะ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="word" tags="n.*"><select lemma="คำ" tags="n.*"/></match>
+    <match lemma="word" tags="n.*"><select lemma="คำ# คำ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="work" tags="n.*"><select lemma="งาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="workbench" tags="n.*"><select lemma="โต๊ะช่าง" tags="n.*"/></match>
+    <match lemma="workbench" tags="n.*"><select lemma="โต๊ะช่าง# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="workday" tags="n.*"><select lemma="วันทำงาน" tags="n.*"/></match>
@@ -16999,7 +17000,7 @@
     <match lemma="wrath" tags="n.*"><select lemma="ความแค้น" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="wrist" tags="n.*"><select lemma="กระดูกข้อมือ" tags="n.*"/></match>
+    <match lemma="wrist" tags="n.*"><select lemma="กระดูกข้อมือ# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="writer" tags="n.*"><select lemma="นักประพันธ์" tags="n.*"/></match>
@@ -17041,7 +17042,7 @@
     <match lemma="yolk" tags="n.*"><select lemma="ไข่แดง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="youngster" tags="n.*"><select lemma="เด็ก" tags="n.*"/></match>
+    <match lemma="youngster" tags="n.*"><select lemma="เด็ก# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="youth" tags="n.*"><select lemma="หนุ่ม" tags="n.*"/></match>
@@ -17068,10 +17069,10 @@
     <match lemma="zombie" tags="n.*"><select lemma="ผีดิบ" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="zone" tags="n.*"><select lemma="เขต" tags="n.*"/></match>
+    <match lemma="zone" tags="n.*"><select lemma="เขต# อัน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="zonule" tags="n.*"><select lemma="เขตเล็ก" tags="n.*"/></match>
+    <match lemma="zonule" tags="n.*"><select lemma="เขตเล็ก# อัน" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="zoology" tags="n.*"><select lemma="สัตววิทยา" tags="n.*"/></match>
