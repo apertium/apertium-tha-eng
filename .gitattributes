@@ -22,3 +22,4 @@
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text
+/update_lrx_with_cla.rb -text
