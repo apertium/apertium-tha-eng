@@ -46,7 +46,7 @@ $(PREFIX1).rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx
 $(PREFIX2).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
 	lt-trim $^ $@
 
-$(PREFIX1).automorf.bin: $(AP_LIB1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
+$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
 	lt-trim $^ $@
 
 $(PREFIX1).autolex.bin: $(BASENAME).$(PREFIX1).lrx
