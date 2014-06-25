@@ -2,94 +2,96 @@
 <!-- -*- nxml -*- -->
 <transfer default="chunk">
   <section-def-cats>
-    <def-cat n="nom">
-      <cat-item tags="n.*"/>
+    <def-cat n="there_adv">
+      <cat-item lemma="there" tags="adv"/>
+    </def-cat>
+    <def-cat n="be_vbser">
+      <cat-item lemma="be" tags="vbser"/>
     </def-cat>
     <def-cat n="num">
       <cat-item tags="num"/>
     </def-cat>
-    <def-cat n="prn">
-      <cat-item tags="prn.*"/>
+    <def-cat n="nom">
+      <cat-item tags="n.*"/>
+    </def-cat>
+    <def-cat n="det">
+      <cat-item tags="det.*"/>
     </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj"/>
       <cat-item tags="adj.*"/>
     </def-cat>
-    <def-cat n="preadv">
-      <cat-item tags="preadv"/>
+    <def-cat n="by_adv">
+      <cat-item lemma="by" tags="adv"/>
     </def-cat>
-    <def-cat n="det">
-      <cat-item tags="det.*"/>
+    <def-cat n="contrast_vblex">
+      <cat-item lemma="contrast" tags="vblex"/>
     </def-cat>
     <def-cat n="adv">
       <cat-item tags="adv"/>
     </def-cat>
-    <def-cat n="the_an_a">
+    <def-cat n="developers_unk">
+      <cat-item lemma="developers" tags="unk"/>
+    </def-cat>
+    <def-cat n="prn">
+      <cat-item tags="prn.*"/>
+    </def-cat>
+    <def-cat n="to_pr">
+      <cat-item lemma="to" tags="pr"/>
+    </def-cat>
+    <def-cat n="their_det">
+      <cat-item lemma="their" tags="det.*"/>
+    </def-cat>
+    <def-cat n="program_nom">
+      <cat-item lemma="program" tags="n.*"/>
+    </def-cat>
+    <def-cat n="preadv">
+      <cat-item tags="preadv"/>
+    </def-cat>
+    <def-cat n="the_det">
       <cat-item lemma="the" tags="det.*"/>
-      <cat-item lemma="an" tags="det.*"/>
+    </def-cat>
+    <def-cat n="a_det">
       <cat-item lemma="a" tags="det.*"/>
     </def-cat>
-    <def-cat n="lend_vblex">
-      <cat-item lemma="lend" tags="vblex.*"/>
-    </def-cat>
-    <def-cat n="sent">
-      <cat-item tags="sent"/>
-    </def-cat>
-    <def-cat n="xxx">
-      <cat-item tags="xxx"/>
-    </def-cat>    
   </section-def-cats>
-  <section-def-attrs>
-    <def-attr n="a_nbr">
-      <attr-item tags="sg"/>
-      <attr-item tags="pl"/>
-    </def-attr>
-    <def-attr n="a_nom">
-      <attr-item tags="n"/>
-    </def-attr>
-    <def-attr n="a_cas">
-      <attr-item tags="nom"/>
-      <attr-item tags="acc"/>
-      <attr-item tags="dat"/>
-      <attr-item tags="gen"/>
-      <attr-item tags="loc"/>
-      <attr-item tags="ins"/>
-      <attr-item tags="abl"/>
-    </def-attr>
-  </section-def-attrs>
-  <section-def-vars>
-    <def-var n="number"/>
-    <def-var n="current_verb"/>
-  </section-def-vars>
-  <section-def-macros>
-    <def-macro n="test" npar="1">
-          <let>
-            <var n="number"/>
-            <lit v=""/>
-          </let>
-    </def-macro>
-  </section-def-macros>
   <section-rules>
-    <rule comment="REGLA: SENT #1">
-      <pattern>
-        <pattern-item n="sent"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="sent" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SENT"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    
-  <rule comment="REGLA: num nom => _n   _num   _n #2">
-    <!-- 3 cats|||แมว 3 ตัว -->
+  <rule comment="REGLA: nom -> head only">
+    <pattern>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: There are|||มี">
+    <pattern>
+      <pattern-item n="there_adv"/>
+      <pattern-item n="be_vbser"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <lit v="มี"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: 3 cats|||แมว 3 ตัว">
     <pattern>
       <pattern-item n="num"/>
       <pattern-item n="nom"/>
@@ -103,28 +105,19 @@
           <lu>
             <clip pos="2" side="tl" part="lemh"/>
           </lu>
-          <b/>
-          <lu>
-            <lit v="_"/>
-          </lu>
-          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
           <b/>
           <lu>
-            <lit v="_"/>
-          </lu>
-          <b/>
-          <lu>
             <clip pos="2" side="tl" part="lemq"/>
           </lu>
+          <b/>
         </chunk>
       </out>
     </action>
   </rule>
-  <rule comment="REGLA: det adj nom => _n _adj _n _det #3">
-    <!-- A yellow house|||บ้านเหลืองหลังหนึ่ง -->
+  <rule comment="REGLA: A yellow house|||บ้านเหลืองหลังหนึ่ง">
     <pattern>
       <pattern-item n="det"/>
       <pattern-item n="adj"/>
@@ -139,15 +132,12 @@
           <lu>
             <clip pos="3" side="tl" part="lemh"/>
           </lu>
-          <b/>
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
-          <b/>
           <lu>
             <clip pos="3" side="tl" part="lemq"/>
           </lu>
-          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
@@ -155,11 +145,10 @@
       </out>
     </action>
   </rule>
-  <rule comment="REGLA: adj nom => _n _adj _n #4">
-    <!-- yellow house|||บ้านเหลืองหลัง -->
+  <rule comment="REGLA: By contrast|||ในทางกลับกัน">
     <pattern>
-      <pattern-item n="adj"/>
-      <pattern-item n="nom"/>
+      <pattern-item n="by_adv"/>
+      <pattern-item n="contrast_vblex"/>
     </pattern>
     <action>
       <out>
@@ -168,22 +157,13 @@
             <tag><lit-tag v="C1"/></tag>
           </tags>
           <lu>
-            <clip pos="2" side="tl" part="lemh"/>
-          </lu>
-          <b/>
-          <lu>
-            <clip pos="1" side="tl" part="whole"/>
-          </lu>
-          <b/>
-          <lu>
-            <clip pos="2" side="tl" part="lemq"/>
+            <lit v="ในทางกลับกัน"/>
           </lu>
         </chunk>
       </out>
     </action>
   </rule>
-  <rule comment="REGLA: adv nom => _n _adv #5">
-    <!-- most software|||ซอฟต์แวร์ส่วนมาก -->
+  <rule comment="REGLA: most software|||ซอฟต์แวร์ส่วนมาก">
     <pattern>
       <pattern-item n="adv"/>
       <pattern-item n="nom"/>
@@ -197,7 +177,6 @@
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
-          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
@@ -205,8 +184,32 @@
       </out>
     </action>
   </rule>
-  <rule comment="REGLA: prn adj nom => _n ที่ _adj ของ _prn #6">
-    <!-- everyone equal rights|||สิทธิที่เท่าเทียมกันของทุกคน -->
+  <rule comment="REGLA: Free software developers|||นักพัฒนาซอฟต์แวร์เสรี">
+    <pattern>
+      <pattern-item n="adv"/>
+      <pattern-item n="nom"/>
+      <pattern-item n="developers_unk"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <lit v="นักพัฒนา"/>
+          </lu>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: everyone equal rights|||สิทธิที่เท่าเทียมกันของทุกคน">
     <pattern>
       <pattern-item n="prn"/>
       <pattern-item n="adj"/>
@@ -221,19 +224,15 @@
           <lu>
             <clip pos="3" side="tl" part="whole"/>
           </lu>
-          <b/>
           <lu>
             <lit v="ที่"/>
           </lu>
-          <b/>
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
-          <b/>
           <lu>
             <lit v="ของ"/>
           </lu>
-          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
@@ -241,8 +240,26 @@
       </out>
     </action>
   </rule>
-  <rule comment="REGLA: preadv nom => _n _preadv #7">
-    <!-- any user|||ผู้ใช้ใดใด -->
+  <rule comment="REGLA: to their programs|||ในโปรแกรมของพวกเขา">
+    <pattern>
+      <pattern-item n="to_pr"/>
+      <pattern-item n="their_det"/>
+      <pattern-item n="program_nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <lit v="ในโปรแกรมของพวกเขา"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: any user|||ผู้ใช้ใดใด">
     <pattern>
       <pattern-item n="preadv"/>
       <pattern-item n="nom"/>
@@ -256,7 +273,6 @@
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
-          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
@@ -264,8 +280,14 @@
       </out>
     </action>
   </rule>
-  <rule comment="REGLA: nom nom => _n _n #8">
-    <!-- source code|||รหัสต้นฉบับ -->
+  <rule comment="REGLA: the|||">
+    <pattern>
+      <pattern-item n="the_det"/>
+    </pattern>
+    <action>
+    </action>
+  </rule>
+  <rule comment="REGLA: source code|||รหัสต้นฉบับ">
     <pattern>
       <pattern-item n="nom"/>
       <pattern-item n="nom"/>
@@ -279,12 +301,39 @@
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
-          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
         </chunk>
       </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: free program|||โปรแกรมเสรี">
+    <pattern>
+      <pattern-item n="adj"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  <rule comment="REGLA: a|||">
+    <pattern>
+      <pattern-item n="a_det"/>
+    </pattern>
+    <action>
     </action>
   </rule>
   </section-rules>

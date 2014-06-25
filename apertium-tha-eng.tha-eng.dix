@@ -28,6 +28,7 @@
     <sdef n="preadv" c="Pre-adverb"/>
     <sdef n="pres" c="Present tense (indicative)"/> 
     <sdef n="prn" c="Pronoun"/>
+    <sdef n="rel" c="Relative"/>
     <sdef n="sent" c="Sentence-ending punctuation"/>
     <sdef n="sep" c="Separable verb"/> 
     <sdef n="sg" c="Singular"/>
@@ -36,11 +37,14 @@
     <sdef n="subj" c="Subject"/>
     <sdef n="vaux" c="Auxilliary verb"/>
     <sdef n="vbdo" c="Verb to do"/>
+    <sdef n="vbhaver" c="Verb to have"/>
     <sdef n="vblex" c="Standard verb"/>
     <sdef n="vbmod" c="Modal verb"/>
     <sdef n="vbser" c="Verb &quot;to be&quot;"/>
   </sdefs>
   <section id="main" type="standard">
+    <e r="RL"><p><l/><r>do<s n="vbdo"/><s n="pres"/></r></p></e>
+    <e r="RL"><p><l/><r>have<s n="vbhaver"/><s n="pres"/></r></p></e>
 
     <!-- adj -->
     <e><p><l>จากผลสู่เหตุ<s n="adj"/></l><r>a<b/>posteriori<s n="adj"/></r></p></e>
@@ -55,7 +59,6 @@
     <e><p><l>มีอำนาจตามกฏหมาย<s n="adj"/></l><r>able<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>สมบูรณ์<s n="adj"/></l><r>able<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>สามารถ<s n="adj"/></l><r>able<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>สามารถ<s n="vblex"/></l><r>able<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>เก่ง<s n="adj"/></l><r>able<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>แข็งแรง<s n="adj"/></l><r>able<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>ที่ไม่ปกติ<s n="adj"/></l><r>abnormal<s n="adj"/></r></p></e>
@@ -3018,6 +3021,7 @@
     <e><p><l>ในที่สุด<s n="adv"/></l><r>at<b/>long<b/>last<s n="adv"/></r></p></e>
     <e><p><l>อย่างมาก<s n="adv"/></l><r>at<b/>most<s n="adv"/></r></p></e>
     <e><p><l>อย่างมากที่สุด<s n="adv"/></l><r>at<b/>most<s n="adv"/></r></p></e>
+    <e><p><l>ส่วนมาก<s n="adv"/></l><r>at<b/>most<s n="adv"/></r></p></e>
     <e><p><l>ทันที<s n="adv"/></l><r>at<b/>once<s n="adv"/></r></p></e>
     <e><p><l>ทันทีทันใด<s n="adv"/></l><r>at<b/>once<s n="adv"/></r></p></e>
     <e><p><l>ในทันที<s n="adv"/></l><r>at<b/>once<s n="adv"/></r></p></e>
@@ -27687,7 +27691,6 @@
     <e><p><l>ความกระตุ้งกระติ้ง<s n="n"/></l><r>softness<s n="n"/></r></p></e>
     <e><p><l>ความนุ่ม<s n="n"/></l><r>softness<s n="n"/></r></p></e>
     <e><p><l>ความเป็นกระเทย<s n="n"/></l><r>softness<s n="n"/></r></p></e>
-    <e><p><l>คอมพิวเตอร์ซอฟต์แวร์<s n="n"/></l><r>software<s n="n"/></r></p></e>
     <e><p><l>ซอฟต์แวร์<s n="n"/></l><r>software<s n="n"/></r></p></e>
     <e><p><l>โปรแกรมสำเร็จ<s n="n"/></l><r>software<s n="n"/></r></p></e>
     <e><p><l>ความสกปรก<s n="n"/></l><r>soil<s n="n"/></r></p></e>
@@ -38234,6 +38237,7 @@
     <e><p><l>ลดระดับ<s n="vblex"/></l><r>moderate<s n="vblex"/></r></p></e>
     <e><p><l>เป็นประธาน<s n="vblex"/></l><r>moderate<s n="vblex"/></r></p></e>
     <e><p><l>ดัดแปลง<s n="vblex"/></l><r>modify<s n="vblex"/></r></p></e>
+    <e><p><l>แก้ไขดัดแปลง<s n="vblex"/></l><r>modify<s n="vblex"/></r></p></e>
     <e><p><l>ทำให้เปลี่ยน<s n="vblex"/></l><r>modify<s n="vblex"/></r></p></e>
     <e><p><l>ทำให้เปลี่ยนแปลง<s n="vblex"/></l><r>modify<s n="vblex"/></r></p></e>
     <e><p><l>มีคุณสมบัติเหมาะสม<s n="vblex"/></l><r>modify<s n="vblex"/></r></p></e>
@@ -42437,11 +42441,11 @@
     <e><p><l>ลอง<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
     <e><p><l>สมบูรณ์<s n="n"/></l><r>integrity<s n="n"/></r></p></e>
     <e><p><l>สัญญาอนุญาต<s n="n"/></l><r>license<s n="n"/></r></p></e>
-    <e><p><l>สามารถ<b/>ได้<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
+    <e><p><l>สามารถ<g><b/>ได้</g><s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
+    <e><p><l>สามารถ<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>สำหรับ<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
     <e><p><l>สำเร็จ<s n="vblex"/></l><r>succeed<s n="vblex"/></r></p></e>
     <e><p><l>อย่า<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
-    <e r="RL"><p><l/><r>do<s n="vbdo"/><s n="pres"/></r></p></e>
     <e><p><l>เริ่ม<b/>ใหม่<s n="vblex"/></l><r>restart<s n="vblex"/></r></p></e>
     <e><p><l>เรียก<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
     <e><p><l>เว็บไซด์<s n="n"/></l><r>site<s n="n"/></r></p></e>
@@ -42458,5 +42462,20 @@
     <e><p><l>ให้แน่ใจ<s n="adv"/></l><r>make<b/>sure<s n="adv"/></r></p></e>
     <e><p><l>ไม่สำเร็จ<s n="vblex"/></l><r>fail<s n="vblex"/></r></p></e>
     <e><p><l>ไม่เรียงลำดับ<s n="adj"/></l><r>unsorted<s n="adj"/></r></p></e>
+
+    <e><p><l>เหลือง<s n="adj"/></l><r>yellow<s n="adj"/></r></p></e>
+    <e><p><l>ส่วนมาก<s n="adv"/></l><r>most<s n="adv"/></r></p></e>
+    <e><p><l>ที่<s n="rel"/></l><r>that<s n="rel"/></r></p></e>
+    <e><p><l>เรา<s n="n"/></l><r>u<s n="n"/></r></p></e>
+    <e><p><l>เหล่านี้<s n="det"/></l><r>this<s n="det"/></r></p></e>
+    <e><p><l>นักพัฒนา<s n="n"/></l><r>developer<s n="n"/></r></p></e>
+    <e><p><l>เสรี<s n="adv"/></l><r>free<s n="adv"/></r></p></e>
+    <e><p><l>ทุกคน<s n="prn"/></l><r>everyone<s n="prn"/></r></p></e>
+    <e><p><l>เท่าเทียมกัน<s n="adj"/></l><r>equal<s n="adj"/></r></p></e>
+    <e><p><l>ใดใด<s n="preadv"/></l><r>any<s n="preadv"/></r></p></e>
+    <e><p><l>ต้นฉบับ<s n="n"/></l><r>source<s n="n"/></r></p></e>
+    <e><p><l>เสรี<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
+    <e><p><l>มัน<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    
   </section>
 </dictionary>
