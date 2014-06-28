@@ -47,6 +47,8 @@
     <e r="RL"><p><l/><r>have<s n="vbhaver"/><s n="pres"/></r></p></e>
 
     <!-- adj -->
+	<e><p><l>เอา<b/>ได้<s n="adj"/></l><r>fuckable<s n="adj"/></r></p></e>    
+    <e><p><l>เอา<b/>ได้<s n="vblex"/></l><r>fuckable<s n="adj"/></r></p></e>    
     <e><p><l>จากผลสู่เหตุ<s n="adj"/></l><r>a<b/>posteriori<s n="adj"/></r></p></e>
     <e><p><l>ส่วนท้อง<s n="adj"/></l><r>abdominal<s n="adj"/></r></p></e>
     <e><p><l>น่าสังเวช<s n="adj"/></l><r>abject<s n="adj"/></r></p></e>

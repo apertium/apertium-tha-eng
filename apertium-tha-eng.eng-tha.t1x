@@ -6,7 +6,7 @@
       <cat-item lemma="there" tags="adv"/>
     </def-cat>
     <def-cat n="be_vbser">
-      <cat-item lemma="be" tags="vbser"/>
+      <cat-item lemma="be" tags="vbser.*"/>
     </def-cat>
     <def-cat n="num">
       <cat-item tags="num"/>
@@ -334,6 +334,25 @@
       <pattern-item n="a_det"/>
     </pattern>
     <action>
+    </action>
+  </rule>
+
+  <rule comment="REGLA: be adj -> verb">
+    <pattern>
+      <pattern-item n="be_vbser"/>
+      <pattern-item n="adj"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+        </chunk>
+      </out>
     </action>
   </rule>
   </section-rules>
