@@ -45,6 +45,7 @@
   <section id="main" type="standard">
     <e r="RL"><p><l/><r>do<s n="vbdo"/><s n="pres"/></r></p></e>
     <e r="RL"><p><l/><r>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+    <e><p><l>จะ<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
 
     <!-- adj -->
 	<e><p><l>เอา<b/>ได้<s n="adj"/></l><r>fuckable<s n="adj"/></r></p></e>    
