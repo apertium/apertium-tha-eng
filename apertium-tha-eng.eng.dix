@@ -11686,6 +11686,7 @@
     <!-- Nouns -->
     <e lm="Kampuchea"><i>Kampuchea</i><par n="Wikimedia__np"/></e>
     <e lm="developer"><i>developer</i><par n="house__n"/></e>
+    <e lm="follower"><i>follower</i><par n="house__n"/></e>
     
     <e lm="a day's journey"><p><l>a<b/>day's<b/>journey</l><r>a<b/>day's<b/>journey<s n="n"/><s n="sg"/></r></p></e>
     <e lm="a day's journey"><p><l>some<b/>days'<b/>journey</l><r>a<b/>day's<b/>journey<s n="n"/><s n="pl"/></r></p></e>
@@ -36512,6 +36513,7 @@
 
     <!-- Adjectives -->
     <e lm="optic"><i>optic</i><par n="expensive__adj"/></e>
+    <e lm="question-asking"><i>question-asking</i><par n="expensive__adj"/></e>
 
     <e lm="first"><i>first</i><par n="second__adj"/></e>
     <e lm="second"><i>second</i><par n="second__adj"/></e>
@@ -44233,6 +44235,7 @@
 	<e lm="Kehoe"><i>Kehoe</i><par n="Smith__np"/></e>
 	<e lm="Kerstic"><i>Kerstic</i><par n="Smith__np"/></e>
 	<e lm="Kesetovic"><i>Kesetovic</i><par n="Smith__np"/></e>
+	<e lm="Khmer Rouge"><i>Khmer<b/>Rouge</i><par n="Smith__np"/></e>
 	<e lm="Kilic"><i>Kilic</i><par n="Smith__np"/></e>
 	<e lm="Kladovo"><i>Kladovo</i><par n="United_States__np"/></e>
 	<e lm="Knezovic"><i>Knezovic</i><par n="Mark__np"/></e>
