@@ -275,6 +275,8 @@ REMOVE Pron IF (0 Det OR Pron) (1 NUM) ;
 SELECT Year IF (-1 ("in") OR ("after") OR ("since") OR ("of")) (NOT 1 N);
 
 SELECT Year IF (-1 Seasons OR Months);
+
+REMOVE V IF (-1 N) (1 VAUX-CAN);
  
 AFTER-SECTIONS 
 
