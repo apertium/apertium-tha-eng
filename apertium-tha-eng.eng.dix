@@ -11684,6 +11684,7 @@
 
 
     <!-- Nouns -->
+    <e lm="proponent"><i>proponent</i><par n="house__n"/></e>
     <e lm="Kampuchea"><i>Kampuchea</i><par n="Wikimedia__np"/></e>
     <e lm="developer"><i>developer</i><par n="house__n"/></e>
     <e lm="follower"><i>follower</i><par n="house__n"/></e>
@@ -36512,8 +36513,12 @@
 
 
     <!-- Adjectives -->
+    <e lm="irrigated"><i>irrigated</i><par n="expensive__adj"/></e>
     <e lm="optic"><i>optic</i><par n="expensive__adj"/></e>
     <e lm="question-asking"><i>question-asking</i><par n="expensive__adj"/></e>
+    <e lm="cause-and-effect"><i>cause-and-effect</i><par n="expensive__adj"/></e>
+
+
 
     <e lm="first"><i>first</i><par n="second__adj"/></e>
     <e lm="second"><i>second</i><par n="second__adj"/></e>
@@ -43463,6 +43468,7 @@
     <e lm="upon"><i>upon</i><par n="at__pr"/></e>
     <e lm="with"><i>with</i><par n="at__pr"/></e>
     <e lm="with a view to"><i>with<b/>a<b/>view<b/>to</i><par n="at__pr"/></e>
+    <e lm="with regard to"><i>with<b/>regard<b/>to</i><par n="at__pr"/></e>
     <e lm="within"><i>within</i><par n="at__pr"/></e>
     <e lm="without"><i>without</i><par n="at__pr"/></e>
     <e lm="ahead of"><i>ahead<b/>of</i><par n="at__pr"/></e>
@@ -43549,6 +43555,7 @@
     <e lm="gonna"><p><l>gonna</l><r>go<s n="vblex"/><s n="ger"/><j/>to<s n="pr"/></r></p></e>
     <e lm="that's"><p><l>that's</l><r>that<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="annoy"><i>annoy</i><par n="enjoy__vblex"/></e>
+    <e lm="depend on"><i>depend<b/>on</i><par n="enjoy__vblex"/></e>
     <e lm="breach"><i>breach</i><par n="approach__vblex"/></e>
     <e lm="drink like a fish"><i>dr</i><par n="dr/ink__vblex"/><p><l><b/>like<b/>a<b/>fish</l><r><g><b/>like<b/>a<b/>fish</g></r></p></e>
     <e lm="pay cash"><i>pa</i><par n="pa/y__vblex"/><p><l><b/>cash</l><r><g><b/>cash</g></r></p></e>
