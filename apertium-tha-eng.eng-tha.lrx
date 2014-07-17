@@ -61,6 +61,10 @@
     <match lemma="agricultural" tags="adj"><select lemma="ทางการเกษตร" tags="adj"/></match>
   </rule>
   <rule>
+    <match lemma="occur" tags="vblex.*"><select lemma="เกิดขึ้น" tags="vblex.*"/></match>
+    <match lemma="over" tags="pr"><select lemma="เมื่อ" tags="pr"/></match>
+  </rule>
+  <rule>
     <match lemma="aground" tags="adj"><select lemma="ตามแนวชายฝั่ง" tags="adj"/></match>
   </rule>
   <rule>
@@ -12453,6 +12457,9 @@
     <match lemma="past" tags="n.*"><select lemma="อดีต" tags="n.*"/></match>
   </rule>
   <rule>
+    <match lemma="past" tags="adj"><select lemma="ที่แล้ว" tags="adj"/></match>
+  </rule>
+  <rule>
     <match lemma="pasture" tags="n.*"><select lemma="ทุ่งหญ้า" tags="n.*"/></match>
   </rule>
   <rule>
@@ -13155,7 +13162,7 @@
     <match lemma="power" tags="n.*"><select lemma="พลัง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="practice" tags="n.*"><select lemma="แบบอย่าง" tags="n.*"/></match>
+    <match lemma="practice" tags="n.*"><select lemma="ข้อปฏิบัติ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pram" tags="n.*"><select lemma="รถเข็นทารก" tags="n.*"/></match>
@@ -15783,8 +15790,13 @@
     <match lemma="technique" tags="n.*"><select lemma="เทคนิค" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="technology" tags="n.*"><select lemma="งานทางวิศวกรรม" tags="n.*"/></match>
+    <match lemma="technology" tags="n.*"><select lemma="เทคโนโลยี" tags="n.*"/></match>
   </rule>
+  <rule>
+    <match lemma="response" tags="n.*"/>
+    <match lemma="to" tags="pr"><select lemma="ต่อ" tags="pr"/></match>
+  </rule>
+
   <rule>
     <match lemma="tedium" tags="n.*"><select lemma="ความน่าเบื่อ" tags="n.*"/></match>
   </rule>
@@ -20244,6 +20256,10 @@
   <rule>
     <match lemma="shift" tags="vblex.*"><select lemma="สับเปลี่ยน" tags="vblex.*"/></match>
   </rule>
+  <rule>
+    <match lemma="shift" tags="n.*"><select lemma="การเปลี่ยนแปลง# ครั้ง" tags="n.*"/></match>
+  </rule>
+
   <rule>
     <match lemma="shine" tags="vblex.*"><select lemma="สะท้อนแสง" tags="vblex.*"/></match>
   </rule>

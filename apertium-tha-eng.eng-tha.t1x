@@ -5,6 +5,9 @@
     <def-cat n="there_adv">
       <cat-item lemma="there" tags="adv"/>
     </def-cat>
+    <def-cat n="vbhaver">
+      <cat-item tags="vbhaver.*"/>
+    </def-cat>
     <def-cat n="be_vbser">
       <cat-item lemma="be" tags="vbser.*"/>
     </def-cat>
@@ -48,11 +51,12 @@
     <def-cat n="preadv">
       <cat-item tags="preadv"/>
     </def-cat>
-    <def-cat n="the_det">
+    <def-cat n="a_the_det">
+      <cat-item lemma="a" tags="det.*"/>
       <cat-item lemma="the" tags="det.*"/>
     </def-cat>
-    <def-cat n="a_det">
-      <cat-item lemma="a" tags="det.*"/>
+    <def-cat n="vblex_pp">
+      <cat-item tags="vblex.pp"/>
     </def-cat>
     <def-cat n="det_pos">
       <cat-item tags="det.pos.*"/>
@@ -286,13 +290,6 @@
       </out>
     </action>
   </rule>
-  <rule comment="REGLA: the|||">
-    <pattern>
-      <pattern-item n="the_det"/>
-    </pattern>
-    <action>
-    </action>
-  </rule>
   <rule comment="REGLA: source code|||รหัสต้นฉบับ">
     <pattern>
       <pattern-item n="nom"/>
@@ -335,9 +332,9 @@
       </out>
     </action>
   </rule>
-  <rule comment="REGLA: a|||">
+  <rule comment="REGLA: a/the|||">
     <pattern>
-      <pattern-item n="a_det"/>
+      <pattern-item n="a_the_det"/>
     </pattern>
     <action>
     </action>
@@ -424,6 +421,51 @@
           </lu>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
+
+  <rule comment="REGLA: det(a/the) adj nom -> adj nom">
+    <pattern>
+      <pattern-item n="a_the_det"/>
+      <pattern-item n="adj"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="SN" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="SN"/></tag>
+          </tags>
+          <lu>
+            <clip pos="3" side="tl" part="whole"/>
+          </lu>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
+
+  <rule comment="REGLA: vbser vblex.pp -> ได้ vblex">
+    <pattern>
+      <pattern-item n="vbhaver"/>
+      <pattern-item n="vblex_pp"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="SV" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="SV"/></tag>
+          </tags>
+          <lu>
+            <lit v="ได้"/>            
+          </lu>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
           </lu>          
         </chunk>
       </out>

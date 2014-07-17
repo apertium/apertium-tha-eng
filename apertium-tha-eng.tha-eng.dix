@@ -48,7 +48,7 @@
     <e><p><l>จะ<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
 
     <!-- adj -->
-
+    <e><p><l>ที่โดนเด่น<s n="adj"/></l><r>remarkable<s n="adj"/></r></p></e>  
 	<e><p><l>ก่อนยุคอุตสาหกรรม<s n="adj"/></l><r>pre-industrial<s n="adj"/></r></p></e>  
 	<e><p><l>เอา<b/>ได้<s n="adj"/></l><r>fuckable<s n="adj"/></r></p></e>    
     <e><p><l>เอา<b/>ได้<s n="vblex"/></l><r>fuckable<s n="adj"/></r></p></e>    
@@ -1876,6 +1876,7 @@
     <e><p><l>เฉยๆ<s n="adj"/></l><r>passive<s n="adj"/></r></p></e>
     <e><p><l>เฉื่อยชา<s n="adj"/></l><r>passive<s n="adj"/></r></p></e>
     <e><p><l>อดีต<s n="adj"/></l><r>past<s n="adj"/></r></p></e>
+    <e><p><l>ที่แล้ว<s n="adj"/></l><r>past<s n="adj"/></r></p></e>
     <e><p><l>ที่เป็นชีวิตในชนบท<s n="adj"/></l><r>pastoral<s n="adj"/></r></p></e>
     <e><p><l>ที่มีความเหนียว<s n="adj"/></l><r>pasty<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>สำหรับผู้ปกครอง<s n="adj"/></l><r>paternal<s n="adj"/></r></p></e>
@@ -24279,6 +24280,7 @@
     <e><p><l>เลขชี้กำลัง<s n="n"/></l><r>power<s n="n"/></r></p></e>
     <e><p><l>การปฏิบัติ<s n="n"/></l><r>practice<s n="n"/></r></p></e>
     <e><p><l>การฝึกซ้อม<s n="n"/></l><r>practice<s n="n"/></r></p></e>
+    <e><p><l>ข้อปฏิบัติ<s n="n"/></l><r>practice<s n="n"/></r></p></e>
     <e><p><l>การฝึกปฏิบัติ<s n="n"/></l><r>practice<s n="n"/></r></p></e>
     <e><p><l>แบบอย่าง<s n="n"/></l><r>practice<s n="n"/></r></p></e>
     <e><p><l>ผู้ฝึกหัด<s n="n"/></l><r>practitioner<s n="n"/></r></p></e>
@@ -27119,6 +27121,7 @@
     <e><p><l>โล่กลม<s n="n"/></l><r>shield<s n="n"/></r></p></e>
     <e><p><l>กะ<s n="n"/></l><r>shift<s n="n"/></r></p></e>
     <e><p><l>การเปลี่ยนตำแหน่ง<s n="n"/></l><r>shift<s n="n"/></r></p></e>
+    <e><p><l>การเปลี่ยนแปลง<g><b/>ครั้ง</g><s n="n"/></l><r>shift<s n="n"/></r></p></e>
     <e><p><l>การเปลี่ยนรูป<s n="n"/></l><r>shift<s n="n"/></r></p></e>
     <e><p><l>คนทำงานเป็นกะ<s n="n"/></l><r>shift<s n="n"/></r></p></e>
     <e><p><l>ชั่วโมงทำงาน<s n="n"/></l><r>shift<s n="n"/></r></p></e>
@@ -29377,7 +29380,7 @@
     <e><p><l>งานทางวิศวกรรม<s n="n"/></l><r>technology<s n="n"/></r></p></e>
     <e><p><l>งานทางเทคโนโลยี<s n="n"/></l><r>technology<s n="n"/></r></p></e>
     <e><p><l>งานวิศวกรรม<s n="n"/></l><r>technology<s n="n"/></r></p></e>
-    <e><p><l>งานเทคโนโลยี<s n="n"/></l><r>technology<s n="n"/></r></p></e>
+    <e><p><l>เทคโนโลยี<s n="n"/></l><r>technology<s n="n"/></r></p></e>
     <e><p><l>วิทยาศาสตร์ประยุกต์<s n="n"/></l><r>technology<s n="n"/></r></p></e>
     <e><p><l>วิศวกรรมศาสตร์<s n="n"/></l><r>technology<s n="n"/></r></p></e>
     <e><p><l>วิศวกรรมศาสตร์ประยุกต์<s n="n"/></l><r>technology<s n="n"/></r></p></e>
@@ -31750,6 +31753,7 @@
     <e><p><l>สำหรับ<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
     <e><p><l>โดย<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
     <e><p><l>เพื่อ<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>ต่อ<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>บน<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
     <e><p><l>ข้างใน<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
     <e><p><l>ของ<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
@@ -31840,6 +31844,7 @@
     <e><p><l>นอก<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>นอก<s n="pr"/></l><r>outside<s n="pr"/></r></p></e>
     <e><p><l>บน<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
+    <e><p><l>เมื่อ<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
     <e><p><l>มากกว่า<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
     <e><p><l>เพราะ<s n="pr"/></l><r>owing<b/>to<s n="pr"/></r></p></e>
     <e><p><l>ต่อ<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
@@ -38450,7 +38455,6 @@
     <e><p><l>ได้บรรจุ<s n="vblex"/></l><r>occupy<s n="vblex"/></r></p></e>
     <e><p><l>มีอยู่<s n="vblex"/></l><r>occur<s n="vblex"/></r></p></e>
     <e><p><l>เกิดขึ้น<s n="vblex"/></l><r>occur<s n="vblex"/></r></p></e>
-    <e><p><l>แวบ<s n="vblex"/></l><r>occur<s n="vblex"/></r></p></e>
     <e><p><l>ทำร้ายความรู้สึก<s n="vblex"/></l><r>offend<s n="vblex"/></r></p></e>
     <e><p><l>ทำให้ขยะแขยง<s n="vblex"/></l><r>offend<s n="vblex"/></r></p></e>
     <e><p><l>ทำให้ตกใจ<s n="vblex"/></l><r>offend<s n="vblex"/></r></p></e>
