@@ -11684,6 +11684,11 @@
 
 
     <!-- Nouns -->
+    
+    <e lm="subsistence"><i>subsistence</i><par n="house__n"/></e>
+    <e lm="self-sufficiency"><i>self-sufficienc</i><par n="bab/y__n"/></e>
+    <e lm="vast majority"><i>vast<b/>majorit</i><par n="bab/y__n"/></e>
+    <e lm="seedling"><i>seedling</i><par n="house__n"/></e>
     <e lm="proponent"><i>proponent</i><par n="house__n"/></e>
     <e lm="Kampuchea"><i>Kampuchea</i><par n="Wikimedia__np"/></e>
     <e lm="developer"><i>developer</i><par n="house__n"/></e>
@@ -36513,6 +36518,8 @@
 
 
     <!-- Adjectives -->
+
+    <e lm="wind-pollinated"><i>wind-pollinated</i><par n="expensive__adj"/></e>    
     <e lm="irrigated"><i>irrigated</i><par n="expensive__adj"/></e>
     <e lm="optic"><i>optic</i><par n="expensive__adj"/></e>
     <e lm="question-asking"><i>question-asking</i><par n="expensive__adj"/></e>
@@ -37464,6 +37471,7 @@
     <e lm="post-traumatic"><i>post-traumatic</i><par n="expensive__adj"/></e>
     <e lm="pottery"><i>pottery</i><par n="expensive__adj"/></e>
     <e lm="pre-coalition"><i>pre-coalition</i><par n="expensive__adj"/></e>
+    <e lm="pre-industrial"><i>pre-industrial</i><par n="expensive__adj"/></e>
     <e lm="premier"><i>premier</i><par n="expensive__adj"/></e>
     <e lm="pre-Roman"><i>pre-Roman</i><par n="expensive__adj"/></e>
     <e lm="presented"><i>presented</i><par n="expensive__adj"/></e>
@@ -39883,10 +39891,10 @@
     <e lm="dusty"><i>dust</i><par n="happ/y__adj"/></e>
     <e lm="navy"><i>navy</i><par n="expensive__adj"/></e>
 
-
     <!-- Verbs -->
-
-	
+    <e lm="labor"><i>labor</i><par n="accept__vblex"/></e>
+    <e lm="domesticate"><i>domesticat</i><par n="liv/e__vblex"/></e>
+    <e lm="branch"><i>branch</i><par n="approach__vblex"/></e>
     <e lm="have"><i>ha</i><par n="ha/ve__vbhaver"/></e>
     <e lm="do"><i>d</i><par n="d/o__vaux"/></e>
     <e lm="can"><i>c</i><par n="c/an__vbmod"/></e>
@@ -43365,9 +43373,8 @@
     <e lm="who"><i>who</i><par n="that__rel"/></e>
     <e lm="whom"><i>whom</i><par n="that__rel"/></e>
     <e lm="of which"><p><l>of<b/>which</l><r>of<s n="pr"/><j/>which</r></p><par n="which__rel"/></e>
+    <e lm="in which"><i>in<b/>which</i><par n="which__rel"/></e>
 
-
-	
     <e><i>'s</i><par n="'s__gen"/></e>
     <e lm="about"><i>about</i><par n="at__pr"/></e>
     <e lm="via"><i>via</i><par n="at__pr"/></e>

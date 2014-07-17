@@ -48,6 +48,8 @@
     <e><p><l>จะ<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
 
     <!-- adj -->
+
+	<e><p><l>ก่อนยุคอุตสาหกรรม<s n="adj"/></l><r>pre-industrial<s n="adj"/></r></p></e>  
 	<e><p><l>เอา<b/>ได้<s n="adj"/></l><r>fuckable<s n="adj"/></r></p></e>    
     <e><p><l>เอา<b/>ได้<s n="vblex"/></l><r>fuckable<s n="adj"/></r></p></e>    
     <e><p><l>จากผลสู่เหตุ<s n="adj"/></l><r>a<b/>posteriori<s n="adj"/></r></p></e>
@@ -4325,6 +4327,7 @@
     <e><p><l>สองครั้ง<s n="adv"/></l><r>twice<s n="adv"/></r></p></e>
     <e><p><l>เป็นสองเท่า<s n="adv"/></l><r>twice<s n="adv"/></r></p></e>
     <e><p><l>อย่างเป็นแบบฉบับ<s n="adv"/></l><r>typically<s n="adv"/></r></p></e>
+    <e><p><l>โดยทั่วไป<s n="adv"/></l><r>typically<s n="adv"/></r></p></e>
     <e><p><l>ในที่สุด<s n="adv"/></l><r>ultimately<s n="adv"/></r></p></e>
     <e><p><l>เกินระดับที่กำหนด<s n="adv"/></l><r>unacceptably<s n="adv"/></r></p></e>
     <e><p><l>อย่างเฉพาะ<s n="adv"/></l><r>unambiguously<s n="adv"/></r></p></e>
@@ -4488,6 +4491,7 @@
     <e><p><l>นั้น<s n="det"/></l><r>that<s n="det"/></r></p></e>
     <e><p><l>นั้น<s n="det"/></l><r>the<s n="det"/></r></p></e>
     <e><p><l>ส่วนมาก<s n="det"/></l><r>the<b/>most<s n="det"/></r></p></e>
+    <e><p><l>ที่สุด<s n="det"/></l><r>the<b/>most<s n="det"/></r></p></e>
     <e><p><l>ของพวกเขา<s n="det"/></l><r>their<s n="det"/></r></p></e>
     <e><p><l>มากมาย<s n="det"/></l><r>too<b/>many<s n="det"/></r></p></e>
     <e><p><l>มากมาย<s n="det"/></l><r>too<b/>much<s n="det"/></r></p></e>
@@ -4501,6 +4505,9 @@
     <e><p><l>หนึ่ง<s n="det"/></l><r>a<s n="det"/></r></p></e>
 
     <!-- n -->
+
+    <e><p><l>การดำรงชีพขั้นพื้นฐาน<s n="n"/></l><r>subsistence<s n="n"/></r></p></e>
+    <e><p><l>ส่วนใหญ่<s n="n"/></l><r>vast<b/>majority<s n="n"/></r></p></e>
     <e><p><l>คริสตศักราช<s n="n"/></l><r>AD<s n="n"/></r></p></e>
     <e><p><l>อาหรับ<s n="n"/></l><r>Arab<s n="n"/></r></p></e>
     <e><p><l>จีพีเอส<s n="n"/></l><r>GPS<s n="n"/></r></p></e>
@@ -8916,8 +8923,7 @@
     <e><p><l>แบบอักขระ<s n="n"/></l><r>case<s n="n"/></r></p></e>
     <e><p><l>แบบอักษร<s n="n"/></l><r>case<s n="n"/></r></p></e>
     <e><p><l>เคซีน<g><b/>อัน</g><s n="n"/></l><r>casein<s n="n"/></r></p></e>
-    <e><p><l>จอห์น<s n="n"/></l><r>cash<s n="n"/></r></p></e>
-    <e><p><l>จอห์นนี่<g><b/>นาย</g><s n="n"/></l><r>cash<s n="n"/></r></p></e>
+    <e><p><l>ทำเงิน<s n="adj"/></l><r>cash<s n="n"/></r></p></e>
     <e><p><l>เงินสด<s n="n"/></l><r>cash<s n="n"/></r></p></e>
     <e><p><l>แคช<s n="n"/></l><r>cash<s n="n"/></r></p></e>
     <e><p><l>เครื่องบันทึกจำนวนเงิน<s n="n"/></l><r>cash<b/>register<s n="n"/></r></p></e>
@@ -11600,6 +11606,7 @@
     <e><p><l>ผลผลิตพืชในฤดู<s n="n"/></l><r>crop<s n="n"/></r></p></e>
     <e><p><l>พืชผลการเกษตร<s n="n"/></l><r>crop<s n="n"/></r></p></e>
     <e><p><l>แส้<s n="n"/></l><r>crop<s n="n"/></r></p></e>
+    <e><p><l>พืชผล<s n="n"/></l><r>crop<s n="n"/></r></p></e>
     <e><p><l>คร็อกเก็ต<s n="n"/></l><r>croquette<s n="n"/></r></p></e>
     <e><p><l>กากบาท<s n="n"/></l><r>cross<s n="n"/></r></p></e>
     <e><p><l>การผสมข้ามสายพันธุ์<s n="n"/></l><r>cross<s n="n"/></r></p></e>
@@ -26792,6 +26799,7 @@
     <e><p><l>ธาตุเซเลเนียม<s n="n"/></l><r>selenium<s n="n"/></r></p></e>
     <e><p><l>เลขอะตอม<s n="n"/></l><r>selenium<s n="n"/></r></p></e>
     <e><p><l>การวิจารณ์ตนเอง<s n="n"/></l><r>self-criticism<s n="n"/></r></p></e>
+    <e><p><l>การพึ่งพาตนเอง<s n="n"/></l><r>self-sufficiency<s n="n"/></r></p></e>
     <e><p><l>การป้องกันตัว<s n="n"/></l><r>self-defence<s n="n"/></r></p></e>
     <e><p><l>ศิลปะการป้องกันตัว<s n="n"/></l><r>self-defence<s n="n"/></r></p></e>
     <e><p><l>ศิลปะป้องกันตัว<s n="n"/></l><r>self-defence<s n="n"/></r></p></e>
@@ -31899,7 +31907,10 @@
     <e><p><l>เหล่านี้<s n="prn"/></l><r>these<s n="prn"/></r></p></e>
     <e><p><l>พวกเรา<s n="prn"/></l><r>us<s n="prn"/></r></p></e>
     <e><p><l>มัน<s n="prn"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+
+
     <!-- vblex -->
+    <e><p><l>ใช้แรงงาน<s n="vblex"/></l><r>labor<s n="vblex"/></r></p></e>
     <e><p><l>ปิด<s n="vblex"/></l><r>turn<g><b/>off</g><s n="vblex"/></r></p></e>
     <e><p><l>ทอดทิ้ง<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
     <e><p><l>ทิ้ง<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
@@ -42469,6 +42480,7 @@
     <e><p><l>เหลือง<s n="adj"/></l><r>yellow<s n="adj"/></r></p></e>
     <e><p><l>ส่วนมาก<s n="adv"/></l><r>most<s n="adv"/></r></p></e>
     <e><p><l>ที่<s n="rel"/></l><r>that<s n="rel"/></r></p></e>
+    <e><p><l>ซึ่ง<s n="rel"/></l><r>in<b/>which<s n="rel"/></r></p></e>
     <e><p><l>เรา<s n="n"/></l><r>u<s n="n"/></r></p></e>
     <e><p><l>เหล่านี้<s n="det"/></l><r>this<s n="det"/></r></p></e>
     <e><p><l>นักพัฒนา<s n="n"/></l><r>developer<s n="n"/></r></p></e>

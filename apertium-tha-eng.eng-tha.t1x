@@ -54,6 +54,12 @@
     <def-cat n="a_det">
       <cat-item lemma="a" tags="det.*"/>
     </def-cat>
+    <def-cat n="det_pos">
+      <cat-item tags="det.pos.*"/>
+    </def-cat>
+    <def-cat n="own">
+      <cat-item lemma="own" tags="*"/>
+    </def-cat>
   </section-def-cats>
   <section-rules>
   <rule comment="REGLA: nom -> head only">
@@ -355,5 +361,74 @@
       </out>
     </action>
   </rule>
+
+  <rule comment="REGLA: be adj -> verb">
+    <pattern>
+      <pattern-item n="be_vbser"/>
+      <pattern-item n="adv"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="c1" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="C1"/></tag>
+          </tags>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
+
+  <rule comment="REGLA: det_pos nom -> nom det_pos">
+    <pattern>
+      <pattern-item n="det_pos"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="SN" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="SN"/></tag>
+          </tags>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
+
+
+  <rule comment="REGLA: det_pos own nom -> nom det_pos">
+    <pattern>
+      <pattern-item n="det_pos"/>
+      <pattern-item n="own"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <chunk name="SN" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="SN"/></tag>
+          </tags>
+          <lu>
+            <clip pos="3" side="tl" part="whole"/>
+          </lu>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
+  
   </section-rules>
 </transfer>

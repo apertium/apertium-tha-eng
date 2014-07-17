@@ -1528,6 +1528,9 @@
     <match lemma="at the most" tags="adv"><select lemma="อย่างมาก" tags="adv"/></match>
   </rule>
   <rule>
+    <match lemma="the most" tags="det.*"><select lemma="ที่สุด" tags="det.*"/></match>
+  </rule>
+  <rule>
     <match lemma="at the same time" tags="adv"><select lemma="ในขณะเดียวกัน" tags="adv"/></match>
   </rule>
   <rule>
@@ -1553,6 +1556,9 @@
   </rule>
   <rule>
     <match lemma="barely" tags="adv"><select lemma="แทบจะไม่" tags="adv"/></match>
+  </rule>
+  <rule>
+    <match lemma="be" tags="vbser.*"><select lemma="เป็น" tags="vbser.*"/></match>
   </rule>
   <rule>
     <match lemma="before" tags="adv"><select lemma="ก่อน" tags="adv"/></match>
@@ -2011,7 +2017,9 @@
     <match lemma="more or less" tags="adv"><select lemma="ประมาณ" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="most" tags="adv"><select lemma="ที่สุด" tags="adv"/></match>
+    <match lemma="most" tags="adv">
+      <select lemma="ส่วนมาก" tags="adv"/>
+    </match>
   </rule>
   <rule>
     <match lemma="most importantly" tags="adv"><select lemma="เหนือสิ่งอื่นใด" tags="adv"/></match>
@@ -2762,7 +2770,10 @@
     <match lemma="agriculturalist" tags="n.*"><select lemma="กสิกร" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="agriculture" tags="n.*"><select lemma="ธุรกิจด้านเกษตรกรรม" tags="n.*"/></match>
+    <match lemma="agriculture" tags="n.*"><select lemma="เกษตรกรรม" tags="n.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="subsistence" tags="n.*"><select lemma="การประทังชีพ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="aide" tags="n.*"><select lemma="นายทหารฝ่ายธุรการ" tags="n.*"/></match>
@@ -4823,6 +4834,11 @@
     <match lemma="cash" tags="n.*"><select lemma="เงินสด" tags="n.*"/></match>
   </rule>
   <rule>
+    <match lemma="cash" tags="n.*"><select lemma="เงินสด" tags="n.*"/></match>
+    <match tags="n.*"/>
+  </rule>
+
+  <rule>
     <match lemma="cashier" tags="n.*"><select lemma="แคชเชียร์" tags="n.*"/></match>
   </rule>
   <rule>
@@ -6212,7 +6228,7 @@
     <match lemma="crook" tags="n.*"><select lemma="คนทำผิดกฎหมาย" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="crop" tags="n.*"><select lemma="ผลผลิตพืชในฤดู" tags="n.*"/></match>
+    <match lemma="crop" tags="n.*"><select lemma="พืชผล" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="crossbar" tags="n.*"><select lemma="คาน# ชิ้น" tags="n.*"/></match>
@@ -8069,7 +8085,7 @@
     <match lemma="fare" tags="n.*"><select lemma="ตารางงาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="farmer" tags="n.*"><select lemma="ชาวนา" tags="n.*"/></match>
+    <match lemma="farmer" tags="n.*"><select lemma="เกษตรกร" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="farming" tags="n.*"><select lemma="การเกษตร" tags="n.*"/></match>
@@ -16130,7 +16146,7 @@
     <match lemma="tractor" tags="n.*"><select lemma="แทรกเตอร์" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="trade" tags="n.*"><select lemma="งานฝีมือ" tags="n.*"/></match>
+    <match lemma="trade" tags="n.*"><select lemma="การค้าขาย" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="trade route" tags="n.*"><select lemma="เส้นทางทะเล" tags="n.*"/></match>
@@ -19823,6 +19839,10 @@
     <match lemma="raise" tags="vblex.*"><select lemma="ขึ้น" tags="vblex.*"/></match>
   </rule>
   <rule>
+    <match lemma="farmer" tags="n.*"/>
+    <match lemma="raise" tags="vblex.*"><select lemma="ปลูก" tags="vblex.*"/></match>
+  </rule>
+  <rule>
     <match lemma="rape" tags="vblex.*"><select lemma="ฉุด" tags="vblex.*"/></match>
   </rule>
   <rule>
@@ -20836,4 +20856,8 @@
   <rule>
     <match lemma="yield" tags="vblex.*"><select lemma="เป็นต้นเหตุ" tags="vblex.*"/></match>
   </rule>
+  <rule>
+    <match lemma="for" tags="pr"><select lemma="สำหรับ" tags="pr"/></match>
+  </rule>
+
 </rules>
