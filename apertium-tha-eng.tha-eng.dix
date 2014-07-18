@@ -48,6 +48,7 @@
     <e><p><l>จะ<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
 
     <!-- adj -->
+    <e><p><l>แบบดั้งเดิม<s n="adj"/></l><r>traditional<s n="adj"/></r></p></e>  
     <e><p><l>ที่โดนเด่น<s n="adj"/></l><r>remarkable<s n="adj"/></r></p></e>  
 	<e><p><l>ก่อนยุคอุตสาหกรรม<s n="adj"/></l><r>pre-industrial<s n="adj"/></r></p></e>  
 	<e><p><l>เอา<b/>ได้<s n="adj"/></l><r>fuckable<s n="adj"/></r></p></e>    
@@ -2937,6 +2938,7 @@
     <e><p><l>โอเค<s n="adv"/></l><r>alright<s n="adv"/></r></p></e>
     <e><p><l>ด้วย<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e><p><l>เช่นกัน<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+    <e><p><l>ยัง<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e><p><l>อย่างสลับกัน<s n="adv"/></l><r>alternately<s n="adv"/></r></p></e>
     <e><p><l>อย่างมีทางเลือก<s n="adv"/></l><r>alternatively<s n="adv"/></r></p></e>
     <e><p><l>อีกทางหนึ่ง<s n="adv"/></l><r>alternatively<s n="adv"/></r></p></e>
@@ -4506,7 +4508,7 @@
     <e><p><l>หนึ่ง<s n="det"/></l><r>a<s n="det"/></r></p></e>
 
     <!-- n -->
-
+    <e><p><l>ปุ๋ยมูลสัตว์<s n="n"/></l><r>manure<s n="n"/></r></p></e>
     <e><p><l>การดำรงชีพขั้นพื้นฐาน<s n="n"/></l><r>subsistence<s n="n"/></r></p></e>
     <e><p><l>ส่วนใหญ่<s n="n"/></l><r>vast<b/>majority<s n="n"/></r></p></e>
     <e><p><l>คริสตศักราช<s n="n"/></l><r>AD<s n="n"/></r></p></e>
@@ -31754,6 +31756,7 @@
     <e><p><l>โดย<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
     <e><p><l>เพื่อ<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>ต่อ<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>สู่<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>บน<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
     <e><p><l>ข้างใน<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
     <e><p><l>ของ<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
@@ -31915,6 +31918,7 @@
 
 
     <!-- vblex -->
+    <e><p><l>สังเคราะห์<s n="vblex"/></l><r>synthesize<s n="vblex"/></r></p></e>
     <e><p><l>ใช้แรงงาน<s n="vblex"/></l><r>labor<s n="vblex"/></r></p></e>
     <e><p><l>ปิด<s n="vblex"/></l><r>turn<g><b/>off</g><s n="vblex"/></r></p></e>
     <e><p><l>ทอดทิ้ง<s n="vblex"/></l><r>abandon<s n="vblex"/></r></p></e>
@@ -39513,7 +39517,6 @@
     <e><p><l>ฟักฟื้น<s n="vblex"/></l><r>recuperate<s n="vblex"/></r></p></e>
     <e><p><l>ฟื้นตัว<s n="vblex"/></l><r>recuperate<s n="vblex"/></r></p></e>
     <e><p><l>ฟื้นไข้<s n="vblex"/></l><r>recuperate<s n="vblex"/></r></p></e>
-    <e><p><l>รียูส<s n="vblex"/></l><r>recycle<s n="vblex"/></r></p></e>
     <e><p><l>รีไซเคิล<s n="vblex"/></l><r>recycle<s n="vblex"/></r></p></e>
     <e><p><l>ใช้ซ้ำ<s n="vblex"/></l><r>recycle<s n="vblex"/></r></p></e>
     <e><p><l>กลายเป็นสีแดง<s n="vblex"/></l><r>redden<s n="vblex"/></r></p></e>

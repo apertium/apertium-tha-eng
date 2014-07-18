@@ -11684,7 +11684,7 @@
 
 
     <!-- Nouns -->
-    
+    <e lm="technique"><i>technique</i><par n="house__n"/></e>
     <e lm="subsistence"><i>subsistence</i><par n="house__n"/></e>
     <e lm="self-sufficiency"><i>self-sufficienc</i><par n="bab/y__n"/></e>
     <e lm="vast majority"><i>vast<b/>majorit</i><par n="bab/y__n"/></e>
@@ -39892,6 +39892,7 @@
     <e lm="navy"><i>navy</i><par n="expensive__adj"/></e>
 
     <!-- Verbs -->
+    <e lm="synthesize"><i>synthesiz</i><par n="liv/e__vblex"/></e>
     <e lm="labor"><i>labor</i><par n="accept__vblex"/></e>
     <e lm="domesticate"><i>domesticat</i><par n="liv/e__vblex"/></e>
     <e lm="branch"><i>branch</i><par n="approach__vblex"/></e>

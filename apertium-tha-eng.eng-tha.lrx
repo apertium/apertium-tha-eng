@@ -1460,6 +1460,11 @@
     <match lemma="also" tags="adv"><select lemma="เช่นกัน" tags="adv"/></match>
   </rule>
   <rule>
+    <match lemma="also" tags="adv"><select lemma="ยัง" tags="adv"/></match>
+    <match tags="vbhaver.*"/>
+  </rule>
+
+  <rule>
     <match lemma="alternatively" tags="adv"><select lemma="อย่างมีทางเลือก" tags="adv"/></match>
   </rule>
   <rule>
@@ -15796,7 +15801,10 @@
     <match lemma="response" tags="n.*"/>
     <match lemma="to" tags="pr"><select lemma="ต่อ" tags="pr"/></match>
   </rule>
-
+  <rule>
+    <match lemma="lead" tags="vblex.*"/>
+    <match lemma="to" tags="pr"><select lemma="สู่" tags="pr"/></match>
+  </rule>
   <rule>
     <match lemma="tedium" tags="n.*"><select lemma="ความน่าเบื่อ" tags="n.*"/></match>
   </rule>
@@ -19407,7 +19415,7 @@
     <match lemma="maintain" tags="vblex.*"><select lemma="รักษา" tags="vblex.*"/></match>
   </rule>
   <rule>
-    <match lemma="make" tags="vblex.*"><select lemma="ทำ" tags="vblex.*"/></match>
+    <match lemma="make" tags="vblex.*"><select lemma="ทำให้" tags="vblex.*"/></match>
   </rule>
   <rule>
     <match lemma="manage" tags="vblex.*"><select lemma="ดำเนินการจนสำเร็จ" tags="vblex.*"/></match>
@@ -19915,7 +19923,7 @@
     <match lemma="recuperate" tags="vblex.*"><select lemma="พักฟื้น" tags="vblex.*"/></match>
   </rule>
   <rule>
-    <match lemma="recycle" tags="vblex.*"><select lemma="รียูส" tags="vblex.*"/></match>
+    <match lemma="recycle" tags="vblex.*"><select lemma="รีไซเคิล" tags="vblex.*"/></match>
   </rule>
   <rule>
     <match lemma="redden" tags="vblex.*"><select lemma="กลายเป็นสีแดง" tags="vblex.*"/></match>
