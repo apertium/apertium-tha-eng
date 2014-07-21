@@ -40838,6 +40838,7 @@
     <e lm="exit"><i>exit</i><par n="accept__vblex"/></e>
     <e lm="expand"><i>expand</i><par n="accept__vblex"/></e>
     <e lm="expect"><i>expect</i><par n="accept__vblex"/></e>
+    <e lm="expedite"><i>expedite</i><par n="accept__vblex"/></e>
     <e lm="expel"><i>expel</i><par n="control__vblex"/></e>
     <e lm="experience"><i>experienc</i><par n="liv/e__vblex"/></e>
     <e lm="explain"><i>explain</i><par n="accept__vblex"/></e>

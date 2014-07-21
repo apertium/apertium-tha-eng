@@ -49,6 +49,8 @@
     <e><p><l>จะ<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
 
     <!-- adj -->
+    <e><p><l>ทางกฎหมาย<s n="adj"/></l><r>legal<s n="adj"/></r></p></e>
+    <e><p><l>พิเศษ<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
     <e><p><l>ก่อนสมัยใหม่<s n="adj"/></l><r>premodern<s n="adj"/></r></p></e>
     <e><p><l>เกี่ยวกับสังคม<s n="adj"/></l><r>societal<s n="adj"/></r></p></e>
     <e><p><l>หลัก<s n="adj"/></l><r>major<s n="adj"/></r></p></e>  
@@ -31947,6 +31949,7 @@
 
 
     <!-- vblex -->
+    <e><p><l>เร่ง<s n="vblex"/></l><r>expedite<s n="vblex"/></r></p></e>
     <e><p><l>ช่วยให้<s n="vblex"/></l><r>allow<s n="vblex"/></r></p></e>
     <e><p><l>สังเคราะห์<s n="vblex"/></l><r>synthesize<s n="vblex"/></r></p></e>
     <e><p><l>ใช้แรงงาน<s n="vblex"/></l><r>labor<s n="vblex"/></r></p></e>
