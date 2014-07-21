@@ -8,6 +8,7 @@
     <sdef n="cnjadv" c="Conjunctive adverb"/>
     <sdef n="cnjcoo" c="Co-ordinating conjunction"/>
     <sdef n="cnjsub" c="Sub-ordinating conjunction"/>
+    <sdef n="dem" c="Demonstrative"/> 
     <sdef n="det" c="Determiner"/>
     <sdef n="f" c="Feminine"/>
     <sdef n="guio" c=""/>
@@ -31947,12 +31948,13 @@
     <e><p><l>เขา<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>ส่วนผสมที่เพิ่มเข้าไป<s n="prn"/></l><r>additive<s n="prn"/></r></p></e>
     <e><p><l>ของมัน<s n="prn"/></l><r>its<s n="prn"/></r></p></e>
-    <e><p><l>เหล่านี้<s n="prn"/></l><r>these<s n="prn"/></r></p></e>
+    <e><p><l>เหล่านี้<s n="prn"/></l><r>this<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
     <e><p><l>พวกเรา<s n="prn"/></l><r>us<s n="prn"/></r></p></e>
     <e><p><l>มัน<s n="prn"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
 
 
     <!-- vblex -->
+    <e><p><l>จับคู่<s n="vblex"/></l><r>couple<s n="vblex"/></r></p></e>
     <e><p><l>เร่ง<s n="vblex"/></l><r>expedite<s n="vblex"/></r></p></e>
     <e><p><l>ช่วยให้<s n="vblex"/></l><r>allow<s n="vblex"/></r></p></e>
     <e><p><l>สังเคราะห์<s n="vblex"/></l><r>synthesize<s n="vblex"/></r></p></e>
