@@ -151,12 +151,15 @@
           <lu>
             <clip pos="3" side="tl" part="lemh"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="3" side="tl" part="lemq"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
@@ -382,6 +385,7 @@
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>          
@@ -404,6 +408,7 @@
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>          
@@ -428,6 +433,7 @@
           <lu>
             <clip pos="3" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>          
@@ -451,6 +457,7 @@
           <lu>
             <clip pos="3" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>          
@@ -473,6 +480,7 @@
           <lu>
             <lit v="ได้"/>            
           </lu>
+          <b/>
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>          
@@ -499,9 +507,11 @@
           <lu>
             <lit v="การ"/>            
           </lu>
+          <b/>
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>          
+          <b/>
           <lu>
             <clip pos="3" side="tl" part="whole"/>
           </lu>          
@@ -527,9 +537,11 @@
           <lu>
             <lit v="การ"/>            
           </lu>
+          <b/>
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>          
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>          
@@ -557,15 +569,19 @@
           <lu>
             <clip pos="4" side="tl" part="lemh"/>
           </lu>          
+          <b/>
           <lu>
             <clip pos="3" side="tl" part="lemh"/>
           </lu>          
+          <b/>
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>         
+          <b/>
           <lu>
             <clip pos="4" side="tl" part="lemq"/>
           </lu>           
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>          
@@ -627,6 +643,31 @@
     </action>
   </rule>
 
+ <rule comment="REGLA: det nom -> nom det">
+    <pattern>
+      <pattern-item n="det"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <lu>
+          <clip pos="1" side="tl" part="whole"/>
+        </lu>                  
+        <chunk name="SN" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="SN"/></tag>
+          </tags>
+          <lu>
+            <clip pos="2" side="tl" part="lemh"/>
+          </lu> 
+          <b/>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
   
   </section-rules>
 </transfer>

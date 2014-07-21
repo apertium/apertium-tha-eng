@@ -17333,7 +17333,7 @@
     <match lemma="allot" tags="vblex.*"><select lemma="แจกจ่าย" tags="vblex.*"/></match>
   </rule>
   <rule>
-    <match lemma="allow" tags="vblex.*"><select lemma="ยอม" tags="vblex.*"/></match>
+    <match lemma="allow" tags="vblex.*"><select lemma="ช่วยให้" tags="vblex.*"/></match>
   </rule>
   <rule>
     <match lemma="allude" tags="vblex.*"><select lemma="พาดพิง" tags="vblex.*"/></match>
@@ -17739,6 +17739,9 @@
   </rule>
   <rule>
     <match lemma="change" tags="vblex.*"><select lemma="เปลี่ยน" tags="vblex.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="change" tags="n.*"><select lemma="การเปลี่ยนแปลง" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="characterise" tags="vblex.*"><select lemma="อธิบายลักษณะ" tags="vblex.*"/></match>
