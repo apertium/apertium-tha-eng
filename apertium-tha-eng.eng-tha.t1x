@@ -595,6 +595,38 @@
       </out>
     </action>
   </rule>
+
+ <rule comment="REGLA: adj1 adj2 nom3 -> nom3 adj2 adj1">
+    <pattern>
+      <pattern-item n="adj"/>
+      <pattern-item n="adj"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <lu>
+          <clip pos="1" side="tl" part="whole"/>
+        </lu>                  
+        <chunk name="SN" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="SN"/></tag>
+          </tags>
+          <lu>
+            <clip pos="3" side="tl" part="lemh"/>
+          </lu> 
+          <b/>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>          
+          <b/>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
+
   
   </section-rules>
 </transfer>
