@@ -124,13 +124,14 @@
     </pattern>
     <action>
       <out>
-        <chunk name="c1" case="caseFirstWord">
+        <chunk name="SN" case="caseFirstWord">
           <tags>
-            <tag><lit-tag v="C1"/></tag>
+            <tag><lit-tag v="SN"/></tag>
           </tags>
           <lu>
             <clip pos="2" side="tl" part="lemh"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
@@ -206,6 +207,7 @@
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
@@ -228,9 +230,11 @@
           <lu>
             <lit v="นักพัฒนา"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
@@ -253,15 +257,19 @@
           <lu>
             <clip pos="3" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <lit v="ที่"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <lit v="ของ"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
@@ -302,6 +310,7 @@
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
@@ -323,6 +332,7 @@
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
           </lu>
@@ -344,6 +354,7 @@
           <lu>
             <clip pos="2" side="tl" part="whole"/>
           </lu>
+          <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>

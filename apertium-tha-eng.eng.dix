@@ -13676,6 +13676,7 @@
     <e lm="krypton"><i>krypton</i><par n="house__n"/></e>
     <e lm="ladder"><i>ladder</i><par n="house__n"/></e>
     <e lm="landmark"><i>landmark</i><par n="house__n"/></e>
+    <e lm="landowner"><i>landowner</i><par n="house__n"/></e>
     <e lm="lap"><i>lap</i><par n="house__n"/></e>
     <e lm="laundry"><i>laundr</i><par n="bab/y__n"/></e>
     <e lm="legacy"><i>legac</i><par n="bab/y__n"/></e>

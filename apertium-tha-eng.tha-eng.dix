@@ -49,6 +49,7 @@
     <e><p><l>จะ<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
 
     <!-- adj -->
+    <e><p><l>ที่กล้าเสี่ยง<s n="adj"/></l><r>enterprising<s n="adj"/></r></p></e>
     <e><p><l>ทางกฎหมาย<s n="adj"/></l><r>legal<s n="adj"/></r></p></e>
     <e><p><l>พิเศษ<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
     <e><p><l>ก่อนสมัยใหม่<s n="adj"/></l><r>premodern<s n="adj"/></r></p></e>
@@ -4520,6 +4521,7 @@
     <e><p><l>หนึ่ง<s n="det"/></l><r>a<s n="det"/></r></p></e>
 
     <!-- n -->
+    <e><p><l>เจ้าของที่ดิน<s n="n"/></l><r>landowner<s n="n"/></r></p></e>
     <e><p><l>การทำให้เป็นอุตสาหกรรม<s n="n"/></l><r>industrialization<s n="n"/></r></p></e>
     <e><p><l>ชาวยุโรป<s n="n"/></l><r>European<s n="n"/></r></p></e>
     <e><p><l>ผู้ตั้งถิ่นฐาน<s n="n"/></l><r>settler<s n="n"/></r></p></e>    
