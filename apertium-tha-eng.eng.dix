@@ -18797,6 +18797,7 @@
     <e lm="roundabout"><i>roundabout</i><par n="house__n"/></e>
     <e lm="route"><i>route</i><par n="house__n"/></e>
     <e lm="routine"><i>routine</i><par n="house__n"/></e>
+    <e lm="routinely"><i>routinely</i><par n="maybe__adv"/></e>
     <e lm="row"><i>row</i><par n="house__n"/></e>
     <e lm="rubber"><i>rubber</i><par n="house__n"/></e>
     <e lm="rubbish"><i>rubbish</i><par n="east__n"/></e>
@@ -40487,6 +40488,7 @@
     <e lm="commence"><i>commenc</i><par n="liv/e__vblex"/></e>
     <e lm="comment"><i>comment</i><par n="accept__vblex"/></e>
     <e lm="commercialise"><i>commercialis</i><par n="liv/e__vblex"/></e>
+    <e lm="commercialize"><p><l>commercializ</l><r>commercialis</r></p><par n="liv/e__vblex"/></e>
     <e lm="commission"><i>commission</i><par n="accept__vblex"/></e>
     <e lm="commit"><i>commit</i><par n="admit__vblex"/></e>
     <e lm="commit suicide"><i>commit</i><par n="admit__vblex"/><p><l><b/>suicide</l><r><g><b/>suicide</g></r></p></e>
