@@ -20,6 +20,13 @@
     <def-cat n="det">
       <cat-item tags="det.*"/>
     </def-cat>
+    <def-cat n="kept_det">
+      <cat-item lemma="other" tags="det.*"/>
+      <cat-item lemma="this" tags="det.*"/>
+      <cat-item lemma="that" tags="det.*"/>
+      <cat-item lemma="these" tags="det.*"/>
+      <cat-item lemma="those" tags="det.*"/>
+    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj"/>
       <cat-item tags="adj.*"/>
@@ -643,9 +650,9 @@
     </action>
   </rule>
 
- <rule comment="REGLA: det nom -> nom det">
+ <rule comment="REGLA: (kept)det nom -> nom det">
     <pattern>
-      <pattern-item n="det"/>
+      <pattern-item n="kept_det"/>
       <pattern-item n="nom"/>
     </pattern>
     <action>
@@ -663,6 +670,32 @@
           <b/>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
+
+ <rule comment="REGLA: be vblex_pp -> ถูก vblex">
+    <pattern>
+      <pattern-item n="be_vbser"/>
+      <pattern-item n="vblex_pp"/>
+    </pattern>
+    <action>
+      <out>
+        <lu>
+          <clip pos="1" side="tl" part="whole"/>
+        </lu>                  
+        <chunk name="VC" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="VC"/></tag>
+          </tags>
+          <lu>
+            <lit v="ถูก"/>
+          </lu>          
+          <b/>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
           </lu>          
         </chunk>
       </out>

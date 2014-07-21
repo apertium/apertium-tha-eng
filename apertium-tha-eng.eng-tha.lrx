@@ -18614,7 +18614,7 @@
     <match lemma="establish" tags="vblex.*"><select lemma="จัด" tags="vblex.*"/></match>
   </rule>
   <rule>
-    <match lemma="estimate" tags="vblex.*"><select lemma="กะ" tags="vblex.*"/></match>
+    <match lemma="estimate" tags="vblex.*"><select lemma="ประมาณ" tags="vblex.*"/></match>
   </rule>
   <rule>
     <match lemma="evacuate" tags="vblex.*"><select lemma="ทำให้ว่างเปล่า" tags="vblex.*"/></match>
@@ -20627,6 +20627,9 @@
   </rule>
   <rule>
     <match lemma="testify" tags="vblex.*"><select lemma="เป็นพยาน" tags="vblex.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="that" tags="cnjsub"><select lemma="ว่า" tags="vblex.*"/></match>
   </rule>
   <rule>
     <match lemma="thank" tags="vblex.*"><select lemma="กราบขอบพระคุณ" tags="vblex.*"/></match>
