@@ -11684,6 +11684,10 @@
 
 
     <!-- Nouns -->
+    <e lm="agrochemical"><i>agrochemical</i><par n="house__n"/></e>
+    <e lm="pesticide"><i>pesticide</i><par n="house__n"/></e>
+    <e lm="fertilizer"><i>fertilizer</i><par n="house__n"/></e>
+    <e lm="agronomy"><i>agronom</i><par n="bab/y__n"/></e>
     <e lm="technique"><i>technique</i><par n="house__n"/></e>
     <e lm="subsistence"><i>subsistence</i><par n="house__n"/></e>
     <e lm="self-sufficiency"><i>self-sufficienc</i><par n="bab/y__n"/></e>

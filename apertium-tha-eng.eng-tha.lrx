@@ -11406,7 +11406,13 @@
     <match lemma="modelling" tags="n.*"><select lemma="การทำโมเดล" tags="n.*"/></match>
   </rule>
   <rule>
+    <match lemma="modern" tags="adj"><select lemma="สมัยใหม่" tags="adj"/></match>
+  </rule>
+  <rule>
     <match lemma="moderation" tags="n.*"><select lemma="ระดับปานกลาง" tags="n.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="breed" tags="vblex.*"><select lemma="ผสมพันธุ์" tags="vblex.*"/></match>
   </rule>
   <rule>
     <match lemma="modernism" tags="n.*"><select lemma="ศิลปะสมัยใหม่" tags="n.*"/></match>
@@ -12885,7 +12891,7 @@
     <match lemma="planning" tags="n.*"><select lemma="การวางแผน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="plant" tags="n.*"><select lemma="โรงงาน" tags="n.*"/></match>
+    <match lemma="plant" tags="n.*"><select lemma="พืช" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="plantation" tags="n.*"><select lemma="พื้นที่เพาะปลูก" tags="n.*"/></match>

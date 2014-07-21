@@ -132,7 +132,7 @@ SELECT Inf IF (0 ("<will>")) (1 ADV-NOT);
 
 SELECT V-HAVE IF (1 PrcPast);
 
-SELECT V IF (1 Ger)(NOT 0 (vblex pres p3 sg));
+SELECT V IF (1 Ger)(NOT 0 (vblex pres p3 sg))(NOT 0 N);
 
 REMOVE V-FIN IF (-1 A) (-2 Det); 
 
@@ -277,7 +277,7 @@ SELECT Year IF (-1 ("in") OR ("after") OR ("since") OR ("of")) (NOT 1 N);
 SELECT Year IF (-1 Seasons OR Months);
 
 REMOVE V IF (-1 N) (1 VAUX-CAN);
- 
+
 AFTER-SECTIONS 
 
 REMOVE Year ; 

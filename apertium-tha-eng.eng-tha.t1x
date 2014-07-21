@@ -507,6 +507,33 @@
     </action>
   </rule>
 
+ <rule comment="REGLA: n vblex.gen -> การ vblex n">
+    <pattern>
+      <pattern-item n="nom"/>
+      <pattern-item n="vblex_ger"/>
+    </pattern>
+    <action>
+      <out>
+        <lu>
+          <clip pos="1" side="tl" part="whole"/>
+        </lu>                  
+        <chunk name="SN" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="SV"/></tag>
+          </tags>
+          <lu>
+            <lit v="การ"/>            
+          </lu>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>          
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
   
   </section-rules>
 </transfer>
