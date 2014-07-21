@@ -52,6 +52,7 @@
     <e><p><l>จะ<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
 
     <!-- adj -->
+    <e><p><l>หลัก<s n="adj"/></l><r>major<s n="adj"/></r></p></e>  
     <e><p><l>ของอังกฤษ<s n="adj"/></l><r>British<s n="adj"/></r></p></e>  
     <e><p><l>แบบดั้งเดิม<s n="adj"/></l><r>traditional<s n="adj"/></r></p></e>  
     <e><p><l>ที่โดนเด่น<s n="adj"/></l><r>remarkable<s n="adj"/></r></p></e>  
@@ -4516,6 +4517,8 @@
     <e><p><l>หนึ่ง<s n="det"/></l><r>a<s n="det"/></r></p></e>
 
     <!-- n -->
+    <e><p><l>ชาวยุโรป<s n="n"/></l><r>European<s n="n"/></r></p></e>
+    <e><p><l>ผู้ตั้งถิ่นฐาน<s n="n"/></l><r>settler<s n="n"/></r></p></e>    
     <e><p><l>ผู้ตั้งถิ่นฐาน<s n="n"/></l><r>settler<s n="n"/></r></p></e>    
     <e><p><l>เคมีการเกษตร<s n="n"/></l><r>agrochemical<s n="n"/></r></p></e>    
     <e><p><l>สารกำจัดศัตรูพืช<s n="n"/></l><r>pesticide<s n="n"/></r></p></e>    
@@ -31744,7 +31747,7 @@
     <e><p><l>เซลล์ไซกอท<s n="n"/></l><r>zygote<s n="n"/></r></p></e>
 
     <!-- np -->
-    <e><p><l>ชาวยุโรป<s n="np"/></l><r>European<s n="np"/></r></p></e>
+    <e><p><l>อังกฤษ<s n="np"/></l><r>Britain<s n="np"/></r></p></e>
     <e><p><l>จักรวรรดิอังกฤษ<s n="np"/></l><r>British<b/>Empire<s n="np"/></r></p></e>
     <e><p><l>ยุโรป<s n="np"/></l><r>Europe<s n="np"/></r></p></e>
     <e><p><l>สเปน<s n="np"/></l><r>Spain<s n="np"/></r></p></e>
