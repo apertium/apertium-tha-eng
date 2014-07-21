@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet>0123456789·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzščćÅåøØðÐÞþÆæ</alphabet>
+  <alphabet>0123456789·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzščćÅåøØðÐÞþÆæ,</alphabet>
   <sdefs>
     <sdef n="acr" /> 
     <sdef n="predet" /> 
@@ -2624,6 +2624,8 @@
 
 
   <section id="main" type="standard">
+    <e><p><l>,</l><r>,<s n="cm"/></r></p></e>
+
 	
     <e r="RL"><p><l><a/>a</l><r>a</r></p><par n="a__det"/></e>
     <e r="LR"><i>a</i><par n="a__det"/></e>
@@ -39006,6 +39008,7 @@
     <e lm="primitive"><i>primitive</i><par n="expensive__adj"/></e>
     <e lm="principal"><i>principal</i><par n="expensive__adj"/></e>
     <e lm="prior"><i>prior</i><par n="expensive__adj"/></e>
+    <e lm="prior to"><i>prior<b/>to</i><par n="expensive__adj"/></e>
     <e lm="prismatic"><i>prismatic</i><par n="expensive__adj"/></e>
     <e lm="private"><i>private</i><par n="expensive__adj"/></e>
     <e lm="probable"><i>probable</i><par n="expensive__adj"/></e>
