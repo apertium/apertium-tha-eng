@@ -2935,7 +2935,7 @@
     <match lemma="amoeba" tags="n.*"><select lemma="อะมีบา" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="amount" tags="n.*"><select lemma="จำนวนเงิน" tags="n.*"/></match>
+    <match lemma="amount" tags="n.*"><select lemma="ปริมาณ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="amour" tags="n.*"><select lemma="ความสัมพันธ์ฉันชู้สาว" tags="n.*"/></match>

@@ -15597,6 +15597,7 @@
     <e lm="protozoon"><i>protozo</i><par n="criteri/on__n"/></e>
     <e lm="critic"><i>critic</i><par n="house__n"/></e>
     <e lm="crop"><i>crop</i><par n="house__n"/></e>
+    <e lm="crop rotation"><i>crop<b/>rotation</i><par n="house__n"/></e>
     <e lm="cross"><i>cross</i><par n="access__n"/></e>
     <e lm="crossbar"><i>crossbar</i><par n="house__n"/></e>
     <e lm="crosshead"><i>crosshead</i><par n="house__n"/></e>
@@ -17133,6 +17134,7 @@
     <e lm="mountain lamb"><i>mountain<b/>lamb</i><par n="house__n"/></e>
     <e lm="lamp"><i>lamp</i><par n="house__n"/></e>
     <e lm="land"><i>land</i><par n="house__n"/></e>
+    <e lm="land use"><i>land<b/>use</i><par n="house__n"/></e>
     <e lm="mainland"><i>mainland</i><par n="house__n"/></e>
     <e lm="landing"><i>landing</i><par n="house__n"/></e>
     <e lm="landlord"><i>landlord</i><par n="house__n"/></e>
@@ -36523,6 +36525,7 @@
 
     <!-- Adjectives -->
 
+    <e lm="arable"><i>arable</i><par n="expensive__adj"/></e>    
     <e lm="wind-pollinated"><i>wind-pollinated</i><par n="expensive__adj"/></e>    
     <e lm="irrigated"><i>irrigated</i><par n="expensive__adj"/></e>
     <e lm="optic"><i>optic</i><par n="expensive__adj"/></e>
@@ -41513,6 +41516,7 @@
     <e lm="restrict"><i>restrict</i><par n="accept__vblex"/></e>
     <e lm="restructure"><i>restructur</i><par n="liv/e__vblex"/></e>
     <e lm="result"><i>result</i><par n="accept__vblex"/></e>
+    <e lm="result in"><i>result</i><par n="accept__vblex"/><p><l><b/>in</l><r><g><b/>in</g></r></p></e>
     <e lm="resurrect"><i>resurrect</i><par n="accept__vblex"/></e>
     <e lm="retain"><i>retain</i><par n="accept__vblex"/></e>
     <e lm="retard"><i>retard</i><par n="accept__vblex"/></e>

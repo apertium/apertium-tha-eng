@@ -50,6 +50,7 @@
     <e><p><l>จะ<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
 
     <!-- adj -->
+    <e><p><l>ที่ทำเกษตรกรรม<s n="adj"/></l><r>arable<s n="adj"/></r></p></e>
     <e><p><l>ที่กล้าเสี่ยง<s n="adj"/></l><r>enterprising<s n="adj"/></r></p></e>
     <e><p><l>ทางกฎหมาย<s n="adj"/></l><r>legal<s n="adj"/></r></p></e>
     <e><p><l>พิเศษ<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
@@ -4524,6 +4525,8 @@
     <e><p><l>หนึ่ง<s n="det"/></l><r>a<s n="det"/></r></p></e>
 
     <!-- n -->
+    <e><p><l>การใช้ที่ดิน<s n="n"/></l><r>land<b/>use<s n="n"/></r></p></e>
+    <e><p><l>การปลูกพืชหมุนเวียน<s n="n"/></l><r>crop<b/>rotation<s n="n"/></r></p></e>
     <e><p><l>เจ้าของที่ดิน<s n="n"/></l><r>landowner<s n="n"/></r></p></e>
     <e><p><l>การทำให้เป็นอุตสาหกรรม<s n="n"/></l><r>industrialization<s n="n"/></r></p></e>
     <e><p><l>ชาวยุโรป<s n="n"/></l><r>European<s n="n"/></r></p></e>
@@ -39900,6 +39903,7 @@
     <e><p><l>กีดขวาง<s n="vblex"/></l><r>restrict<s n="vblex"/></r></p></e>
     <e><p><l>จำกัด<s n="vblex"/></l><r>restrict<s n="vblex"/></r></p></e>
     <e><p><l>ลงเอย<s n="vblex"/></l><r>result<s n="vblex"/></r></p></e>
+    <e><p><l>ส่งผลให้<s n="vblex"/></l><r>result<g><b/>in</g><s n="vblex"/></r></p></e>
     <e><p><l>คืนชีพ<s n="vblex"/></l><r>resurrect<s n="vblex"/></r></p></e>
     <e><p><l>ชุบชีวิต<s n="vblex"/></l><r>resurrect<s n="vblex"/></r></p></e>
     <e><p><l>ทำให้คืนชีพ<s n="vblex"/></l><r>resurrect<s n="vblex"/></r></p></e>
