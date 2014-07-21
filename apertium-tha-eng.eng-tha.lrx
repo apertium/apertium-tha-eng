@@ -18515,7 +18515,7 @@
     <match lemma="encircle" tags="vblex.*"><select lemma="คาด" tags="vblex.*"/></match>
   </rule>
   <rule>
-    <match lemma="enclose" tags="vblex.*"><select lemma="ห่อหุ้ม" tags="vblex.*"/></match>
+    <match lemma="enclose" tags="vblex.*"><select lemma="ปิดล้อม" tags="vblex.*"/></match>
   </rule>
   <rule>
     <match lemma="encode" tags="vblex.*"><select lemma="เข้ารหัส" tags="vblex.*"/></match>
