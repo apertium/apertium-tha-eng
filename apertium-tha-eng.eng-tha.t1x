@@ -70,6 +70,9 @@
     <def-cat n="own">
       <cat-item lemma="own" tags="*"/>
     </def-cat>
+    <def-cat n="det_qnt">
+      <cat-item tags="det.qnt.*"/>
+    </def-cat>
   </section-def-cats>
   <section-rules>
   <rule comment="REGLA: nom -> head only">
@@ -529,6 +532,64 @@
           </lu>          
           <lu>
             <clip pos="1" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
+
+ <rule comment="REGLA: adv det.qnt n -> det.qnt adv n n">
+    <pattern>
+      <pattern-item n="adv"/>
+      <pattern-item n="det_qnt"/>
+      <pattern-item n="nom"/>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <lu>
+          <clip pos="1" side="tl" part="whole"/>
+        </lu>                  
+        <chunk name="SN" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="SN"/></tag>
+          </tags>
+          <lu>
+            <clip pos="4" side="tl" part="lemh"/>
+          </lu>          
+          <lu>
+            <clip pos="3" side="tl" part="lemh"/>
+          </lu>          
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>         
+          <lu>
+            <clip pos="4" side="tl" part="lemq"/>
+          </lu>           
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>          
+
+        </chunk>
+      </out>
+    </action>
+  </rule>
+
+ <rule comment="REGLA: n -> n/lemh">
+    <pattern>
+      <pattern-item n="nom"/>
+    </pattern>
+    <action>
+      <out>
+        <lu>
+          <clip pos="1" side="tl" part="whole"/>
+        </lu>                  
+        <chunk name="SN" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="SN"/></tag>
+          </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
           </lu>          
         </chunk>
       </out>

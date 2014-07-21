@@ -2806,6 +2806,7 @@
     <e><p><l>ที่แบ่งโซน<s n="adj"/></l><r>zonal<s n="adj"/></r></p></e>
 
     <!-- adv -->
+    <e><p><l>โดยสิ้นเชิง<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>
     <e><p><l>นิดหน่อย<s n="adv"/></l><r>a<b/>bit<s n="adv"/></r></p></e>
     <e><p><l>เล็กน้อย<s n="adv"/></l><r>a<b/>bit<s n="adv"/></r></p></e>
     <e><p><l>เล็กๆน้อยๆ<s n="adv"/></l><r>a<b/>bit<s n="adv"/></r></p></e>
@@ -4385,6 +4386,7 @@
     <e><p><l>อย่างรุนแรง<s n="adv"/></l><r>vehemently<s n="adv"/></r></p></e>
     <e><p><l>มาก<s n="adv"/></l><r>very<b/>much<s n="adv"/></r></p></e>
     <e><p><l>มากมาย<s n="adv"/></l><r>very<b/>much<s n="adv"/></r></p></e>
+    <e><p><l>มาก<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
     <e><p><l>ในทางกลับกัน<s n="adv"/></l><r>vice<b/>versa<s n="adv"/></r></p></e>
     <e><p><l>อย่างกระฉับกระเฉง<s n="adv"/></l><r>vigorously<s n="adv"/></r></p></e>
     <e><p><l>อย่างแรง<s n="adv"/></l><r>vigorously<s n="adv"/></r></p></e>
@@ -4508,6 +4510,7 @@
     <e><p><l>หนึ่ง<s n="det"/></l><r>a<s n="det"/></r></p></e>
 
     <!-- n -->
+    <e><p><l>ผู้ตั้งถิ่นฐาน<s n="n"/></l><r>settler<s n="n"/></r></p></e>    
     <e><p><l>เคมีการเกษตร<s n="n"/></l><r>agrochemical<s n="n"/></r></p></e>    
     <e><p><l>สารกำจัดศัตรูพืช<s n="n"/></l><r>pesticide<s n="n"/></r></p></e>    
     <e><p><l>พืชกรรม<s n="n"/></l><r>agronomy<s n="n"/></r></p></e>
@@ -27910,7 +27913,7 @@
     <e><p><l>ลักษณะเฉพาะ<s n="n"/></l><r>speciality<s n="n"/></r></p></e>
     <e><p><l>อาชีพเฉพาะทาง<s n="n"/></l><r>speciality<s n="n"/></r></p></e>
     <e><p><l>ชนิด<s n="n"/></l><r>species<s n="n"/></r></p></e>
-    <e><p><l>สปีชีส์<s n="n"/></l><r>species<s n="n"/></r></p></e>
+    <e><p><l>สปีชีส์<g><b/>ชนิด</g><s n="n"/></l><r>species<s n="n"/></r></p></e>
     <e><p><l>คนดู<s n="n"/></l><r>spectator<s n="n"/></r></p></e>
     <e><p><l>ผู้ชม<s n="n"/></l><r>spectator<s n="n"/></r></p></e>
     <e><p><l>ผี<s n="n"/></l><r>spectre<s n="n"/></r></p></e>
@@ -31596,7 +31599,7 @@
     <e><p><l>สาธารณชน<s n="n"/></l><r>world<s n="n"/></r></p></e>
     <e><p><l>สิ่งมีชีวิต<g><b/>ตัว</g><s n="n"/></l><r>world<s n="n"/></r></p></e>
     <e><p><l>เรื่องทางโลก<s n="n"/></l><r>world<s n="n"/></r></p></e>
-    <e><p><l>โลก<g><b/>อัน</g><s n="n"/></l><r>world<s n="n"/></r></p></e>
+    <e><p><l>โลก<g><b/>ใบ</g><s n="n"/></l><r>world<s n="n"/></r></p></e>
     <e><p><l>หนอน<g><b/>ตัว</g><s n="n"/></l><r>worm<s n="n"/></r></p></e>
     <e><p><l>การบูชา<s n="n"/></l><r>worship<s n="n"/></r></p></e>
     <e><p><l>การสักการะ<s n="n"/></l><r>worship<s n="n"/></r></p></e>
@@ -31735,6 +31738,12 @@
     <e><p><l>เซลล์ไซกอท<s n="n"/></l><r>zygote<s n="n"/></r></p></e>
 
     <!-- np -->
+    <e><p><l>ชาวยุโรป<s n="np"/></l><r>European<s n="np"/></r></p></e>
+    <e><p><l>จักรวรรดิอังกฤษ<s n="np"/></l><r>British<b/>Empire<s n="np"/></r></p></e>
+    <e><p><l>ยุโรป<s n="np"/></l><r>Europe<s n="np"/></r></p></e>
+    <e><p><l>สเปน<s n="np"/></l><r>Spain<s n="np"/></r></p></e>
+    <e><p><l>อเมริกา<s n="np"/></l><r>America<s n="np"/></r></p></e>
+    <e><p><l>แอตแลนติก<s n="np"/></l><r>Atlantic<s n="np"/></r></p></e>
     <e><p><l>อัฟกานิสถาน<s n="np"/></l><r>Afghanistan<s n="np"/></r></p></e>
     <e><p><l>สงครามเย็น<s n="np"/></l><r>Cold<b/>War<s n="np"/></r></p></e>
     <e><p><l>ประเทศคิวบา<s n="np"/></l><r>Cuba<s n="np"/></r></p></e>
@@ -31768,7 +31777,7 @@
     <e><p><l>เหนือ<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
     <e><p><l>ตาม<s n="pr"/></l><r>according<s n="pr"/></r></p></e>
     <e><p><l>ตาม<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
-    <e><p><l>ข้าม<s n="pr"/></l><r>across<s n="pr"/></r></p></e>
+    <e><p><l>ข้าม<s n="adv"/></l><r>across<s n="adv"/></r></p></e>
     <e><p><l>บนอีกฝากของมหาสมุทรแอตแลนติก<s n="pr"/></l><r>across<b/>the<b/>pond<s n="pr"/></r></p></e>
     <e><p><l>หลังจาก<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
     <e><p><l>กับ<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
@@ -31891,6 +31900,7 @@
     <e><p><l>เพื่อรอ<s n="pr"/></l><r>waiting<b/>for<s n="pr"/></r></p></e>
     <e><p><l>กับ<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>โดยไม่มี<s n="pr"/></l><r>with<b/>no<s n="pr"/></r></p></e>
+    <e><p><l>ประกอบด้วย<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>ใน<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
     <e><p><l>โดยไม่มี<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
 

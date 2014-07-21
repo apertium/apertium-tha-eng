@@ -15084,7 +15084,7 @@
     <match lemma="speciality" tags="n.*"><select lemma="อาชีพเฉพาะทาง" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="species" tags="n.*"><select lemma="สปีชีส์" tags="n.*"/></match>
+    <match lemma="species" tags="n.*"><select lemma="สปีชีส์# ชนิด" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="spectator" tags="n.*"><select lemma="คนดู" tags="n.*"/></match>
@@ -17033,7 +17033,7 @@
     <match lemma="workshop" tags="n.*"><select lemma="โรงงาน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="world" tags="n.*"><select lemma="จักรวาล" tags="n.*"/></match>
+    <match lemma="world" tags="n.*"><select lemma="โลก# ใบ" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="worship" tags="n.*"><select lemma="การบูชา" tags="n.*"/></match>
