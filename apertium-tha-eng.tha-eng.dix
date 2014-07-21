@@ -44,9 +44,6 @@
     <sdef n="vbser" c="Verb &quot;to be&quot;"/>
   </sdefs>
   <section id="main" type="standard">
-    <e><p><l>,</l><r>,<s n="cm"/></r></p></e>
-
-
     <e r="RL"><p><l/><r>do<s n="vbdo"/><s n="pres"/></r></p></e>
     <e r="RL"><p><l/><r>have<s n="vbhaver"/><s n="pres"/></r></p></e>
     <e><p><l>จะ<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
