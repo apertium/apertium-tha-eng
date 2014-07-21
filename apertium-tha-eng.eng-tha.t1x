@@ -14,6 +14,9 @@
     <def-cat n="num">
       <cat-item tags="num"/>
     </def-cat>
+    <def-cat n="s">
+      <cat-item lemma="s" tags=""/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -33,6 +36,12 @@
     </def-cat>
     <def-cat n="by_adv">
       <cat-item lemma="by" tags="adv"/>
+    </def-cat>
+    <def-cat n="by_pr">
+      <cat-item lemma="by" tags="pr"/>
+    </def-cat>
+    <def-cat n="the_det">
+      <cat-item lemma="the" tags="det.*"/>
     </def-cat>
     <def-cat n="contrast_vblex">
       <cat-item lemma="contrast" tags="vblex"/>
@@ -82,23 +91,6 @@
     </def-cat>
   </section-def-cats>
   <section-rules>
-  <rule comment="REGLA: nom -> head only">
-    <pattern>
-      <pattern-item n="nom"/>
-    </pattern>
-    <action>
-      <out>
-        <chunk name="c1" case="caseFirstWord">
-          <tags>
-            <tag><lit-tag v="C1"/></tag>
-          </tags>
-          <lu>
-            <clip pos="1" side="tl" part="lemh"/>
-          </lu>
-        </chunk>
-      </out>
-    </action>
-  </rule>
   <rule comment="REGLA: There are|||มี">
     <pattern>
       <pattern-item n="there_adv"/>
@@ -712,6 +704,39 @@
       </out>
     </action>
   </rule>
+
+  <rule comment="REGLA: by_pr the_det num -> ใน คริสต์ทศวรรษ num">
+    <pattern>
+      <pattern-item n="by_pr"/>
+      <pattern-item n="the_det"/>
+      <pattern-item n="num"/>
+      <pattern-item n="s"/>
+    </pattern>
+    <action>
+      <out>
+        <lu>
+          <clip pos="1" side="tl" part="whole"/>
+        </lu>                  
+        <chunk name="VC" case="caseFirstWord">
+          <tags>
+            <tag><lit-tag v="VC"/></tag>
+          </tags>
+          <lu>
+            <lit v="ใน"/>
+          </lu>          
+          <b/>
+          <lu>
+            <lit v="คริสต์ทศวรรษ"/>
+          </lu>          
+          <b/>
+          <lu>
+            <clip pos="3" side="tl" part="whole"/>
+          </lu>          
+        </chunk>
+      </out>
+    </action>
+  </rule>
+
   
   </section-rules>
 </transfer>
