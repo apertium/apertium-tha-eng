@@ -1837,7 +1837,7 @@
     <match lemma="hopelessly" tags="adv"><select lemma="อย่างไม่มีหวัง" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="however" tags="adv"><select lemma="ยิ่งไปกว่านั้น" tags="adv"/></match>
+    <match lemma="however" tags="adv"><select lemma="อย่างไรก็ตาม" tags="adv"/></match>
   </rule>
   <rule>
     <match lemma="hugely" tags="adv"><select lemma="อย่างน่าประหลาดใจ" tags="adv"/></match>

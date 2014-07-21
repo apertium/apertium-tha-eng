@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet>0123456789·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzščćÅåøØðÐÞþÆæ,</alphabet>
+  <alphabet>0123456789·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzščćÅåøØðÐÞþÆæ</alphabet>
   <sdefs>
     <sdef n="acr" /> 
     <sdef n="predet" /> 
@@ -2624,7 +2624,6 @@
 
 
   <section id="main" type="standard">
-    <e><p><l>,</l><r>,<s n="cm"/></r></p></e>	
     <e r="RL"><p><l><a/>a</l><r>a</r></p><par n="a__det"/></e>
     <e r="LR"><i>a</i><par n="a__det"/></e>
     <e lm="another"><i>another</i><par n="another__det"/></e>
