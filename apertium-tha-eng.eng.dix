@@ -38992,6 +38992,7 @@
     <e lm="prehistoric"><i>prehistoric</i><par n="expensive__adj"/></e>
     <e lm="preliminary"><i>preliminary</i><par n="expensive__adj"/></e>
     <e lm="premature"><i>premature</i><par n="expensive__adj"/></e>
+    <e lm="premodern"><i>premodern</i><par n="expensive__adj"/></e>
     <e lm="preparatory"><i>preparatory</i><par n="expensive__adj"/></e>
     <e lm="present"><i>present</i><par n="expensive__adj"/></e>
     <e lm="presidential"><i>presidential</i><par n="expensive__adj"/></e>
@@ -40446,6 +40447,7 @@
     <e lm="change course"><i>chang</i><par n="liv/e__vblex"/><p><l><b/>course</l><r><g><b/>course</g></r></p></e>
     <e lm="change form"><i>chang</i><par n="liv/e__vblex"/><p><l><b/>form</l><r><g><b/>form</g></r></p></e>
     <e lm="characterise"><i>characteris</i><par n="liv/e__vblex"/></e>
+    <e lm="characterize"><p><l>characteriz</l><r>characteris</r></p><par n="liv/e__vblex"/></e>
     <e lm="charge"><i>charg</i><par n="liv/e__vblex"/></e>
     <e lm="chase"><i>chas</i><par n="liv/e__vblex"/></e>
     <e lm="chat"><i>chat</i><par n="admit__vblex"/></e>

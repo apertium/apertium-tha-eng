@@ -5067,6 +5067,9 @@
     <match lemma="characterisation" tags="n.*"><select lemma="การบรรยายลักษณะ" tags="n.*"/></match>
   </rule>
   <rule>
+    <match lemma="characterise" tags="vblex.*"><select  lemma="กำหนดลักษณะ" tags="vblex.*"/></match>
+  </rule>
+  <rule>
     <match lemma="charge" tags="n.*"><select lemma="การกระโจน" tags="n.*"/></match>
   </rule>
   <rule>

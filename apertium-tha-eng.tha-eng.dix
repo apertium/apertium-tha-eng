@@ -49,6 +49,7 @@
     <e><p><l>จะ<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
 
     <!-- adj -->
+    <e><p><l>ก่อนสมัยใหม่<s n="adj"/></l><r>premodern<s n="adj"/></r></p></e>
     <e><p><l>เกี่ยวกับสังคม<s n="adj"/></l><r>societal<s n="adj"/></r></p></e>
     <e><p><l>หลัก<s n="adj"/></l><r>major<s n="adj"/></r></p></e>  
     <e><p><l>ของอังกฤษ<s n="adj"/></l><r>British<s n="adj"/></r></p></e>  
@@ -31747,6 +31748,7 @@
     <e><p><l>เซลล์ไซกอท<s n="n"/></l><r>zygote<s n="n"/></r></p></e>
 
     <!-- np -->
+    <e><p><l>อังกฤษ<s n="np"/></l><r>England<s n="np"/></r></p></e>
     <e><p><l>เบลเยียม<s n="np"/></l><r>Belgium<s n="np"/></r></p></e>
     <e><p><l>เยอรมนี<s n="np"/></l><r>Germany<s n="np"/></r></p></e>
     <e><p><l>อังกฤษ<s n="np"/></l><r>Britain<s n="np"/></r></p></e>
@@ -31789,6 +31791,7 @@
     <e><p><l>ตาม<s n="pr"/></l><r>according<s n="pr"/></r></p></e>
     <e><p><l>ตาม<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
     <e><p><l>ข้าม<s n="adv"/></l><r>across<s n="adv"/></r></p></e>
+    <e><p><l>ทั่ว<s n="adv"/></l><r>across<s n="adv"/></r></p></e>
     <e><p><l>บนอีกฝากของมหาสมุทรแอตแลนติก<s n="pr"/></l><r>across<b/>the<b/>pond<s n="pr"/></r></p></e>
     <e><p><l>หลังจาก<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
     <e><p><l>กับ<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
@@ -33643,6 +33646,7 @@
     <e><p><l>เปลี่ยนแปลง<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>แลกเปลี่ยน<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>อธิบายลักษณะ<s n="vblex"/></l><r>characterise<s n="vblex"/></r></p></e>
+    <e><p><l>กำหนดลักษณะ<s n="vblex"/></l><r>characterise<s n="vblex"/></r></p></e>
     <e><p><l>แสดงลักษณะ<s n="vblex"/></l><r>characterise<s n="vblex"/></r></p></e>
     <e><p><l>กล่าวหา<s n="vblex"/></l><r>charge<s n="vblex"/></r></p></e>
     <e><p><l>ชาร์จ<s n="vblex"/></l><r>charge<s n="vblex"/></r></p></e>
