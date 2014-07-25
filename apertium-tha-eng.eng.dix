@@ -2622,6 +2622,7 @@
 
   <section id="main" type="standard">
     <e><p><l>,</l><r>,<s n="cm"/></r></p></e>
+    <e><p><l>-</l><r>-<s n="guio"/></r></p></e>
     <e r="RL"><p><l><a/>a</l><r>a</r></p><par n="a__det"/></e>
     <e r="LR"><i>a</i><par n="a__det"/></e>
     <e lm="another"><i>another</i><par n="another__det"/></e>
@@ -11681,6 +11682,34 @@
 
 
     <!-- Nouns -->
+    <e lm="staining"><i>staining</i><par n="east__n"/></e>
+    <e lm="salesman"><i>salesm</i><par n="m/an__n"/></e>
+	<e lm="anode"><i>anode</i><par n="house__n"/></e>
+	<e lm="apparatus"><i>apparatus</i><par n="house__n"/></e>
+	<e lm="arc"><i>arc</i><par n="house__n"/></e>
+	<e lm="bastard"><i>bastard</i><par n="house__n"/></e>
+	<e lm="catholic"><i>catholic</i><par n="house__n"/></e>
+	<e lm="conjugate"><i>conjugate</i><par n="house__n"/></e>
+	<e lm="cop"><i>cop</i><par n="house__n"/></e>
+	<e lm="fist"><i>fist</i><par n="house__n"/></e>
+	<e lm="fluid"><i>fluid</i><par n="house__n"/></e>
+	<e lm="hr"><i>hr</i><par n="house__n"/></e>
+	<e lm="mg"><i>mg</i><par n="house__n"/></e>
+	<e lm="negro"><i>negro</i><par n="house__n"/></e>
+	<e lm="onset"><i>onset</i><par n="house__n"/></e>
+	<e lm="organization"><i>organization</i><par n="house__n"/></e>
+	<e lm="pa"><i>pa</i><par n="house__n"/></e>
+	<e lm="papa"><i>papa</i><par n="house__n"/></e>
+	<e lm="petitioner"><i>petitioner</i><par n="house__n"/></e>
+	<e lm="polynomial"><i>polynomial</i><par n="house__n"/></e>
+	<e lm="salesman"><i>salesman</i><par n="m/an__n"/></e>
+	<e lm="saline"><i>saline</i><par n="house__n"/></e>
+	<e lm="shear"><i>shear</i><par n="house__n"/></e>
+	<e lm="thyroid"><i>thyroid</i><par n="house__n"/></e>
+	<e lm="tsunami"><i>tsunami</i><par n="house__n"/></e>
+	<e lm="virginia"><i>virginia</i><par n="house__n"/></e>
+	<e lm="wagon"><i>wagon</i><par n="house__n"/></e>
+    <e lm="stalk"><i>stalk</i><par n="house__n"/></e>
     <e lm="agrochemical"><i>agrochemical</i><par n="house__n"/></e>
     <e lm="pesticide"><i>pesticide</i><par n="house__n"/></e>
     <e lm="fertilizer"><i>fertilizer</i><par n="house__n"/></e>
@@ -11694,6 +11723,7 @@
     <e lm="Kampuchea"><i>Kampuchea</i><par n="Wikimedia__np"/></e>
     <e lm="developer"><i>developer</i><par n="house__n"/></e>
     <e lm="follower"><i>follower</i><par n="house__n"/></e>
+    <e lm="maize"><i>maize</i><par n="house__n"/></e>
     
     <e lm="a day's journey"><p><l>a<b/>day's<b/>journey</l><r>a<b/>day's<b/>journey<s n="n"/><s n="sg"/></r></p></e>
     <e lm="a day's journey"><p><l>some<b/>days'<b/>journey</l><r>a<b/>day's<b/>journey<s n="n"/><s n="pl"/></r></p></e>
@@ -14540,6 +14570,7 @@
     <e lm="antipathy"><i>antipath</i><par n="bab/y__n"/></e>
     <e lm="antiracialism"><i>antiracialism</i><par n="house__n"/></e>
     <e lm="antisemitism"><i>antisemitism</i><par n="house__n"/></e>
+	<e lm="anti-semitism"><p><l>anti-semitism</l><r>antisemitism</r></p><par n="house__n"/></e>
     <e lm="antithesis"><i>antithes</i><par n="analys/is__n"/></e>
     <e lm="anus"><i>anus</i><par n="access__n"/></e>
     <e lm="anxiety"><i>anxiet</i><par n="bab/y__n"/></e>
@@ -14802,6 +14833,7 @@
     <e lm="begging"><i>begging</i><par n="house__n"/></e>
     <e lm="beginning"><i>beginning</i><par n="house__n"/></e>
     <e lm="behaviour"><i>behaviour</i><par n="house__n"/></e>
+    <e lm="behaviour"><p><l>behavior</l><r>behaviour</r></p><par n="house__n"/></e>
     <e lm="being"><i>being</i><par n="house__n"/></e>
     <e lm="human being"><i>human<b/>being</i><par n="house__n"/></e>
     <e lm="human race"><i>human<b/>race</i><par n="house__n"/></e>
@@ -36524,7 +36556,7 @@
 
 
     <!-- Adjectives -->
-
+    <e lm="English"><i>English</i><par n="expensive__adj"/></e>
     <e lm="arable"><i>arable</i><par n="expensive__adj"/></e>    
     <e lm="wind-pollinated"><i>wind-pollinated</i><par n="expensive__adj"/></e>    
     <e lm="irrigated"><i>irrigated</i><par n="expensive__adj"/></e>
@@ -37756,6 +37788,7 @@
     <e lm="Berne"><par n="Bb"/><i>erne</i><par n="expensive__adj"/></e>
     <e lm="Boston"><par n="Bb"/><i>oston</i><par n="expensive__adj"/></e>
     <e lm="Canary"><par n="Cc"/><i>anary</i><par n="expensive__adj"/></e>
+	<e lm="Chicago"><i>Chicago</i><par n="Barcelona__np"/></e>
     <e lm="Easter"><par n="Ee"/><i>aster</i><par n="expensive__adj"/></e>
     <e lm="Etruscan"><par n="Ee"/><i>truscan</i><par n="expensive__adj"/></e>
     <e lm="Georgian"><par n="Gg"/><i>eorgian</i><par n="expensive__adj"/></e>
@@ -39902,6 +39935,7 @@
     <e lm="navy"><i>navy</i><par n="expensive__adj"/></e>
 
     <!-- Verbs -->
+    <e lm="stalk"><i>stalk</i><par n="accept__vblex"/></e>
     <e lm="couple"><i>coupl</i><par n="liv/e__vblex"/></e>
     <e lm="synthesize"><i>synthesiz</i><par n="liv/e__vblex"/></e>
     <e lm="labor"><i>labor</i><par n="accept__vblex"/></e>
@@ -40484,6 +40518,7 @@
     <e lm="collate"><i>collat</i><par n="liv/e__vblex"/></e>
     <e lm="collect"><i>collect</i><par n="accept__vblex"/></e>
     <e lm="colour"><i>colour</i><par n="accept__vblex"/></e>
+	<e lm="colour"><p><l>color</l><r>colour</r></p><par n="accept__vblex"/></e>
     <e lm="comb"><i>comb</i><par n="accept__vblex"/></e>
     <e lm="combat"><i>combat</i><par n="accept__vblex"/></e>
     <e lm="combine"><i>combin</i><par n="liv/e__vblex"/></e>
@@ -44385,6 +44420,7 @@
 	<e lm="Nesic"><i>Nesic</i><par n="Smith__np"/></e>
 	<e lm="Netbridge"><i>Netbridge</i><par n="Smith__np"/></e>
 	<e lm="Nesovski"><i>Nesovski</i><par n="Smith__np"/></e>
+	<e lm="New York"><i>New<b/>York</i><par n="Barcelona__np"/></e>
 	<e lm="Nikicevic"><i>Nikicevic</i><par n="Smith__np"/></e>
 	<e lm="Ninic"><i>Ninic</i><par n="Smith__np"/></e>
 	<e lm="Nis"><i>Nis</i><par n="Smith__np"/></e>
@@ -44550,6 +44586,7 @@
 	<e lm="Ulucay"><i>Ulucay</i><par n="Smith__np"/></e>
 	<e lm="Umcevic"><i>Umcevic</i><par n="Smith__np"/></e>
 	<e lm="Ustaoglu"><i>Ustaoglu</i><par n="Smith__np"/></e>
+	<e lm="Washington"><i>Washington</i><par n="Barcelona__np"/></e>
 	<e lm="Fazlovic"><i>Fazlovic</i><par n="Smith__np"/></e>
 	<e lm="Fallujah"><i>Fallujah</i><par n="Barcelona__np"/></e>
 	<e lm="Fatmir"><i>Fatmir</i><par n="Mark__np"/></e>
