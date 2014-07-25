@@ -7048,6 +7048,7 @@
     <e lm="Filip"><i>Filip</i><par n="Mark__np"/></e>
     <e lm="Ivica"><i>Ivica</i><par n="Mark__np"/></e>
 
+    <e lm="Rousseau"><i>Rousseau</i><par n="Smith__np"/></e>
     <e lm="Aanensen"><i>Aanensen</i><par n="Smith__np"/></e>
     <e lm="Aanonsen"><i>Aanonsen</i><par n="Smith__np"/></e>
     <e lm="Aasen"><i>Aasen</i><par n="Smith__np"/></e>
@@ -11682,6 +11683,73 @@
 
 
     <!-- Nouns -->
+
+    <e lm="aerator"><i>aerator</i><par n="house__n"/></e>
+    <e lm="ammunition"><i>ammunition</i><par n="house__n"/></e>
+    <e lm="anaconda"><i>anaconda</i><par n="house__n"/></e>
+    <e lm="antenna"><i>antenna</i><par n="house__n"/></e>
+    <e lm="antigen"><i>antigen</i><par n="house__n"/></e>
+    <e lm="apprentice"><i>apprentice</i><par n="house__n"/></e>
+    <e lm="athabascan"><i>athabascan</i><par n="house__n"/></e>
+    <e lm="brass"><i>brass</i><par n="access__n"/></e>
+    <e lm="bronchiole"><i>bronchiole</i><par n="house__n"/></e>
+    <e lm="brood"><i>brood</i><par n="house__n"/></e>
+    <e lm="cafeteria"><i>cafeteria</i><par n="house__n"/></e>
+    <e lm="carbon tetrachloride"><i>carbon<b/>tetrachloride</i><par n="house__n"/></e>
+    <e lm="catcher"><i>catcher</i><par n="house__n"/></e>
+    <e lm="civilization"><i>civilization</i><par n="house__n"/></e>
+    <e lm="collage"><i>collage</i><par n="house__n"/></e>
+    <e lm="counterpart"><i>counterpart</i><par n="house__n"/></e>
+    <e lm="deae cellulose"><i>deae<b/>cellulose</i><par n="house__n"/></e>
+    <e lm="defense"><i>defense</i><par n="house__n"/></e>
+    <e lm="doorway"><i>doorway</i><par n="house__n"/></e>
+    <e lm="effluent"><i>effluent</i><par n="house__n"/></e>
+    <e lm="electronics"><i>electronics</i><par n="house__n"/></e>
+    <e lm="fallout"><i>fallout</i><par n="house__n"/></e>
+    <e lm="fluorescence"><i>fluorescence</i><par n="house__n"/></e>
+    <e lm="flux"><i>flux</i><par n="access__n"/></e>
+    <e lm="foe"><i>foe</i><par n="house__n"/></e>
+    <e lm="gm"><i>gm</i><par n="east__n"/></e>
+    <e lm="gradient"><i>gradient</i><par n="house__n"/></e>
+    <e lm="guam"><i>guam</i><par n="house__n"/></e>
+    <e lm="hypothalamus"><i>hypothalam</i><par n="cact/us__n"/></e>
+    <e lm="inning"><i>inning</i><par n="house__n"/></e>
+    <e lm="kansas city"><i>kansas<b/>cit</i><par n="bab/y__n"/></e>
+    <e lm="lagoon"><i>lagoon</i><par n="house__n"/></e>
+    <e lm="lb"><i>lb</i><par n="house__n"/></e>
+    <e lm="manifold"><i>manifold</i><par n="house__n"/></e>
+    <e lm="micelle"><i>micelle</i><par n="house__n"/></e>
+    <e lm="micrometeorite"><i>micrometeorite</i><par n="house__n"/></e>
+    <e lm="ml"><i>ml</i><par n="house__n"/></e>
+    <e lm="mm"><i>mm</i><par n="house__n"/></e>
+    <e lm="mule driver"><i>mule<b/>driver</i><par n="house__n"/></e>
+    <e lm="musketry"><i>musketr</i><par n="bab/y__n"/></e>
+    <e lm="neighborhood"><i>neighborhood</i><par n="house__n"/></e>
+    <e lm="nigger"><i>nigger</i><par n="house__n"/></e>
+    <e lm="pansy"><i>pansy</i><par n="house__n"/></e>
+    <e lm="pbs"><i>pbs</i><par n="east__n"/></e>
+    <e lm="pistol"><i>pistol</i><par n="house__n"/></e>
+    <e lm="pitcher"><i>pitcher</i><par n="house__n"/></e>
+    <e lm="proprietor"><i>proprietor</i><par n="house__n"/></e>
+    <e lm="proprietorship"><i>proprietorship</i><par n="house__n"/></e>
+    <e lm="puerto rico"><i>puerto<b/>rico</i><par n="east__n"/></e>
+    <e lm="quack"><i>quack</i><par n="house__n"/></e>
+    <e lm="roadway"><i>roadway</i><par n="house__n"/></e>
+    <e lm="sake"><i>sake</i><par n="house__n"/></e>
+    <e lm="secretary of the treasury"><i>secretar</i><par n="bab/y__n"/><p><l><b/>of<b/>the<b/>treasury</l><r><g><b/>of<b/>the<b/>treasury</g></r></p></e>
+    <e lm="sewage"><i>sewage</i><par n="house__n"/></e>
+    <e lm="steeple"><i>steeple</i><par n="house__n"/></e>
+    <e lm="subsection"><i>subsection</i><par n="house__n"/></e>
+    <e lm="supper"><i>supper</i><par n="house__n"/></e>
+    <e lm="syllable"><i>syllable</i><par n="house__n"/></e>
+    <e lm="texture"><i>texture</i><par n="house__n"/></e>
+    <e lm="thyroglobulin"><i>thyroglobulin</i><par n="house__n"/></e>
+    <e lm="transducer"><i>transducer</i><par n="house__n"/></e>
+    <e lm="tsh"><i>tsh</i><par n="east__n"/></e>
+    <e lm="vapor pressure"><i>vapor<b/>pressure</i><par n="house__n"/></e>
+    <e lm="vector"><i>vector</i><par n="house__n"/></e>
+    <e lm="viewpoint"><i>viewpoint</i><par n="house__n"/></e>
+
     <e lm="staining"><i>staining</i><par n="east__n"/></e>
     <e lm="salesman"><i>salesm</i><par n="m/an__n"/></e>
 	<e lm="anode"><i>anode</i><par n="house__n"/></e>
@@ -11897,6 +11965,7 @@
     <e lm="corridor"><i>corridor</i><par n="house__n"/></e>
     <e lm="pastor"><i>pastor</i><par n="house__n"/></e>
     <e lm="rumour"><i>rumour</i><par n="house__n"/></e>
+    <e lm="rumor"><p><l>rumor</l><r>rumour</r></p><par n="house__n"/></e>
     <e lm="disfavour"><i>disfavour</i><par n="east__n"/></e>
     <e lm="aerobics"><i>aerobics</i><par n="east__n"/></e>
     <e lm="bionics"><i>bionics</i><par n="east__n"/></e>
