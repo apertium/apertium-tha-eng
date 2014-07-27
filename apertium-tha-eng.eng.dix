@@ -11013,6 +11013,7 @@
     <e lm="North America"><i>North<b/>America</i><par n="Barcelona__np"/></e>
     <e lm="Central America"><i>Central<b/>America</i><par n="Barcelona__np"/></e>
     <e lm="America"><i>America</i><par n="Barcelona__np"/></e>
+    <e lm="Americas"><p><l>Americas</l><r>America<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e lm="Amsterdam"><i>Amsterdam</i><par n="Barcelona__np"/></e>
     <e lm="Andalucia"><i>Andalucia</i><par n="Barcelona__np"/></e>
     <e lm="Andorra"><i>Andorra</i><par n="Barcelona__np"/></e>
@@ -11630,7 +11631,6 @@
     <e lm="Czech"><i>Czech</i><par n="Barcelona__np"/></e>
     <e lm="Antarctica"><i>Antarctica</i><par n="Barcelona__np"/></e>
     <e lm="Mongolia"><i>Mongolia</i><par n="Barcelona__np"/></e>
-    <e lm="Americas"><i>Americas</i><par n="Barcelona__np"/></e>
     <e lm="Cambodia"><i>Cambodia</i><par n="Barcelona__np"/></e>
     <e lm="Malaysia"><i>Malaysia</i><par n="Barcelona__np"/></e>
     <e lm="Albania"><i>Albania</i><par n="Barcelona__np"/></e>
@@ -11683,6 +11683,8 @@
 
 
     <!-- Nouns -->
+    <e lm="Masa"><i>Masa</i><par n="east__n"/></e>
+    <e lm="feedstock"><i>feedstock</i><par n="house__n"/></e>
     <e lm="cornmeal"><i>cornmeal</i><par n="house__n"/></e>
 
     <e lm="kernel"><i>kernel</i><par n="house__n"/></e>
