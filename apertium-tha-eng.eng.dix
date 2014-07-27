@@ -11683,6 +11683,9 @@
 
 
     <!-- Nouns -->
+    <e lm="cornmeal"><i>cornmeal</i><par n="house__n"/></e>
+
+    <e lm="kernel"><i>kernel</i><par n="house__n"/></e>
 
     <e lm="abolitionist"><i>abolitionist</i><par n="house__n"/></e>
     <e lm="abo"><i>abo</i><par n="house__n"/></e>
@@ -47225,7 +47228,7 @@
 	<e lm="Cupic"><i>Cupic</i><par n="Smith__np"/></e>
 	<e lm="Feith"><i>Feith</i><par n="Smith__np"/></e>
 	<e lm="Aurelius"><i>Aurelius</i><par n="Smith__np"/></e>
-	<e lm="Beverage"><i>Beverage</i><par n="Smith__np"/></e>
+	<e lm="beverage"><i>beverage</i><par n="house__n"/></e>
 	<e lm="Belgrade"><i>Belgrade</i><par n="United_States__np"/></e>
 	<e lm="Welch"><i>Welch</i><par n="Smith__np"/></e>
 	<e lm="Gormley"><i>Gormley</i><par n="Smith__np"/></e>
