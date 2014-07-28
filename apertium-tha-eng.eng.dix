@@ -11683,6 +11683,11 @@
 
 
     <!-- Nouns -->
+    <e lm="agroecology"><i>agroecolog</i><par n="bab/y__n"/></e>
+    <e lm="particular"><i>particular</i><par n="house__n"/></e>
+    <e lm="husbandry"><i>husbandr</i><par n="bab/y__n"/></e>
+    <e lm="genetics"><i>genetics</i><par n="east__n"/></e>
+    <e lm="irrigation"><i>irrigation</i><par n="house__n"/></e>
     <e lm="Masa"><i>Masa</i><par n="east__n"/></e>
     <e lm="feedstock"><i>feedstock</i><par n="house__n"/></e>
     <e lm="cornmeal"><i>cornmeal</i><par n="house__n"/></e>
@@ -41262,6 +41267,8 @@
     <e lm="navy"><i>navy</i><par n="expensive__adj"/></e>
 
     <!-- Verbs -->
+    <e lm="crop"><i>crop</i><par n="step__vblex"/></e>
+    <e lm="impact"><i>impact</i><par n="accept__vblex"/></e>
     <e lm="stalk"><i>stalk</i><par n="accept__vblex"/></e>
     <e lm="couple"><i>coupl</i><par n="liv/e__vblex"/></e>
     <e lm="synthesize"><i>synthesiz</i><par n="liv/e__vblex"/></e>
@@ -44567,7 +44574,7 @@
 	<e lm="once"><i>once</i><par n="maybe__adv"/></e>
 	<e lm="a long time ago"><i>a<b/>long<b/>time<b/>ago</i><par n="maybe__adv"/></e>
 	
-
+    <e lm="et"><i>et</i><par n="and__cnjcoo"/></e>
     <e lm="and"><i>and</i><par n="and__cnjcoo"/></e>
     <e lm="both"><i>both</i><par n="and__cnjcoo"/></e>
     <e lm="but"><i>but</i><par n="and__cnjcoo"/></e>
