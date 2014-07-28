@@ -11680,9 +11680,19 @@
     <e lm="Yugoslavia"><i>Yugoslavia</i><par n="Barcelona__np"/></e>
     <e lm="Zimbabwe"><i>Zimbabwe</i><par n="Barcelona__np"/></e>
     <e lm="Àngel"><i>Àngel</i><par n="Mark__np"/></e>
-
+    <e lm="Inga"><i>Inga</i><par n="Linux__np"/></e>
 
     <!-- Nouns -->
+    <e lm="clearance"><i>clearance</i><par n="house__n"/></e>
+    <e lm="five"><i>five</i><par n="house__n"/></e>    
+    <e lm="cultivar"><i>cultivar</i><par n="house__n"/></e>
+    <e lm="rainfall"><i>rainfall</i><par n="house__n"/></e>
+    <e lm="sustainability"><i>sustainabilit</i><par n="bab/y__n"/></e>
+    <e lm="agroecosystem"><i>agroecosystem</i><par n="house__n"/></e>
+    <e lm="greenhouse"><i>greenhouse</i><par n="house__n"/></e>
+    <e lm="tillage"><i>tillage</i><par n="house__n"/></e>
+    <e lm="biodiversity"><i>biodiversit</i><par n="bab/y__n"/></e>
+    <e lm="pollination"><i>pollination</i><par n="house__n"/></e>
     <e lm="agroecology"><i>agroecolog</i><par n="bab/y__n"/></e>
     <e lm="particular"><i>particular</i><par n="house__n"/></e>
     <e lm="husbandry"><i>husbandr</i><par n="bab/y__n"/></e>
@@ -35442,7 +35452,7 @@
     <e lm="VAT"><i>VAT</i><par n="BBC__n"/></e>
 
 	<!-- abbreviations - auto translated -->
-	
+	<e lm="al"><i>al</i><par n="e.g.__abbr"/></e>
 	<e lm="bg"><i>bg</i><par n="e.g.__abbr"/></e>
 	<e lm="BC"><i>BC</i><par n="e.g.__abbr"/></e>
 	<e lm="com"><i>com</i><par n="e.g.__abbr"/></e>
@@ -37888,6 +37898,13 @@
 
 
     <!-- Adjectives -->
+    <e lm="entire"><i>entire</i><par n="expensive__adj"/></e>
+    <e lm="nutritional"><i>nutritional</i><par n="expensive__adj"/></e>
+    <e lm="private"><i>private</i><par n="expensive__adj"/></e>
+    <e lm="extensive"><i>extensive</i><par n="expensive__adj"/></e>
+    <e lm="congressional"><i>congressional</i><par n="expensive__adj"/></e>
+    <e lm="adventitious"><i>adventitious</i><par n="expensive__adj"/></e>
+
     <e lm="English"><i>English</i><par n="expensive__adj"/></e>
     <e lm="arable"><i>arable</i><par n="expensive__adj"/></e>    
     <e lm="wind-pollinated"><i>wind-pollinated</i><par n="expensive__adj"/></e>    
@@ -44741,6 +44758,7 @@
     <e lm="what"><i>what</i><par n="what__prn"/></e>
     <e lm="whatever"><i>whatever</i><par n="everyone__prn"/></e>
     <e lm="which"><i>which</i><par n="what__prn"/></e>
+    <e lm="whose"><i>which</i><par n="whose__prn"/></e>
     <e lm="which one"><i>which<b/>one</i><par n="which_one__prn"/></e>
     <e lm="who"><i>who</i><par n="what__prn"/></e>
     <e lm="that"><i>that</i><par n="that__rel"/></e>
