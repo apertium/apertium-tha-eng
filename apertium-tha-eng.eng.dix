@@ -11683,6 +11683,8 @@
     <e lm="Inga"><i>Inga</i><par n="Linux__np"/></e>
 
     <!-- Nouns -->
+    <e lm="spite"><i>spite</i><par n="house__n"/></e>
+    <e lm="countenance"><i>countenance</i><par n="house__n"/></e>
     <e lm="clearance"><i>clearance</i><par n="house__n"/></e>
     <e lm="five"><i>five</i><par n="house__n"/></e>    
     <e lm="cultivar"><i>cultivar</i><par n="house__n"/></e>
@@ -37898,6 +37900,8 @@
 
 
     <!-- Adjectives -->
+    <e lm="ashamed"><i>ashamed</i><par n="expensive__adj"/></e>
+    <e lm="struck"><i>struck</i><par n="expensive__adj"/></e>
     <e lm="entire"><i>entire</i><par n="expensive__adj"/></e>
     <e lm="nutritional"><i>nutritional</i><par n="expensive__adj"/></e>
     <e lm="private"><i>private</i><par n="expensive__adj"/></e>
@@ -41284,6 +41288,9 @@
     <e lm="navy"><i>navy</i><par n="expensive__adj"/></e>
 
     <!-- Verbs -->
+    <e lm="ashamed"><i>asham</i><par n="liv/e__vblex"/></e>
+    <e lm="spite"><i>spit</i><par n="liv/e__vblex"/></e>
+    <e lm="countenance"><i>countenanc</i><par n="liv/e__vblex"/></e>
     <e lm="crop"><i>crop</i><par n="step__vblex"/></e>
     <e lm="impact"><i>impact</i><par n="accept__vblex"/></e>
     <e lm="stalk"><i>stalk</i><par n="accept__vblex"/></e>
@@ -44260,6 +44267,7 @@
     <e lm="wrongly"><i>wrongly</i><par n="maybe__adv"/></e>
     <e lm="yes"><i>yes</i><par n="maybe__adv"/></e>
     <e lm="yes"><i>yes</i><par n="hello__ij"/></e>
+    <e lm="ah"><i>ah</i><par n="hello__ij"/></e>
     <e lm="there"><i>there</i><par n="hello__ij"/></e>
     <e lm="yesterday"><i>yesterday</i><par n="maybe__adv"/></e>
     <e lm="yesterday evening"><i>yesterday<b/>evening</i><par n="maybe__adv"/></e>
@@ -44758,7 +44766,7 @@
     <e lm="what"><i>what</i><par n="what__prn"/></e>
     <e lm="whatever"><i>whatever</i><par n="everyone__prn"/></e>
     <e lm="which"><i>which</i><par n="what__prn"/></e>
-    <e lm="whose"><i>which</i><par n="whose__prn"/></e>
+    <e lm="whose"><i>whose</i><par n="whose__prn"/></e>
     <e lm="which one"><i>which<b/>one</i><par n="which_one__prn"/></e>
     <e lm="who"><i>who</i><par n="what__prn"/></e>
     <e lm="that"><i>that</i><par n="that__rel"/></e>
@@ -45213,7 +45221,7 @@
     <e lm="consequently"><i>consequently</i><par n="maybe__adv"/></e>
     <e lm="at that time"><i>at<b/>that<b/>time</i><par n="maybe__adv"/></e>
     <e lm="hopefully"><i>hopefully</i><par n="maybe__adv"/></e>
-
+    <e lm="presently"><i>presently</i><par n="maybe__adv"/></e>
 	<!-- auto-aligned proper nouns -->
 
 	<e lm="Financial Times"><i>Financial<b/>Times</i><par n="United_Nations__np"/></e>
