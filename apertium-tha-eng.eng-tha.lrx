@@ -1457,13 +1457,8 @@
     <match lemma="alone" tags="adv"><select lemma="เท่านั้น" tags="adv"/></match>
   </rule>
   <rule>
-    <match lemma="also" tags="adv"><select lemma="เช่นกัน" tags="adv"/></match>
-  </rule>
-  <rule>
     <match lemma="also" tags="adv"><select lemma="ยัง" tags="adv"/></match>
-    <match tags="vbhaver.*"/>
   </rule>
-
   <rule>
     <match lemma="alternatively" tags="adv"><select lemma="อย่างมีทางเลือก" tags="adv"/></match>
   </rule>
@@ -6633,7 +6628,10 @@
     <match lemma="delinquency" tags="n.*"><select lemma="การกระทำผิดของเด็กและเยาวชน" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="delivery" tags="n.*"><select lemma="การส่ง" tags="n.*"/></match>
+    <match lemma="delivery" tags="n.*"><select lemma="การส่งมอบ" tags="n.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="premise" tags="n.*"><select lemma="ที่อยู่" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="delta" tags="n.*"><select lemma="สามเหลี่ยมปากแม่น้ำ" tags="n.*"/></match>
@@ -8095,6 +8093,9 @@
   </rule>
   <rule>
     <match lemma="fare" tags="n.*"><select lemma="ตารางงาน" tags="n.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="farm" tags="n.*"><select lemma="การเกษตร" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="farmer" tags="n.*"><select lemma="เกษตรกร" tags="n.*"/></match>
@@ -13245,7 +13246,7 @@
     <match lemma="prey" tags="n.*"><select lemma="เหยื่อ# ตัว" tags="n.*"/></match>
   </rule>
   <rule>
-    <match lemma="price" tags="n.*"><select lemma="ค่า" tags="n.*"/></match>
+    <match lemma="price" tags="n.*"><select lemma="ราคา" tags="n.*"/></match>
   </rule>
   <rule>
     <match lemma="pride" tags="n.*"><select lemma="ความภาคภูมิใจ" tags="n.*"/></match>
@@ -16481,6 +16482,9 @@
     <match lemma="undertaking" tags="n.*"><select lemma="งาน" tags="n.*"/></match>
   </rule>
   <rule>
+    <match lemma="undertake" tags="vblex.*"><select lemma="ทำสัญญา" tags="vblex.*"/></match>
+  </rule>
+  <rule>
     <match lemma="underwear" tags="n.*"><select lemma="ชุดชั้นใน" tags="n.*"/></match>
   </rule>
   <rule>
@@ -18140,7 +18144,7 @@
     <match lemma="delineate" tags="vblex.*"><select lemma="อธิบาย" tags="vblex.*"/></match>
   </rule>
   <rule>
-    <match lemma="deliver" tags="vblex.*"><select lemma="กล่าวสุนทรพจน์" tags="vblex.*"/></match>
+    <match lemma="deliver" tags="vblex.*"><select lemma="ส่งมอบ" tags="vblex.*"/></match>
   </rule>
   <rule>
     <match lemma="demand" tags="vblex.*"><select lemma="ต้องการ" tags="vblex.*"/></match>
@@ -18614,7 +18618,7 @@
     <match lemma="escort" tags="vblex.*"><select lemma="คุ้มกัน" tags="vblex.*"/></match>
   </rule>
   <rule>
-    <match lemma="establish" tags="vblex.*"><select lemma="จัด" tags="vblex.*"/></match>
+    <match lemma="establish" tags="vblex.*"><select lemma="ตั้ง" tags="vblex.*"/></match>
   </rule>
   <rule>
     <match lemma="estimate" tags="vblex.*"><select lemma="ประมาณ" tags="vblex.*"/></match>
