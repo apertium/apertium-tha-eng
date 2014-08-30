@@ -708,7 +708,8 @@
     </pardef>
     
     <pardef n="'s__gen">
-      <e>      <p>        <l></l>        <r><s n="gen"/></r></p></e>
+      <e><p><l></l><r><s n="gen"/></r></p></e>
+      <e><p><l>'s</l><r><s n="gen"/></r></p></e>
     </pardef>
     
     <pardef n="hello__ij">
@@ -40680,6 +40681,7 @@
     <e lm="symmetrical"><i>symmetrical</i><par n="expensive__adj"/></e>
     <e lm="sympathetic"><i>sympathetic</i><par n="expensive__adj"/></e>
     <e lm="synonymous"><i>synonymous</i><par n="expensive__adj"/></e>
+    <e lm="synonymously"><i>synonymously</i><par n="maybe__adv"/></e>
     <e lm="synthetic"><i>synthetic</i><par n="expensive__adj"/></e>
     <e lm="systematic"><i>systematic</i><par n="expensive__adj"/></e>
     <e lm="tacit"><i>tacit</i><par n="expensive__adj"/></e>
