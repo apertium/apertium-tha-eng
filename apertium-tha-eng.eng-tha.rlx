@@ -76,6 +76,8 @@ SET PERSON = 1p | 2p | 3p ;
 
 SECTION
 
+REMOVE V IF (-1 N) (0 Ger) (0 N) (1 V) ;
+
 REMOVE V-FIN IF (-1C V-FIN);  # Careful: would kill "The man who _came_ _wrote_ a book"
 
 REMOVE N IF (0 ("<is>"i)) ; 
@@ -283,3 +285,4 @@ REMOVE V IF (-1 N) (1 VAUX-CAN);
 AFTER-SECTIONS 
 
 REMOVE Year ; 
+
