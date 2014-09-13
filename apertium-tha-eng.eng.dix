@@ -11684,6 +11684,11 @@
     <e lm="Inga"><i>Inga</i><par n="Linux__np"/></e>
 
     <!-- Nouns -->
+    <e lm="arici"><i>arici</i><par n="personnel__n"/></e>
+    <e lm="amylose"><i>amylose</i><par n="house__n"/></e>
+    <e lm="amylopectin"><i>amylopectin</i><par n="house__n"/></e>
+    <e lm="amino"><i>amino</i><par n="east__n"/></e>
+    <e lm="accessory"><i>accessor</i><par n="bab/y__n"/></e>
     <e lm="mob"><i>mob</i><par n="house__n"/></e>
     <e lm="mop"><i>mop</i><par n="house__n"/></e>
     <e lm="spite"><i>spite</i><par n="house__n"/></e>
@@ -37903,6 +37908,11 @@
 
 
     <!-- Adjectives -->
+    <e lm="aristocratic"><i>aristocratic</i><par n="expensive__adj"/></e>
+    <e lm="archaeological"><i>archaeological</i><par n="expensive__adj"/></e>
+    <e lm="anaerobic"><i>anaerobic</i><par n="expensive__adj"/></e>
+    <e lm="amino"><i>amino</i><par n="expensive__adj"/></e>
+    <e lm="aerobic"><i>aerobic</i><par n="expensive__adj"/></e>
     <e lm="ashamed"><i>ashamed</i><par n="expensive__adj"/></e>
     <e lm="struck"><i>struck</i><par n="expensive__adj"/></e>
     <e lm="entire"><i>entire</i><par n="expensive__adj"/></e>
@@ -41292,6 +41302,8 @@
     <e lm="navy"><i>navy</i><par n="expensive__adj"/></e>
 
     <!-- Verbs -->
+    <e lm="activate"><i>activat</i><par n="liv/e__vblex"/></e>
+    <e lm="supersede"><i>supersed</i><par n="liv/e__vblex"/></e>
     <e lm="beckon"><i>beckon</i><par n="accept__vblex"/></e>    
     <e lm="soar"><i>soar</i><par n="accept__vblex"/></e>
     <e lm="ashamed"><i>asham</i><par n="liv/e__vblex"/></e>
