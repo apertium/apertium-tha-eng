@@ -11684,6 +11684,17 @@
     <e lm="Inga"><i>Inga</i><par n="Linux__np"/></e>
 
     <!-- Nouns -->
+    <e lm="cuisine"><i>cuisine</i><par n="house__n"/></e>
+    <e lm="crispiness"><i>crispiness</i><par n="access__n"/></e>
+    <e lm="congee"><i>congeee</i><par n="house__n"/></e>
+    <e lm="colonization"><p><l>colonization</l><r>colonisation</r></p><par n="house__n"/></e>
+    <e lm="coastline"><i>coastline</i><par n="house__n"/></e>
+    <e lm="channeling"><i>channeling</i><par n="house__n"/></e>
+    <e lm="cassava"><i>cassava</i><par n="house__n"/></e>
+    <e lm="canopy"><i>canop</i><par n="bab/y__n"/></e>
+    <e lm="buffalo"><i>buffalo</i><par n="archipelago__n"/></e>
+    <e lm="biryani"><i>biryani</i><par n="house__n"/></e>
+    <e lm="biofuel"><i>biofuel</i><par n="house__n"/></e>
     <e lm="arici"><i>arici</i><par n="personnel__n"/></e>
     <e lm="amylose"><i>amylose</i><par n="house__n"/></e>
     <e lm="amylopectin"><i>amylopectin</i><par n="house__n"/></e>
@@ -11801,6 +11812,8 @@
     <e lm="centrifugation"><i>centrifugation</i><par n="house__n"/></e>
     <e lm="centrifuge"><i>centrifuge</i><par n="house__n"/></e>
     <e lm="Ceylon"><i>Ceylon</i><par n="United_States__np"/></e>
+    <e lm="Chaophraya"><i>Chaophraya</i><par n="Barcelona__np"/></e>    
+    <e lm="Cornell"><i>Cornell</i><par n="United_States__np"/></e>
     <e lm="chagrin"><i>chagrin</i><par n="house__n"/></e>
     <e lm="chiropractor"><i>chiropractor</i><par n="house__n"/></e>
     <e lm="chloride"><i>chloride</i><par n="house__n"/></e>
@@ -37907,7 +37920,10 @@
     
 
 
-    <!-- Adjectives -->
+    <!-- Adjectives -->  
+    <e lm="caloric"><i>caloric</i><par n="expensive__adj"/></e>
+    <e lm="botanical"><i>botanical</i><par n="expensive__adj"/></e>
+    <e lm="botanically"><i>botanically</i><par n="maybe__adv"/></e>
     <e lm="aristocratic"><i>aristocratic</i><par n="expensive__adj"/></e>
     <e lm="archaeological"><i>archaeological</i><par n="expensive__adj"/></e>
     <e lm="anaerobic"><i>anaerobic</i><par n="expensive__adj"/></e>
@@ -41302,6 +41318,10 @@
     <e lm="navy"><i>navy</i><par n="expensive__adj"/></e>
 
     <!-- Verbs -->
+    <e lm="dam"><i>dam</i><par n="program__vblex"/></e>    
+    <e lm="culminate"><i>culminat</i><par n="liv/e__vblex"/></e>
+    <e lm="borrow"><i>borrow</i><par n="accept__vblex"/></e>
+    <e lm="average"><i>averag</i><par n="liv/e__vblex"/></e>
     <e lm="activate"><i>activat</i><par n="liv/e__vblex"/></e>
     <e lm="supersede"><i>supersed</i><par n="liv/e__vblex"/></e>
     <e lm="beckon"><i>beckon</i><par n="accept__vblex"/></e>    
