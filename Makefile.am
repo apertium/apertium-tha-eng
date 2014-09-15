@@ -40,8 +40,21 @@ $(PREFIX2).rlx.bin: $(BASENAME).$(PREFIX2).rlx
 $(PREFIX1).rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx 
 	cg-comp $^ $@
 
-.deps/$(LANG2).automorf.bin: $(BASENAME).$(LANG2).dix .deps/.d
-	lt-comp lr $(BASENAME).$(LANG2).dix $@
+.deps/$(LANG2).metadix: $(BASENAME).$(LANG2).metadix
+	if [ ! -d .deps ]; then mkdir .deps; fi
+	xsltproc --stringparam lang en_GB --stringparam side left filter.xsl $(BASENAME).$(LANG2).metadix >$@
+
+.deps/$(LANG2).dix: .deps/$(LANG2).metadix
+	xsltproc buscaPar.xsl .deps/$(LANG2).metadix | uniq >$$$$tmp1 && \
+	xsltproc $$$$tmp1 .deps/$(LANG2).metadix > $@ && rm $$$$tmp1
+
+.deps/$(LANG2).automorf.bin: .deps/$(LANG2).dix $(BASENAME).$(LANG2).acx
+	apertium-validate-dictionary .deps/$(LANG2).dix
+	apertium-validate-acx $(BASENAME).$(LANG2).acx
+	lt-comp lr .deps/$(LANG2).dix $@ $(BASENAME).$(LANG2).acx
+
+#.deps/$(LANG2).automorf.bin: $(BASENAME).$(LANG2).dix .deps/.d
+#	lt-comp lr $(BASENAME).$(LANG2).dix $@
 
 $(PREFIX2).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
 	lt-trim $^ $@
@@ -87,9 +100,13 @@ $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
 	apertium-validate-postchunk $<
 	apertium-preprocess-transfer $< $@
 
-$(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
-	apertium-validate-dictionary $<
-	lt-comp rl $< $@
+#$(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
+#	apertium-validate-dictionary $<
+#	lt-comp rl $< $@
+
+$(PREFIX1).autogen.bin: .deps/$(LANG2).dix
+	apertium-validate-dictionary .deps/$(LANG2).dix
+	lt-comp rl .deps/$(LANG2).dix $@
 
 $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 	apertium-validate-dictionary $<

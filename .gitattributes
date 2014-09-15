@@ -12,7 +12,8 @@
 /apertium-tha-eng.eng-tha.t1x -text
 /apertium-tha-eng.eng-tha.t2x -text
 /apertium-tha-eng.eng-tha.t3x -text
-/apertium-tha-eng.eng.dix -text
+/apertium-tha-eng.eng.acx -text
+/apertium-tha-eng.eng.metadix -text
 /apertium-tha-eng.post-eng.dix -text
 /apertium-tha-eng.tha-eng.dix -text
 /apertium-tha-eng.tha-eng.lrx -text
@@ -20,6 +21,9 @@
 /apertium-tha-eng.tha-eng.t2x -text
 /apertium-tha-eng.tha-eng.t3x -text
 /autogen.sh -text
+/buscaPar.xsl -text
 /configure.ac -text
+/filter.xsl -text
 /modes.xml -text
+/principal.xsl -text
 /update_lrx_with_cla.rb -text
