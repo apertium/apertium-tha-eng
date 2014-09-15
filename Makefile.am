@@ -42,7 +42,7 @@ $(PREFIX1).rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx
 
 .deps/$(LANG2).metadix: $(BASENAME).$(LANG2).metadix
 	if [ ! -d .deps ]; then mkdir .deps; fi
-	xsltproc --stringparam lang en_GB --stringparam side left filter.xsl $(BASENAME).$(LANG2).metadix >$@
+	xsltproc --stringparam lang en_US --stringparam side left filter.xsl $(BASENAME).$(LANG2).metadix >$@
 
 .deps/$(LANG2).dix: .deps/$(LANG2).metadix
 	xsltproc buscaPar.xsl .deps/$(LANG2).metadix | uniq >$$$$tmp1 && \
