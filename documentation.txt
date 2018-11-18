@@ -2,6 +2,9 @@
  A Profile of the Thai Language
  	- http://www.seasite.niu.edu/thai/LLF/profile.htm
  	https://en.wikipedia.org/wiki/Thai_language
+ 
+ The English language
+  - https://en.wikipedia.org/wiki/English_language
 
  --- GRAMMAR ---
  	Thai grammar
@@ -30,7 +33,8 @@
 
  --- DICTIONARIES ---
  	- MONOLINGUAL:
- 	- http://rirs3.royin.go.th/
+ 	- http://rirs3.royin.go.th/ (For Thai)
+  - https://dictionary.cambridge.org/dictionary/english/
 
  	- BILINGUAL:
  		- https://dictionary.cambridge.org/
