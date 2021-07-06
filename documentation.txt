@@ -1,0 +1,60 @@
+ --- GENERAL ---
+ A Profile of the Thai Language
+ 	- http://www.seasite.niu.edu/thai/LLF/profile.htm
+ 	https://en.wikipedia.org/wiki/Thai_language
+ 
+ The English language
+  - https://en.wikipedia.org/wiki/English_language
+
+ --- GRAMMAR ---
+ 	Thai grammar
+ 	- https://en.wikipedia.org/wiki/Thai_grammar
+
+ 	- http://www.thai-language.com/FSI/FSI%20-%20Thai%20Reference%20Grammar.pdf
+
+ 	- https://www.thaialphabet.net/thai-grammar-rules/
+
+ 	Some of the main differences between Thai and English Grammar 
+ 	- http://www.patmail.co.uk/grammar.htm
+
+ 	Verb complexes in Thai
+ 	- https://arts-sciences.buffalo.edu/content/dam/arts-sciences/linguistics/AlumniDissertations/Muansuwan%20dissertation.pdf
+
+ --- MORPHOLOGY ---
+ 	A Statistical Approach to Thai Morphological Analyzer
+ 	- http://www.aclweb.org/anthology/W97-0126
+
+ 	- http://www.languagesgulper.com/eng/Thai.html
+
+ 	- http://sealang.net/sala/archives/pdf8/witayasakpan1992amazing.pdf
+
+ 	Word-based morphology-syntax interdependencies: Thai passives
+ 	-https://www.researchgate.net/publication/284722650_Word-based_morphology-syntax_interdependencies_Thai_passives
+
+ --- DICTIONARIES ---
+ 	- MONOLINGUAL:
+ 	- http://rirs3.royin.go.th/ (For Thai)
+  - https://dictionary.cambridge.org/dictionary/english/
+
+ 	- BILINGUAL:
+ 		- https://dictionary.cambridge.org/
+
+ 		- http://www.thai-language.com/dict/
+
+ 	- WORDLISTS:
+ 	-https://www.thaipod101.com/thai-word-lists/
+ 	-http://www.101languages.net/thai/thai-word-list/
+ 	http://mylanguages.org/thai_vocabulary.php
+
+ --- MISCELLANEOUS ---
+ 	PARSIT(TE): Online Thai-English Machine Translation 
+ 	- http://www.mt-archive.info/MTS-2005-Modhiran.pdf
+
+ 	Pronunciation Feature of Thai Speakers of English.
+ 	- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.878.7969&rep=rep1&type=pdf
+
+ 	Thai-English Cross-Language Transliterated Word Retrieval using Soundex Technique 
+ 	- https://pdfs.semanticscholar.org/f94f/aca031f75e1f69d6412fb95674851d0fd0de.pdf
+
+ 	Pattern-based machine translation for English-Thai
+ 	- http://www.aclweb.org/anthology/Y99-1036
