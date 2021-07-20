@@ -1,0 +1,34 @@
+[EV1clTZFXOp3#0] ^be<vbser><pres>/เป็น<vbser><pres>$
+[/EV1clTZFXOp3]
+[FAN0N3Z6jJ_V#0] ^81.5<num>/81.5$
+[/FAN0N3Z6jJ_V]
+[GIc5BawVQLcM#0] ^058<num>/058$
+[/GIc5BawVQLcM]
+[LiAYoWdwmoUd#0] ^9<num><ord>/9<ord>$
+[/LiAYoWdwmoUd]
+[LmZZqjU5swAQ#0] ^'s<gen>/ของ<pr>$
+[/LmZZqjU5swAQ]
+[MsBE3-pwofS-#0] ^*wor/*wor$
+[/MsBE3-pwofS-]
+[QbOHqWF9n_3p#0] ^etc.<abbr>/ฯลฯ<abbr>$
+[/QbOHqWF9n_3p]
+[UkIEQLHR-dkd#0] ^*Aii/*Aii$
+[/UkIEQLHR-dkd]
+[VIIYzDtYUE6s#0] ^'s<gen>/ของ<pr>$
+[/VIIYzDtYUE6s]
+[_1oa4BKvpdTI#0] ^70<num>/70$
+[/_1oa4BKvpdTI]
+[axAsr-uyCZNf#0] ^*vulhhoh/*vulhhoh$
+[/axAsr-uyCZNf]
+[jOhqauZdNpLn#0] ^*N/*N$
+[/jOhqauZdNpLn]
+[jpE46UmYDnDY#0] ^be<vbser><pres>/เป็น<vbser><pres>$
+[/jpE46UmYDnDY]
+[rrbRMB6aUZdF#0] ^700<num><ord>/700<ord>$
+[/rrbRMB6aUZdF]
+[tR3cEDuYuxDb#0] ^be<vbser><pres>/เป็น<vbser><pres>$
+[/tR3cEDuYuxDb]
+[wNdRcQz7rSTi#0] ^3<num><ord>/3<ord>$
+[/wNdRcQz7rSTi]
+[x79LvbzYjZ1_#0] ^AD<n><sg>/โฆษณา<n><sg>$
+[/x79LvbzYjZ1_]

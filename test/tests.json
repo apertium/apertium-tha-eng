@@ -1,0 +1,10 @@
+{
+    "eng-tha": {
+        "input": "eng-tha-input.txt",
+        "mode": "eng-tha"
+    },
+    "tha-eng": {
+        "input": "tha-eng-input.txt",
+        "mode": "tha-eng"
+    }
+}

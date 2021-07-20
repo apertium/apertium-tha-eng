@@ -29,3 +29,13 @@
 /tha-eng.t1x.bin
 /tha-eng.t2x.bin
 /tha-eng.t3x.bin
+/*.hfst
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/*.mode
+/*-*.prob
+/config.in
+/config
+/test/*-output.txt

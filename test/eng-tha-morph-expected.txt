@@ -1,0 +1,34 @@
+[EV1clTZFXOp3#0] ^ʼre/be<vbser><pres>$
+[/EV1clTZFXOp3]
+[FAN0N3Z6jJ_V#0] ^81.5/81.5<num>$
+[/FAN0N3Z6jJ_V]
+[GIc5BawVQLcM#0] ^058/058<num>$
+[/GIc5BawVQLcM]
+[LiAYoWdwmoUd#0] ^9th/9<num><ord>$
+[/LiAYoWdwmoUd]
+[LmZZqjU5swAQ#0] ^’s/'s<gen>/be<vbser><pri><p3><sg>$
+[/LmZZqjU5swAQ]
+[MsBE3-pwofS-#0] ^wor/*wor$
+[/MsBE3-pwofS-]
+[QbOHqWF9n_3p#0] ^etc./etc.<abbr>$
+[/QbOHqWF9n_3p]
+[UkIEQLHR-dkd#0] ^Aii/*Aii$
+[/UkIEQLHR-dkd]
+[VIIYzDtYUE6s#0] ^ʼs/'s<gen>/be<vbser><pri><p3><sg>$
+[/VIIYzDtYUE6s]
+[_1oa4BKvpdTI#0] ^70/70<num>$
+[/_1oa4BKvpdTI]
+[axAsr-uyCZNf#0] ^vulhhoh/*vulhhoh$
+[/axAsr-uyCZNf]
+[jOhqauZdNpLn#0] ^N/*N$
+[/jOhqauZdNpLn]
+[jpE46UmYDnDY#0] ^'re/be<vbser><pres>$
+[/jpE46UmYDnDY]
+[rrbRMB6aUZdF#0] ^700th/700<num><ord>$
+[/rrbRMB6aUZdF]
+[tR3cEDuYuxDb#0] ^’re/be<vbser><pres>$
+[/tR3cEDuYuxDb]
+[wNdRcQz7rSTi#0] ^3rd/3<num><ord>$
+[/wNdRcQz7rSTi]
+[x79LvbzYjZ1_#0] ^AD/AD<n><sg>/AD<n><acr><sg>/AD<n><acr><sp>$
+[/x79LvbzYjZ1_]
